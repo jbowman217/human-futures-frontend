@@ -8,6 +8,13 @@ const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
 );
 
+// Define a clean interface for your materials
+interface Material {
+  link?: string;
+  type?: string;
+  description?: string;
+}
+
 async function validateMissionMaterials() {
   const { data: missions, error } = await supabase
     .from('missions')
@@ -37,7 +44,7 @@ async function validateMissionMaterials() {
 
     let missionHasAll = true;
 
-    tasks.forEach((task, taskIndex) => {
+    tasks.forEach((task: { materials?: Material[] }, taskIndex: number) => {
       totalTasks++;
 
       if (!Array.isArray(task.materials) || task.materials.length === 0) {
@@ -47,14 +54,11 @@ async function validateMissionMaterials() {
         return;
       }
 
-      const badLinks = (task.materials as { link: string }[]).filter(
-        (mat: { link: string }) =>
-          !mat.link ||
-          typeof mat.link !== 'string' ||
-          !mat.link.startsWith('/materials/') ||
-          !/\.(png|jpg|jpeg|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
-      );
-      
+      const badLinks = task.materials.filter((mat: Material) =>
+        !mat.link ||
+        typeof mat.link !== 'string' ||
+        !mat.link.startsWith('/materials/') ||
+        !/\.(png|jpg|jpeg|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
       );
 
       if (badLinks.length > 0) {
