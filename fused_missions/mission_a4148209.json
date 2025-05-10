@@ -1,0 +1,32 @@
+{
+  "title": "AP Calculus BC: Particle Motion Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use calculus to understand and predict the motion of a particle?",
+  "short_background_context": "In this mission, we will delve into the world of calculus, specifically focusing on particle motion analysis. We will be using a problem from the AP Calculus BC exam as our guide. The problem involves a particle moving along a curve with its position at time t given by (x(t), y(t)), where y(t) = 2sin(t) and the rate of change of x with respect to time, dx/dt, is given by e^cos(t). At time t=0, the particle is at position (1,0). Our goal is to understand the particle's motion by finding the acceleration vector at a specific time and determining when the speed of the particle first reaches a certain value.",
+  "tasks": [
+    "Task 1: Find the acceleration vector of the particle at time t=1. Show the setup for your calculations.",
+    "Task 2: For 0 \u2264 t \u2264 \u03c0, find the first time t at which the speed of the particle is 1.5. Show the work that leads to your answer.",
+    "Task 3: Analyze the results of Tasks 1 and 2. What do these results tell us about the particle's motion at these specific times?"
+  ],
+  "pre_thinking_prompts": [
+    "What does the acceleration vector tell us about the motion of a particle?",
+    "How can we find the speed of a particle using calculus?",
+    "What strategies can we use to solve these types of problems?"
+  ],
+  "reflection_prompt": "Reflect on the process you used to solve these problems. What was the most challenging part? What strategies did you use to overcome these challenges? How has your understanding of particle motion analysis deepened?",
+  "ai_tutor_prompts": [
+    "Can you explain how you set up your calculations for the acceleration vector?",
+    "What steps did you take to find the first time the speed of the particle is 1.5?",
+    "What do the results of Tasks 1 and 2 tell us about the particle's motion at these specific times?"
+  ],
+  "remix_zone": "Try changing the function for y(t) or dx/dt. How does this change the particle's motion? How would you adjust your calculations to find the acceleration vector and the time at which the speed of the particle first reaches 1.5?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

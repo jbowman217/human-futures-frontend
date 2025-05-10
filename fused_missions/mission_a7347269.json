@@ -1,0 +1,32 @@
+{
+  "title": "Understanding and Applying Mathematical Concepts: A Look at the New York State Mathematics Test",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply various mathematical concepts to understand and solve the problems presented in the New York State Mathematics Test?",
+  "short_background_context": "Every year, the State Education Department of New York releases large portions of the Mathematics test materials for review, discussion, and use. These materials include multiple-choice questions, one-credit, two-credit, and three-credit constructed-response questions. The questions are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics, which focus on standard algorithms, conceptual standards, and real-world applications. The questions often require students to complete multiple steps and apply various mathematical skills and concepts simultaneously. This mission will guide you to understand these different types of questions and apply your knowledge of algebra, statistics, economics, and geometry to solve them.",
+  "tasks": [
+    "Analyze and solve a set of multiple-choice questions from the released materials.",
+    "Complete a one-credit constructed-response question, providing only your final answer.",
+    "Work on a two-credit constructed-response question, showing all your work and explaining your process."
+  ],
+  "pre_thinking_prompts": [
+    "What types of mathematical concepts do you think you'll need to apply to solve these problems?",
+    "How do you plan to approach the constructed-response questions?"
+  ],
+  "reflection_prompt": "Reflect on the process you used to solve these problems. What strategies were most effective? What concepts were most challenging to apply? How could you improve your approach for next time?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach for solving the problem?",
+    "How did you decide which mathematical concepts to apply in this scenario?",
+    "What other strategies could you have used to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own multiple-choice or constructed-response questions based on the New York State P\u201312 Next Generation Learning Standards for Mathematics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

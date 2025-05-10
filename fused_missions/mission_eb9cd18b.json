@@ -1,0 +1,35 @@
+{
+  "title": "AP Statistics: Exploring Data",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use statistical tools to analyze and interpret data from real-world scenarios?",
+  "short_background_context": "In this mission, you will be exploring data from an AP Statistics problem. The data focuses on the dissolved oxygen concentration in Alaskan streams with water temperatures colder than 8oC. You will be required to analyze the data using various statistical tools and interpret your findings. The data is presented in a histogram and you will need to identify the shape, center, spread, and any unusual features of the data. Your analysis will be evaluated based on specific criteria and you will need to justify your conclusions with evidence from the data.",
+  "tasks": [
+    "Analyze the histogram of dissolved oxygen concentration and identify its shape, center, spread, and any unusual features.",
+    "Justify your conclusions with evidence from the data.",
+    "Evaluate your analysis based on the scoring criteria provided."
+  ],
+  "pre_thinking_prompts": [
+    "What does the histogram tell you about the dissolved oxygen concentration in Alaskan streams?",
+    "What statistical tools can you use to analyze the data?",
+    "What are the criteria for scoring your analysis?"
+  ],
+  "reflection_prompt": "Reflect on your analysis. What did you learn about the dissolved oxygen concentration in Alaskan streams? How confident are you in your conclusions and why?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose the shape you did for the histogram?",
+    "What evidence from the data supports your conclusion about the center of the data?",
+    "How did you determine the spread of the data?",
+    "Did you notice any unusual features in the data? If so, what are they and why are they significant?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different environmental variable to analyze, such as water temperature or pH level. They could also choose a different location for their analysis.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

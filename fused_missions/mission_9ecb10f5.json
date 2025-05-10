@@ -1,0 +1,37 @@
+{
+  "title": "The Federal Job Guarantee: A Policy for Permanent Full Employment",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can a federal job guarantee policy achieve permanent full employment?",
+  "short_background_context": "Full employment has been a part of the policy discourse in the United States since the early twentieth century. One of the most notable proponents of true full employment was President Franklin D. Roosevelt. His vision of \u201ceconomic security\u201d for all is a touchstone for full-employment advocates. Today, economists and policymakers, including the governors of the Federal Reserve System, tend to associate \u201cfull employment\u201d with a four-to-six percent unemployment rate. This measure of unemployment counts workers who do not have a job, have actively looked for work in the previous four weeks, and are currently available for work. It does not count the millions who have stopped actively seeking employment, or those inadequately employed in temporary, seasonal, or other precarious employment situations.",
+  "tasks": [
+    "Analyze the concept of full employment and its history in the United States.",
+    "Evaluate the current measure of unemployment and discuss its limitations.",
+    "Design a policy proposal for a federal job guarantee that could achieve permanent full employment."
+  ],
+  "pre_thinking_prompts": [
+    "What is your understanding of full employment?",
+    "What are the limitations of the current measure of unemployment?",
+    "What factors would you consider in designing a policy for a federal job guarantee?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of full employment and the current measure of unemployment before and after this mission. How has your perspective changed?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on why the current measure of unemployment might not accurately reflect the employment situation?",
+    "What are some potential challenges in implementing a federal job guarantee policy?",
+    "How might a federal job guarantee policy impact different social groups?"
+  ],
+  "remix_zone": "Students could remix this problem by considering different policy approaches to achieving full employment, or by focusing on the impact of such policies on specific social groups.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

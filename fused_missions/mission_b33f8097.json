@@ -1,0 +1,32 @@
+{
+  "title": "New York State Mathematics Test Analysis",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and understand the structure and content of the New York State Mathematics Test?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These tests include multiple-choice, short-response, and extended-response questions, each designed to assess different aspects of mathematical understanding and proficiency. The tests are framed within the context of real-world applications, and often require students to complete multiple steps and apply multiple mathematical skills. This mission will involve analyzing and understanding the structure and content of these tests.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the New York State Mathematics Test and identify the mathematical concepts being assessed in each question.",
+    "Create a short-response question that could appear on the test, complete with a detailed answer key explaining the correct response and the mathematical concepts involved.",
+    "Critique an extended-response question from the test, discussing its strengths and weaknesses in assessing mathematical understanding and proficiency."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the New York State Mathematics Test?",
+    "What types of questions do you expect to see on the test?",
+    "How do you think these questions assess mathematical understanding and proficiency?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the New York State Mathematics Test. What did you learn about the structure and content of the test? How has this mission changed your understanding of how mathematical understanding and proficiency can be assessed?",
+  "ai_tutor_prompts": [
+    "Why do you think it's important to understand the structure and content of the test?",
+    "How does the real-world context of the questions affect your understanding of the mathematical concepts?",
+    "Can you think of other ways to assess mathematical understanding and proficiency?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own full-length practice test for the New York State Mathematics Test, complete with multiple-choice, short-response, and extended-response questions.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

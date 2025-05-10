@@ -1,0 +1,31 @@
+{
+  "title": "AP Statistics: Confidence Intervals and Inference",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we use statistics to make inferences about a population based on a sample?",
+  "short_background_context": "You are going to explore a real-world application of statistics: making inferences about a population based on a sample. This is a common practice in many fields, including social sciences, business, and health. You will focus on a specific statistical method: constructing and interpreting a confidence interval. You will use a real AP Statistics question as a basis for your exploration. The question involves determining the proportion of teenagers in the United States who use a video streaming service every day.",
+  "tasks": [
+    "Identify the appropriate procedure for determining the proportion of all teenagers in the United States who use a video streaming service every day.",
+    "Verify the conditions for inference and calculate the values of the endpoints of the confidence interval.",
+    "Interpret the confidence interval you calculated in the previous task."
+  ],
+  "pre_thinking_prompts": [
+    "What is a confidence interval and why is it important in statistics?",
+    "What conditions need to be met for inference to be valid?",
+    "How can a sample be used to make inferences about a population?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of confidence intervals and inference. What was challenging about this mission? What did you learn?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that procedure for determining the proportion?",
+    "Why is it important to verify the conditions for inference?",
+    "What does the confidence interval you calculated tell you about the population?"
+  ],
+  "remix_zone": "Consider a different scenario where you need to make an inference about a population based on a sample. Design a new problem and solve it using the same methods.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

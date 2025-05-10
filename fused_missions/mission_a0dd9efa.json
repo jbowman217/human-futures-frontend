@@ -1,0 +1,33 @@
+{
+  "title": "New York State Mathematics Test Analysis",
+  "grade_band": "Grade 8",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and understand the structure and content of the New York State Mathematics Test?",
+  "short_background_context": "In 2013, the New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These tests include multiple-choice questions, short-response questions, and extended-response questions, each designed to assess different mathematical skills and concepts. The questions are often framed within real-world applications and require students to complete multiple steps. This mission is designed to help you understand and analyze these tests and the expectations for students.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the test and identify the mathematical skills and concepts they are designed to assess.",
+    "Review a set of short-response questions and explain how they require the application of multiple mathematical skills and real-world applications.",
+    "Evaluate a set of extended-response questions and discuss how they assess student reasoning and the ability to critique the arguments of others."
+  ],
+  "pre_thinking_prompts": [
+    "What types of questions do you expect to see on the test?",
+    "What mathematical skills and concepts do you think the test will assess?",
+    "How do you think the test will incorporate real-world applications?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the New York State Mathematics Test. How has your understanding of the test and its expectations changed after completing this mission?",
+  "ai_tutor_prompts": [
+    "Can you explain why you think this question is designed to assess that particular skill or concept?",
+    "How does this question require the application of multiple mathematical skills?",
+    "Can you provide an example of how this question assesses student reasoning or the ability to critique arguments?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own test questions that align with the New York State P-12 Learning Standards for Mathematics.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

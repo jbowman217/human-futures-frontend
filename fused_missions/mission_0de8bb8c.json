@@ -1,0 +1,32 @@
+{
+  "title": "AP Statistics: Hypothesis Testing in Economics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use hypothesis testing to make inferences about economic behaviors?",
+  "short_background_context": "In this mission, we will be exploring the concept of hypothesis testing, a method used in statistics to test the validity of a claim or hypothesis about a population parameter. We will be using a real-world scenario involving a pet supply company that sends out coupons via email. The company is interested in knowing whether these coupons are effective in encouraging customers to make a purchase within 30 days of receiving the email. We will be using the principles of hypothesis testing to help the company make this determination.",
+  "tasks": [
+    "Task 1: Formulate the null and alternative hypotheses for this scenario.",
+    "Task 2: Identify the appropriate statistical test for this scenario and explain why it is appropriate.",
+    "Task 3: Interpret the results of the statistical test and draw a conclusion."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand about the null and alternative hypotheses?",
+    "What factors would you consider when choosing a statistical test?",
+    "How would you interpret the results of a statistical test?"
+  ],
+  "reflection_prompt": "Reflect on the process of hypothesis testing. What did you learn about formulating hypotheses, choosing a statistical test, and interpreting results?",
+  "ai_tutor_prompts": [
+    "Why did you choose that particular statistical test?",
+    "How does the p-value influence your conclusion?",
+    "What assumptions are you making in your hypothesis test?"
+  ],
+  "remix_zone": "Consider a different scenario where the company is interested in whether customers who receive a $20 coupon are more likely to make a purchase than those who receive a $10 coupon. How would you modify your hypotheses and statistical test for this scenario?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

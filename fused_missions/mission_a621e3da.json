@@ -1,0 +1,38 @@
+{
+  "title": "AP Calculus BC: Exploring Functions and Areas",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply calculus concepts to solve real-world problems involving functions and areas?",
+  "short_background_context": "In this mission, we will examine a sample question from the AP Calculus BC exam. This question involves exploring the areas enclosed by the graphs of two functions, f and g, and the application of calculus concepts such as integration, limits, and differentiation. We will also investigate the properties of a third function, h, which is derived from f. Through this mission, you will deepen your understanding of calculus and its applications, and gain practice in tackling complex, multi-part problems.",
+  "tasks": [
+    {
+      "task": "Find the area of the shaded region enclosed by the graphs of f and g."
+    },
+    {
+      "task": "Evaluate the improper integral of g(x) from 0 to infinity, or show that the integral diverges."
+    },
+    {
+      "task": "Let h be the function defined by h(x) = x * f'(x). Find the value of the integral of h(x) from 0 to 3."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the functions f and g from the information provided?",
+    "How can you use integration to find the area enclosed by two functions?",
+    "What does it mean for an integral to diverge, and how can you determine whether this is the case?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the calculus concepts applied in this mission. How confident do you feel in your ability to solve similar problems?",
+  "ai_tutor_prompts": [
+    "Remember to consider the properties of the functions involved when solving these problems.",
+    "Consider the steps involved in evaluating an integral. How can you apply these steps to solve the tasks?",
+    "Think about the relationship between a function and its derivative. How does this relationship help you solve the third task?"
+  ],
+  "remix_zone": "Try to create your own problem involving the concepts of integration, limits, and differentiation. You could consider different functions or different regions of integration.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

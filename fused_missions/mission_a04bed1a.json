@@ -1,0 +1,33 @@
+{
+  "title": "Understanding and Applying Mathematical Concepts",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use mathematical concepts and procedures to solve real-world problems?",
+  "short_background_context": "In May 2023, New York State administered Mathematics Tests for grade 7, with 75% of the test questions now available for review and use. These questions are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics, incorporating both grade-level standards and the 'Standards for Mathematical Practices.' The questions are often framed within the context of real-world applications and require students to complete multiple steps, drawing on the simultaneous application of multiple skills and concepts. The test includes multiple-choice questions, as well as one, two, and three-credit constructed-response questions that require students to show their work and understanding of mathematical procedures, concepts, and applications.",
+  "tasks": [
+    "Analyze the released questions from the 2023 Mathematics Test and identify the mathematical concepts and procedures being assessed.",
+    "Choose one of the released questions and write a step-by-step solution, explaining the mathematical concepts and procedures used.",
+    "Create a new real-world problem that could be solved using the same mathematical concepts and procedures as one of the released questions."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts and procedures do you recognize in the released questions?",
+    "How are these concepts and procedures applied to solve the problems?",
+    "What real-world situations could these mathematical concepts and procedures be used to solve?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the mathematical concepts and procedures used in the released questions. How confident do you feel in applying these concepts and procedures to solve similar problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular mathematical concept or procedure?",
+    "How does this concept or procedure apply to the problem?",
+    "Can you think of another way to solve the problem using a different concept or procedure?"
+  ],
+  "remix_zone": "Students could remix the problem by changing the real-world context or adding complexity to the problem.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

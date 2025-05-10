@@ -1,0 +1,41 @@
+{
+  "title": "AP\u00ae Statistics 2021: Exploring Data",
+  "grade_band": "11-12",
+  "subjects": [
+    "Statistics"
+  ],
+  "driving_question": "How can we use the five-number summary and outlier detection methods to analyze a dataset?",
+  "tasks": [
+    {
+      "task_title": "Five-number Summary",
+      "task_description": "Provide the five-number summary (minimum, lower quartile, median, upper quartile, and maximum) of the distribution of length of stay."
+    },
+    {
+      "task_title": "Outlier Detection",
+      "task_description": "Identify the outliers in the dataset using two methods: Method A (1.5 IQR rule) and Method B (2 standard deviations rule)."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is the five-number summary and how can it help in understanding a dataset?",
+    "What are outliers and why are they important in data analysis?",
+    "What are the two methods for detecting outliers and how do they work?"
+  ],
+  "reflection_prompt": "Reflect on the process of analyzing the dataset using the five-number summary and outlier detection methods. What insights were you able to gain about the data?",
+  "ai_tutor_prompts": [
+    "Remember to label all five statistics in your five-number summary.",
+    "Ensure you calculate the lower and upper outlier criteria correctly for both methods.",
+    "Don't forget to identify the specific outliers based on your calculations."
+  ],
+  "remix_zone": "Consider exploring other statistical measures such as the mean, standard deviation, and interquartile range (IQR). How do these measures add to your understanding of the dataset?",
+  "display_fields": {
+    "title": true,
+    "grade_band": true,
+    "subjects": true,
+    "driving_question": true,
+    "tasks": true,
+    "pre_thinking_prompts": true,
+    "reflection_prompt": true,
+    "ai_tutor_prompts": true,
+    "remix_zone": true
+  }
+}

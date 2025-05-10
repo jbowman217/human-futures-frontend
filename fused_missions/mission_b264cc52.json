@@ -1,0 +1,36 @@
+{
+  "title": "AP Precalculus: Understanding and Applying Principles",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply the principles of AP Precalculus to real-world economic, historical, and ethical problems?",
+  "short_background_context": "The Advanced Placement (AP) program is designed to challenge students and prepare them for college-level coursework. The AP Precalculus course is a critical stepping stone for students interested in fields such as economics, statistics, and algebra. This curriculum is designed to help you understand and apply the principles of AP Precalculus to a variety of subjects. You will be asked to think critically, analyze different perspectives, and draw your own conclusions. This mission will challenge you to apply your mathematical knowledge to real-world problems, fostering an open-minded approach to the histories and cultures of different peoples.",
+  "tasks": [
+    "Analyze a real-world economic problem and use principles of AP Precalculus to propose a solution.",
+    "Use statistical methods to analyze historical data and draw conclusions.",
+    "Examine an ethical dilemma using algebraic reasoning."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the principles of AP Precalculus?",
+    "How can these principles be applied to real-world problems?",
+    "What challenges do you anticipate in applying these principles to different subjects?"
+  ],
+  "reflection_prompt": "Reflect on your learning experience. What concepts were challenging for you? How did you overcome these challenges? What new insights did you gain from this mission?",
+  "ai_tutor_prompts": [
+    "Can you explain your reasoning?",
+    "How did you arrive at that conclusion?",
+    "What evidence supports your solution?",
+    "Have you considered other perspectives or solutions?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing their own real-world problem to analyze. They could also choose to focus on a different subject, such as physics or computer science.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

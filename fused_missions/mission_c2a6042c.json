@@ -1,0 +1,32 @@
+{
+  "title": "Exploring Differentiable Functions and their Derivatives",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use the properties of differentiable functions and their derivatives to solve real-world problems?",
+  "short_background_context": "Differentiable functions are a fundamental concept in calculus, which is a branch of mathematics that deals with rates of change and accumulation of quantities. The derivative of a function provides us with a wealth of information about the behavior of the function, such as its rate of change at a certain point, its local and global extrema, and points of inflection. In this mission, we will explore a differentiable function and its derivative, represented as a graph consisting of a semicircle and two line segments. We will use this information to solve various problems related to the function and its derivative.",
+  "tasks": [
+    "Find the values of the function at specific points using the given graph of the derivative.",
+    "Identify the x-coordinates of all points of inflection of the function and justify your answer.",
+    "Define a new function based on the original one and determine the intervals on which this new function is decreasing."
+  ],
+  "pre_thinking_prompts": [
+    "What is a differentiable function and what information can its derivative provide?",
+    "What is a point of inflection and how can you identify it on a graph?",
+    "How can you determine whether a function is increasing or decreasing on a certain interval?"
+  ],
+  "reflection_prompt": "Reflect on the process of using the derivative graph to find the function values at specific points, identifying points of inflection, and determining intervals of increase or decrease. What did you find challenging and how did you overcome these challenges?",
+  "ai_tutor_prompts": [
+    "How did you use the graph of the derivative to find the function values at specific points?",
+    "Can you explain why the function has a point of inflection at the x-coordinates you identified?",
+    "What reasoning did you use to determine the intervals on which the new function is decreasing?"
+  ],
+  "remix_zone": "Consider a different function and its derivative graph. How would you apply the same methods to solve similar problems for this new function?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

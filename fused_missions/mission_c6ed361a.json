@@ -1,0 +1,36 @@
+{
+  "title": "Understanding Scoring Criteria and Coding Guidelines",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can understanding scoring criteria and coding guidelines help improve your coding skills and performance in computer science exams?",
+  "short_background_context": "In AP Computer Science A, understanding the scoring criteria and coding guidelines is crucial for success in the exams. The scoring criteria are applied first and always take precedence. Penalty points can only be deducted in a part of the question that has earned credit via the question rubric. There are specific cases where penalty points are applied and cases where there are no penalties. For example, if you confuse array/collection access or use extraneous code that causes side effects, you can be penalized. However, if you have spelling/case discrepancies where there is no ambiguity, or if you use common mathematical symbols for operators, you will not be penalized. Understanding these guidelines can help you avoid mistakes and maximize your scores.",
+  "tasks": [
+    {
+      "task": "Analyze the scoring criteria and coding guidelines provided by the College Board for AP Computer Science A."
+    },
+    {
+      "task": "Identify the common mistakes that could lead to penalty points according to the guidelines."
+    },
+    {
+      "task": "Create a cheat sheet summarizing the scoring criteria and coding guidelines to help you avoid these common mistakes in the future."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are some common mistakes that could lead to penalty points according to the guidelines?",
+    "How can understanding these guidelines help improve your coding skills?"
+  ],
+  "reflection_prompt": "Reflect on how understanding these guidelines can help you avoid common mistakes and improve your coding skills. How will you apply this knowledge in your future coding tasks?",
+  "ai_tutor_prompts": [
+    "Can you explain why understanding these guidelines is important for success in AP Computer Science A?",
+    "How can you apply this knowledge in your future coding tasks?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own coding guidelines and scoring criteria for a mock coding competition.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

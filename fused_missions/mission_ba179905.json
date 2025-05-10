@@ -1,0 +1,34 @@
+{
+  "title": "Exploring AI: From Economics to Ethics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we leverage the power of AI to solve complex problems in various fields, and what ethical considerations must we keep in mind?",
+  "short_background_context": "Artificial Intelligence (AI) is a rapidly evolving field with the potential to revolutionize many aspects of our lives, including education. The International Society for Technology in Education (ISTE) is a nonprofit organization that works to accelerate the use of technology, including AI, in education to solve tough problems and inspire innovation. In this mission, you will explore the strengths and weaknesses of AI, understand the importance of training data in machine learning, and delve into the ethical considerations of using AI.",
+  "tasks": [
+    "Research and present on a real-world problem that AI has the potential to solve in one of the subjects identified. Discuss how AI could be used and what data would be needed.",
+    "Design a simple AI model to address the problem you identified. Use a graph builder to visualize the data and the potential impact of your AI solution.",
+    "Reflect on the ethical implications of your AI solution. Consider issues of data privacy, fairness, and accountability. Write an essay outlining your thoughts."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about AI?",
+    "Can you think of any real-world problems that AI could potentially solve?",
+    "What ethical considerations come to mind when you think about using AI?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about AI. How has your understanding of AI changed? What new questions do you have?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on why you chose this particular problem for your AI solution?",
+    "What assumptions are you making about the data you would need for your AI model?",
+    "How might your AI solution affect different stakeholders differently?"
+  ],
+  "remix_zone": "Consider a different subject area or a different real-world problem. How would your AI solution change? What new ethical considerations might arise?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

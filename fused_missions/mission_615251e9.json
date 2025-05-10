@@ -1,0 +1,37 @@
+{
+  "title": "Data Science and Real World Applications",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we utilize data science to address real-world problems across various disciplines?",
+  "short_background_context": "Data science is a field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It is interdisciplinary because it combines mathematical and statistical techniques with knowledge from other areas to make informed decisions. In this mission, you will be introduced to the application of data science in various fields such as economics, climate, health, history, and ethics. You will learn how to gather, analyze, interpret, and present data to address real-world problems.",
+  "tasks": [
+    "Identify a real-world problem in one of the subjects and propose how data science can be used to address it.",
+    "Collect relevant data and use statistical and algebraic methods to analyze it.",
+    "Present your findings in a clear and concise manner using graphs and other visual aids."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world problems that you think data science can help solve?",
+    "What kind of data do you think you would need to collect to address the problem?",
+    "How would you go about collecting and analyzing the data?"
+  ],
+  "reflection_prompt": "Reflect on the process of using data science to address a real-world problem. What did you learn? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this particular problem?",
+    "How did you ensure the data you collected was reliable?",
+    "Can you explain how you analyzed the data and why you chose this method?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing a different real-world problem or by using a different method to analyze the data.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

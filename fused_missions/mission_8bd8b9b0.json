@@ -1,0 +1,32 @@
+{
+  "title": "Algebra II: Real Numbers and Complex Expressions",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics"
+  ],
+  "driving_question": "How can we simplify complex algebraic expressions involving real numbers and imaginary units?",
+  "short_background_context": "This mission is based on a series of questions from the Algebra II Regents High School Examination conducted by the University of the State of New York. The examination requires students to answer questions involving algebraic expressions, diagrams, graphs, and charts. A particular focus is on the simplification of complex expressions involving real numbers and imaginary units. The exam emphasizes the importance of showing work, with a correct numerical answer with no work shown receiving only partial credit. In this mission, we will explore these concepts in depth and understand how to simplify such expressions.",
+  "tasks": [
+    "Task 1: Given x is a real number, write the expression in simplest a + bi form: (x + 2i)(3 - 2xi) + 2x2i",
+    "Task 2: Given another complex expression, simplify it and represent it in the simplest a + bi form.",
+    "Task 3: Create a graph to visually represent the real and imaginary parts of the complex number resulting from the simplification."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by a real number and an imaginary unit?",
+    "How can you simplify expressions involving real numbers and imaginary units?",
+    "What is the significance of representing a complex number in a + bi form?"
+  ],
+  "reflection_prompt": "Reflect on the process of simplifying the complex expressions. What strategies did you find most helpful? How did graphing the complex number aid in your understanding?",
+  "ai_tutor_prompts": [
+    "Can you explain your steps in simplifying this expression?",
+    "Why did you choose this approach to simplify the expression?",
+    "What would happen if you didn't simplify the expression in a + bi form?"
+  ],
+  "remix_zone": "Try to create your own complex algebraic expression involving real numbers and imaginary units and simplify it. How would you graphically represent the real and imaginary parts of your complex number?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

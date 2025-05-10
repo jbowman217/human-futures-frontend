@@ -1,0 +1,41 @@
+{
+  "title": "Algebra II Regents High School Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic, statistical, ethical, and geometric principles to solve complex problems in a high-stakes examination setting?",
+  "short_background_context": "This mission is based on the Algebra II Regents High School Examination conducted by the University of the State of New York. The examination is designed to test students' understanding and application of algebraic principles, statistical analysis, ethical considerations, and geometric concepts. It consists of multiple parts with a total of 37 questions, which must all be answered. The examination requires the use of a graphing calculator and a straightedge, and students are expected to show their work, including appropriate diagramming and graphing.",
+  "tasks": [
+    {
+      "task": "Solve algebraic expressions and equations, demonstrating your understanding of algebraic principles."
+    },
+    {
+      "task": "Analyze and interpret statistical data, showing your ability to apply statistical concepts."
+    },
+    {
+      "task": "Apply geometric concepts to solve problems, including the use of diagrams and graphs."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic principles do you think will be most important for this examination?",
+    "How might statistical analysis be applied in this context?",
+    "What ethical considerations might come into play during this examination?",
+    "How can geometric concepts be used to solve complex problems?"
+  ],
+  "reflection_prompt": "Reflect on your performance in this mission. What concepts did you find most challenging and why? How did you overcome these challenges?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular method to solve the problem?",
+    "Have you considered all possible solutions?",
+    "What assumptions are you making in your calculations?",
+    "How does this concept relate to what you've learned previously?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own algebraic, statistical, ethical, or geometric problems for their peers to solve. They could also modify the existing problems to make them more challenging or to focus on different concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

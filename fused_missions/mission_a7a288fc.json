@@ -1,0 +1,31 @@
+{
+  "title": "Understanding and Applying Mathematical Concepts",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we apply algebra, statistics, and economic concepts to solve real-world problems using the New York State P-12 Next Generation Learning Standards for Mathematics?",
+  "background_context": "The New York State Education Department administers Mathematics Tests annually and releases a significant portion of the test questions for review and use. These questions are designed to assess the New York State P-12 Next Generation Learning Standards for Mathematics, which focus on standard algorithms and conceptual standards. The questions often require students to complete multiple steps, apply multiple mathematics skills, and demonstrate real-world applications. They are framed within the context of real-world applications or require students to complete multiple steps. Many of these questions are linked to more than one standard, drawing on the simultaneous application of multiple skills and concepts.",
+  "tasks": [
+    "Analyze and answer a set of multiple-choice questions that assess standard algorithms and conceptual standards.",
+    "Complete a one-credit constructed-response question that requires multiple steps, assessing procedural skills, as well as conceptual understanding and application.",
+    "Complete a three-credit constructed-response question that requires you to show your work in completing two or more tasks or a more extensive problem."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think will be most relevant to these tasks?",
+    "How might real-world applications of these concepts appear in the questions?"
+  ],
+  "reflection_prompt": "Reflect on how well you were able to apply your understanding of algebra, statistics, and economics to solve the problems. What strategies were most effective? What areas do you need to improve on?",
+  "ai_tutor_prompts": [
+    "Can you explain the steps you took to arrive at your answer?",
+    "How did you apply the mathematical concept in this real-world scenario?",
+    "What other strategies could you have used to solve this problem?"
+  ],
+  "remix_zone": "Students can remix the problem by creating their own multiple-choice or constructed-response questions based on the New York State P-12 Next Generation Learning Standards for Mathematics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

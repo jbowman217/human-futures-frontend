@@ -1,0 +1,38 @@
+{
+  "title": "Exploring Calculus Concepts through AP\u00ae Calculus BC Sample Responses",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply calculus concepts to solve real-world problems and interpret AP\u00ae Calculus BC sample responses?",
+  "short_background_context": "In this mission, we will delve into the world of calculus, specifically focusing on the AP\u00ae Calculus BC sample responses from 2024. We will explore the concepts of differentiable functions, areas of regions in quadrants, and the application of integral calculus. We will also learn how to interpret scoring guidelines and student responses in the context of AP\u00ae Calculus BC. This will not only enhance our understanding of calculus but also prepare us for similar advanced placement exams.",
+  "tasks": [
+    {
+      "task": "Analyze the AP\u00ae Calculus BC sample responses and scoring guidelines from 2024."
+    },
+    {
+      "task": "Using the provided model solution, solve for the values of g(-6), g(4), and g(6)."
+    },
+    {
+      "task": "Interpret the scoring notes and understand how points are awarded in the AP\u00ae Calculus BC exam."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about integral calculus?",
+    "How would you approach solving for the values of g(-6), g(4), and g(6)?",
+    "What do you think the scoring guidelines indicate about the AP\u00ae Calculus BC exam?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of calculus before and after this mission. How has your understanding of the application of integral calculus and differentiable functions improved?",
+  "ai_tutor_prompts": [
+    "Can you explain why we use integral calculus in this context?",
+    "How does understanding the scoring guidelines help you in preparing for the AP\u00ae Calculus BC exam?",
+    "What strategies did you use to solve for the values of g(-6), g(4), and g(6)?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own calculus problems based on real-world scenarios. They could also try to solve additional AP\u00ae Calculus BC sample responses and compare their solutions with the model solutions.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Algebra II Regents Examination",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic concepts and techniques to solve real-world problems?",
+  "short_background_context": "This mission is based on the Algebra II Regents Examination from the University of the State of New York. The exam tests students' knowledge and understanding of Algebra II concepts, including formula substitutions, diagrams, graphs, and charts. Students are required to clearly indicate the necessary steps to solve each problem, and diagrams are not necessarily drawn to scale. For all questions, a correct numerical answer with no work shown will receive only 1 credit, emphasizing the importance of understanding and demonstrating the process of problem-solving, not just the final answer.",
+  "tasks": [
+    "Factor the expression x^3 + 4x^2 - 9x - 36 completely and explain each step in your process.",
+    "Create a diagram or graph that represents a real-world scenario that could be modeled by the expression x^3 + 4x^2 - 9x - 36.",
+    "Substitute appropriate values into the expression x^3 + 4x^2 - 9x - 36 to solve a problem related to your diagram or graph."
+  ],
+  "pre_thinking_prompts": [
+    "What strategies do you know for factoring a cubic expression?",
+    "What kind of real-world scenario might be represented by a cubic expression?",
+    "How can substituting values into an expression help solve a problem?"
+  ],
+  "reflection_prompt": "Reflect on the process you used to complete the tasks. What did you learn about factoring and applying algebraic expressions to real-world problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that factoring method?",
+    "How does your diagram or graph represent the expression?",
+    "Why did you choose those particular values to substitute into the expression?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own cubic expression and set of tasks related to a different real-world scenario.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra I",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply your knowledge of Algebra, Statistics, Economics, and Geometry to successfully complete the Regents Examination in Algebra I?",
+  "short_background_context": "The University of the State of New York conducts a Regents High School Examination in Algebra I. This examination assesses your understanding and application of various concepts in Algebra, Statistics, Economics, and Geometry. The examination is scored by a minimum of three mathematics teachers, and each student's work is evaluated based on a systematic and consistent method for awarding credit. Your task is to prepare for and simulate the examination process, applying your knowledge and skills to solve constructed-response questions.",
+  "tasks": [
+    "Review the Model Response Set provided by the Department and understand the scoring guidance.",
+    "Attempt constructed-response questions that cover various concepts in Algebra, Statistics, Economics, and Geometry.",
+    "Self-score your answers using the provided rubrics and convert your total raw score to a scale score using the conversion chart."
+  ],
+  "pre_thinking_prompts": [
+    "What topics in Algebra, Statistics, Economics, and Geometry do you feel confident about?",
+    "What strategies will you use to approach the constructed-response questions?",
+    "How will you ensure your answers meet the criteria outlined in the scoring rubrics?"
+  ],
+  "reflection_prompt": "Reflect on your performance in the simulated examination. What areas did you excel in and where do you need to improve? How did the scoring process enhance your understanding of the examination criteria?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this particular method to solve the problem?",
+    "How does this concept relate to real-world applications?",
+    "Is there another approach you could have used to solve this problem?"
+  ],
+  "remix_zone": "Students can remix the problem by creating their own constructed-response questions based on the topics covered in the examination. They can also attempt to answer their peers' questions and score each other's work using the provided rubrics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

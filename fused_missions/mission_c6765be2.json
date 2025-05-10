@@ -1,0 +1,39 @@
+{
+  "title": "Understanding Mass Incarceration: An Interdisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use interdisciplinary knowledge to understand and propose solutions to mass incarceration?",
+  "background_context": "Mass incarceration is a pressing issue in our society, with a multitude of factors contributing to its prevalence. These factors range from economic disparities and climate change, to ethical considerations and health-related issues. This mission is based on the book 'Ending Mass Incarceration: Ideas from Today\u2019s Leaders' which features essays from various leaders proposing solutions to this problem. We will explore the issue through the lens of various subjects, including economics, climate, statistics, geometry, history, health, ethics, and algebra. The goal is to gain a comprehensive understanding of mass incarceration and to brainstorm potential solutions.",
+  "tasks": [
+    {
+      "task_1": "Analyze the economic factors contributing to mass incarceration and propose a solution based on economic theories.",
+      "task_2": "Use statistical data to illustrate the scale of mass incarceration in the U.S. and compare it to other countries.",
+      "task_3": "Research the history of mass incarceration and create a timeline highlighting key events and policies."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about mass incarceration?",
+    "What subjects do you think are most relevant to this issue?",
+    "What solutions can you think of?"
+  ],
+  "reflection_prompt": "What new insights have you gained about mass incarceration? How has your understanding of the issue changed? What solutions do you think are most viable?",
+  "ai_tutor_prompts": [
+    "Can you explain how you arrived at your solution?",
+    "How does this relate to what we've learned in class?",
+    "What other factors might be relevant to this issue?"
+  ],
+  "remix_zone": "Students could remix this problem by focusing on a different social issue, such as climate change or income inequality, and applying the same interdisciplinary approach.",
+  "display": {
+    "graph_builder": "Students will use this tool to create graphs and charts that visualize statistical data related to mass incarceration.",
+    "text_area": "Students will use this space to write their analyses, reflections, and proposed solutions."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Understanding New York State Mathematics Tests",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand and solve the types of problems that appear on the New York State Mathematics Tests?",
+  "short_background_context": "Every year, the New York State Education Department administers Mathematics Tests for students in Grades 3-8. The tests are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics. The questions on these tests are designed to assess standard algorithms, conceptual standards, and the 'Standards for Mathematical Practices'. Many questions require students to apply multiple skills and concepts simultaneously and are framed within the context of real-world applications. The tests include multiple-choice questions, one-credit, two-credit, and three-credit constructed-response questions.",
+  "tasks": [
+    "Analyze and solve a set of multiple-choice questions from the released 2023 exams.",
+    "Complete a series of one-credit constructed-response questions, showing your final answer only.",
+    "Work on a set of two-credit and three-credit constructed-response questions, showing your work and explaining your reasoning."
+  ],
+  "pre_thinking_prompts": [
+    "What types of mathematical concepts do you think you'll encounter in these problems?",
+    "How do you approach a problem when it requires the application of multiple skills or concepts?",
+    "What strategies do you use to solve real-world application problems?"
+  ],
+  "reflection_prompt": "Reflect on your problem-solving process. What strategies were most effective? What concepts were most challenging and how did you overcome those challenges?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "What other methods could you use to solve this problem?",
+    "How does this problem connect to real-world situations?"
+  ],
+  "remix_zone": "Consider how you could modify these problems to make them more challenging or to focus on different mathematical concepts. How might you incorporate these problems into a project or presentation?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

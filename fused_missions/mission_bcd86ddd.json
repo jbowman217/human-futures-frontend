@@ -1,0 +1,34 @@
+{
+  "title": "AP Calculus BC Sample Question Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply calculus concepts to analyze the motion of a particle along a curve in the xy-plane?",
+  "short_background_context": "In this mission, we will be exploring a sample question from the 2022 AP Calculus BC exam. The question involves analyzing the motion of a particle along a curve in the xy-plane. The motion of the particle is described by two equations, dx/dt = 1 + t^2 and dy/dt = ln(2 + t^2). At a specific time, t = 4, the particle is at the point (1, 5). The question asks us to find the slope of the line tangent to the path of the particle, the speed of the particle, the acceleration vector of the particle, and the y-coordinate of the particle\u2019s position at a later time. We will be using concepts of calculus including derivatives, integrals, and vectors to solve this problem.",
+  "tasks": [
+    "Task 1: Find the slope of the line tangent to the path of the particle at time t = 4.",
+    "Task 2: Calculate the speed of the particle and the acceleration vector at time t = 4.",
+    "Task 3: Determine the y-coordinate of the particle\u2019s position at time t = 6."
+  ],
+  "pre_thinking_prompts": [
+    "What does the slope of the tangent line represent in this context?",
+    "How can we calculate the speed of the particle?",
+    "What is the significance of the acceleration vector?",
+    "How can we find the y-coordinate of the particle\u2019s position at a later time?"
+  ],
+  "reflection_prompt": "Reflect on how you applied the concepts of calculus to solve this problem. What strategies were most effective? What challenges did you encounter and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Remember, the slope of the tangent line can be found using the derivative of the function.",
+    "To calculate the speed of the particle, you can use the Pythagorean theorem with the derivatives of the functions.",
+    "The acceleration vector can be found by taking the second derivative of the functions.",
+    "To find the y-coordinate at a later time, consider using the integral of the dy/dt function."
+  ],
+  "remix_zone": "Try solving this problem with different initial conditions. For example, what if the particle was at a different point at time t = 4? Or what if the equations for dx/dt and dy/dt were different?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Medicare for All: A Deep Dive",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "What are the potential impacts and challenges of implementing a Medicare for All national health insurance program?",
+  "short_background_context": "The 'Medicare for All Act of 2021' is a proposed bill in the United States Congress that aims to establish a national health insurance program. This program would provide comprehensive health care coverage to all U.S. residents, including preventive care and long-term care services. The bill also includes provisions for provider participation, administration, quality assessment, budgeting, payments, and cost containment measures. The implementation of such a program would have significant implications for the U.S. health care system and economy. This mission involves exploring these implications from various angles, including economics, statistics, health, ethics, and more.",
+  "tasks": [
+    "Task 1: Analyze the economic implications of implementing a Medicare for All program. Consider factors such as cost, funding, and potential impact on the economy.",
+    "Task 2: Use statistical data to assess the potential health outcomes of a Medicare for All program. Consider factors such as access to care, quality of care, and health disparities.",
+    "Task 3: Evaluate the ethical considerations of implementing a Medicare for All program. Consider factors such as fairness, rights, and responsibilities."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the current U.S. health care system?",
+    "What are some potential benefits and challenges of a Medicare for All program?",
+    "How might a Medicare for All program impact different groups of people?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the potential impacts and challenges of a Medicare for All program. How has your understanding of this issue evolved?",
+  "ai_tutor_prompts": [
+    "Can you explain why cost is a significant factor in implementing a Medicare for All program?",
+    "What statistical data might be useful in assessing the potential health outcomes of a Medicare for All program?",
+    "How might the principle of fairness apply to a Medicare for All program?"
+  ],
+  "remix_zone": "Consider how the Medicare for All Act of 2021 might be modified or adapted to address some of the potential challenges you identified. Develop a proposal for a revised version of the bill.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

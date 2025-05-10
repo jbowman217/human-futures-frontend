@@ -1,0 +1,42 @@
+{
+  "title": "AP Physics 1: Algebra-Based Exploration",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can the principles of AP Physics 1 be applied to understand and solve real-world problems?",
+  "short_background_context": "Advanced Placement (AP) courses are designed to provide high school students with college-level academic challenges. AP Physics 1 is an algebra-based course that encourages students to develop as independent thinkers, drawing their own conclusions based on evidence and scientific methods. It fosters intellectual freedom, opposing censorship and indoctrination, and promotes respect for diversity in backgrounds, experiences, and viewpoints. This mission will explore the principles of AP Physics 1 and their applications in various academic disciplines and real-world contexts.",
+  "tasks": [
+    {
+      "task_1": "Research and present a real-world problem that can be solved using the principles of AP Physics 1."
+    },
+    {
+      "task_2": "Analyze a controversial topic in physics, presenting different perspectives and your own conclusion based on evidence."
+    },
+    {
+      "task_3": "Create a project that demonstrates the application of AP Physics 1 principles in one of the other subjects (Economics, Geometry, Statistics, History, Ethics, Algebra)."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world problems that can be solved using physics?",
+    "How can the principles of physics be applied in other academic disciplines?",
+    "What are some controversial topics in physics, and what are different perspectives on these topics?"
+  ],
+  "reflection_prompt": "Reflect on your learning process. What did you find challenging? What new insights have you gained? How can you apply what you've learned in future projects?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this particular problem?",
+    "How did you ensure that you considered multiple perspectives in your analysis?",
+    "What evidence supports your conclusion?",
+    "How did you integrate physics principles into your project?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing a different real-world problem or a different controversial topic. They could also choose to apply the principles of AP Physics 1 in a different subject.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

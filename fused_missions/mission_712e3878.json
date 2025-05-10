@@ -1,0 +1,31 @@
+{
+  "title": "Understanding New York State Mathematics Test Questions",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we interpret and answer the different types of questions in the New York State Mathematics Test?",
+  "short_background_context": "The New York State Education Department administers Mathematics Tests annually, releasing a significant portion of the questions for review and use. These questions are designed to assess the New York State P\u201312 Learning Standards for Mathematics, including multiple-choice, short-response, and extended-response questions. Multiple-choice questions assess standard algorithms and conceptual standards, often within real-world applications or requiring multiple steps. Short-response questions require students to complete tasks and show their work, often involving multiple steps, multiple mathematics skills, and real-world applications. Extended-response questions ask students to show their work in completing two or more tasks or a more extensive problem, assessing mathematical procedures, conceptual understanding, and application.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the New York State Mathematics Test and identify the mathematical concepts being tested in each question.",
+    "Select a short-response question from the New York State Mathematics Test and demonstrate how you would answer it, showing all your work.",
+    "Choose an extended-response question from the New York State Mathematics Test and complete it, showing your understanding of mathematical procedures, conceptual understanding, and application."
+  ],
+  "pre_thinking_prompts": [
+    "What types of mathematical concepts do you think are commonly tested in these exams?",
+    "How would you approach a multi-step problem in a test situation?",
+    "What strategies do you use to ensure you fully understand a question before attempting to answer it?"
+  ],
+  "reflection_prompt": "Reflect on your experience answering these test questions. What strategies worked well for you? What areas do you think you need to improve on?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "What other methods could you have used to solve this problem?",
+    "Why is it important to show all your work when answering these types of questions?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own multiple-choice, short-response, and extended-response questions, ensuring they align with the New York State P\u201312 Learning Standards for Mathematics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

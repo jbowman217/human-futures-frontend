@@ -1,0 +1,35 @@
+{
+  "title": "Transforming Education through Technology",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use technology to transform education and empower learners in a connected world?",
+  "short_background_context": "The International Society for Technology in Education (ISTE) is a leading association for educators and education leaders dedicated to empowering learners in a connected world. The ISTE Standards are guidelines for learning, teaching, and leading in the digital age, and they are recognized and adopted globally. They aim to transform education by enabling the thoughtful, purposeful, and strategic use of technology. These standards reflect an evolution in the teaching profession and focus on the potential of technology to empower learning. As we navigate decisions about curriculum, instruction, professional learning, and how to transform pedagogy with technology, these standards provide a roadmap.",
+  "tasks": [
+    "Research and present on how technology is currently being used in education and its impact on student learning.",
+    "Design a technology-enabled lesson plan for a subject of your choice, incorporating elements from the ISTE Standards.",
+    "Analyze a case study of a school or education system that has successfully implemented technology to enhance learning. What strategies did they use? What were the outcomes?"
+  ],
+  "pre_thinking_prompts": [
+    "What are some ways technology is currently used in education?",
+    "How can technology enhance learning?",
+    "What are some potential challenges of using technology in education?"
+  ],
+  "reflection_prompt": "Reflect on the role of technology in education. How has your understanding of this topic changed? What new insights or ideas do you have?",
+  "ai_tutor_prompts": [
+    "Can you think of any potential drawbacks to using technology in education?",
+    "How might the use of technology in education differ in various parts of the world?",
+    "How do the ISTE Standards address these potential challenges?"
+  ],
+  "remix_zone": "Students could remix this problem by exploring the use of technology in education in different countries or contexts, or by designing a technology-enabled lesson plan for a different grade level or subject.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

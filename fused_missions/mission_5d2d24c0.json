@@ -1,0 +1,31 @@
+{
+  "title": "AP Statistics: Exploring Data and Regression Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we use scatterplots and regression analysis to understand the relationship between the mass and length of bullfrogs?",
+  "short_background_context": "In this mission, we will be exploring real-world data from the 2022 AP Statistics exam. The exam focused on the relationship between the mass and length of bullfrogs, using scatterplots and regression analysis. Scatterplots help visualize the relationship between two variables, while regression analysis allows us to predict one variable based on the other. We will be looking at the strength, direction, and form of the association, as well as identifying any unusual features in the data. We will also interpret the slope of the regression line in the context of the problem.",
+  "tasks": [
+    "Analyze the scatterplot of the bullfrog data and describe the direction, strength, form of association, and any unusual features.",
+    "Calculate the slope of the least-squares regression line and interpret its value in the context of the bullfrog data.",
+    "Predict the mass of a bullfrog given its length using the regression line and discuss the limitations of this prediction."
+  ],
+  "pre_thinking_prompts": [
+    "What do you expect the relationship between a bullfrog's mass and length to be?",
+    "What does the slope of a regression line represent?",
+    "What are some potential limitations of using regression analysis for prediction?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of scatterplots and regression analysis before and after this mission. How has your understanding changed? What was challenging and what was surprising?",
+  "ai_tutor_prompts": [
+    "Can you explain why the direction of association is important in this context?",
+    "What does the strength of the association tell us about the relationship between the mass and length of bullfrogs?",
+    "How would the interpretation of the slope change if we were looking at a different set of data?"
+  ],
+  "remix_zone": "Consider a different animal or a different set of variables. How would you approach the problem differently? What new challenges might arise?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

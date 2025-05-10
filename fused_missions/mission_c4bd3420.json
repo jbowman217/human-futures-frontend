@@ -1,0 +1,37 @@
+{
+  "title": "Data Science for High School: Identifying Needs, Gaps, and Resources",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply data science to identify needs, gaps, and resources in various subjects?",
+  "short_background_context": "Data science is a powerful tool that can be used to analyze and interpret complex data to identify needs, gaps, and resources. This mission is based on a National Science Foundation Workshop that focused on the application of data science in high school education. You will learn how to apply data science techniques to various subjects including economics, climate, statistics, geometry, history, health, ethics, and algebra. The goal is to equip you with the skills to use data science to solve real-world problems in these subjects.",
+  "tasks": [
+    "Task 1: Identify a problem in one of the subjects that can be solved using data science. Develop a hypothesis and collect relevant data.",
+    "Task 2: Use statistical methods to analyze the data and test your hypothesis. Create a report detailing your findings.",
+    "Task 3: Based on your findings, propose a solution to the problem. Discuss the potential impact of your solution and any ethical considerations."
+  ],
+  "pre_thinking_prompts": [
+    "What is a problem in your chosen subject that you think could be solved using data science?",
+    "What type of data would you need to collect to test your hypothesis?",
+    "What statistical methods do you think would be most effective in analyzing your data?"
+  ],
+  "reflection_prompt": "Reflect on the process of using data science to solve a problem in your chosen subject. What did you learn? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Why did you choose this particular problem?",
+    "How did you ensure the data you collected was reliable?",
+    "Could there be any bias in your data analysis? How did you mitigate this?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing a different subject or a different problem within the same subject. They could also use different statistical methods to analyze their data.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

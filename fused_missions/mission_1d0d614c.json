@@ -1,0 +1,33 @@
+{
+  "title": "AP Computer Science A: Methods and Control Structures",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply methods and control structures in computer science to solve real-world problems?",
+  "short_background_context": "In the 2023 AP Computer Science A exam, students were tasked with writing methods and control structures to solve a problem. The problem involved finding a free block of time within a given period and making an appointment within that free block. The students were required to write two methods, 'findFreeBlock' and 'makeAppointment', each with its own set of parameters and return values. The 'findFreeBlock' method loops over the necessary minutes in an hour to find a free block of time. The 'makeAppointment' method uses the 'findFreeBlock' method to find a free block of time and reserve it.",
+  "tasks": [
+    "Analyze the 'findFreeBlock' and 'makeAppointment' methods and understand how they work.",
+    "Modify the 'findFreeBlock' method to find the longest free block of time instead of the first free block of time that fits the duration.",
+    "Modify the 'makeAppointment' method to schedule multiple appointments within the free blocks of time."
+  ],
+  "pre_thinking_prompts": [
+    "What is the purpose of the 'findFreeBlock' method?",
+    "What is the purpose of the 'makeAppointment' method?",
+    "How do these methods work together to solve the problem?"
+  ],
+  "reflection_prompt": "What did you learn about methods and control structures in computer science? How can you apply this knowledge to other problems?",
+  "ai_tutor_prompts": [
+    "Can you explain how the 'findFreeBlock' method works?",
+    "Can you explain how the 'makeAppointment' method works?",
+    "How would you modify the 'findFreeBlock' method to find the longest free block of time?",
+    "How would you modify the 'makeAppointment' method to schedule multiple appointments?"
+  ],
+  "remix_zone": "Students could remix the problem by applying the methods and control structures to a different real-world scenario, such as scheduling classes in a school or meetings in a business.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

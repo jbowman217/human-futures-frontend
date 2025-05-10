@@ -1,0 +1,38 @@
+{
+  "title": "Understanding the 'Ending Corporate Greed Act'",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How does the 'Ending Corporate Greed Act' impact corporations and what are the economic implications?",
+  "short_background_context": "The 'Ending Corporate Greed Act' is a bill introduced to the United States Congress that proposes to impose a tax on the excess profits of certain corporations. This tax would be equal to 95 percent of the excess profits for the taxable year and would be in addition to any other tax imposed. The bill also includes a limitation clause stating that the amount of tax imposed for any taxable year shall not exceed 75 percent of the modified taxable income of the taxpayer for such taxable year. This mission will require you to understand and analyze the potential impacts of this bill.",
+  "tasks": [
+    {
+      "task": "Calculate the amount of tax a corporation would owe under this act given a set of financial data."
+    },
+    {
+      "task": "Analyze the potential economic impacts of this act on corporations."
+    },
+    {
+      "task": "Develop an argument for or against this act based on your analysis."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you think 'excess profits' means in the context of this act?",
+    "How do you think this act could impact corporations?",
+    "What are some potential economic implications of this act?"
+  ],
+  "reflection_prompt": "Reflect on your learning. What was challenging about this mission? What did you learn about the intersection of economics, algebra, and statistics?",
+  "ai_tutor_prompts": [
+    "Can you explain how you calculated the tax amount?",
+    "What factors did you consider when analyzing the potential economic impacts?",
+    "What evidence did you use to support your argument for or against the act?"
+  ],
+  "remix_zone": "Consider different tax rates or limitations. How would changes to these aspects of the act impact your analysis and argument?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Algebra I Regents Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply algebraic concepts to solve real-world problems?",
+  "background_context": "You are about to take part in a simulated version of the Algebra I Regents Examination, an exam administered by the University of the State of New York. This exam tests your understanding of algebraic concepts and their application to real-world scenarios. The exam consists of multiple parts, each containing a variety of questions. You are expected to answer all questions, using the information provided to determine your answers. Graphs and diagrams are a crucial part of the exam, and you should be prepared to utilize them effectively.",
+  "tasks": [
+    "Analyze the data of a ball's height above the ground at different time intervals and draw a valid conclusion.",
+    "Formulate a system of inequalities to model a bus company's profit-making scenario.",
+    "Use the given formulas and diagrams to answer questions, ensuring to clearly indicate the necessary steps, including appropriate formula substitutions, diagrams, graphs, charts, etc."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic concepts do you think will be most relevant in this exam?",
+    "How might you use graphs and diagrams to aid in your problem-solving process?",
+    "What strategies will you use to approach multi-step problems?"
+  ],
+  "reflection_prompt": "What did you learn about your problem-solving abilities in this exam? What strategies were most effective, and what areas do you need to improve on?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular approach to solve the problem?",
+    "How did you interpret the data or diagram to arrive at your answer?",
+    "What other strategies could you have used to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own real-world scenarios that require the application of algebraic concepts. They could then exchange scenarios with classmates to solve.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

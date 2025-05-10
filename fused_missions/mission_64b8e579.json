@@ -1,0 +1,31 @@
+{
+  "title": "Exploring Seawater Depth: A Mathematical Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "History",
+    "Economics"
+  ],
+  "driving_question": "How can we use mathematical models to understand and predict changes in seawater depth over time?",
+  "short_background_context": "The depth of seawater at a location can be modeled using mathematical equations. In this mission, we will explore a differential equation that models the depth of seawater at a specific location. This equation considers the time measured in hours after noon. We will use algebraic skills to solve this equation, and apply our understanding of history and economics to consider the implications of changes in seawater depth. This mission is based on a sample AP Calculus BC question, but we will be approaching it from an interdisciplinary perspective.",
+  "tasks": [
+    "Sketch the solution curve for the given differential equation, ensuring it passes through the point (0, 4) and extends to at least t = 4.5.",
+    "Determine the value of t at which the depth of the seawater has a critical point, and identify whether this point is a relative minimum, maximum, or neither.",
+    "Use separation of variables to find the particular solution to the differential equation with the initial condition H(0)=4."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand about the given differential equation?",
+    "How might changes in seawater depth impact the local economy and history of the area?"
+  ],
+  "reflection_prompt": "Reflect on your learning. What did you find challenging? What did you learn about the relationship between math, history, and economics?",
+  "ai_tutor_prompts": [
+    "Why is it important to identify critical points in this context?",
+    "How does the concept of 'separation of variables' help in solving this differential equation?",
+    "What might be the implications of changes in seawater depth on the local economy and history?"
+  ],
+  "remix_zone": "Consider a different location or different initial conditions. How would this change your calculations and the implications of your findings?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

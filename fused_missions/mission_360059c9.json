@@ -1,0 +1,32 @@
+{
+  "title": "AP Statistics: Analyzing Survey Results",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we accurately interpret and compare survey results from different cities?",
+  "short_background_context": "You are given a task to analyze the results of a survey conducted in three different cities: Baltimore, Detroit, and San Diego. The survey was about the number of teenagers who consumed a soft drink in the past week. The researcher claimed that Baltimore has the least number of teens who consumed a soft drink. However, it's important to note that the number of teens surveyed in each city varied. Therefore, to make a fair comparison, you should consider the proportions rather than the counts. Your task is to verify the researcher's claim and present your findings.",
+  "tasks": [
+    "Task 1: Calculate the proportion of teens who consumed a soft drink in the past week in each city.",
+    "Task 2: Compare these proportions and determine whether the researcher's claim is correct or not.",
+    "Task 3: Create a segmented bar graph to visually represent your findings."
+  ],
+  "pre_thinking_prompts": [
+    "What is the difference between comparing counts and comparing proportions?",
+    "Why is it important to consider the sample size when analyzing survey results?",
+    "What might be some potential pitfalls of not considering the sample size?"
+  ],
+  "reflection_prompt": "Reflect on the process of analyzing the survey results. What did you learn about the importance of considering sample sizes in statistical analysis? How might this knowledge be useful in the future?",
+  "ai_tutor_prompts": [
+    "Why did you decide to use proportions rather than counts?",
+    "Can you explain how the sample size affects the results of a survey?",
+    "What other factors could potentially influence the results of a survey?"
+  ],
+  "remix_zone": "Students could remix this problem by considering other variables, such as the age of the teenagers, the brand of the soft drink, or the time of the year the survey was conducted.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

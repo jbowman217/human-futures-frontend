@@ -1,0 +1,41 @@
+{
+  "title": "Developing an Assessment Rubric for Programming Courses",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we develop a fair and consistent rubric for assessing programming assignments that encourages creativity and critical thinking?",
+  "short_background_context": "In programming courses, students often encounter issues with grading inconsistencies. Traditionally, programming assignments and projects are graded based on an answer scheme, which includes the source code as a model answer. Marks are then allocated to specific lines of code. This method often leads to little or no consideration for creativity and originality in student solutions. Additionally, grading is often carried out by different individuals, leading to inconsistencies. This mission is inspired by a study published in The Turkish Online Journal of Educational Technology, which proposes the development of a rubric for grading programming assignments to address these issues.",
+  "tasks": [
+    {
+      "task_1": "Research different assessment methods used in programming courses and their pros and cons."
+    },
+    {
+      "task_2": "Design a rubric that encourages creativity and critical thinking in programming assignments."
+    },
+    {
+      "task_3": "Test the rubric by grading sample programming assignments and compare the results with traditional grading methods."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are some issues with traditional grading methods in programming courses?",
+    "How can a rubric encourage creativity and critical thinking?",
+    "What factors should be considered when developing a rubric for programming assignments?"
+  ],
+  "reflection_prompt": "Reflect on the process of developing the rubric. What challenges did you encounter and how did you overcome them? How effective was the rubric in addressing the issues identified with traditional grading methods?",
+  "ai_tutor_prompts": [
+    "Can you think of other ways to encourage creativity in programming assignments?",
+    "How might the rubric be adapted for different programming languages or levels of programming courses?",
+    "What are some potential limitations of the rubric you developed?"
+  ],
+  "remix_zone": "Students could remix this problem by developing rubrics for other subjects or courses, or by proposing alternative methods for assessing programming assignments.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

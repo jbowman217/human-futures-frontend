@@ -1,0 +1,30 @@
+{
+  "title": "Vehicle Arrival Rates at a Toll Plaza",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can algebraic expressions and calculus be used to model and analyze real-world scenarios such as vehicle arrivals at a toll plaza?",
+  "short_background_context": "This mission is based on a sample question from the AP Calculus BC exam. The scenario involves a toll plaza where the rate of vehicle arrivals from 5 A.M. to 10 A.M. is given by a mathematical function. The function A(t) = 450 sin (0.62t) represents the rate of vehicle arrivals, where t is the number of hours after 5 A.M. and A(t) is measured in vehicles per hour. The traffic is flowing smoothly at 5 A.M. with no vehicles waiting in line.",
+  "tasks": [
+    "Write an integral expression that gives the total number of vehicles that arrive at the toll plaza from 6 A.M. (t = 1) to 10 A.M. (t = 5).",
+    "Find the average value of the rate, in vehicles per hour, at which vehicles arrive at the toll plaza from 6 A.M. (t = 1) to 10 A.M. (t = 5).",
+    "Analyze the impact of a change in the function A(t) on the total number of vehicles and the average rate of vehicle arrivals."
+  ],
+  "pre_thinking_prompts": [
+    "What does the function A(t) represent in this scenario?",
+    "How can you use integral calculus to find the total number of vehicles that arrive at the toll plaza during a specific time period?",
+    "How can you calculate the average rate of vehicle arrivals?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of algebra and calculus has deepened through this mission. How did these concepts help you analyze the given real-world scenario?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular integral for the first task?",
+    "What does the average value you calculated in the second task represent in the context of this scenario?",
+    "How would a change in the function A(t) affect the total number of vehicles and the average rate of vehicle arrivals?"
+  ],
+  "remix_zone": "Students could remix this problem by considering different functions for the rate of vehicle arrivals, or by considering different time intervals.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

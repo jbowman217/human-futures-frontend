@@ -1,0 +1,32 @@
+{
+  "title": "AP Statistics: Exploring Data in Real-World Context",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use statistical tools to analyze and interpret real-world data?",
+  "short_background_context": "In this mission, we will be exploring a real-world problem that involves the analysis of dissolved oxygen concentration in Alaskan streams with water temperatures colder than 8oC. The data is presented in the form of a histogram and your task is to interpret this data using your statistical knowledge. You will need to identify key features of the distribution such as its shape, center, spread, and any unusual features. This is a similar task to what you might encounter in an AP Statistics exam, and it will test your understanding of key statistical concepts and your ability to apply them in a practical context.",
+  "tasks": [
+    "Analyze the histogram and describe its shape, center, spread, and any unusual features.",
+    "Calculate the Interquartile Range (IQR) and identify any potential outliers.",
+    "Interpret the results in the context of dissolved oxygen concentration in Alaskan streams."
+  ],
+  "pre_thinking_prompts": [
+    "What does the shape of the histogram tell you about the data?",
+    "How can you calculate the IQR and why is it important?",
+    "What might be the implications of any outliers you identify?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the statistical concepts used in this mission. How confident do you feel in your ability to analyze and interpret histograms? What did you find challenging and what did you find straightforward?",
+  "ai_tutor_prompts": [
+    "Why did you describe the histogram in that way?",
+    "How did you calculate the IQR and why did you choose that method?",
+    "What makes you think that those are potential outliers?"
+  ],
+  "remix_zone": "To remix this problem, you could consider a different real-world context, such as analyzing the distribution of test scores in a class, or the distribution of heights in a population. You could also consider using a different type of graph or introducing additional statistical concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

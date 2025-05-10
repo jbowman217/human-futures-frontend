@@ -1,0 +1,33 @@
+{
+  "title": "Real Life Applications of Mathematics",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use mathematics to solve real-life problems in various fields such as agriculture, construction, and industry?",
+  "short_background_context": "Mathematics is one of the oldest disciplines in the world and has been used to solve practical real-life problems in various fields. However, many students do not connect mathematics with their daily lives, leading to a lack of interest and understanding. This mission is based on a study that found project-based teaching with real-life applications can stimulate students' confidence in mathematics, enhance their understanding, and increase their interest. In this mission, you will apply mathematical concepts to real-world scenarios, helping you to see the relevance and importance of mathematics in everyday life.",
+  "tasks": [
+    "Identify a real-world problem in the field of your interest and propose a mathematical model to solve it.",
+    "Use statistical methods to analyze a dataset related to your chosen problem and interpret the results.",
+    "Present your findings in a report, explaining how your mathematical model can help solve the real-world problem."
+  ],
+  "pre_thinking_prompts": [
+    "What real-world problem are you interested in solving?",
+    "What mathematical concepts do you think could be applied to this problem?",
+    "What data might you need to solve this problem?"
+  ],
+  "reflection_prompt": "Reflect on how this project has changed your perspective on the relevance and utility of mathematics. What did you learn about the application of mathematics to real-world problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this particular mathematical model?",
+    "How did the data you analyzed support your model?",
+    "What challenges did you face in applying mathematics to your chosen problem and how did you overcome them?"
+  ],
+  "remix_zone": "Consider a different real-world problem. How might you adjust your mathematical model to solve this new problem? What additional data might you need?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

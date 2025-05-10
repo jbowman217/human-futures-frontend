@@ -1,0 +1,33 @@
+{
+  "title": "New York State Algebra I Regents Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic concepts and principles to solve real-world problems?",
+  "short_background_context": "The New York State Algebra I Regents Examination is a comprehensive test that assesses students' understanding of algebraic concepts and principles. The examination consists of multiple parts, including multiple-choice and open-ended questions. Students are expected to utilize the information provided for each question to determine their answers. Diagrams, graphs, charts, and formula substitutions may be used to illustrate the necessary steps to the solution. The examination requires the use of a graphing calculator and a straightedge (ruler). This mission will focus on a selection of questions from this examination.",
+  "tasks": [
+    "Task 1: Analyze and solve a selection of multiple-choice questions from the Algebra I Regents Examination. Record your answers and the steps you took to arrive at these answers.",
+    "Task 2: Develop solutions for a set of open-ended questions from the examination. Clearly indicate the necessary steps, including appropriate formula substitutions, diagrams, graphs, charts, etc.",
+    "Task 3: Reflect on the examination questions and your answers. Discuss the concepts and principles applied in each question and how these can be used to solve real-world problems."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic concepts and principles do you think will be most relevant to this examination?",
+    "How can you use a graphing calculator and a straightedge to assist in solving the examination questions?",
+    "What strategies can you use to approach multiple-choice and open-ended questions?"
+  ],
+  "reflection_prompt": "Reflect on the examination questions and your answers. What did you learn about your understanding of algebra? What concepts and principles were you able to apply effectively? What areas do you need to improve or study further?",
+  "ai_tutor_prompts": [
+    "Let's think about this problem from another angle. Can you explain why you chose that approach?",
+    "What other algebraic concepts or principles could be applied to this problem?",
+    "Can you explain the steps you took to arrive at your answer?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own algebraic problems based on real-world situations. They could then exchange these problems with their peers for solving and discussion.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

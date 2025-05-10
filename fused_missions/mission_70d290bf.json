@@ -1,0 +1,31 @@
+{
+  "title": "Particle Motion Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze the motion of a particle in the xy-plane over a given time interval using calculus?",
+  "short_background_context": "In this mission, we will explore a problem from the AP Calculus BC exam. The problem involves a particle moving along a curve in the xy-plane. The particle's position at any given time t seconds is given by the coordinates (x(t), y(t)). We will use calculus to analyze the particle's motion, including its speed, total distance traveled, and changes in its y-coordinate over specific time intervals. We will also determine when the particle is moving towards the x-axis. This mission will help you understand how calculus can be used to analyze real-world problems involving motion.",
+  "tasks": [
+    "Task 1: Calculate the speed of the particle at time t=2 seconds.",
+    "Task 2: Determine the total distance traveled by the particle over the time interval 0\u2264t\u22642.",
+    "Task 3: Find the y-coordinate of the particle's position at time t=0."
+  ],
+  "pre_thinking_prompts": [
+    "What is the relationship between speed and distance?",
+    "How can we use calculus to find the speed of a particle at a specific time?",
+    "How can we calculate the total distance traveled by a particle over a given time interval?"
+  ],
+  "reflection_prompt": "What did you learn about using calculus to analyze the motion of a particle? How could these concepts be applied to other real-world problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that method to calculate the speed?",
+    "What does the integral represent in the context of this problem?",
+    "Why is it important to consider the sign of y'(t) when determining the direction of the particle's motion?"
+  ],
+  "remix_zone": "Students could remix this problem by changing the equations for x(t) and y(t), or by analyzing the particle's motion over a different time interval.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "mission": {
+    "title": "AP Statistics Sample Student Responses and Scoring Commentary",
+    "grade_band": "AP",
+    "subjects": [
+      "Statistics"
+    ],
+    "driving_question": "How does the attendance at a new stadium compare to that at an old stadium, based on median values, interquartile ranges, and average per-game attendance?",
+    "tasks": [
+      {
+        "task": "Analyze the boxplots and determine the comparison between the attendance at the new and old stadium.",
+        "scoring": {
+          "essentially_correct": "Indicates that the median average per-game attendance is greater in the new stadium or indicates that the average per-game attendance is usually greater in the new stadium. Indicates that the variability in average per-game attendance is greater in the new stadium or indicates that the variability in the two stadiums is roughly the same according to the IQRs. Provides sufficient context by including the response variable (average attendance or attendance) or the units of the response variable (thousands of people or people).",
+          "partially_correct": "Satisfies only two of the three components or satisfies only component 1 or satisfies only component 2.",
+          "incorrect": "Does not meet the criteria for E or P."
+        }
+      }
+    ],
+    "pre_thinking_prompts": [
+      "What does the boxplot reveal about the attendance at the new and old stadium?",
+      "What is the median value of attendance at the new and old stadium?",
+      "What does the interquartile range indicate about the variability in attendance at the two stadiums?"
+    ],
+    "reflection_prompt": "Reflect on the process of analyzing the boxplots and determining the comparison. What challenges did you face and how did you overcome them?",
+    "ai_tutor_prompts": [
+      "Consider the median values of attendance at the two stadiums. Which one is higher?",
+      "How does the variability in attendance at the two stadiums compare?",
+      "What does the response variable represent in this context?"
+    ],
+    "remix_zone": "Consider a different sport or a different pair of stadiums. How might the attendance patterns differ and why?",
+    "display_fields": {
+      "title": true,
+      "grade_band": true,
+      "subjects": true,
+      "driving_question": true,
+      "tasks": true,
+      "pre_thinking_prompts": true,
+      "reflection_prompt": true,
+      "ai_tutor_prompts": true,
+      "remix_zone": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Appointment Scheduler",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we efficiently schedule appointments for students with their teachers during a school day?",
+  "short_background_context": "In a school, students often need to schedule appointments with their teachers. The school day is divided into eight class periods, each lasting 60 minutes. An appointment must start and end within the same period. The challenge is to find a block of consecutive available minutes that can accommodate the requested appointment duration. The AppointmentBook class provides methods to check if a minute in a period is available and to reserve a block of minutes for an appointment. Your task is to implement additional methods to find a free block of time and make an appointment.",
+  "tasks": [
+    "Implement the 'findFreeBlock' method that searches for the first block of free minutes during a period and returns the first minute in the block or -1 if no such block is found.",
+    "Implement the 'makeAppointment' method that searches periods from startPeriod to endPeriod for a block of free minutes. If such a block is found, it reserves the block of minutes and returns true; otherwise, it returns false.",
+    "Test your methods with different scenarios to ensure they work as expected."
+  ],
+  "pre_thinking_prompts": [
+    "How would you approach finding a free block of time in a period?",
+    "What considerations do you need to take into account when making an appointment?"
+  ],
+  "reflection_prompt": "Reflect on the efficiency of your methods. Could there be a more efficient way to implement them?",
+  "ai_tutor_prompts": [
+    "What happens if the 'findFreeBlock' method doesn't find a free block of time?",
+    "How does the 'makeAppointment' method ensure the appointment fits within the school periods?"
+  ],
+  "remix_zone": "Consider how you could extend this problem. Could you modify the methods to handle multiple appointments at the same time or to schedule appointments that span multiple periods?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Birds, Bears and Feeders: A Simulation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use programming and mathematical concepts to simulate the impact of birds and bears on a bird feeder over time?",
+  "short_background_context": "In this mission, we will be using the AP Computer Science A Free-Response Question as a base to explore concepts in algebra, economics, and geometry. The question presents a scenario where birds and possibly a bear are eating at a bird feeder. The Feeder class in the question contains information about the amount of food in the bird feeder and simulates how much food is eaten. We will be implementing methods to simulate one day and many days of this scenario, taking into account the number of birds, the amount of food they eat, and the possibility of a bear emptying the feeder.",
+  "tasks": [
+    "Task 1: Implement the simulateOneDay method, which simulates one day of the scenario.",
+    "Task 2: Implement the simulateManyDays method, which simulates a given number of days of the scenario.",
+    "Task 3: Analyze the results of the simulation, considering factors such as the number of birds, the amount of food they eat, and the frequency of bear visits."
+  ],
+  "pre_thinking_prompts": [
+    "How would you approach simulating one day of the scenario?",
+    "What factors would you need to consider when simulating multiple days?",
+    "How might the presence of a bear affect the simulation?"
+  ],
+  "reflection_prompt": "Reflect on your approach to implementing the methods and analyzing the results. What challenges did you encounter and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process behind your implementation of the simulateOneDay method?",
+    "How did you ensure that all factors were considered in the simulateManyDays method?",
+    "What patterns or trends did you notice in the results of the simulation?"
+  ],
+  "remix_zone": "Consider other factors that could affect the simulation, such as changes in bird behavior or the introduction of other animals. How would you modify the program to account for these factors?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Algebra II Regents Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply algebraic concepts to solve real-world problems?",
+  "short_background_context": "This mission is based on the Algebra II Regents Examination from the University of the State of New York. This examination tests a student's understanding and application of algebraic concepts, including algebraic expressions, equations, and functions. The examination is divided into four parts and includes a total of 37 questions. Students are required to utilize the information provided for each question to determine their answers. Diagrams, graphs, charts, and other visual aids may be used to help solve problems. This mission will focus on a selection of problems from the examination that highlight key algebraic concepts.",
+  "tasks": [
+    {
+      "task": "Simplify the given algebraic expression and determine the equivalent expression."
+    },
+    {
+      "task": "Solve the given exponential equation to the nearest tenth."
+    },
+    {
+      "task": "Interpret the given exponential function in the context of the value of an automobile over time."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What steps will you take to simplify the given algebraic expression?",
+    "How can you solve an exponential equation?",
+    "What does the given exponential function represent in real-world terms?"
+  ],
+  "reflection_prompt": "What strategies did you find most useful in solving these problems? How did your understanding of algebraic concepts deepen through this mission?",
+  "ai_tutor_prompts": [
+    "Can you explain your reasoning for choosing that method to simplify the expression?",
+    "Why did you decide to solve the equation in that way?",
+    "How does the exponential function relate to the depreciation of the car's value?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own algebraic expressions or equations to solve, or by applying the given exponential function to different real-world scenarios.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

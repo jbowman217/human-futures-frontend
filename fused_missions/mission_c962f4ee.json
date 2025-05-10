@@ -1,0 +1,31 @@
+{
+  "title": "AP\u00ae Precalculus: Functions and Video Game Sales",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we use functions to solve real-world problems and predict trends?",
+  "short_background_context": "In this mission, you will be exploring two distinct problems. The first problem involves the analysis of two functions, f and g, their properties, and their interactions. You will be asked to find specific values, determine end behavior, and explore the concept of inverse functions. The second problem is a real-world scenario involving the sales of a new video game. You will be asked to create a model to represent the sales, find the average rate of change, estimate sales for a specific day, and explain the limitations of the model.",
+  "tasks": [
+    "Analyze the functions f and g, find specific values, and determine the end behavior of g.",
+    "Determine if f has an inverse function and explain your reasoning.",
+    "Create a model for the video game sales, find the average rate of change, estimate sales for a specific day, and explain the limitations of the model."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about functions and their properties?",
+    "What is an inverse function and how can you determine if a function has an inverse?",
+    "How can you create a model to represent a real-world scenario?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of functions and their properties. How did this mission help you better understand the application of functions in real-world scenarios?",
+  "ai_tutor_prompts": [
+    "Can you explain your reasoning for your answer?",
+    "How did you determine the end behavior of the function g?",
+    "What factors did you consider when creating the model for the video game sales?"
+  ],
+  "remix_zone": "Consider a different real-world scenario. How would you create a model to represent this scenario? What factors would you need to consider?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

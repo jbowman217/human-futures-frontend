@@ -1,0 +1,41 @@
+{
+  "title": "Personal Finance: A Multidisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can the principles of economics, geometry, statistics, health, ethics, and algebra be applied to personal finance decisions?",
+  "short_background_context": "Personal finance is a critical life skill, yet it is often overlooked in traditional education. This mission is based on the 'Standard' Personal Finance Curriculum developed by the Federal Reserve Banks of Atlanta and St. Louis. It covers key aspects of personal finance such as decision-making, earning income, and buying goods and services. The mission integrates various subjects to provide a holistic understanding of personal finance. For example, you will use algebra and statistics to analyze financial data, apply ethical considerations to financial decisions, and use geometry to visualize financial trends.",
+  "tasks": [
+    {
+      "task_1": "Analyze different income sources and create a personal budget using algebraic equations and statistical analysis."
+    },
+    {
+      "task_2": "Investigate the ethical implications of financial decisions and develop a code of ethics for personal finance."
+    },
+    {
+      "task_3": "Use geometric principles to create graphs that visualize personal spending habits and financial trends."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about personal finance?",
+    "How do you think different subjects like algebra or ethics might relate to personal finance?",
+    "What skills do you think are important for managing personal finances?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of personal finance has changed. How can you apply what you've learned to your own financial decisions?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular approach?",
+    "How does this concept relate to what we learned earlier?",
+    "What would happen if we changed this variable in the equation?"
+  ],
+  "remix_zone": "Students could remix this problem by applying the principles learned to different financial scenarios, such as planning for college expenses or starting a small business.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

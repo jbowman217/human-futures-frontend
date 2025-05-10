@@ -1,0 +1,33 @@
+{
+  "title": "New York State Mathematics Test Analysis",
+  "grade_band": "Grade 7",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and understand the structure and demands of the New York State Mathematics Test?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These tests are designed with multiple-choice questions, short-response questions, and extended-response questions, each assessing different aspects of mathematical understanding and application. The questions are often framed within the context of real-world applications and require students to complete multiple steps, drawing on the simultaneous application of multiple skills and concepts.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the 2019 test and identify the mathematical concepts and skills they are designed to assess.",
+    "Choose a short-response question from the 2019 test and explain the steps required to solve it, identifying the mathematical concepts and skills involved.",
+    "Choose an extended-response question from the 2019 test and break down the tasks involved in solving it. Explain how it assesses understanding of mathematical procedures, conceptual understanding, and application."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the structure of the New York State Mathematics Test?",
+    "What mathematical concepts and skills do you think the test is designed to assess?",
+    "How do you think the test questions are designed to assess these concepts and skills?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the structure and demands of the New York State Mathematics Test has changed after completing this mission. What new insights have you gained?",
+  "ai_tutor_prompts": [
+    "Can you explain why you think this question is designed to assess these particular skills and concepts?",
+    "How does the context of the question relate to the mathematical concepts and skills being assessed?",
+    "Can you identify any other skills or concepts that might be relevant to solving this question?"
+  ],
+  "remix_zone": "Students could remix this problem by designing their own test questions that assess the same mathematical concepts and skills, or by analyzing test questions from a different year or a different state.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

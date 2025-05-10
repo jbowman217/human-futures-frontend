@@ -1,0 +1,32 @@
+{
+  "title": "Bias in Data Collection: A Case Study in Activity Tracking",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics"
+  ],
+  "driving_question": "How can bias be introduced in data collection and how can it be mitigated?",
+  "short_background_context": "The AP\u00ae Statistics exam in 2021 included a question about potential bias in data collection methods. The question focused on the difference between self-reported data from daily journals and data collected via activity trackers. The question highlighted the potential for bias due to inaccurate or incomplete memory of subjects, which could lead to underreporting or overreporting of daily miles walked. This mission will explore this case in more detail, allowing you to understand the concept of bias in data collection and how to mitigate it.",
+  "tasks": [
+    "Analyze the AP\u00ae Statistics question and identify the potential biases in both data collection methods.",
+    "Design an experiment that would test the accuracy of self-reported data against data collected via activity trackers.",
+    "Discuss the ethical implications of using self-reported data when more accurate methods are available."
+  ],
+  "pre_thinking_prompts": [
+    "What are some potential sources of bias in self-reported data?",
+    "How might an activity tracker provide more accurate data?",
+    "What ethical considerations are there when choosing a data collection method?"
+  ],
+  "reflection_prompt": "Reflect on the biases you identified in the data collection methods. How did this mission change your understanding of the importance of data collection methods in research?",
+  "ai_tutor_prompts": [
+    "Can you think of any other potential sources of bias in this case?",
+    "Why might an activity tracker not always be the best choice for data collection?",
+    "How might the ethical implications change depending on the context of the research?"
+  ],
+  "remix_zone": "Consider a different scenario where data is being collected, such as a survey on dietary habits. How might similar biases be introduced, and how could they be mitigated?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Understanding the Regents Examination in Algebra II",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand and apply the principles of the Regents Examination in Algebra II?",
+  "short_background_context": "The New York State Education Department conducts the Regents Examination in Algebra II, which is a high-stakes test for high school students. The exam includes constructed-response questions that require students to apply their knowledge of algebra, statistics, economics, and geometry. The scoring process for this exam is rigorous and involves multiple teachers to ensure fairness and accuracy. The education department provides a Model Response Set to guide scoring. This mission will help you understand the examination process and apply your knowledge to solve similar problems.",
+  "tasks": [
+    {
+      "task_1": "Review the Model Response Set provided by the New York State Education Department and identify the key elements that contribute to a high-scoring response."
+    },
+    {
+      "task_2": "Create your own constructed-response question that could potentially appear on the Regents Examination in Algebra II. Ensure the question requires the application of algebra, statistics, economics, and geometry."
+    },
+    {
+      "task_3": "Answer your own constructed-response question and self-score your response using the principles provided in the Model Response Set."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the Regents Examination in Algebra II?",
+    "What are some key elements of a high-scoring response?",
+    "How can you create a question that requires the application of multiple subjects?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating and answering your own question. How did you apply your knowledge of algebra, statistics, economics, and geometry? How did the scoring process help you understand the expectations of the Regents Examination?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose the elements you did for your question?",
+    "How might you improve your response to achieve a higher score?",
+    "What strategies did you use to integrate multiple subjects into your question?"
+  ],
+  "remix_zone": "Students can swap their questions with a peer and score each other's responses using the Model Response Set principles. They can then discuss their scoring decisions and provide constructive feedback.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Understanding and Applying Geometry in Real Life",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the principles of geometry to solve real-world problems?",
+  "short_background_context": "Geometry is a branch of mathematics that deals with the properties and relationships of shapes and spaces. It is a subject that has been studied for thousands of years and has applications in many areas of life, from architecture and art to economics and statistics. In this mission, we will delve into the principles of geometry and explore how they can be used to solve problems in the real world. We will use the Regents Examination in Geometry as a guide, which is a high school examination administered by the New York State Education Department. This examination is designed to assess students' understanding of geometry and their ability to apply its principles in various scenarios.",
+  "tasks": [
+    "Analyze and interpret the rubrics for the constructed-response questions on the Regents Examination in Geometry.",
+    "Apply the principles of geometry to solve a real-world problem. This could involve designing a building, planning a city, or analyzing economic data.",
+    "Reflect on the process of applying geometry to solve a real-world problem and evaluate the effectiveness of your solution."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about geometry?",
+    "How do you think geometry can be applied in the real world?",
+    "What challenges do you anticipate in applying geometry to solve real-world problems?"
+  ],
+  "reflection_prompt": "Reflect on your experience of applying geometry to solve a real-world problem. What did you learn? What challenges did you face and how did you overcome them? How can you apply what you learned in future tasks?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this approach to solve the problem?",
+    "How does this principle of geometry apply to the problem you are trying to solve?",
+    "What other solutions could you consider?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing a different real-world context in which to apply the principles of geometry. For example, they could design a park, plan a road network, or analyze demographic data.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

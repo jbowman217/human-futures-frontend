@@ -1,0 +1,31 @@
+{
+  "title": "Understanding Convergence in Series",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we determine the convergence of a series and what implications does it have in real-world scenarios?",
+  "short_background_context": "In mathematics, particularly in calculus, the concept of a series converging is a fundamental one. A series is said to converge if the sum of its terms approaches a certain finite limit. On the other hand, if the sum of the terms of a series does not approach a finite limit, the series is said to diverge. In this mission, we will explore the Maclaurin series and use various tests, such as the integral test and limit comparison test, to determine the convergence of a series. Understanding this concept can have significant implications in various fields, including economics, where series are used to model and predict economic behaviors.",
+  "tasks": [
+    "Task 1: State the conditions necessary to use the integral test to determine convergence of the series.",
+    "Task 2: Use the integral test to show that the series converges.",
+    "Task 3: Use the limit comparison test with the series to show that the series converges absolutely."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the term 'convergence' in mathematics?",
+    "What is the integral test and how can it be used to determine the convergence of a series?",
+    "What is the limit comparison test and how can it be used to determine the convergence of a series?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the concept of convergence and the tests used to determine it. How can you apply this knowledge in real-world scenarios?",
+  "ai_tutor_prompts": [
+    "Can you explain why the conditions for the integral test are necessary?",
+    "What would happen if the series did not meet the conditions for the integral test?",
+    "Why is it important to show that the series converges absolutely?"
+  ],
+  "remix_zone": "Students can remix this problem by considering different series and applying the integral test and limit comparison test to determine their convergence. They can also explore other tests for convergence and compare their effectiveness.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

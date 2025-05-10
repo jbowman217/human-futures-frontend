@@ -1,0 +1,33 @@
+{
+  "title": "AP Statistics: Hospital Stay Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics",
+    "Economics"
+  ],
+  "driving_question": "How can we use statistical methods to analyze and understand the distribution of hospital stay lengths after a particular treatment?",
+  "short_background_context": "Healthcare providers, insurance companies, and patients are all interested in the length of hospital stays following specific treatments. Understanding these durations can help in planning, cost estimation, and patient care. In this mission, you will analyze a random sample of 50 patients who received a particular treatment. The length of stay, in number of days, was recorded for each patient. You will use various statistical methods to interpret this data and answer related questions.",
+  "tasks": [
+    "Task 1: Determine the five-number summary of the distribution of length of stay.",
+    "Task 2: Calculate the mean and standard deviation of the length of stay.",
+    "Task 3: Interpret the calculated statistics in the context of the problem."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the five-number summary in statistics?",
+    "How would you calculate the mean and standard deviation of a data set?",
+    "Why might these statistics be important to patients, hospitals, and insurance providers?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the statistical methods applied in this mission has deepened. How might these methods be useful in other real-world contexts?",
+  "ai_tutor_prompts": [
+    "Can you explain why the five-number summary is important in understanding a data set?",
+    "How does the standard deviation relate to the spread of the data?",
+    "What might be some implications of a high or low mean length of stay?"
+  ],
+  "remix_zone": "Consider a different healthcare scenario, such as recovery times after a different type of treatment, or lengths of stay in a different kind of healthcare facility. How might the statistics differ, and why?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

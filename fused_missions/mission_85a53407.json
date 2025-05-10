@@ -1,0 +1,33 @@
+{
+  "title": "Algebra II Regents Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic, statistical, economic, and geometric concepts to solve real-world problems?",
+  "short_background_context": "This mission is based on the New York State Regents High School Examination for Algebra II. The examination tests students' understanding of Algebra II concepts and their application in different contexts. It includes multiple-choice questions and tasks that require students to apply algebraic formulas, interpret graphs, and analyze data. Students will need to use a graphing calculator and a straightedge (ruler) to complete some tasks. The examination emphasizes the importance of demonstrating the necessary steps to arrive at an answer, including appropriate formula substitutions, diagrams, graphs, charts, etc.",
+  "tasks": [
+    {
+      "task": "Use the compound interest formula to calculate the amount of money in a savings account after a certain number of years."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about observational studies, experiments, surveys, and censuses?",
+    "How can you tell from a graph where a function is positive or negative?",
+    "What is the compound interest formula and how do you use it?"
+  ],
+  "reflection_prompt": "What did you learn about applying algebraic, statistical, economic, and geometric concepts to solve problems? How can these skills be useful in real-world situations?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that type of study for the grocery store scenario?",
+    "What features of the graph helped you determine where the function is positive?",
+    "How did you substitute the values into the compound interest formula?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own real-world scenarios that require the application of algebraic, statistical, economic, or geometric concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

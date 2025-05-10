@@ -1,0 +1,31 @@
+{
+  "title": "Exploring Physics: From Kinematics to Gravitation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Physics",
+    "Mathematics"
+  ],
+  "driving_question": "How can we apply mathematical concepts to understand and solve real-world physics problems?",
+  "short_background_context": "Physics is a branch of science that studies matter and its motion through space and time, along with related concepts such as energy and force. It is fundamental to our understanding of the world around us. This mission will dive into various topics of physics, from kinematics to gravitation, and explore how these concepts apply to real-world scenarios. You will be using mathematical concepts from algebra and geometry to solve problems and understand these physics concepts better. This mission is based on the AP Physics 1 Practice Workbook, which is a comprehensive resource for understanding and practicing physics concepts.",
+  "tasks": [
+    "Analyze and solve multiple choice and free response questions on kinematics, dynamics, and torque.",
+    "Investigate the concepts of work, power, energy, momentum, and impulse through problem-solving tasks.",
+    "Explore rotational motion and gravitation, and apply your understanding to solve complex physics problems."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about these physics topics?",
+    "How do you think these concepts apply in the real world?",
+    "What mathematical concepts do you think will be most useful in solving these physics problems?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of these physics concepts. How has your understanding improved? What concepts were most challenging and why?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "How does this concept relate to the real-world scenario?",
+    "Could there be another way to solve this problem? What other mathematical concepts could you apply?"
+  ],
+  "remix_zone": "Students could remix the problem by applying these physics concepts to different real-world scenarios, such as the movement of a roller coaster or the orbit of a planet.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

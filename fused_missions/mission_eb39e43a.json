@@ -1,0 +1,32 @@
+{
+  "title": "Understanding New York State Mathematics Tests",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand and analyze the structure of New York State Mathematics Tests to improve our mathematical skills and performance?",
+  "short_background_context": "The New York State Education Department releases large portions of the state Mathematics test materials for review, discussion, and use. These materials include multiple-choice questions, one-credit, two-credit, and three-credit constructed-response questions. These questions are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics, which include standard algorithms, conceptual standards, and mathematical practices. Many of these questions require students to complete multiple steps, apply multiple mathematical skills, and understand real-world applications. Understanding these questions and their structure can help students improve their mathematical skills and performance.",
+  "tasks": [
+    "Analyze the structure of the multiple-choice questions and identify the mathematical skills and concepts they assess.",
+    "Analyze the structure of the one-credit, two-credit, and three-credit constructed-response questions and identify the mathematical skills and concepts they assess.",
+    "Create your own multiple-choice and constructed-response questions that assess the same mathematical skills and concepts."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical skills and concepts do you think the multiple-choice questions assess?",
+    "What mathematical skills and concepts do you think the constructed-response questions assess?",
+    "What real-world applications can you think of that could be used in these questions?"
+  ],
+  "reflection_prompt": "How has this mission helped you understand the structure of the New York State Mathematics Tests and the mathematical skills and concepts they assess? How will this understanding help you improve your mathematical skills and performance?",
+  "ai_tutor_prompts": [
+    "Can you explain why you think these mathematical skills and concepts are assessed in the multiple-choice questions?",
+    "Can you explain why you think these mathematical skills and concepts are assessed in the constructed-response questions?",
+    "How did you decide on the real-world applications to use in your own questions?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own mathematics test that assesses the same mathematical skills and concepts, or by researching and analyzing the structure of mathematics tests from other states or countries.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

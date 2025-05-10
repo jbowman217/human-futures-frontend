@@ -1,0 +1,31 @@
+{
+  "title": "AP Computer Science: Digits Class",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we manipulate and analyze numerical data using object-oriented programming?",
+  "short_background_context": "In this mission, you will be working with a class called 'Digits' from an AP Computer Science A free-response question. This class represents a non-negative integer and contains methods for constructing the object and determining whether the digits in the number are in strictly increasing order. This mission will require you to think critically about how to manipulate and analyze numerical data using object-oriented programming principles. You will be writing code, debugging, and testing your solutions to ensure they meet the requirements of the task.",
+  "tasks": [
+    "Task 1: Write the constructor for the Digits class. The constructor should initialize and fill the 'digitList' with the digits from the non-negative integer 'num'. The elements in 'digitList' must be Integer objects representing single digits, and appear in the same order as the digits in 'num'.",
+    "Task 2: Write the 'isStrictlyIncreasing' method for the Digits class. This method should return true if the digits in the Digits object are in strictly increasing order, and false otherwise.",
+    "Task 3: Test your methods using the provided test cases. Make sure your methods return the expected results for each test case."
+  ],
+  "pre_thinking_prompts": [
+    "How can you break down a number into its individual digits?",
+    "What does it mean for a sequence of numbers to be in strictly increasing order?",
+    "How can you use a loop to check if the digits in a number are in strictly increasing order?"
+  ],
+  "reflection_prompt": "What challenges did you encounter while completing this mission and how did you overcome them? What did you learn about manipulating and analyzing numerical data in programming?",
+  "ai_tutor_prompts": [
+    "Can you explain your approach to breaking down the number into its individual digits?",
+    "How did you ensure that the digits were added to 'digitList' in the correct order?",
+    "Can you explain your approach to checking if the digits are in strictly increasing order?"
+  ],
+  "remix_zone": "Try modifying the 'Digits' class to include additional methods. For example, you could add a method that returns the sum of the digits, or a method that reverses the order of the digits.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

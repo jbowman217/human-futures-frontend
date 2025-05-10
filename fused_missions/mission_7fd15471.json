@@ -1,0 +1,31 @@
+{
+  "title": "Algorithmic Thinking: Phrase Editor",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use algorithms to manipulate and analyze text data?",
+  "short_background_context": "In the field of computer science, algorithms are used to solve problems and perform tasks. One common task is manipulating and analyzing text data, which involves operations like finding occurrences of a string, replacing them, and more. In this mission, you will be working on a 'Phrase Editor', a program that manipulates text data. You will be using the AP Computer Science A 2017 Scoring Guidelines as a reference to understand the problem and create your own solutions.",
+  "tasks": [
+    "Task 1: Write an algorithm to replace the nth occurrence of a given string with a given replacement in a text.",
+    "Task 2: Write an algorithm to find the index of the last occurrence of a given string in a text.",
+    "Task 3: Apply the algorithms you've written to a real-world economic text data to identify and replace specific terms."
+  ],
+  "pre_thinking_prompts": [
+    "What is an algorithm and how is it used in computer science?",
+    "What steps might be involved in finding the nth occurrence of a string in a text?",
+    "How might you modify this process to find the last occurrence of a string?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating these algorithms. What challenges did you face and how did you overcome them? How can these algorithms be applied in other contexts?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process behind the algorithm you wrote?",
+    "What would happen if we changed the nth occurrence to a different number?",
+    "How might your algorithm handle a text that doesn't contain the string you're looking for?"
+  ],
+  "remix_zone": "Try applying your algorithms to different types of text data, like a novel or a news article. How might the results differ?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

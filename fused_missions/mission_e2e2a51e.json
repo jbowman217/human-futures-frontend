@@ -1,0 +1,32 @@
+{
+  "title": "Complex Numbers in Algebra and Statistics",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics"
+  ],
+  "driving_question": "How can we apply complex numbers in real-world situations and evaluate the ethical implications?",
+  "short_background_context": "The concept of complex numbers is a fundamental part of Algebra, and its applications extend to various fields, including Statistics. In this mission, we will explore the use of complex numbers in Algebra, their statistical applications, and the ethical considerations involved in their use. This mission is based on a Regents High School Examination in Algebra II from the University of the State of New York. The exam involves a series of questions that require clear indication of necessary steps, including appropriate formula substitutions, diagrams, graphs, charts, and more.",
+  "tasks": [
+    "Simplify the expression (x + 2i)(3 - 2xi) + 2x2i, where x is a real number, and express the result in the form a + bi.",
+    "Create a real-world problem that could be represented by the expression (x + 2i)(3 - 2xi) + 2x2i and solve it.",
+    "Discuss the ethical implications of using complex numbers in real-world situations, such as in engineering or computer science."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about complex numbers?",
+    "How are complex numbers used in real-world situations?",
+    "What ethical considerations might be involved in the use of complex numbers?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of complex numbers before and after this mission. How have your views on the application and ethics of complex numbers changed?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose those steps to simplify the expression?",
+    "What assumptions did you make in creating your real-world problem?",
+    "Can you provide more examples of the ethical implications of using complex numbers?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own complex number expressions and real-world problems that they represent. They could also research and discuss additional ethical considerations in different fields.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

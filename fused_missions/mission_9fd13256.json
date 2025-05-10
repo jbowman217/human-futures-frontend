@@ -1,0 +1,34 @@
+{
+  "title": "Regents Examination in Algebra II: A Deep Dive",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply Algebra II concepts to solve real-world problems and understand the scoring system of the Regents Examination?",
+  "short_background_context": "The University of the State of New York conducts the Regents Examination in Algebra II, a high-stakes test that evaluates students' understanding of advanced algebraic concepts. The scoring of this examination is meticulous, involving a minimum of three mathematics teachers per student's paper. The scoring process is not just about correct answers; it also includes the application of mathematical principles and the ability to solve problems in multiple ways. This mission will explore the intricacies of the Regents Examination in Algebra II, its scoring process, and the application of Algebra II concepts in various contexts.",
+  "tasks": [
+    "Analyze the scoring process of the Regents Examination in Algebra II and write a report detailing your understanding of it.",
+    "Create a set of Algebra II problems that could potentially appear on the Regents Exam. Include solutions and explanations for each problem.",
+    "Develop a scoring rubric for your created problems, taking into account the guidelines provided by the University of the State of New York."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the Regents Examination in Algebra II?",
+    "What are some of the key components of a scoring rubric for a mathematics examination?",
+    "How can you apply Algebra II concepts to create challenging problems?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the scoring process of the Regents Examination in Algebra II. How has this mission helped you better understand the application of Algebra II concepts?",
+  "ai_tutor_prompts": [
+    "Can you explain why the scoring process of the Regents Examination in Algebra II involves at least three mathematics teachers?",
+    "How did you ensure that your created problems cover a range of Algebra II concepts?",
+    "Can you explain the reasoning behind your scoring rubric?"
+  ],
+  "remix_zone": "Students could remix this problem by creating a mock Regents Examination in Algebra II, complete with a scoring guide and model responses. They could also apply the scoring process to other subjects or create a digital tool to automate the scoring process.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Exploring Algebra II Examination Patterns",
+  "grade_band": "9-12",
+  "subjects": [
+    "Interdisciplinary"
+  ],
+  "driving_question": "How can we analyze the pattern of question types and scoring keys in the Algebra II examination to predict and prepare for future exams?",
+  "short_background_context": "The New York State Education Department conducts the Regents Examination in Algebra II, which plays a crucial role in assessing students' understanding of the subject. The exam consists of multiple-choice (MC) and constructed-response (CR) questions, each carrying different credit points. The scoring keys for these questions are provided on the day of the examination. In this mission, we will analyze the pattern of question types and scoring keys from the January 2025 exam to better understand the structure and scoring of the exam, and to predict and prepare for future exams.",
+  "tasks": [
+    {
+      "task_1": "Analyze the distribution of MC and CR questions in the January 2025 exam. Create a graph to represent this distribution."
+    },
+    {
+      "task_2": "Investigate the scoring keys for the MC questions. Identify any patterns or trends."
+    },
+    {
+      "task_3": "Predict the distribution of MC and CR questions and the scoring keys for the next exam based on your analysis."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What patterns do you notice in the distribution of MC and CR questions?",
+    "Do you see any trends in the scoring keys for the MC questions?",
+    "How might these patterns help us predict the structure of future exams?"
+  ],
+  "reflection_prompt": "Reflect on your analysis and predictions. How confident are you in your predictions? What did you learn about the structure and scoring of the Algebra II exam?",
+  "ai_tutor_prompts": [
+    "What factors did you consider when analyzing the distribution of question types?",
+    "How did you interpret the scoring keys for the MC questions?",
+    "Can you explain your reasoning behind your predictions for the next exam?"
+  ],
+  "remix_zone": "Students could remix this problem by analyzing the distribution of question types and scoring keys in other subject exams or in exams from previous years.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

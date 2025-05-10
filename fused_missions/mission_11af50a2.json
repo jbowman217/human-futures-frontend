@@ -1,0 +1,32 @@
+{
+  "title": "AP Computer Science A: 2D Array Exploration",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we manipulate and analyze 2D arrays in computer science?",
+  "short_background_context": "In computer science, arrays are a fundamental data structure used to store and manipulate collections of items. A 2D array, or two-dimensional array, is essentially an array of arrays. It can be visualized as a grid (like a chessboard), where each cell is an element that can store a value. In this mission, we'll explore the AP Computer Science A 2022 scoring guidelines for a problem involving 2D arrays. We'll delve into the tasks of repopulating a 2D array and counting increasing columns, using the provided canonical solution as a guide.",
+  "tasks": [
+    "Analyze the 'repopulate' function in the canonical solution. What is its purpose? What does it do to the 2D array?",
+    "Study the 'countIncreasingCols' function. How does it traverse the 2D array? What does it return and why?",
+    "Create your own 2D array and apply the 'repopulate' and 'countIncreasingCols' functions to it. What results do you get? Can you explain why?"
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by a 2D array?",
+    "How do you think a 2D array can be traversed?",
+    "What could be the possible applications of 2D arrays?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of 2D arrays before and after this mission. What new insights have you gained? How can these insights be applied in different contexts?",
+  "ai_tutor_prompts": [
+    "Can you explain why the 'repopulate' function uses a while loop inside the nested for loops?",
+    "What would happen if the 'ordered' variable in the 'countIncreasingCols' function was not reset to true for each column?",
+    "How would you modify the 'countIncreasingCols' function to count decreasing columns instead?"
+  ],
+  "remix_zone": "Try modifying the 'repopulate' function to populate the 2D array with different values. For example, you could try populating it with prime numbers, or numbers in a certain range. How does this change the output of the 'countIncreasingCols' function?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

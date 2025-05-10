@@ -1,0 +1,32 @@
+{
+  "title": "Understanding New York State Mathematics Test Questions",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we interpret and solve different types of questions from the New York State Mathematics Test?",
+  "background_context": "The New York State Education Department administers Mathematics Tests yearly, releasing approximately 75% of the questions for review. These questions are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics. The questions are often framed within real-world applications and require students to apply multiple skills and concepts. There are multiple-choice questions, one-credit, two-credit, and three-credit constructed-response questions, each requiring different levels of understanding and application of mathematical procedures and concepts.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the New York State Mathematics Test and identify the skills and concepts being assessed.",
+    "Examine a one-credit constructed-response question, describe the steps needed to solve it, and provide the final answer.",
+    "Choose a two-credit or three-credit constructed-response question, show your work in solving it, and explain the mathematical procedures and concepts applied."
+  ],
+  "pre_thinking_prompts": [
+    "What types of questions are you familiar with on the New York State Mathematics Test?",
+    "What skills and concepts do you think are important for solving these questions?",
+    "How do you approach solving a multi-step mathematics problem?"
+  ],
+  "reflection_prompt": "Reflect on the process of solving these questions. What strategies were most effective? What areas do you need to improve on?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "How does this concept apply to the problem?",
+    "What other strategies could you have used to solve this question?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own multiple-choice or constructed-response questions that align with the New York State P\u201312 Next Generation Learning Standards for Mathematics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

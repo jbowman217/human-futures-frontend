@@ -1,0 +1,32 @@
+{
+  "title": "Toll Plaza Traffic Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use calculus to model and analyze real-world situations such as traffic flow at a toll plaza?",
+  "short_background_context": "In this mission, you will be analyzing the traffic flow at a toll plaza. The rate at which vehicles arrive at the toll plaza is given by a function A(t) = 450 sin (0.62t), where t is the number of hours after 5 A.M. and A(t) is measured in vehicles per hour. Traffic is flowing smoothly at 5 A.M. with no vehicles waiting in line. You will be using calculus to determine the total number of vehicles that arrive at the toll plaza from 6 A.M. to 10 A.M., find the average rate of vehicle arrival, and determine whether the arrival rate is increasing or decreasing at 6 A.M.",
+  "tasks": [
+    "Write an integral expression that gives the total number of vehicles that arrive at the toll plaza from 6 A.M. to 10 A.M.",
+    "Find the average value of the rate, in vehicles per hour, at which vehicles arrive at the toll plaza from 6 A.M. to 10 A.M.",
+    "Determine if the rate at which vehicles arrive at the toll plaza at 6 A.M. is increasing or decreasing. Provide a reason for your answer."
+  ],
+  "pre_thinking_prompts": [
+    "What does the function A(t) represent?",
+    "How can you use an integral to find the total number of vehicles?",
+    "What does it mean for the rate of vehicle arrival to be increasing or decreasing?"
+  ],
+  "reflection_prompt": "What did you learn about how calculus can be used to analyze real-world situations? How did your understanding of the concepts of integrals and rates of change deepen through this mission?",
+  "ai_tutor_prompts": [
+    "Remember to consider the limits of integration when writing your integral expression.",
+    "When finding the average rate, don't forget to divide by the length of the interval.",
+    "Think about what it means for a rate to be increasing or decreasing. How can you determine this from the function A(t)?"
+  ],
+  "remix_zone": "Consider a different toll plaza where the rate of vehicle arrival is given by a different function. How would your calculations change? What if the toll plaza started with some vehicles already in line at 5 A.M.?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

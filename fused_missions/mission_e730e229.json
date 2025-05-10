@@ -1,0 +1,39 @@
+{
+  "title": "Understanding Computer Science Standards: A Cross-Disciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics",
+    "Economics"
+  ],
+  "driving_question": "How can the understanding of computer science standards be applied in Algebra, Statistics, Ethics, and Economics?",
+  "short_background_context": "The Computer Science Teachers Association (CSTA) has developed K-12 Computer Science Standards to guide the learning journey of students in the field of computing. These standards cover a wide range of concepts from understanding how computing systems work, to troubleshooting, network communication, cybersecurity, and data analysis. Each of these areas has implications in other subjects such as Algebra, Statistics, Ethics, and Economics. The mission is to explore these connections and understand how computer science standards can be applied in these subjects.",
+  "tasks": [
+    {
+      "task": "Analyze the CSTA standards and identify how they relate to Algebra and Statistics. Create a presentation explaining your findings."
+    },
+    {
+      "task": "Examine the ethical implications of the cybersecurity standards mentioned in the CSTA guidelines. Write an essay discussing your thoughts."
+    },
+    {
+      "task": "Explore how the data analysis standards can be applied in the field of Economics. Develop a case study illustrating this."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are some ways that computer science intersects with Algebra and Statistics?",
+    "How might the ethical considerations in cybersecurity standards apply to real-world scenarios?",
+    "In what ways can data analysis standards be used in Economics?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the CSTA standards before and after this mission. How has your perspective on the cross-disciplinary nature of computer science changed?",
+  "ai_tutor_prompts": [
+    "Can you think of any other ways that these subjects might intersect with computer science?",
+    "How might understanding these standards influence your approach to problem-solving in these other subjects?",
+    "What are some potential challenges in applying these standards to other fields, and how might you overcome them?"
+  ],
+  "remix_zone": "Students could remix this problem by exploring how the CSTA standards could apply to other subjects not covered in this mission, such as Physics or Art.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

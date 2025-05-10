@@ -1,0 +1,30 @@
+{
+  "mission": {
+    "title": "Is GDP Becoming Obsolete? The \u201cBeyond GDP\u201d Debate",
+    "grade_band": "University",
+    "subjects": [
+      "Economics",
+      "Statistics"
+    ],
+    "driving_question": "Is GDP a persuasive indicator of individual well-being or economic progress? Should we replace GDP with a metric that better reflects the welfare dimension?",
+    "tasks": [
+      "Read the research paper",
+      "Summarize the main arguments",
+      "Propose a new metric that could replace or complement GDP",
+      "Discuss the implications of this new metric"
+    ],
+    "pre_thinking_prompts": [
+      "What is GDP and why is it important?",
+      "What are some criticisms of GDP as a measure of economic health?",
+      "What other metrics could be used to measure economic progress and individual well-being?"
+    ],
+    "reflection_prompt": "Reflect on the limitations of GDP and the potential benefits and drawbacks of your proposed metric.",
+    "ai_tutor_prompts": [
+      "Explain the concept of GDP in your own words.",
+      "What are some potential issues with using GDP as the sole measure of economic health?",
+      "Describe your proposed metric and how it addresses the limitations of GDP."
+    ],
+    "remix_zone": "Consider how this discussion might change if we were considering a different country or economic system.",
+    "display_fields": "title, grade_band, subjects, driving_question, tasks, pre_thinking_prompts, reflection_prompt, ai_tutor_prompts, remix_zone"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Applying Mathematics to Real-World Problems",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply mathematical concepts to solve real-world problems in different sectors such as economics, climate, health, and technology?",
+  "short_background_context": "In 2015, New York State began a process of review and revision of its current mathematics standards. The new standards, known as the New York State Next Generation Mathematics Learning Standards (2017), were developed with the aim of preparing students for a world that is increasingly dependent on the application of mathematics. The standards are designed to be rigorous, demanding a balance of conceptual understanding, procedural fluency, and application. They represent a significant level of achievement in mathematics that will enable students to successfully transition to post-secondary education and the workforce. Today, we live in a knowledge-based economy that demands advanced literacy and STEM skills. This mission will help you apply mathematical concepts to solve real-world problems in different sectors such as economics, climate, health, and technology.",
+  "tasks": [
+    "Analyze a real-world problem in the field of your choice and identify the mathematical concepts that can be applied to solve it.",
+    "Develop a model using appropriate mathematical tools to solve the problem.",
+    "Critique the reasoning of others in your class and construct viable arguments for your own solution."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world problems that you are interested in?",
+    "What mathematical concepts do you think can be applied to solve these problems?",
+    "What tools will you need to develop a model for your solution?"
+  ],
+  "reflection_prompt": "Reflect on how you applied mathematical concepts to solve a real-world problem. What did you learn? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this particular problem?",
+    "Why did you choose these mathematical concepts to solve the problem?",
+    "Can you explain how your model works?",
+    "How can you be sure that your solution is correct?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different real-world problem, using different mathematical concepts, or developing a different model for their solution.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

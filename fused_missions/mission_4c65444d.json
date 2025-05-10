@@ -1,0 +1,31 @@
+{
+  "title": "AP Statistics: Sampling and Experimental Design",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can you design a study to examine the impact of autopilot on car mileage?",
+  "short_background_context": "In this mission, we will explore the principles of sampling and experimental design using a real-world scenario. The scenario involves a study where car owners are asked to estimate their mileage. The study is observational, as the car owners were not randomly assigned a car model and no treatment was imposed. We will delve into the criteria for scoring such a study and how to correctly implement a random process in experimental design. The goal is to understand how to create a study that is both reliable and valid, while also considering the practical constraints of real-world research.",
+  "tasks": [
+    "Identify the type of study (observational or experimental) and provide a justification.",
+    "Design a random process for assigning treatments (with autopilot and without autopilot) for a 70-day period.",
+    "Explain how your design ensures that every possible random assignment is equally likely."
+  ],
+  "pre_thinking_prompts": [
+    "What is the difference between an observational study and an experimental study?",
+    "What factors need to be considered when designing a random process for assigning treatments?",
+    "How can you ensure that your design is fair and unbiased?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of observational studies and experimental design. How confident are you in designing a study now compared to before this mission?",
+  "ai_tutor_prompts": [
+    "Can you explain why you identified the study as observational or experimental?",
+    "Why did you choose this particular method for assigning treatments?",
+    "How does your design ensure that every possible random assignment is equally likely?"
+  ],
+  "remix_zone": "Consider a different scenario where you need to assign treatments to a group of subjects. How would you adapt your design to fit this new context?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

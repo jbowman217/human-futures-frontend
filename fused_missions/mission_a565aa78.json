@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra II: A Deep Dive",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply your knowledge of Algebra II, Statistics, Economics, and Geometry to successfully navigate the Regents Examination?",
+  "short_background_context": "The Regents Examination in Algebra II is a comprehensive test administered by the New York State Education Department that assesses students' knowledge and understanding of Algebra II concepts. The exam is scored based on a rubric, which provides a systematic and consistent method for awarding credit. The scoring process involves multiple teachers and includes both raw and scale scores. This mission will provide you with an opportunity to delve deep into the examination process, understand the scoring mechanism, and apply your knowledge in Algebra II, Statistics, Economics, and Geometry to solve complex problems.",
+  "tasks": [
+    "Analyze the scoring rubric for the Regents Examination in Algebra II and discuss its key components.",
+    "Solve constructed-response questions that may appear in the examination. Remember, mathematically correct variations in the answers will be allowed.",
+    "Convert raw scores into scale scores using a given conversion chart."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the Regents Examination in Algebra II?",
+    "What strategies do you think would be helpful when tackling constructed-response questions?",
+    "How can understanding the scoring rubric benefit you in the examination?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the Regents Examination in Algebra II. How confident do you feel about tackling the exam? What areas do you think you need to improve upon?",
+  "ai_tutor_prompts": [
+    "Can you explain why it's important to understand the scoring rubric?",
+    "What strategies did you use to solve the constructed-response questions?",
+    "How did you ensure the accuracy of your raw to scale score conversion?"
+  ],
+  "remix_zone": "Students can remix this problem by creating their own constructed-response questions based on the topics covered in Algebra II, Statistics, Economics, and Geometry. They can also develop a mock Regents Examination for their peers to solve.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

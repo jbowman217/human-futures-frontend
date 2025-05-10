@@ -1,0 +1,37 @@
+{
+  "title": "Interdisciplinary Study: The Impact of Climate Change on Economics and Health",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How does climate change impact the economy and health, and what can be done to mitigate these effects?",
+  "short_background_context": "Climate change is a complex issue that affects various aspects of our lives. It's not just about the environment; it also has significant implications for our economy and health. Rising temperatures, extreme weather events, and rising sea levels can lead to property damage, increased healthcare costs, and changes in labor productivity. Understanding these impacts requires an interdisciplinary approach, combining knowledge from economics, health, statistics, and more. In this mission, you will investigate the economic and health impacts of climate change, explore potential solutions, and consider the ethical implications of our actions.",
+  "tasks": [
+    "Research and analyze data on the economic impacts of climate change. Create a statistical model to predict future economic trends based on climate change scenarios.",
+    "Investigate the health impacts of climate change. Use algebraic equations to represent the relationship between rising temperatures and health risks.",
+    "Develop a proposal for a climate change mitigation strategy, considering its economic feasibility, health benefits, and ethical implications. Use geometric principles to design a visual representation of your proposal."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the impacts of climate change on the economy and health?",
+    "What are some potential solutions to mitigate these impacts?",
+    "What ethical considerations come into play when dealing with climate change?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned. How has your understanding of the impacts of climate change on the economy and health evolved? What challenges did you face while completing the tasks, and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain how you derived your statistical model?",
+    "What assumptions did you make in your algebraic equations?",
+    "How did you consider the ethical implications in your proposal?"
+  ],
+  "remix_zone": "Students could remix this problem by focusing on a specific region or industry, investigating the impact of climate change on other aspects such as agriculture or biodiversity, or proposing alternative solutions.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

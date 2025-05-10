@@ -1,0 +1,37 @@
+{
+  "title": "Understanding and Addressing Mass Incarceration",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use interdisciplinary knowledge to understand and propose solutions to the issue of mass incarceration?",
+  "short_background_context": "Mass incarceration is a pressing issue in the United States, with the country having the highest rate of incarceration in the world. This problem is complex and multifaceted, involving aspects of economics, history, health, ethics, and more. In this mission, we will explore ideas from various leaders as presented in the book 'Ending Mass Incarceration: Ideas from Today\u2019s Leaders' edited by Inimai Chettiar and Priya Raghavan. We will use this resource to delve into the complexities of this issue and propose our own solutions.",
+  "tasks": [
+    "Analyze the economic implications of mass incarceration using statistical data and economic theory.",
+    "Examine the historical context of mass incarceration, considering factors such as policy changes, societal attitudes, and racial disparities.",
+    "Propose a comprehensive solution to mass incarceration, incorporating aspects of health, ethics, and algebraic calculations."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about mass incarceration?",
+    "What factors do you think contribute to this issue?",
+    "What potential solutions can you think of?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of mass incarceration before and after this mission. What new insights have you gained? What questions do you still have?",
+  "ai_tutor_prompts": [
+    "How does your solution address the economic implications of mass incarceration?",
+    "What historical factors have you considered in your analysis?",
+    "How does your solution uphold ethical standards and promote health?"
+  ],
+  "remix_zone": "Students could remix this problem by focusing on a specific aspect of mass incarceration, such as the impact on specific communities, the role of private prisons, or the effects of mass incarceration on families.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

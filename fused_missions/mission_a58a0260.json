@@ -1,0 +1,32 @@
+{
+  "title": "Gasoline Pump Calculus",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use calculus to model real-world situations such as the flow of gasoline into a tank?",
+  "short_background_context": "In this mission, we will be exploring a real-world scenario involving a customer at a gas station pumping gasoline into a gas tank. The rate of flow of gasoline is modeled by a differentiable function, f, where f(t) is measured in gallons per second and t is measured in seconds since pumping began. We will be using concepts from algebra, statistics, and economics to understand and solve problems related to this scenario.",
+  "tasks": [
+    "Interpret the meaning of the integral from 60 to 135 seconds of f(t) in the context of the problem. Use a right Riemann sum with the three subintervals [60, 90], [90, 120], and [120, 135] to approximate the value of the integral.",
+    "Determine if there must exist a value of c, for 60 < c < 120, such that f'(c) = 0. Justify your answer.",
+    "Calculate the total number of gallons of gasoline pumped into the gas tank from time t = 60 seconds to time t = 135 seconds."
+  ],
+  "pre_thinking_prompts": [
+    "What does the function f(t) represent in this scenario?",
+    "What are the subintervals [60, 90], [90, 120], and [120, 135] used for?",
+    "What does it mean for a function to be differentiable?"
+  ],
+  "reflection_prompt": "What did you learn about using calculus to model real-world scenarios? How can these concepts be applied to other real-world situations?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose those particular subintervals for the Riemann sum?",
+    "Why is it important to know if there exists a value of c such that f'(c) = 0?",
+    "How did you calculate the total number of gallons of gasoline pumped into the gas tank?"
+  ],
+  "remix_zone": "Consider a different scenario where the rate of flow of gasoline changes over time in a different way. How would you adjust the tasks to fit this new scenario?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

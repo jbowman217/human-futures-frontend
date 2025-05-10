@@ -1,0 +1,32 @@
+{
+  "title": "New York State Mathematics Test Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and understand the structure and content of the New York State Mathematics Test?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. The tests include multiple-choice questions, short-response questions, and extended-response questions, all of which are designed to assess a balanced combination of procedural and conceptual understanding. Many questions require multiple steps, the application of multiple mathematics skills, and real-world applications. This mission will involve analyzing the structure and content of these tests, and understanding the expectations and standards they are based on.",
+  "tasks": [
+    "Analyze and categorize a set of multiple-choice questions from the test based on the mathematical skills and concepts they assess.",
+    "Choose a short-response question from the test, solve it, and explain the steps and concepts involved in your solution.",
+    "Choose an extended-response question from the test, solve it, and explain your reasoning and the mathematical procedures, concepts, and applications you used."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical skills and concepts do you think the test questions will assess?",
+    "How do you think the different types of questions (multiple-choice, short-response, extended-response) will differ in terms of the skills and concepts they assess?",
+    "What strategies do you think will be useful for solving the test questions?"
+  ],
+  "reflection_prompt": "Reflect on your experience of analyzing and solving the test questions. What did you learn about the structure and content of the test, and the expectations and standards it is based on? How did the tasks challenge your understanding of the mathematical skills and concepts involved?",
+  "ai_tutor_prompts": [
+    "Can you explain why you categorized the multiple-choice questions in the way you did?",
+    "Can you explain the steps and concepts involved in your solution to the short-response question?",
+    "Can you explain your reasoning and the mathematical procedures, concepts, and applications you used in your solution to the extended-response question?"
+  ],
+  "remix_zone": "Students could remix this mission by choosing different test questions to analyze and solve, or by comparing the New York State Mathematics Test with mathematics tests from other states or countries.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

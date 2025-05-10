@@ -1,0 +1,32 @@
+{
+  "title": "Understanding and Applying Mathematical Concepts",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply mathematical concepts and procedures to solve real-world problems?",
+  "short_background_context": "The New York State Education Department administers Mathematics Tests every year and releases a significant portion of the questions for review and use. These questions are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics, which include both grade-level standards and the \u201cStandards for Mathematical Practices\u201d. The questions are often framed within the context of real-world applications and require students to complete multiple steps, drawing on the simultaneous application of multiple skills and concepts.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the Mathematics Tests and identify the mathematical concepts and procedures being assessed.",
+    "Choose one of the constructed-response questions and solve it, showing all your work. Explain the steps you took and why.",
+    "Create your own two-credit constructed-response question that requires the application of multiple mathematical skills and real-world applications."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts and procedures do you think will be most commonly assessed in these questions?",
+    "How might real-world applications be incorporated into these questions?",
+    "What strategies can you use to solve multi-step problems?"
+  ],
+  "reflection_prompt": "What have you learned about applying mathematical concepts and procedures to solve problems? How did creating your own question help deepen your understanding?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose those steps to solve the problem?",
+    "How does this mathematical concept apply to real-world situations?",
+    "What other strategies could you have used to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating a three-credit constructed-response question that requires the application of multiple mathematical skills and real-world applications. They could also create a multiple-choice question that assesses a specific mathematical concept or procedure.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

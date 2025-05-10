@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Five-Number Summary and Outlier Detection",
+    "grade_band": "High School",
+    "subjects": ["Algebra", "Statistics"],
+    "driving_question": "How can we use the five-number summary and outlier detection methods to analyze a dataset?",
+    "short_background_context": "Students calculate five-number summaries and detect outliers in hospital stay data using two statistical methods (IQR and SD).",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Calculate the five-number summary for hospital stay data.",
+        "materials": [],
+        "hint": "Remember: min, Q1, median, Q3, max."
+      },
+      {
+        "task_text": "Identify outliers using Method A (IQR rule).",
+        "materials": [],
+        "hint": "Outliers lie beyond 1.5 * IQR above Q3 or below Q1."
+      },
+      {
+        "task_text": "Identify outliers using Method B (Standard Deviation method).",
+        "materials": [],
+        "hint": "Outliers are more than 2 SD away from the mean."
+      }
+    ],
+    "reflection_prompt": "How do different outlier detection methods change how you view a dataset?",
+    "remix_zone": "Students remix by analyzing new datasets: student test scores, local health data, environmental data.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Analyzing Senator Bernie Sanders's Tax Plan",
+    "grade_band": "9-12",
+    "subjects": ["Algebra", "Statistics", "Economics", "Health"],
+    "driving_question": "How would Senator Bernie Sanders's proposed tax plan impact the economy, specifically high-income households, and healthcare?",
+    "short_background_context": "Students study projected impacts of Sanders's tax reforms, including GDP changes, tax revenue increases, and healthcare premium models.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Summarize key tax code changes proposed by Sanders.",
+        "materials": [],
+        "hint": "Focus on marginal tax rates, payroll taxes, and healthcare financing."
+      },
+      {
+        "task_text": "Model projected revenue increase and GDP decrease mathematically.",
+        "materials": [],
+        "hint": "Use percent change formulas and growth/decrease modeling."
+      },
+      {
+        "task_text": "Evaluate effects of the new healthcare premium on different income groups.",
+        "materials": [],
+        "hint": "Compare fixed premiums vs. income-based tax models."
+      }
+    ],
+    "reflection_prompt": "How can tax policy shape economic opportunity and health access?",
+    "remix_zone": "Students remix by comparing Sanders's plan to other tax models globally.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Transforming Learning Through Technology",
+    "grade_band": "9-12",
+    "subjects": ["Economics", "Geometry", "Statistics", "Ethics", "Algebra"],
+    "driving_question": "How can we leverage technology to enhance our learning and understanding in various subjects?",
+    "short_background_context": "Students apply ISTE standards to set learning goals, seek feedback, and reflect on technology-enhanced growth across subjects.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Set technology-enhanced learning goals per subject.",
+        "materials": [],
+        "hint": "Define clear targets using technology tools (e.g., collaboration platforms, data analysis software)."
+      },
+      {
+        "task_text": "Seek feedback and demonstrate learning improvements using tech.",
+        "materials": [],
+        "hint": "Collect evidence of feedback loops and iterations."
+      },
+      {
+        "task_text": "Apply and troubleshoot emerging technologies.",
+        "materials": [],
+        "hint": "Experiment with new tools and document challenges and solutions."
+      }
+    ],
+    "reflection_prompt": "How has technology empowered you to learn more deeply or broadly?",
+    "remix_zone": "Students remix by designing a technology-enhanced learning plan for arts, activism, or community work.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Bias in Data Collection: A Case Study in Activity Tracking",
+    "grade_band": "9-12",
+    "subjects": ["Algebra", "Statistics", "Ethics"],
+    "driving_question": "How can bias be introduced in data collection and how can it be mitigated?",
+    "short_background_context": "Students study bias risks when comparing self-reported data vs. device-tracked activity logs, designing improved experimental setups.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Identify biases in self-reporting vs. device tracking.",
+        "materials": [],
+        "hint": "Consider memory errors, over-reporting, and under-reporting biases."
+      },
+      {
+        "task_text": "Design an experiment comparing the two.",
+        "materials": [],
+        "hint": "Control for sample size, environment, and measurement tools."
+      },
+      {
+        "task_text": "Discuss ethical implications of different data collection methods.",
+        "materials": [],
+        "hint": "Balance participant privacy with research needs."
+      }
+    ],
+    "reflection_prompt": "How can thinking carefully about bias and ethics improve research quality?",
+    "remix_zone": "Students remix by analyzing bias in nutrition studies, gaming behavior, or education research.",
+    "display": {
+      "graph_builder": false,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Historical Redlining and Modern Housing Instability",
+    "grade_band": "9-12",
+    "subjects": ["Economics", "Climate", "Statistics", "Geometry", "History", "Health", "Ethics", "Algebra"],
+    "driving_question": "How does the historical redlining practice in the United States impact current housing instability?",
+    "short_background_context": "Students explore the correlation between historical redlining maps and modern housing instability indicators. They propose targeted policy interventions.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Analyze correlation between redlining patterns and housing instability.",
+        "materials": [],
+        "hint": "Overlay historical redlining maps with modern eviction, poverty, or foreclosure data."
+      },
+      {
+        "task_text": "Evaluate targeted emergency rental assistance as a policy solution.",
+        "materials": [],
+        "hint": "Assess strengths and weaknesses of emergency rent relief programs."
+      },
+      {
+        "task_text": "Propose an alternative policy or intervention to address housing instability.",
+        "materials": [],
+        "hint": "Think about affordability, tenant protections, or community land trusts."
+      }
+    ],
+    "reflection_prompt": "How has studying redlining shifted your understanding of housing justice?",
+    "remix_zone": "Students remix by analyzing redlining’s impact on education, health, or environmental justice.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  }
+]

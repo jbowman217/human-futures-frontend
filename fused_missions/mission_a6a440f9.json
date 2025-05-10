@@ -1,0 +1,37 @@
+{
+  "title": "Understanding Computer Science Scoring Guidelines",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we interpret and apply the scoring guidelines of an AP Computer Science A exam to improve our coding skills?",
+  "short_background_context": "The AP Computer Science A exam is a rigorous test that assesses students' understanding of computer science principles and their ability to apply these principles in programming. The exam includes a free-response section, where students are required to write code to solve given problems. The scoring of this section is based on a detailed rubric, which assigns points for correctly implementing specific features and deducts points for certain errors. Understanding this rubric can help you write better code and perform better on the exam. In this mission, we will focus on the scoring guidelines for a sample question about implementing a 'Light Board' program.",
+  "tasks": [
+    {
+      "task": "Analyze the scoring guidelines for the 'Light Board' question and summarize the key points that earn or lose points."
+    },
+    {
+      "task": "Write a sample 'Light Board' program that would earn full points according to the scoring guidelines."
+    },
+    {
+      "task": "Identify and correct errors in a provided 'Light Board' program that would result in points being deducted according to the scoring guidelines."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are the key features that a 'Light Board' program needs to implement according to the scoring guidelines?",
+    "What are some common errors that would result in points being deducted?"
+  ],
+  "reflection_prompt": "What did you learn about writing code for the AP Computer Science A exam from this mission? How will you apply this knowledge in the future?",
+  "ai_tutor_prompts": [
+    "Can you explain why the scoring guidelines assign points for these specific features?",
+    "Why do you think these particular errors result in points being deducted?",
+    "How could you modify your coding practices to avoid these errors?"
+  ],
+  "remix_zone": "Try creating your own scoring guidelines for a different AP Computer Science A free-response question. Consider what features should earn points and what errors should result in points being deducted.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

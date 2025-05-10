@@ -1,0 +1,32 @@
+{
+  "title": "Understanding New York State Mathematics Tests",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use the released questions from the 2023 New York State Mathematics Tests to understand the expectations of the New York State Education Department for students?",
+  "short_background_context": "In 2023, the New York State Education Department (SED) administered Mathematics Tests and made approximately 75% of the questions available for review and use. The released questions are designed to help students, families, educators, and the public better understand the tests and the expectations for students. The questions are framed within real-world applications and often require students to complete multiple steps. They are linked to more than one standard, drawing on the simultaneous application of multiple skills and concepts.",
+  "tasks": [
+    "Analyze the released questions and identify the skills and concepts they are designed to assess.",
+    "Design a multiple-choice question that assesses standard algorithms and conceptual standards.",
+    "Create a three-credit constructed-response question that assesses mathematical procedures, conceptual understanding, and application."
+  ],
+  "pre_thinking_prompts": [
+    "What are the common themes you notice in the released questions?",
+    "What skills and concepts do you think the questions are designed to assess?",
+    "How would you design a question that assesses multiple skills and concepts?"
+  ],
+  "reflection_prompt": "How has this exercise helped you understand the expectations of the New York State Education Department for students? How can you apply this understanding to your own learning?",
+  "ai_tutor_prompts": [
+    "Can you explain why you designed your question in that way?",
+    "How does your question assess multiple skills and concepts?",
+    "What real-world application does your question have?"
+  ],
+  "remix_zone": "Students could remix the problem by designing questions for different subjects or grade levels, or by creating questions that assess different skills and concepts.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

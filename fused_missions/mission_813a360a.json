@@ -1,0 +1,53 @@
+{
+  "mission": {
+    "title": "AP Statistics 2021: Focus on Inference",
+    "grade_band": "High School",
+    "subjects": [
+      "Mathematics",
+      "Statistics"
+    ],
+    "driving_question": "How can we apply the principles of statistical inference to analyze and interpret data?",
+    "tasks": [
+      {
+        "task_name": "Understanding Null and Alternative Hypotheses",
+        "task_description": "Identify and state the null and alternative hypotheses for the given scenario. Also, identify the appropriate hypothesis test."
+      },
+      {
+        "task_name": "Verifying Conditions and Calculating Test Statistic",
+        "task_description": "Verify the conditions for the test identified in the previous task. Calculate the value of the test statistic and the corresponding p-value."
+      },
+      {
+        "task_name": "Drawing Conclusions",
+        "task_description": "Based on your calculations, draw a conclusion for the test identified in the first task."
+      },
+      {
+        "task_name": "Responding to Additional Questions",
+        "task_description": "Respond to additional questions or scenarios based on the initial problem context."
+      }
+    ],
+    "pre_thinking_prompts": [
+      "What does a null hypothesis represent in a statistical test?",
+      "What is the significance of the alternative hypothesis?",
+      "How can we calculate the test statistic and p-value for a given data set?",
+      "What factors should we consider when drawing conclusions from our statistical analysis?"
+    ],
+    "reflection_prompt": "Reflect on the process of conducting a statistical test. What did you learn about the principles of statistical inference?",
+    "ai_tutor_prompts": [
+      "Remember to clearly define your null and alternative hypotheses.",
+      "Ensure you've correctly identified the appropriate statistical test for this scenario.",
+      "Consider the implications of your p-value when drawing your conclusion."
+    ],
+    "remix_zone": "Consider a different scenario or data set. How would your hypotheses and conclusions change?",
+    "display_fields": [
+      "title",
+      "grade_band",
+      "subjects",
+      "driving_question",
+      "tasks",
+      "pre_thinking_prompts",
+      "reflection_prompt",
+      "ai_tutor_prompts",
+      "remix_zone"
+    ]
+  }
+}

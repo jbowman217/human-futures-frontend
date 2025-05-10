@@ -1,0 +1,35 @@
+{
+  "title": "Introductory Data Science: A Cross-Disciplinary Approach",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use data science to solve real-world problems across various disciplines?",
+  "short_background_context": "The International Data Science in Schools Project (IDSSP) is a cross-disciplinary initiative involving an international team of computer scientists and statisticians. The project aims to promote and support the teaching of introductory data science, especially in the final years of high school. The IDSSP team has developed two frameworks for introducing Data Science, including topics and learning outcomes. These frameworks can supplement, broaden, and enrich courses in Computer Science, Statistics, and Mathematics, and can be used to develop introductory learning-from-data modules for other data-rich domains of application, such as Economics, History, and Ethics.",
+  "tasks": [
+    "Analyze a real-world dataset from a chosen subject area and identify patterns or trends.",
+    "Develop a hypothesis based on the observed patterns and validate it using statistical methods.",
+    "Present your findings in a clear and concise manner, explaining the implications of your results in the context of the chosen subject area."
+  ],
+  "pre_thinking_prompts": [
+    "What subject area are you interested in exploring through data science?",
+    "What type of data might be relevant to this subject area?",
+    "What kind of patterns or trends do you expect to find in this data?"
+  ],
+  "reflection_prompt": "Reflect on your process of analyzing the dataset. What challenges did you encounter and how did you overcome them? What did you learn about the subject area through this data analysis?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this particular dataset for analysis?",
+    "What statistical methods did you use to validate your hypothesis and why?",
+    "How might your findings be applied in a real-world context?"
+  ],
+  "remix_zone": "Students can remix this problem by choosing a different subject area for their data analysis or by using a different statistical method to validate their hypothesis.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

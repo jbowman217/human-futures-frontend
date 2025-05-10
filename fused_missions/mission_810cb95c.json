@@ -1,0 +1,36 @@
+{
+  "title": "Analyzing Poverty in the United States: A Multidisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use various academic disciplines to understand and address poverty in the United States?",
+  "short_background_context": "In September 2024, the U.S. Census Bureau issued a report titled 'Poverty in the United States: 2023'. This report, prepared by Emily A. Shrider and a team of experts, provides a comprehensive overview of poverty in the U.S. It includes data on poverty by selected characteristics such as sex, age, type of unit, race and Hispanic origin, educational attainment, and work experience. It also introduces the Supplemental Poverty Measure (SPM), a more detailed and nuanced metric for assessing poverty. This mission will involve analyzing this report and using it to explore the issue of poverty from various disciplinary perspectives.",
+  "tasks": [
+    "Task 1: Analyze the report's data using statistical and algebraic methods to identify key trends and patterns in U.S. poverty.",
+    "Task 2: Use geometric methods to create visual representations (e.g., graphs, charts) of the data to aid in understanding and communication.",
+    "Task 3: Conduct research on the historical, economic, health, and ethical aspects of poverty, integrating this information with the report's data to develop a well-rounded understanding of the issue."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about poverty in the United States?",
+    "What questions do you have about poverty that you hope this report will answer?",
+    "How do you think the different subjects listed might be relevant to understanding poverty?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned from this mission. How has your understanding of poverty changed? What new questions do you have? How might you apply what you've learned to real-world situations?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that method for your analysis?",
+    "How does this historical event relate to the current poverty situation?",
+    "What ethical considerations does this poverty data raise for you?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different social issue (e.g., education, health care, unemployment) to analyze using a similar multidisciplinary approach.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

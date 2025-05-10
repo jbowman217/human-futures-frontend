@@ -1,0 +1,39 @@
+{
+  "title": "New York State Algebra I Regents Examination",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic, statistical, economic, and geometric principles to solve problems on the New York State Algebra I Regents Examination?",
+  "short_background_context": "The New York State Algebra I Regents Examination is a comprehensive test that measures a student's understanding of key concepts in Algebra, Statistics, Economics, and Geometry. The exam is designed to assess students' mastery of the Next Generation Mathematics Learning Standards and is updated regularly to ensure alignment with current educational best practices and standards. This mission will guide you through a series of tasks designed to prepare you for the exam and deepen your understanding of these mathematical concepts.",
+  "tasks": [
+    {
+      "task": "Review the updated Annual Compound Interest formula and solve a series of problems using this formula."
+    },
+    {
+      "task": "Analyze a set of statistical data and apply algebraic principles to predict future trends."
+    },
+    {
+      "task": "Apply geometric principles to solve real-world economic problems."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the subjects covered in this mission?",
+    "What strategies do you typically use when solving mathematical problems?",
+    "What challenges do you anticipate you might encounter during this mission?"
+  ],
+  "reflection_prompt": "Reflect on your performance during this mission. What did you learn? What challenges did you encounter and how did you overcome them? How will you apply what you learned to future mathematical problems?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process in solving that problem?",
+    "What other strategies could you have used?",
+    "How does this concept relate to what you've learned in the past?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own problems using the Annual Compound Interest formula, designing a statistical analysis project based on a topic of interest, or exploring the intersection of geometry and economics in a real-world context.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

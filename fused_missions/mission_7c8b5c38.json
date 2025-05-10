@@ -1,0 +1,37 @@
+{
+  "title": "Measuring the Well-Being of a Nation: A Multidimensional Approach",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we measure the well-being of a nation using a multidimensional approach?",
+  "short_background_context": "Measuring the well-being of a nation involves identifying the tools that allow its citizens to live well without negatively impacting their neighbors or future generations. For many years, the focus has been solely on the economic dimension, leading to critical issues in the social and environmental spheres. This mission is based on an article that provides an overview of the measurements used internationally by recognized bodies. The application of these indicators to different countries has helped identify models for promoting societal well-being.",
+  "tasks": [
+    "Research and analyze the different dimensions (economic, social, environmental) used to measure the well-being of a nation.",
+    "Identify and explain the indicators used in these dimensions and how they contribute to the overall well-being of a nation.",
+    "Create a proposal for a new multidimensional approach to measure the well-being of a nation, considering all the dimensions and indicators discussed."
+  ],
+  "pre_thinking_prompts": [
+    "What do you think are the most important factors in measuring the well-being of a nation?",
+    "How might the focus on only one dimension (like economics) impact a nation's well-being?",
+    "What are some potential benefits and challenges of using a multidimensional approach?"
+  ],
+  "reflection_prompt": "Reflect on the multidimensional approach you proposed. How does it improve upon existing methods? What potential challenges might arise in its implementation?",
+  "ai_tutor_prompts": [
+    "Why is it important to consider multiple dimensions when measuring the well-being of a nation?",
+    "How might the well-being of a nation be misrepresented if only one dimension is considered?",
+    "Can you think of any real-world examples where a multidimensional approach might provide a more accurate representation of a nation's well-being?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a specific country and applying their proposed multidimensional approach to measure its well-being. They could also compare and contrast their approach with existing methods used by that country.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

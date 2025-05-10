@@ -1,0 +1,31 @@
+{
+  "title": "Algebra and Statistics: Imaginary Solutions and Swing Distances",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we use algebraic formulas and statistical methods to solve real-world problems?",
+  "short_background_context": "This mission is based on the Regents High School Examination in Algebra II held by the University of the State of New York. It involves understanding and applying algebraic concepts to determine whether a given equation has imaginary solutions and using statistical methods to calculate the total distance a child travels on a swing. This mission will help you to develop a deeper understanding of algebra and statistics and their applications in real-world scenarios.",
+  "tasks": [
+    "Task 1: Determine whether the equation x^2 - 4x + 13 = 0 has imaginary solutions. Justify your answer.",
+    "Task 2: Calculate the total distance a child travels in the first five swings of a swing that travels 80% of the distance of the previous swing with an initial push of 6 feet.",
+    "Task 3: Reflect on the process of solving these problems. Identify the key algebraic and statistical concepts used and explain how they were applied."
+  ],
+  "pre_thinking_prompts": [
+    "What is an imaginary solution in algebra?",
+    "How can we determine whether an equation has imaginary solutions?",
+    "How can we calculate the total distance travelled given a percentage decrease in distance travelled each time?"
+  ],
+  "reflection_prompt": "What did you learn about applying algebraic and statistical methods to solve these problems? How did you approach each task and what would you do differently next time?",
+  "ai_tutor_prompts": [
+    "Can you explain the steps you took to determine whether the equation has imaginary solutions?",
+    "How did you calculate the total distance the child travels on the swing?",
+    "What algebraic and statistical concepts did you apply to solve these tasks?"
+  ],
+  "remix_zone": "Students could remix the problem by changing the equation in Task 1 to have real solutions and changing the percentage decrease in distance travelled each swing in Task 2.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

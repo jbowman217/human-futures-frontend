@@ -1,0 +1,31 @@
+{
+  "title": "Exploring Calculus and its Applications",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply calculus concepts, such as the Fundamental Theorem of Calculus and Euler's method, to solve real-world problems?",
+  "short_background_context": "Calculus is a branch of mathematics that deals with rates of change and accumulation of quantities. It is a fundamental tool in many areas, including economics, physics, and computer science. In this mission, we will explore the concepts of the Fundamental Theorem of Calculus and Euler's method, which are essential tools in calculus. We will apply these concepts to solve problems and understand their practical applications. By the end of this mission, you should be able to apply these calculus concepts to solve real-world problems and understand their significance in various fields.",
+  "tasks": [
+    {
+      "task": "Use Euler's method to approximate the value of f(2\u03c0)."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the Fundamental Theorem of Calculus?",
+    "How can you calculate the arc length of a graph?",
+    "What is Euler's method and how can it be used to approximate values?"
+  ],
+  "reflection_prompt": "Reflect on how you applied the calculus concepts to solve the tasks. What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why you used that particular method to solve the problem?",
+    "What other methods could you have used to solve the problem?",
+    "Can you explain the significance of your solution in a real-world context?"
+  ],
+  "remix_zone": "Students could remix the problem by applying the calculus concepts to different real-world scenarios, such as calculating the distance traveled by a car given its speed at different times, or predicting the growth of a population using a given growth rate.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

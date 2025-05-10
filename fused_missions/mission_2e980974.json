@@ -1,0 +1,31 @@
+{
+  "title": "AP Statistics: Investigative Task on Whistle Prices",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we use statistical inference to estimate the mean price of a particular type of whistle at all stores that sell it?",
+  "short_background_context": "In this mission, we will be exploring the principles of AP Statistics, specifically focusing on the concept of statistical inference. We will be using a real-world scenario involving the pricing of a particular type of whistle across different stores. The task will involve understanding and applying the one-sample t-interval for a population mean, and identifying the correct parameter of interest. You will also be required to interpret the distribution of the sample of whistle prices and identify any potential outliers. This mission will help you better understand how statistical inference can be used in real-world scenarios to make estimates about larger populations based on smaller samples.",
+  "tasks": [
+    "Identify the inference procedure that should be used to estimate the mean price of the whistle at all stores that sell it.",
+    "Identify the parameter of interest in this scenario.",
+    "Interpret the distribution of the sample of whistle prices and identify any potential outliers."
+  ],
+  "pre_thinking_prompts": [
+    "What is a one-sample t-interval for a population mean and how is it used?",
+    "What do you understand by the term 'parameter of interest'?",
+    "How can you determine if there are any outliers in a distribution?"
+  ],
+  "reflection_prompt": "Reflect on how you applied the principles of statistical inference to this real-world scenario. What did you find challenging and how did you overcome it? What have you learned about the application of statistics in real-world scenarios?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular inference procedure?",
+    "Why did you identify that as the parameter of interest?",
+    "How did you determine whether there were any outliers in the distribution?"
+  ],
+  "remix_zone": "Students could remix this problem by considering different types of products or different statistical measures. For example, they could estimate the median price of a different product, or they could use a different method to identify outliers.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

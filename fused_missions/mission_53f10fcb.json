@@ -1,0 +1,32 @@
+{
+  "title": "Exploring the Impact of Age on Online Fitness Class Preferences",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How does age influence the preferences of fitness center members for online classes?",
+  "short_background_context": "A large exercise center with a diverse membership base is considering offering online fitness classes. The center's management believes that members' opinions about online fitness classes might differ based on their age. To explore this hypothesis, the manager selects two random samples: one of 170 members aged 18 to 55 years, and another of 230 members aged 56 years and older. Your task is to analyze the data and determine if there is a significant difference in preferences between the two age groups.",
+  "tasks": [
+    "Task 1: Use the provided formulas and data to calculate the mean and standard deviation for each sample group.",
+    "Task 2: Construct a hypothesis test to determine if there is a significant difference in the preferences for online fitness classes between the two age groups.",
+    "Task 3: Interpret the results of your hypothesis test and make a recommendation to the manager about offering online fitness classes."
+  ],
+  "pre_thinking_prompts": [
+    "What do you predict will be the preferences of the two age groups?",
+    "How might the age of the members influence their preference for online fitness classes?",
+    "What statistical methods can you use to analyze the data?"
+  ],
+  "reflection_prompt": "Reflect on the statistical methods you used to analyze the data. What did you learn about the preferences of the two age groups? How confident are you in your recommendation to the manager?",
+  "ai_tutor_prompts": [
+    "What assumptions did you make when conducting your hypothesis test?",
+    "How might the results have changed if the sample sizes were different?",
+    "Can you explain the meaning of the p-value in the context of this problem?"
+  ],
+  "remix_zone": "Consider how the problem might change if there were more than two age groups, or if other factors such as gender or membership duration were also considered.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

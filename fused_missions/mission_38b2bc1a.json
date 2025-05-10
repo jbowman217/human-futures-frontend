@@ -1,0 +1,31 @@
+{
+  "title": "Frog Simulation: An Intersection of Algebra, Economics, and Computer Science",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use algebra and economics principles to understand and optimize a computer simulation of a frog hopping towards a goal?",
+  "short_background_context": "The AP Computer Science A exam often includes free-response questions that require students to understand and write code for a specific scenario. In 2018, one such question involved a simulation of a frog hopping in a straight line towards a goal. The frog could hop a certain maximum number of times, and each hop could move the frog closer to or further from the goal. This mission will use this scenario as a springboard to explore concepts in algebra and economics, such as optimization and cost-benefit analysis.",
+  "tasks": [
+    "Analyze the given frog simulation scenario and write the missing 'simulate' and 'runSimulations' methods in Java.",
+    "Use algebraic concepts to predict the outcome of the simulation under different conditions (e.g., varying the maximum number of hops or the goal distance).",
+    "Apply economic principles to evaluate the cost and benefits of each hop, considering factors such as energy expenditure and likelihood of reaching the goal."
+  ],
+  "pre_thinking_prompts": [
+    "What variables in the frog simulation could be manipulated to change the outcome?",
+    "How might you use algebra to model the frog's hopping path?",
+    "What economic principles could be relevant to this scenario?"
+  ],
+  "reflection_prompt": "Reflect on how you applied algebra and economics to understand and optimize the frog simulation. What did you learn about the intersection of these subjects and computer science?",
+  "ai_tutor_prompts": [
+    "Can you explain how you modeled the frog's path algebraically?",
+    "What factors did you consider in your cost-benefit analysis?",
+    "How did changing the maximum number of hops or the goal distance affect the outcome of the simulation?"
+  ],
+  "remix_zone": "Consider a new scenario where there are multiple frogs with different maximum hops and goal distances. How would you modify the simulation and your analyses to accommodate this complexity?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

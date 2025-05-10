@@ -1,0 +1,32 @@
+{
+  "title": "AP Computer Science A: Methods and Control Structures",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we apply mathematical and statistical concepts to solve complex problems in computer science?",
+  "short_background_context": "In the 2024 AP Computer Science A exam, students were asked to write code for simulating bird feeding patterns over a series of days. The simulation involved generating random numbers to represent different conditions and actions. For instance, a random number was used to determine whether the food supply would be depleted or not. Another random number was used to calculate the amount of food each bird would eat. The students were also required to understand and apply control structures such as if-else statements and loops. In this mission, we will delve deeper into these concepts and explore their applications in other real-world scenarios.",
+  "tasks": [
+    "Analyze the given code and explain how it uses random numbers to simulate bird feeding patterns.",
+    "Modify the code to simulate a different scenario, such as the spread of a disease in a population.",
+    "Use statistical concepts to predict the outcome of the simulation based on different initial conditions."
+  ],
+  "pre_thinking_prompts": [
+    "What is the role of random numbers in simulations?",
+    "How do control structures guide the flow of a program?",
+    "How can we use statistics to make predictions about a simulation?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of algebra, statistics, and economics helped you to complete the tasks. What new insights did you gain about the interplay between these subjects and computer science?",
+  "ai_tutor_prompts": [
+    "Can you explain why the code uses a random number to determine the amount of food each bird eats?",
+    "What changes would you need to make to the code to simulate the spread of a disease?",
+    "How can you use statistical concepts to predict the outcome of the simulation?"
+  ],
+  "remix_zone": "Consider how you could remix this problem to explore other real-world scenarios. For example, you could modify the code to simulate the growth of a company's revenue over time, or the spread of a rumor in a social network.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

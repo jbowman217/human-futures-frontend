@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra I: A Deep Dive",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply our knowledge of algebra, statistics, economics, and geometry to successfully navigate and understand the Regents Examination in Algebra I?",
+  "short_background_context": "The Regents Examination in Algebra I is a comprehensive test administered by the New York State Education Department. This examination assesses students' understanding of algebraic concepts, including their ability to solve problems, understand mathematical relationships, and apply mathematical reasoning. The exam includes both multiple-choice and constructed-response questions, and it is scored by a minimum of three mathematics teachers. The scoring process is rigorous and follows specific guidelines to ensure fairness and accuracy. The exam's results are used to gauge students' understanding of algebra and their readiness for more advanced mathematical studies.",
+  "tasks": [
+    "Task 1: Analyze the scoring process for the Regents Examination in Algebra I. What factors are considered when scoring the exam, and how are scores calculated?",
+    "Task 2: Review the 'Model Response Set' provided by the Department. How do these responses demonstrate successful problem-solving strategies in algebra?",
+    "Task 3: Using the information about the Regents Examination in Algebra I, create your own constructed-response question and answer key. Ensure your question assesses understanding of algebra, statistics, economics, or geometry."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the Regents Examination in Algebra I?",
+    "What questions do you have about the exam or its scoring process?",
+    "What strategies do you think would be helpful when taking this exam?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the Regents Examination in Algebra I. How has your understanding of the exam and its scoring process evolved? How can this knowledge help you in your future mathematical studies?",
+  "ai_tutor_prompts": [
+    "Can you explain why understanding the scoring process for the exam is important?",
+    "How does the 'Model Response Set' help students prepare for the exam?",
+    "What considerations did you take into account when creating your own constructed-response question?"
+  ],
+  "remix_zone": "Consider how you could adapt the created constructed-response question for different grade levels or subject areas. Could you modify it to assess understanding of a different mathematical concept?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Is GDP Becoming Obsolete? The 'Beyond GDP' Debate",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we improve upon GDP as a measure of economic health and individual well-being?",
+  "short_background_context": "Gross Domestic Product (GDP) is a key indicator of a country's economic health and a crucial tool for economic policy. However, it does not accurately reflect individual well-being or overall economic progress. There have been calls to replace or refocus GDP with a metric that better represents the welfare dimension. In response, the U.S. agency responsible for GDP accounts launched the 'GDP and Beyond' program. This mission will explore the 'Beyond GDP' debate and consider alternatives to GDP that account for factors such as environmental externalities and individual well-being.",
+  "tasks": [
+    {
+      "task_1": "Research and provide a brief history of GDP and its uses in economic policy."
+    },
+    {
+      "task_2": "Analyze the criticisms of GDP as a measure of economic health and individual well-being."
+    },
+    {
+      "task_3": "Propose an alternative to GDP (e.g., Expanded GDP, Welfare-adjusted wealth) and explain how it could better reflect economic progress and individual well-being."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about GDP?",
+    "Why might GDP not accurately reflect individual well-being or overall economic progress?",
+    "What factors might a more comprehensive measure of economic health include?"
+  ],
+  "reflection_prompt": "Reflect on your learning. What new insights did you gain about GDP and its limitations? How might your proposed alternative better capture economic health and individual well-being?",
+  "ai_tutor_prompts": [
+    "Can you explain more about why GDP might not accurately reflect individual well-being?",
+    "What specific factors does your proposed alternative measure that GDP does not?",
+    "How might your proposed alternative influence economic policy differently than GDP?"
+  ],
+  "remix_zone": "Students could remix this problem by considering how their proposed alternative to GDP might be implemented in a specific country or region. They could also explore how different sectors (e.g., technology, healthcare) might be impacted by a shift away from GDP.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

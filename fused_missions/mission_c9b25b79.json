@@ -1,0 +1,32 @@
+{
+  "title": "Understanding and Applying New York State Mathematics Test Questions",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Health",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the New York State P-12 Learning Standards for Mathematics to real-world problems?",
+  "short_background_context": "In 2013, New York State (NYS) began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P \u201312 Learning Standards in Mathematics. This year, SED is again releasing 2021 NYS Grades 3\u20138 English Language Arts and Mathematics test materials for review, discussion, and use. The decision to use previously administered test questions was based on guidance from nationally recognized experts in the assessment field. These released materials will help students, families, educators, and the public better understand the tests and NYSED\u2019s expectations for students.",
+  "tasks": [
+    "Analyze the released test questions and identify the learning standards each question measures.",
+    "Apply the identified learning standards to solve real-world problems.",
+    "Create a presentation explaining how the learning standards are applied in the real-world problems you solved."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the New York State P-12 Learning Standards for Mathematics?",
+    "How do you think these standards apply to real-world problems?"
+  ],
+  "reflection_prompt": "Reflect on the process of applying the learning standards to real-world problems. What did you learn? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain how you identified the learning standards in the test questions?",
+    "How did you decide on the real-world problems to solve?",
+    "What strategies did you use to apply the learning standards to the real-world problems?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing different real-world problems to solve using the learning standards. They could also explore how these standards apply to other subjects such as economics and health.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

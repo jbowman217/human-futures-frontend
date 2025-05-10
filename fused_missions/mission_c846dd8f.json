@@ -1,0 +1,35 @@
+{
+  "title": "The Roots of Redlining: Exploring the Impact of Discriminatory Practices",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How did the practice of redlining in the 20th century impact racial segregation and inequality in U.S. cities, and what were its economic and social implications?",
+  "short_background_context": "Redlining was a discriminatory practice that fundamentally shaped U.S. cities in the 20th century. It involved the targeted denial of home mortgages and other financial supports based on presumed risk. This practice was institutionalized by the Home Owners\u2019 Loan Corporation (HOLC) and adopted by the Federal Housing Administration (FHA). The riskiness of investing in urban neighborhoods was defined based on demographics, infrastructure, housing quality, neighborhood stability, and proximity to amenities or hazards. This mission will explore the origins, impacts, and implications of redlining.",
+  "tasks": [
+    "Research and present a historical overview of redlining, its origins, and its institutionalization.",
+    "Analyze the impact of redlining on the economic development and racial segregation of U.S. cities using statistical data.",
+    "Using ethical reasoning, discuss the moral implications of redlining and its effects on marginalized communities."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about redlining and its impacts?",
+    "How might redlining affect a city's economic development?",
+    "What ethical questions does the practice of redlining raise?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about redlining. How has your understanding of this practice and its impacts changed? How might this knowledge influence your perspective on current social and economic issues?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on how redlining contributed to racial segregation?",
+    "What specific factors were considered in the redlining process?",
+    "How might the effects of redlining still be seen today?"
+  ],
+  "remix_zone": "Students could remix this problem by exploring current practices that may perpetuate the effects of redlining. They could also investigate policies or initiatives aimed at addressing the legacy of redlining.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

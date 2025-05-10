@@ -1,0 +1,40 @@
+{
+  "title": "Transforming Learning Through Technology",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we leverage technology to enhance our learning and understanding in various subjects?",
+  "short_background_context": "The ISTE Standards provide a comprehensive guide to transforming learning systems to improve student outcomes. These standards emphasize the role of technology in enhancing learning, fostering digital citizenship, constructing knowledge, and promoting innovation. This mission aims to explore how we can apply these standards across various subjects, including Economics, Geometry, Statistics, Ethics, and Algebra. You will be tasked with setting personal learning goals, leveraging technology to achieve them, and reflecting on the learning process to improve outcomes.",
+  "tasks": [
+    {
+      "task_1": "Articulate and set personal learning goals for each subject. Develop strategies leveraging technology to achieve them."
+    },
+    {
+      "task_2": "Use technology to seek feedback that informs and improves your practice in each subject. Demonstrate your learning in a variety of ways."
+    },
+    {
+      "task_3": "Understand the fundamental concepts of technology operations. Demonstrate the ability to choose, use, and troubleshoot current technologies and transfer your knowledge to explore emerging technologies."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are your personal learning goals for each subject?",
+    "How can technology help you achieve these goals?",
+    "What are some ways you can demonstrate your learning?"
+  ],
+  "reflection_prompt": "Reflect on how technology has enhanced your learning and understanding in each subject. How has it improved your outcomes?",
+  "ai_tutor_prompts": [
+    "Can you explain how technology has helped you achieve your learning goals?",
+    "Can you provide an example of how you used technology to seek feedback and improve your practice?",
+    "How have you applied your understanding of technology operations in your learning process?"
+  ],
+  "remix_zone": "Students could remix this problem by exploring how technology can enhance learning in other subjects not covered in this mission. They could also investigate how different types of technology could be used to achieve the same learning goals.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

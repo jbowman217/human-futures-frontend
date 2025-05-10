@@ -1,0 +1,34 @@
+{
+  "title": "AP Statistics: Exploring Data and Predicting Patterns",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use statistical analysis to understand and predict real-world relationships, such as the association between the mass and length of bullfrogs?",
+  "short_background_context": "The College Board's AP Statistics exam provides a framework for understanding data analysis and interpretation. This mission is based on the 2022 AP Statistics exam, focusing on the exploration of data and prediction of patterns. In this case, we will examine the relationship between the mass and length of bullfrogs. By analyzing scatterplots, identifying associations, and calculating slopes, we can gain insights into this relationship and develop predictive models. This mission will not only enhance your statistical skills but also your understanding of how these concepts apply to real-world scenarios.",
+  "tasks": [
+    "Analyze a scatterplot of bullfrog mass and length data, identifying the direction, strength, form of association, and any unusual features.",
+    "Calculate the slope of the least-squares regression line for the bullfrog data and interpret its meaning in the context of the problem.",
+    "Use your analysis and calculations to predict the mass of a bullfrog given its length, and discuss the limitations of this prediction."
+  ],
+  "pre_thinking_prompts": [
+    "What can you infer from a scatterplot?",
+    "How does the slope of a regression line relate to the data it represents?",
+    "What factors might limit the accuracy of predictions based on this data?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of scatterplots, regression lines, and slope has deepened. How can these tools be used to make predictions in other real-world contexts?",
+  "ai_tutor_prompts": [
+    "Can you explain why the direction of association is important in a scatterplot?",
+    "What does the strength of association tell us about the relationship between two variables?",
+    "How does the slope of the regression line help us make predictions?"
+  ],
+  "remix_zone": "Consider a different animal or object and a different pair of variables to analyze. How would you approach the analysis and prediction differently?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

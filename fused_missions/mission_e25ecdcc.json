@@ -1,0 +1,37 @@
+{
+  "title": "Scoring System: An Exploration into Algebra and Economics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply algebraic and economic principles to create a fair and efficient scoring system for a game?",
+  "short_background_context": "The AP Computer Science A exam includes questions that require understanding of scoring systems and their implications. In a given sample question, a Scoreboard class is provided, which manages the scores of two teams in a game. The class has methods to record plays and get the current score. This mission will explore the algebraic and economic principles that underlie such scoring systems. You will apply these principles to design your own scoring system, considering factors like fairness, efficiency, and strategic complexity.",
+  "tasks": [
+    {
+      "task": "Analyze the provided Scoreboard class and identify the algebraic principles that underlie its design. Explain how these principles contribute to the functionality of the scoring system."
+    },
+    {
+      "task": "Research on different scoring systems used in real-world games or sports. Identify the economic principles that influence these systems, such as incentives for certain strategies or behaviors."
+    },
+    {
+      "task": "Design your own scoring system for a hypothetical game. Justify your design choices based on the algebraic and economic principles you've learned."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic principles do you think are important in a scoring system?",
+    "How might economic principles influence the design of a scoring system?",
+    "Can you think of any real-world examples where scoring systems are influenced by these principles?"
+  ],
+  "reflection_prompt": "Reflect on your learning experience. How did your understanding of algebraic and economic principles deepen through this mission? How will you apply these principles in future problem-solving tasks?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose those particular algebraic principles for your scoring system?",
+    "How do the economic principles you identified influence player behavior in the game?",
+    "Could there be any unintended consequences of your scoring system design? How might you address them?"
+  ],
+  "remix_zone": "Consider a different type of game (e.g., a board game, a video game, a reality TV competition). How would you adapt your scoring system for this new context?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

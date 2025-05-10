@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Impact of Climate Change on Economy and Health",
+    "grade_band": "High School",
+    "subjects": ["Economics", "Climate", "Statistics", "Geometry", "History", "Health", "Ethics", "Algebra"],
+    "driving_question": "How does climate change impact the economy and health, and what can be done to mitigate these effects?",
+    "short_background_context": "Students model climate-related economic and health risks, predict impacts, and design mitigation strategies using interdisciplinary thinking.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Analyze economic impacts of climate change using data.",
+        "materials": [],
+        "hint": "Focus on sectors most vulnerable to climate shifts (e.g., agriculture, insurance)."
+      },
+      {
+        "task_text": "Model health effects of rising temperatures.",
+        "materials": [],
+        "hint": "Look at heat-related illnesses, air quality impacts, and vulnerable populations."
+      },
+      {
+        "task_text": "Design a mitigation proposal balancing cost, health, and climate justice.",
+        "materials": [],
+        "hint": "Balance upfront costs vs. long-term savings and societal benefits."
+      }
+    ],
+    "reflection_prompt": "What challenges arise when balancing economic cost, climate action, and public health?",
+    "remix_zone": "Students remix by focusing on specific regions or industries most impacted by climate change.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Safe Internet: Ethics and Edtech",
+    "grade_band": "9-12",
+    "subjects": ["Economics", "Geometry", "Statistics", "Health", "Ethics", "Algebra"],
+    "driving_question": "How can we ensure a safer Internet experience for K12 students using Edtech apps?",
+    "short_background_context": "Students evaluate advertising practices, data privacy, and safety benchmarks for Edtech apps through a multidisciplinary lens.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Research advertising types and impact on student safety.",
+        "materials": [],
+        "hint": "Look into behavioral advertising, targeted ads, and data collection policies."
+      },
+      {
+        "task_text": "Analyze Edtech app safety measures using statistics.",
+        "materials": [],
+        "hint": "Think about breach rates, data use transparency, and consent management."
+      },
+      {
+        "task_text": "Design a safer Edtech prototype using geometry and ethics.",
+        "materials": [],
+        "hint": "Map how user data flows through your app and safeguard key points."
+      }
+    ],
+    "reflection_prompt": "How did studying Edtech safety change your perspective on digital learning tools?",
+    "remix_zone": "Students remix by focusing on cyberbullying, mental health, or different tech platforms (gaming, social media).",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Access to Healthcare: A Multidisciplinary Approach",
+    "grade_band": "9-12",
+    "subjects": ["Economics", "Geometry", "Statistics", "History", "Health", "Ethics", "Algebra"],
+    "driving_question": "How can we improve access to health care in our local and global communities?",
+    "short_background_context": "Students investigate health care access inequalities using data analysis, ethical argumentation, and geometric modeling for facility designs.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Research local healthcare access using statistics.",
+        "materials": [],
+        "hint": "Study patient-to-doctor ratios, insurance coverage, and travel distance."
+      },
+      {
+        "task_text": "Build an ethical argument for/against policy solutions.",
+        "materials": [],
+        "hint": "Focus on fairness, resource allocation, and human rights."
+      },
+      {
+        "task_text": "Design a health center layout optimizing access (geometry/algebra).",
+        "materials": [],
+        "hint": "Think about minimizing travel times and maximizing service coverage."
+      }
+    ],
+    "reflection_prompt": "What surprised you about healthcare access? How did data change your assumptions?",
+    "remix_zone": "Students remix by focusing on mental health access, telemedicine, or international health systems.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Understanding Mass Incarceration: A Multidisciplinary Approach",
+    "grade_band": "9-12",
+    "subjects": ["Economics", "Geometry", "Statistics", "History", "Health", "Ethics", "Algebra"],
+    "driving_question": "How does mass incarceration impact our society, and what factors contribute to it?",
+    "short_background_context": "Students analyze mass incarceration trends, economic costs, and justice issues, proposing reforms through interdisciplinary data and systems thinking.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Analyze mass incarceration data across demographics.",
+        "materials": [],
+        "hint": "Focus on racial, income, and geographic disparities."
+      },
+      {
+        "task_text": "Model economic cost of mass incarceration.",
+        "materials": [],
+        "hint": "Factor in public spending, lost wages, and generational impacts."
+      },
+      {
+        "task_text": "Design a reform policy proposal considering equity and health impacts.",
+        "materials": [],
+        "hint": "Balance public safety with community investment strategies."
+      }
+    ],
+    "reflection_prompt": "How did studying mass incarceration affect your understanding of systemic injustice?",
+    "remix_zone": "Students remix by focusing on private prisons, juvenile justice, or international justice comparisons.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Chocolate and Blood Pressure: A Statistical Analysis",
+    "grade_band": "High School",
+    "subjects": ["Algebra", "Statistics", "Economics"],
+    "driving_question": "How can we use statistical analysis to determine the effect of different types of chocolate on blood pressure?",
+    "short_background_context": "Students interpret median blood pressure reductions, analyze statistical variability, and critique conclusions based on sample distributions.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Determine and compare median reductions for dark and white chocolate groups.",
+        "materials": [],
+        "hint": "Arrange the data and find the middle value for each group."
+      },
+      {
+        "task_text": "Analyze variability and assess research claims.",
+        "materials": [],
+        "hint": "Variability can hide or reveal real differences between groups."
+      },
+      {
+        "task_text": "Discuss likelihood of observed differences due to random chance.",
+        "materials": [],
+        "hint": "Consider sample size and distribution overlap when judging significance."
+      }
+    ],
+    "reflection_prompt": "How can understanding variability and randomness improve conclusions from data?",
+    "remix_zone": "Students remix by exploring effects of other variables (exercise, diet, sleep) on blood pressure.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "title": "Algebra I Regents High School Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply algebraic, statistical, and geometric concepts to solve real-world problems?",
+  "background_context": "This mission is based on the Algebra I Regents High School Examination. The examination consists of four parts, with a total of 37 questions. You must answer all questions in this examination. The questions require the use of a graphing calculator and a straightedge. The examination covers various topics in algebra, statistics, and geometry. You will need to use appropriate formula substitutions, diagrams, graphs, charts, etc. to solve the problems. The examination requires clear indication of the necessary steps to solve each problem.",
+  "tasks": [
+    "Task 1: Solve algebraic equations and inequalities, and interpret the solutions in the context of the problem.",
+    "Task 2: Analyze statistical data and use this analysis to solve problems.",
+    "Task 3: Apply geometric concepts to solve problems and interpret the solutions."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic, statistical, and geometric concepts do you think you will need to use to solve these problems?",
+    "What strategies can you use to solve complex problems?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did you apply algebraic, statistical, and geometric concepts to solve the problems?",
+  "ai_tutor_prompts": [
+    "Can you explain how you arrived at that solution?",
+    "What other strategies could you use to solve this problem?",
+    "How does this concept apply to the real world?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own algebraic, statistical, or geometric problems based on real-world scenarios.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

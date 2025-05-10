@@ -1,0 +1,33 @@
+{
+  "title": "Algebra II: Understanding Statistics and Geometry in Economics",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use algebra, statistics, and geometry to make informed decisions in economics?",
+  "short_background_context": "This mission is based on the Algebra II examination from the University of the State of New York. The examination includes a variety of questions that require the use of algebra, statistics, geometry, and economic understanding. For example, one question is based on a survey conducted by a coffee chain, which requires statistical analysis to interpret the results and make informed decisions. Another question involves the use of algebra and geometry to simplify complex expressions. This mission will challenge you to apply these mathematical concepts in practical, real-world scenarios.",
+  "tasks": [
+    "Analyze the survey results from the Hot and Tasty Coffee chain and interpret what these results mean for the company.",
+    "Simplify the given algebraic expression involving the imaginary unit.",
+    "Design a survey for a local business, collect data, and analyze the results using statistical methods."
+  ],
+  "pre_thinking_prompts": [
+    "What do you think the survey results from the Hot and Tasty Coffee chain indicate about customer preferences?",
+    "How would you approach simplifying the given algebraic expression?",
+    "What kind of survey would you design for a local business and why?"
+  ],
+  "reflection_prompt": "What did you learn from this mission about applying mathematical concepts in real-world scenarios? How might these skills be useful in your future studies or career?",
+  "ai_tutor_prompts": [
+    "Why is it important to consider the context when interpreting survey results?",
+    "Can you explain the steps you took to simplify the given algebraic expression?",
+    "How did you ensure that your survey design would yield valid and reliable results?"
+  ],
+  "remix_zone": "Students could remix this problem by designing their own examination booklet with a variety of questions that require the use of algebra, statistics, geometry, and economic understanding. They could also conduct a real survey in their school or community and analyze the results.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

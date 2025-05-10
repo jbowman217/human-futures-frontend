@@ -1,0 +1,35 @@
+{
+  "title": "AP Calculus in Real World Context",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply the principles of AP Calculus to real-world problems in economics, geometry, statistics, history, ethics, and algebra?",
+  "short_background_context": "Calculus is a branch of mathematics that deals with rates of change and the accumulation of quantities. Advanced Placement (AP) Calculus is a set of two distinct AP courses and exams offered by the College Board: AP Calculus AB and AP Calculus BC. The courses are intended to be challenging and demanding, and are comparable to college and university calculus courses. In this mission, we will explore how the principles of AP Calculus can be applied to real-world problems in various subjects such as economics, geometry, statistics, history, ethics, and algebra.",
+  "tasks": [
+    "Analyze a historical event using calculus to determine rates of change and accumulation of quantities.",
+    "Apply calculus principles to solve a complex economic problem involving rates of change and accumulation.",
+    "Design a geometric structure using calculus principles to optimize its dimensions."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world situations where calculus might be useful?",
+    "How might calculus be used in economics or geometry?",
+    "What are some historical events where rates of change or accumulation of quantities might have been significant?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of calculus has deepened through these real-world applications. How has this mission changed your perspective on the relevance of calculus in other subject areas?",
+  "ai_tutor_prompts": [
+    "Can you explain how you used calculus to solve this problem?",
+    "What other strategies might you have used to approach this problem?",
+    "How might you apply these calculus principles in a different context?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different real-world context in which to apply calculus principles. They could also extend their learning by exploring more advanced calculus concepts and their applications.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

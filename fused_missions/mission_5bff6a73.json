@@ -1,0 +1,36 @@
+{
+  "title": "The Impact of Engineering on Society",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Algebra"
+  ],
+  "driving_question": "How does engineering influence society and how can we use it to address real-world problems?",
+  "short_background_context": "Engineering is a broad field that covers a variety of disciplines, each with its own set of principles and applications. It plays a crucial role in society, contributing to the development of infrastructure, technology, and services that we use daily. From the buildings we live in, to the vehicles we use for transportation, to the water we drink, engineering is everywhere. This mission will explore the societal impact of engineering, its connection with other fields like economics, climate, health, and more, and how we can use engineering principles to solve real-world problems.",
+  "tasks": [
+    "Research and present a case study on a significant engineering project and its societal impact.",
+    "Analyze the role of engineering in addressing climate change and propose a potential solution to a specific climate-related problem.",
+    "Design a simple engineering project using principles of geometry and algebra, and explain how it could benefit society."
+  ],
+  "pre_thinking_prompts": [
+    "What are some examples of engineering in your daily life?",
+    "How do you think engineering impacts society?",
+    "Can you think of a problem in our society that could be solved through engineering?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the role of engineering in society. How has your understanding of engineering changed? How can you apply this knowledge in your daily life?",
+  "ai_tutor_prompts": [
+    "Can you elaborate more on how your proposed solution addresses the problem?",
+    "How does your engineering project relate to the principles of geometry and algebra?",
+    "What other potential solutions did you consider before deciding on this one?"
+  ],
+  "remix_zone": "Students could remix this mission by focusing on different fields of engineering, such as civil, mechanical, or electrical engineering, and exploring their specific impacts on society.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

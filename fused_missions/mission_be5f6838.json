@@ -1,0 +1,33 @@
+{
+  "title": "Real Life Applications of Mathematics: A Project-Based Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply mathematical concepts to solve real-world problems and how does project-based learning enhance this process?",
+  "short_background_context": "Many students struggle to connect mathematics with their daily lives, often leading to a lack of interest in the subject. However, mathematics is a crucial discipline with numerous practical applications in various fields like agriculture, construction, and industry. Project-based learning offers an effective approach to teaching mathematics by allowing students to apply their knowledge to real-life scenarios. This method has been shown to increase student confidence, enhance their understanding, and stimulate their interest in mathematics.",
+  "tasks": [
+    "Identify a real-world problem that can be solved using mathematical concepts and develop a project plan to address it.",
+    "Use appropriate technology to implement your project, applying relevant mathematical concepts (Algebra, Statistics, Economics, Geometry) to solve the identified problem.",
+    "Present your project, explaining how you applied mathematical concepts to solve the problem and discuss the effectiveness of the project-based learning approach."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world problems that you think can be solved using mathematical concepts?",
+    "How do you think project-based learning might enhance your understanding of mathematics?",
+    "What kind of technology could be useful in implementing your project?"
+  ],
+  "reflection_prompt": "Reflect on your experience with this project. How has it changed your perception of mathematics? What did you learn about the application of mathematics in real-world scenarios? How effective did you find the project-based learning approach?",
+  "ai_tutor_prompts": [
+    "Can you explain how you applied mathematical concepts to solve the problem?",
+    "What challenges did you face during the project and how did you overcome them?",
+    "How did the use of technology aid in your project?"
+  ],
+  "remix_zone": "Students can remix this problem by choosing a different real-world problem to solve or by using different mathematical concepts in their project. They could also explore the use of different technologies in implementing their project.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

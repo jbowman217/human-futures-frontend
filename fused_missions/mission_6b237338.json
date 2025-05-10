@@ -1,0 +1,32 @@
+{
+  "title": "Understanding Statistical Analysis in Real World Contexts",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use statistical analysis to make meaningful comparisons in real-world contexts?",
+  "short_background_context": "In this mission, we will be exploring a real-world scenario involving the consumption of soft drinks by teenagers in different cities. The scenario is based on a question from the 2021 AP Statistics exam. A researcher claims that Baltimore has the least number of teens who consumed a soft drink in the past week. However, the researcher is comparing raw numbers without considering the sample sizes of the different cities. In this mission, we will learn why it's important to consider proportions rather than counts when comparing different groups, and how to calculate and interpret these proportions.",
+  "tasks": [
+    "Task 1: Calculate the proportion of teenagers who consumed a soft drink in the past week in each city.",
+    "Task 2: Analyze the researcher's claim and provide an explanation based on your calculations.",
+    "Task 3: Propose a more accurate way for the researcher to compare soft drink consumption across the cities."
+  ],
+  "pre_thinking_prompts": [
+    "Why might it be misleading to compare raw counts without considering the size of the groups?",
+    "How can we calculate the proportion of teenagers who consumed a soft drink in each city?",
+    "What might be a more accurate way to compare the data?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about statistical analysis in this mission. How has your understanding of comparing data from different groups changed?",
+  "ai_tutor_prompts": [
+    "Why is it important to consider the sample size when comparing data from different groups?",
+    "How did you calculate the proportions? What did you learn from these calculations?",
+    "Can you explain why your proposed method provides a more accurate comparison?"
+  ],
+  "remix_zone": "Students could remix this problem by applying the same statistical analysis techniques to different real-world scenarios. For example, they could analyze data on the consumption of different types of food or participation in different types of activities in their own school or community.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

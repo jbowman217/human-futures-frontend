@@ -1,0 +1,37 @@
+{
+  "title": "Hands-On AI Projects for the Classroom",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use AI to solve real-world problems and inspire innovation in various fields?",
+  "short_background_context": "The International Society for Technology in Education (ISTE) is a nonprofit organization that works with the global education community to accelerate the use of technology to solve tough problems and inspire innovation. ISTE sets a bold vision for education transformation through the ISTE Standards, a framework for students, educators, administrators, coaches and computer science educators to rethink education and create innovative learning environments. This mission will involve hands-on AI projects that will enable students to apply AI in solving problems in various subjects such as Economics, Climate, Statistics, Geometry, History, Health, Ethics, and Algebra.",
+  "tasks": [
+    "Develop an AI Chatbot that can answer questions on a specific subject",
+    "Critically analyze the use of AI in various fields and discuss its ethical implications",
+    "Design an AI project that can solve a real-world problem in one of the subjects"
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about AI?",
+    "How do you think AI can be applied in the subjects you are studying?",
+    "What are some of the ethical considerations when using AI?"
+  ],
+  "reflection_prompt": "Reflect on your experience designing and implementing an AI project. What did you learn? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain how your AI Chatbot works?",
+    "What are some potential ethical issues with your AI project?",
+    "How does your AI project contribute to innovation in the subject area?"
+  ],
+  "remix_zone": "Students can remix the problem by choosing a different subject area for their AI project or by developing a different type of AI technology (e.g., machine learning model, recommendation system, etc.)",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

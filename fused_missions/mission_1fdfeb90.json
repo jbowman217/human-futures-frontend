@@ -1,0 +1,32 @@
+{
+  "title": "Chocolate and Blood Pressure: A Statistical Analysis",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use statistical analysis to determine the effect of different types of chocolate on blood pressure?",
+  "short_background_context": "In this mission, you will be analyzing data from a study that investigates the impact of dark chocolate and white chocolate on blood pressure. The study measures the median reduction in blood pressure for individuals consuming each type of chocolate. Your task is to understand and interpret the statistical evidence presented, and to consider the variability in the sampling distribution of the differences in sample means. You will need to use your knowledge of algebra, statistics, and economics to complete this mission successfully.",
+  "tasks": [
+    "Task 1: Determine the median reduction in blood pressure for those eating dark chocolate and those eating white chocolate. Compare these medians and discuss your findings in the context of the study.",
+    "Task 2: Analyze the researcher's conclusion and discuss whether it may not necessarily be true, considering the variability in the sampling distribution of the differences in sample means.",
+    "Task 3: Consider the likelihood that the observed difference in sample means occurred by random chance if the population means are equal. Discuss your findings and their implications."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by 'median reduction' in this context?",
+    "What factors could contribute to the variability in the sampling distribution of the differences in sample means?",
+    "How could random chance affect the observed difference in sample means?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of statistical analysis before and after this mission. How has your understanding of the role of variability and random chance in statistical studies evolved?",
+  "ai_tutor_prompts": [
+    "Can you explain why considering the variability in the sampling distribution is important?",
+    "What would it mean if the observed difference in sample means occurred by random chance?",
+    "Can you think of any other factors that might affect blood pressure and how they could be incorporated into this study?"
+  ],
+  "remix_zone": "Consider how this problem could be remixed by changing the variables. For example, could you investigate the effect of different types of food or exercise on blood pressure? How might the statistical analysis change?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

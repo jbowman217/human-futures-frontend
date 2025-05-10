@@ -1,0 +1,33 @@
+{
+  "title": "Understanding Probability and Sampling Distributions",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use the concepts of probability and sampling distributions to solve real-world problems?",
+  "short_background_context": "In the AP Statistics exam, students are often asked to solve problems related to probability and sampling distributions. One such problem involves determining the probability of a randomly selected bottle of shampoo being underfilled. The amount of shampoo in a bottle follows a normal distribution with a mean of 0.6 liter and a standard deviation of 0.04 liter. The problem requires the students to calculate the probability that a randomly selected bottle is underfilled, i.e., it contains less than 0.5 liter of shampoo.",
+  "tasks": [
+    "Task 1: Identify the correct parameter values (mean and standard deviation) for the normal distribution of the amount of shampoo in a bottle.",
+    "Task 2: Specify the correct event (boundary value and direction) consistent with the values reported in Task 1.",
+    "Task 3: Calculate the correct probability of the event specified in Task 2."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about normal distribution?",
+    "How can you calculate the probability of an event under a normal distribution?",
+    "What is the significance of the mean and standard deviation in a normal distribution?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the normal distribution and its parameters. How did these concepts help you solve the problem?",
+  "ai_tutor_prompts": [
+    "Consider the mean and standard deviation. How do these values influence the shape of the normal distribution?",
+    "Think about the boundary value and direction. How do these factors affect the calculation of the probability?",
+    "Reflect on the z-score formula. How does it help in calculating the probability of an event under a normal distribution?"
+  ],
+  "remix_zone": "Students could remix the problem by changing the mean and standard deviation values, or by changing the event (e.g., calculating the probability of a bottle being overfilled).",
+  "display": {
+    "graph_builder": "Students could use the graph builder to visualize the normal distribution and the event of interest.",
+    "text_area": "Students could use the text area to write down their calculations and explanations."
+  }
+}

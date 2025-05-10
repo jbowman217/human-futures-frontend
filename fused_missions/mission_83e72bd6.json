@@ -1,0 +1,32 @@
+{
+  "title": "Algebra II: Simplifying Complex Expressions",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics"
+  ],
+  "driving_question": "How can we simplify complex algebraic expressions involving real numbers and imaginary units?",
+  "short_background_context": "This mission is based on a question from the University of the State of New York REGENTS HIGH SCHOOL EXAMINATION in Algebra II. The question requires students to simplify a complex algebraic expression involving real numbers and imaginary units. The expression is given in the form (x + 2i)(3 - 2xi) + 2x^2i, where x is a real number and i is the imaginary unit. The goal is to express the result in the simplest a + bi form. This requires understanding and applying the rules of algebra and complex numbers, and demonstrating clear, logical reasoning.",
+  "tasks": [
+    "Task 1: Write the given expression in simplest a + bi form.",
+    "Task 2: Explain the steps you took to simplify the expression.",
+    "Task 3: Evaluate the expression for a given value of x and interpret the result in terms of real and imaginary parts."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about simplifying expressions with real numbers and imaginary units?",
+    "What strategies might be helpful in tackling this problem?",
+    "What does it mean for an expression to be in simplest a + bi form?"
+  ],
+  "reflection_prompt": "Reflect on the process you used to simplify the expression. What did you find challenging and why? How did you overcome these challenges? What did you learn from this exercise about working with complex numbers?",
+  "ai_tutor_prompts": [
+    "Can you explain why you took that step?",
+    "What would happen if you tried a different approach?",
+    "How does this step help you simplify the expression?"
+  ],
+  "remix_zone": "Try simplifying a different complex expression. You could also explore how different values of x affect the real and imaginary parts of the result.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

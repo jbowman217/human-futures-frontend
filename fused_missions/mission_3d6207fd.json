@@ -1,0 +1,41 @@
+{
+  "title": "AP Computer Science A: Class Design and Scoring Guidelines",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we design a class in Java and understand the scoring guidelines for AP Computer Science A?",
+  "short_background_context": "In the AP Computer Science A exam, the ability to design and implement a class is a crucial skill. The scoring guidelines provide insight into how points are awarded for specific components of a class, such as declaring a class header, constructor, and private instance variables. Understanding these guidelines can help you to design more effective classes and achieve higher scores on the exam. In this mission, you will explore a sample class 'Textbook' that extends another class 'Book', and delve into the scoring guidelines for this task.",
+  "tasks": [
+    {
+      "task_title": "Analyze the 'Textbook' Class",
+      "task_description": "Review the 'Textbook' class and note down its components. Identify the class header, constructor, private instance variables, and methods."
+    },
+    {
+      "task_title": "Understand the Scoring Guidelines",
+      "task_description": "Study the scoring guidelines for the 'Textbook' class. Identify the points awarded for each component of the class."
+    },
+    {
+      "task_title": "Design Your Own Class",
+      "task_description": "Design your own class 'Novel' that extends the 'Book' class. Ensure to include all the components that are evaluated as per the scoring guidelines."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are the key components of a class in Java?",
+    "How are points awarded for each component of a class in the AP Computer Science A exam?",
+    "What are some common mistakes to avoid when designing a class?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of class design in Java. How confident are you in designing a class that meets the scoring guidelines for the AP Computer Science A exam?",
+  "ai_tutor_prompts": [
+    "What is the purpose of the 'super' keyword in the constructor of the 'Textbook' class?",
+    "Why is it important to declare instance variables as private?",
+    "Can you explain how the 'canSubstituteFor' method works in the 'Textbook' class?"
+  ],
+  "remix_zone": "Consider how you could extend the 'Book' class to create other types of books, such as 'Magazine' or 'Journal'. What additional properties or methods might these classes have?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

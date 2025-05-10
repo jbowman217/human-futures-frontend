@@ -1,0 +1,37 @@
+{
+  "title": "Interdisciplinary Study of Earth's Systems and Human Activity",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How do Earth's systems interact with human activity and what are the implications on our economy, health, and ethics?",
+  "short_background_context": "Earth's systems are complex and interconnected. These systems include the atmosphere, hydrosphere, geosphere, and biosphere. Human activities such as industrialization, agriculture, and urbanization have significant impacts on these systems. These impacts can lead to climate change, loss of biodiversity, and other environmental issues. Understanding these interactions is crucial for sustainable development. This mission will integrate knowledge from various subjects such as Economics, Climate, Statistics, Geometry, History, Health, Ethics, and Algebra to explore these interactions and their implications.",
+  "tasks": [
+    "Analyze the economic impact of climate change on a selected region.",
+    "Use statistical and geometric methods to model the spread of a disease due to environmental changes.",
+    "Investigate a historical event where human activity significantly affected Earth's systems and discuss the ethical implications."
+  ],
+  "pre_thinking_prompts": [
+    "What are some ways human activities impact Earth's systems?",
+    "How might climate change affect the economy?",
+    "What ethical issues might arise from human impacts on the environment?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the interaction between Earth's systems and human activity. How has this mission changed your understanding and perspective on these issues?",
+  "ai_tutor_prompts": [
+    "Can you explain how you arrived at your conclusion?",
+    "What evidence supports your findings?",
+    "How might your findings be different if you considered another perspective or additional data?"
+  ],
+  "remix_zone": "Students could remix this problem by focusing on a different region, considering different human activities, or exploring different impacts on Earth's systems.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

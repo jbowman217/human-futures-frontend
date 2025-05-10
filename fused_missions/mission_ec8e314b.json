@@ -1,0 +1,32 @@
+{
+  "title": "Exploring Sampling and Experimental Design in AP Statistics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics"
+  ],
+  "driving_question": "How can we use sampling and experimental design to determine the impact of different treatments on a given variable?",
+  "short_background_context": "In this mission, we will explore a real-world problem from the AP Statistics exam. The problem focuses on an experiment involving the use of different types of concrete in the construction of driveways. The experiment aims to determine the impact of using concrete with fibers and concrete without fibers on the severity of cracks in the driveways after one year. The severity of the cracks is rated on a scale of 0 to 10. The mission will involve understanding the experimental design, implementing a random process for assigning treatments, and interpreting the results.",
+  "tasks": [
+    "Identify the experimental units, treatments, and response variable in the problem.",
+    "Describe a random process for assigning the treatments to the experimental units.",
+    "Interpret the results of the experiment and draw conclusions."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by experimental units, treatments, and response variable?",
+    "How would you randomly assign treatments to experimental units?",
+    "How would you interpret the results of such an experiment?"
+  ],
+  "reflection_prompt": "Reflect on the process of designing and interpreting the experiment. What did you learn about the use of statistics in real-world problem-solving?",
+  "ai_tutor_prompts": [
+    "Can you explain why it's important to randomly assign treatments in an experiment?",
+    "What factors might affect the severity of the cracks in the driveways?",
+    "How might the results of this experiment be used in decision-making in construction?"
+  ],
+  "remix_zone": "Consider a different response variable or a different treatment. How would you modify the experimental design to accommodate this change?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

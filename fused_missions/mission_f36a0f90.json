@@ -1,0 +1,32 @@
+{
+  "title": "Inference in Statistics: A Real-world Application",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can statistical inference be used to make decisions in a business context?",
+  "short_background_context": "In this mission, you will be exploring a real-world scenario involving a pet supply company. The company has recently sent out emails with a $10 coupon to its customers. The company is interested in knowing whether these coupons are effective in encouraging customers to place an order within 30 days after receiving the email. To understand this, you will be using the concept of statistical inference. You will be formulating hypotheses, conducting a one-sample z-test for a population proportion, and drawing conclusions based on your results. This scenario will allow you to apply your knowledge of statistics in a practical context and understand its importance in decision-making in business.",
+  "tasks": [
+    "Task 1: Formulate the null and alternative hypotheses for this scenario. Remember to provide sufficient context for the parameter by including reference to the population proportion, the sampling units (customers), and the response variable (placing an order after receiving a coupon).",
+    "Task 2: Identify the appropriate statistical test for this scenario and explain why it is suitable.",
+    "Task 3: Conduct the identified statistical test and interpret the results in the context of the scenario."
+  ],
+  "pre_thinking_prompts": [
+    "What does the null hypothesis represent in this scenario?",
+    "What does the alternative hypothesis represent in this scenario?",
+    "What statistical test would be appropriate for this scenario and why?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of statistical inference. How did formulating hypotheses, conducting a statistical test, and interpreting the results help you understand the scenario better?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular statistical test?",
+    "What does your test result mean in the context of the scenario?",
+    "How would you interpret the p-value in this context?"
+  ],
+  "remix_zone": "Consider a different scenario where the company sends out a $20 coupon instead of a $10 coupon. How would you modify your hypotheses and approach in this case?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

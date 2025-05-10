@@ -1,0 +1,30 @@
+{
+  "title": "Algebra in Computer Science: Code Efficiency and Resource Management",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can algebraic concepts be applied to improve code efficiency and resource management in computer science?",
+  "short_background_context": "Computer Science is a discipline that goes beyond just coding. It requires the ability to synthesize multiple concepts, plan thoughtfully, and leverage available resources efficiently. One of the key areas where these skills are required is in writing efficient code. This involves creating algorithms that solve problems in the least amount of time and space, a concept that is deeply rooted in Algebra. In this mission, you will be exploring how algebraic concepts can be applied to improve the efficiency of code and the management of resources in a computer science project. You will also learn about the importance of documentation and the role it plays in making code readable and understandable.",
+  "tasks": [
+    "Research and present an example of an inefficient piece of code and propose an algebraic approach to improve its efficiency.",
+    "Create a plan to manage resources (time, equipment, external expertise) for a hypothetical computer science project. Use algebraic concepts to justify your plan.",
+    "Write a piece of code for a simple problem, ensuring it is well-documented, efficient, and readable. Use algebraic concepts in the creation of your code."
+  ],
+  "pre_thinking_prompts": [
+    "What is the relationship between algebra and computer science?",
+    "How can algebraic concepts improve code efficiency?",
+    "What role does planning and resource management play in a computer science project?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of algebra has deepened through this mission. How will you apply these concepts in future coding projects?",
+  "ai_tutor_prompts": [
+    "Can you explain how you used algebra to improve the efficiency of your code?",
+    "How would the resource management of your project suffer without the use of algebraic concepts?",
+    "What challenges did you face in making your code readable and efficient, and how did you overcome them?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different subject area where algebraic concepts can be applied, such as physics or economics, and creating a similar mission around that topic.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

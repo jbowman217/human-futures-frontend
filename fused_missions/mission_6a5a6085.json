@@ -1,0 +1,32 @@
+{
+  "title": "Investigative Task: Comparing the Success Rates of Allergy Treatments in Two Clinics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "Which clinic, A or B, is more successful in treating allergy sufferers, and how can we justify this using relative frequencies?",
+  "short_background_context": "In this mission, you will be examining the success rates of two clinics, A and B, in treating allergy sufferers. The success rate is determined by the relative frequency of successful treatments. Relative frequency is a statistical term that refers to the proportion of a total that each part represents. In this case, you will calculate the relative frequencies of successful and unsuccessful treatments in each clinic and use these values to determine which clinic has a higher success rate. This mission will require you to apply your knowledge of algebra, economics, and geometry to interpret data and make informed decisions.",
+  "tasks": [
+    "Calculate the relative frequencies of successful and unsuccessful treatments in each clinic.",
+    "Compare the relative frequencies and identify which clinic is more successful in treating allergy sufferers.",
+    "Justify your answer using the relative frequencies you calculated."
+  ],
+  "pre_thinking_prompts": [
+    "What is relative frequency and how is it calculated?",
+    "How can relative frequencies be used to compare the success rates of the two clinics?",
+    "What factors might influence the success rate of a clinic?"
+  ],
+  "reflection_prompt": "Reflect on your process of calculating and comparing relative frequencies. What did you find challenging and how did you overcome it? What did you learn about the use of statistics in real-world decision making?",
+  "ai_tutor_prompts": [
+    "Remember, relative frequencies must be accurate to at least two decimal places. Have you checked your calculations?",
+    "Think about how the relative frequencies of successful and unsuccessful treatments might influence your decision. Which is more important to consider?",
+    "How can you justify your decision using the relative frequencies you calculated?"
+  ],
+  "remix_zone": "Students could remix this problem by considering additional factors that might influence the success rate of a clinic, such as the number of patients treated, the severity of the allergies, or the specific treatments used. They could also compare more than two clinics or analyze the data over a longer time period.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

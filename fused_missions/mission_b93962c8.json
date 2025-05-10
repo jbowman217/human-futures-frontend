@@ -1,0 +1,37 @@
+{
+  "title": "Exploring Algorithms: Successor Arrays",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply the concept of successor arrays to understand and solve real-world economic problems?",
+  "short_background_context": "In the field of computer science, algorithms play a crucial role in solving complex problems. One such algorithm is the 'successor array' algorithm. This algorithm is used to find the position of a given integer in a 2D integer array. It is a practical tool for organizing and accessing data. In this mission, we will explore how this algorithm can be applied to economic scenarios. For instance, imagine you are an economist trying to analyze a large dataset of economic indicators. Using the successor array algorithm could help you locate specific data points quickly and efficiently. Understanding such algorithms is not only beneficial for computer scientists but also for economists who deal with large volumes of data.",
+  "tasks": [
+    {
+      "task_1": "Create a 2D array of economic indicators and implement the 'findPosition' function to locate a specific indicator."
+    },
+    {
+      "task_2": "Develop the 'getSuccessorArray' function to create a successor array based on your 2D array of economic indicators."
+    },
+    {
+      "task_3": "Analyze the efficiency of the successor array algorithm in locating data points in your economic indicators array."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is the purpose of a successor array?",
+    "How can a successor array be useful in the field of economics?",
+    "What are the steps to implement a successor array algorithm?"
+  ],
+  "reflection_prompt": "Reflect on the efficiency of the successor array algorithm. How did it aid in locating specific data points in your economic indicators array?",
+  "ai_tutor_prompts": [
+    "Can you explain the steps you took to implement the successor array algorithm?",
+    "How did the 'findPosition' function aid in creating the successor array?",
+    "Can you think of other real-world scenarios where this algorithm could be useful?"
+  ],
+  "remix_zone": "Try implementing the successor array algorithm using a different dataset, such as population statistics or climate data. How does the efficiency of the algorithm vary with different types of data?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

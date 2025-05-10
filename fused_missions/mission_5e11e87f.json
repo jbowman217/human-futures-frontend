@@ -1,0 +1,33 @@
+{
+  "title": "Understanding Algebra and Statistics through Real-World Problems",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic and statistical concepts to analyze and solve real-world problems?",
+  "short_background_context": "The University of the State of New York conducts a REGENTS HIGH SCHOOL EXAMINATION in Algebra II. This examination contains a variety of questions that test students' understanding of algebraic concepts and statistical principles. These questions require students to apply their knowledge to solve problems and interpret results. The questions cover a range of topics including determining the zeros of a function, solving equations, and analyzing probabilities of independent events. This mission will focus on three questions from the examination, each of which presents a unique challenge and opportunity to apply your learning in Algebra, Statistics, Economics, and Geometry.",
+  "tasks": [
+    "Task 1: Algebraically determine the zeros of the function r(x) = 3x^3 + 12x^2 - 3x - 12",
+    "Task 2: Given a > 0, solve the equation aax1 23 for x algebraically",
+    "Task 3: Given P(A) = 1/3 and P(B) = 5/12, where A and B are independent events, determine P(A \u2229 B)"
+  ],
+  "pre_thinking_prompts": [
+    "What methods can you use to find the zeros of a function?",
+    "How can you solve the equation given in Task 2?",
+    "What does it mean for events A and B to be independent, and how does this affect the calculation of P(A \u2229 B)?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of algebra and statistics helped you solve these problems. What strategies were most effective? What challenges did you encounter and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that method to find the zeros?",
+    "What steps did you take to isolate x in the equation?",
+    "Can you explain the formula you used to calculate P(A \u2229 B)?"
+  ],
+  "remix_zone": "Consider different functions, equations, or probabilities. How would your approach change with different inputs? Try creating your own problems and solving them.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

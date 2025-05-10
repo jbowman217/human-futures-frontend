@@ -1,0 +1,32 @@
+{
+  "title": "Implementing Digital Fluency Standards",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we effectively implement the New York State Learning Standards for Computer Science and Digital Fluency in our high school curriculum?",
+  "short_background_context": "In December 2020, the Board of Regents adopted the New York State (NYS) Learning Standards for Computer Science and Digital Fluency. This was the result of a two-year collaborative process involving multiple stakeholders. The goal is to ensure every student knows how to live productively and safely in a technology-dominated world. This includes understanding the essential features of digital technologies, why and how they work, and how to communicate and create using these technologies. The implementation of these standards is spread out over four years, with full implementation expected by September 2024.",
+  "tasks": [
+    "Research and understand the NYS Learning Standards for Computer Science and Digital Fluency.",
+    "Develop a plan to integrate these standards into the existing curriculum for Algebra, Economics, and Geometry.",
+    "Create an assessment design to evaluate the effectiveness of the implementation of these standards."
+  ],
+  "pre_thinking_prompts": [
+    "What are the key features of the NYS Learning Standards for Computer Science and Digital Fluency?",
+    "How can these standards be integrated into the existing curriculum?",
+    "What challenges might we face during the implementation process?"
+  ],
+  "reflection_prompt": "Reflect on the process of integrating the NYS Learning Standards for Computer Science and Digital Fluency. What worked well? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "What specific strategies might you use to overcome potential challenges in implementing these standards?",
+    "How might you ensure that these standards are effectively integrated into all relevant subjects?",
+    "What steps can you take to continuously assess and improve the implementation of these standards?"
+  ],
+  "remix_zone": "Students could remix this problem by proposing their own unique strategies for implementing the NYS Learning Standards for Computer Science and Digital Fluency. They could also suggest ways to adapt these standards for other subjects or grade levels.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

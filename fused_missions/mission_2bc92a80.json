@@ -1,0 +1,31 @@
+{
+  "title": "Exploring Latin Squares through Computer Science",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use computer science concepts to understand and solve Latin Squares?",
+  "short_background_context": "Latin Squares is a mathematical concept that has been used in various fields, including statistics, coding theory, and experimental design. A Latin Square is an n x n array filled with n different symbols, each occurring exactly once in each row and exactly once in each column. In this mission, we will explore the concept of Latin Squares through the lens of computer science, specifically using AP Computer Science A scoring guidelines. You will engage with the scoring rubric, understand the penalties and rewards in the scoring system, and apply these concepts to solve Latin Squares problems.",
+  "tasks": [
+    "Task 1: Analyze the AP Computer Science A scoring guidelines, focusing on the penalties and rewards. Make a list of the key factors to consider when answering a question.",
+    "Task 2: Using the scoring guidelines, create a 1-D array that contains the values from one column of a 2-D array. Ensure your solution adheres to the scoring guidelines.",
+    "Task 3: Check conditions to determine if a square 2-D array is a Latin square. Use the scoring guidelines to ensure your solution is accurate and efficient."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the term 'Latin Squares'?",
+    "How do you think computer science can help in solving Latin Squares?",
+    "What are some key points you noticed in the scoring guidelines?"
+  ],
+  "reflection_prompt": "Reflect on how understanding the scoring guidelines helped you in solving the tasks. What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this particular approach for solving the task?",
+    "How does your solution adhere to the scoring guidelines?",
+    "What would happen if you changed this part of your code?"
+  ],
+  "remix_zone": "Try solving the Latin Squares problem using a different programming language or approach. Compare the efficiency and accuracy of your solutions.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

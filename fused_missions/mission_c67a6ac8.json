@@ -1,0 +1,33 @@
+{
+  "title": "Bacteria Population Density in a Petri Dish",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use calculus to understand and predict the growth of a bacteria population in a petri dish?",
+  "short_background_context": "You are a microbiologist studying the growth of a bacteria population in a petri dish. The density of the bacteria population at a distance r centimeters from the center of the dish is given by an increasing, differentiable function f, where f(r) is measured in milligrams per square centimeter. You are tasked with understanding the rate at which the bacteria population is increasing and predicting the total mass of the bacteria in the petri dish.",
+  "tasks": [
+    "Use the data provided to estimate f\u2032(2.25) and interpret the meaning of your answer in the context of this problem.",
+    "Calculate the total mass of bacteria in the petri dish using the integral expression \u222b04 \u222b042\u03c0 r f ( )r dr.",
+    "Predict the growth of the bacteria population over time using your calculations."
+  ],
+  "pre_thinking_prompts": [
+    "What does f\u2032(2.25) represent in this context?",
+    "How does the integral expression \u222b04 \u222b042\u03c0 r f ( )r dr relate to the total mass of bacteria in the petri dish?",
+    "What factors might influence the growth of the bacteria population over time?"
+  ],
+  "reflection_prompt": "Reflect on your calculations and predictions. How confident are you in your results? What assumptions did you make and how might they affect your predictions?",
+  "ai_tutor_prompts": [
+    "Remember to use the correct units in your calculations.",
+    "Consider the implications of your results. What do they tell you about the growth of the bacteria population?",
+    "How might your results be different if the bacteria population was not increasing at a constant rate?"
+  ],
+  "remix_zone": "Consider a different scenario where the bacteria population is decreasing. How would your calculations and predictions change?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

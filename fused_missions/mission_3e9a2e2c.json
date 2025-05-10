@@ -1,0 +1,38 @@
+{
+  "title": "Algebra II Regents Examination Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics"
+  ],
+  "driving_question": "How can you apply your understanding of Algebra II to analyze and solve complex problems from a Regents Examination?",
+  "short_background_context": "The University of the State of New York conducts the Regents High School Examination for Algebra II. This examination tests students' understanding of Algebra II concepts and their ability to apply this knowledge to solve problems. The examination includes various types of questions requiring students to perform tasks such as formula substitutions, drawing diagrams, creating graphs, and more. All answers must be written in pen, except for graphs and drawings, which should be done in pencil. Students are expected to clearly indicate the necessary steps to solve each problem. For this mission, you will analyze and solve some of these problems.",
+  "tasks": [
+    {
+      "task": "Analyze the given problem from the Regents Examination: 'Given x is a real number, write the expression in simplest a + bi form: (x + 2i)(3 - 2xi) + 2x2i'. Write down your solution with clear steps."
+    },
+    {
+      "task": "Create a graph that visually represents the solution to the problem. Make sure to label all the parts of your graph."
+    },
+    {
+      "task": "Reflect on the ethical implications of not showing your work in an examination setting. Write a short essay discussing the importance of academic honesty."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is the first step you need to take to solve the problem?",
+    "What Algebra II concepts do you need to apply to solve this problem?",
+    "What are the possible outcomes if you do not show your work in an examination setting?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of Algebra II concepts after completing this mission. How did this mission help you to apply your knowledge in a real-world context?",
+  "ai_tutor_prompts": [
+    "Can you explain why you took that step?",
+    "What other Algebra II concepts could be applied to this problem?",
+    "Why is it important to show your work in an examination setting?"
+  ],
+  "remix_zone": "Students can remix this problem by creating their own complex Algebra II problems inspired by the Regents Examination. They can then exchange problems with peers for solving.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

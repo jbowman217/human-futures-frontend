@@ -1,0 +1,36 @@
+{
+  "title": "Understanding Black Holes: A Mathematical Approach",
+  "grade_band": "10-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "Algebra"
+  ],
+  "driving_question": "How can we use mathematical concepts to understand the properties and behavior of black holes?",
+  "short_background_context": "Black holes are one of the most intriguing and mysterious subjects in the field of astronomy. Despite their complexity, many aspects of black holes can be understood using simple algebra and pre-algebra mathematical skills. This mission aims to explore black hole concepts in their simplest mathematical form. Students will need to be familiar with scientific notation and be able to perform simple algebraic computations involving exponentiation and square-roots. The activities are organized according to progressive difficulty in mathematics, allowing students to build on their understanding as they progress through the tasks.",
+  "tasks": [
+    {
+      "task_1": "Explore the size and mass of a black hole using algebraic computations and scientific notation.",
+      "task_2": "Model the orbit speeds and periods around a black hole using geometry and statistics.",
+      "task_3": "Investigate the environment of a black hole, including energy, force, space and time, using concepts from high school physics."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about black holes?",
+    "What mathematical skills do you think might be useful in understanding black holes?",
+    "What questions do you have about black holes?"
+  ],
+  "reflection_prompt": "What did you learn about black holes through these mathematical tasks? How has your understanding of black holes changed?",
+  "ai_tutor_prompts": [
+    "Can you explain why you used that particular mathematical operation?",
+    "What would happen if you changed this variable in your equation?",
+    "How does this concept relate to what you've learned about black holes?"
+  ],
+  "remix_zone": "Students could remix the problem by exploring different types of black holes, or by applying the mathematical concepts to other astronomical phenomena such as neutron stars or galaxies.",
+  "display": {
+    "graph_builder": "Students will use the graph builder to visualize their mathematical models and calculations.",
+    "text_area": "Students will use the text area to explain their thinking, record their calculations, and reflect on their learning."
+  }
+}

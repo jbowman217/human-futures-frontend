@@ -1,0 +1,39 @@
+{
+  "title": "Next Generation Science Standards: For States, By States",
+  "grade_band": "K-12",
+  "subjects": [
+    "Science"
+  ],
+  "driving_question": "How can we understand and apply the Next Generation Science Standards for effective science education in our states?",
+  "tasks": [
+    "Read the Next Generation Science Standards",
+    "Understand the arrangement of standards by Disciplinary Core Ideas and by Topics",
+    "Examine the connections to standards arranged by Disciplinary Core Ideas and by Topics",
+    "Explore the conceptual shifts in the Next Generation Science Standards",
+    "Review responses to the public drafts",
+    "Understand the implications for college and career"
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the Next Generation Science Standards?",
+    "Why is it important to understand these standards?",
+    "How can these standards be applied in your local context?"
+  ],
+  "reflection_prompt": "Reflect on how the Next Generation Science Standards can be implemented in your local context for effective science education.",
+  "ai_tutor_prompts": [
+    "Let's discuss the key points in the Next Generation Science Standards.",
+    "How do you think these standards can be applied in your local context?",
+    "What are the conceptual shifts in these standards?"
+  ],
+  "remix_zone": "Consider how you might adapt these standards for your own educational context. What modifications would you make?",
+  "display_fields": [
+    "title",
+    "grade_band",
+    "subjects",
+    "driving_question",
+    "tasks",
+    "pre_thinking_prompts",
+    "reflection_prompt",
+    "ai_tutor_prompts",
+    "remix_zone"
+  ]
+}

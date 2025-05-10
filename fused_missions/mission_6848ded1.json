@@ -1,0 +1,28 @@
+{
+  "title": "AP Computer Science A: Scoring Guidelines",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can you apply mathematical concepts to understand and solve problems in computer science?",
+  "short_background_context": "In this mission, we will explore the 2022 AP Computer Science A Scoring Guidelines. These guidelines provide a detailed understanding of how scoring is done for the AP Computer Science A exam. The guidelines cover a range of topics including methods, control structures, and penalties. Understanding these guidelines is crucial for anyone preparing for the AP Computer Science A exam. The mission will involve applying algebraic concepts to understand and interpret these guidelines.",
+  "tasks": [
+    "Task 1: Analyze the scoring criteria and identify how the points are awarded.",
+    "Task 2: Develop an algebraic expression that represents the scoring criteria.",
+    "Task 3: Create a scoring rubric based on the guidelines that can be used to evaluate a computer science problem."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think are relevant to understanding these scoring guidelines?",
+    "How do you think the scoring criteria might be represented algebraically?"
+  ],
+  "reflection_prompt": "Reflect on the process of applying algebraic concepts to understand the scoring guidelines. What did you find challenging and what did you learn?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular algebraic expression to represent the scoring criteria?",
+    "How does your scoring rubric reflect the guidelines provided in the source text?"
+  ],
+  "remix_zone": "Students could remix this problem by developing their own scoring guidelines for a different subject area, using the same algebraic concepts.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

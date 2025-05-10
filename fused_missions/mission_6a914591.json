@@ -1,0 +1,32 @@
+{
+  "title": "AP Computer Science A: Array/ArrayList Exploration",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we manipulate and analyze data stored in arrays and ArrayLists in computer science?",
+  "short_background_context": "In computer science, an array is a data structure consisting of a collection of elements, each identified by an array index. An ArrayList, on the other hand, is a resizable array, which can be found in the java.util package. The difference between a built-in array and an ArrayList in Java, is that the size of an array cannot be modified. This mission is based on the AP Computer Science A 2022 Scoring Guidelines, specifically focusing on the Array/ArrayList question. You will be asked to understand, analyze, and create code snippets that manipulate arrays and ArrayLists.",
+  "tasks": [
+    "Analyze the given code snippets and understand how they manipulate arrays and ArrayLists.",
+    "Create your own code snippet that calculates the average rating of a set of reviews stored in an array.",
+    "Create your own code snippet that collects specific comments from a set of reviews stored in an ArrayList."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about arrays and ArrayLists in Java?",
+    "How would you approach calculating an average from a set of numbers in an array?",
+    "What steps would you take to collect specific comments from an ArrayList?"
+  ],
+  "reflection_prompt": "What did you learn about manipulating arrays and ArrayLists in Java? How can these skills be applied in other programming tasks?",
+  "ai_tutor_prompts": [
+    "Can you explain why the size of an array cannot be modified in Java?",
+    "What are the advantages and disadvantages of using an array vs an ArrayList?",
+    "Can you think of other real-world applications where arrays and ArrayLists could be used?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own set of reviews and applying the code snippets to their own data.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

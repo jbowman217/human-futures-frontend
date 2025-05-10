@@ -1,0 +1,30 @@
+{
+  "title": "Leap Year Calculations: An Algebraic Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can you use algebra to calculate the number of leap years in a given range and determine the day of the week for a specific date?",
+  "short_background_context": "In this mission, you will be exploring the concept of leap years and how they affect our calendar system. Leap years are a fascinating concept in our calendar system, introduced to correct the slight miscalculation that occurs because the Earth's orbit around the sun is not exactly 365 days. This mission is inspired by the 2019 AP Computer Science A exam, which asked students to calculate the number of leap years in a range and determine the day of the week for a given date. You will be applying algebraic concepts to solve these problems, enhancing your understanding of how mathematics is used in real-world applications.",
+  "tasks": [
+    "Task 1: Write an algebraic formula to calculate the number of leap years in a given range.",
+    "Task 2: Develop an algorithm to determine the day of the week for a specific date using algebra.",
+    "Task 3: Apply your formula and algorithm to real-world scenarios and interpret the results."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about leap years?",
+    "How could algebra be used to calculate the number of leap years?",
+    "What factors do you need to consider when determining the day of the week for a specific date?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating your formula and algorithm. What challenges did you encounter and how did you overcome them? How will this understanding of algebraic applications in real-world scenarios benefit you in future learning?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach for your formula?",
+    "How does your algorithm account for leap years when determining the day of the week?",
+    "Could there be any potential errors in your calculations? How could you mitigate them?"
+  ],
+  "remix_zone": "Consider how you could extend this problem. Could you create a formula to calculate the number of leap years in a century? Or perhaps develop an algorithm to determine the day of the week for any date in history?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

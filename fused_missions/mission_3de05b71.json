@@ -1,0 +1,32 @@
+{
+  "title": "AP Calculus BC: Coffee Temperature Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use calculus to analyze and predict the temperature of coffee over time?",
+  "short_background_context": "In this mission, we will explore an AP Calculus BC problem that involves the temperature of coffee in a cup. The temperature is modeled by a decreasing differentiable function C(t), with t representing time in minutes. We are given a table of times and corresponding temperatures. Using calculus, we will estimate the rate of temperature change, calculate the average temperature over a specific time interval, predict the temperature at a future time, and analyze the rate of change in the temperature.",
+  "tasks": [
+    "Approximate the value of C'(5) using the average rate of change of C over the interval 3\u2264t\u22647. Include correct units with your answer.",
+    "Approximate the value of \u222b from 0 to 12 C(t) dt. Interpret your answer in the context of the problem.",
+    "Given that for 12\u2264t\u226420, C'(t) = 0.01(24.55 - t)e^(-0.01t), predict the temperature of the coffee at time t=20."
+  ],
+  "pre_thinking_prompts": [
+    "What does C'(5) represent in the context of this problem?",
+    "How can we interpret the integral \u222b from 0 to 12 C(t) dt?",
+    "What does the equation C'(t) = 0.01(24.55 - t)e^(-0.01t) tell us about the temperature change over time?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of calculus concepts helped you solve this real-world problem. What strategies did you find most effective?",
+  "ai_tutor_prompts": [
+    "Remember to consider the units when calculating C'(5).",
+    "Think about what the integral represents in this context.",
+    "Consider how the given equation for C'(t) can help you predict the temperature at t=20."
+  ],
+  "remix_zone": "Consider a scenario where the temperature of the coffee is influenced by an external heat source. How would this change the problem? How would you modify your calculations?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

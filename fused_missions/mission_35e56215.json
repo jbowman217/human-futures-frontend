@@ -1,0 +1,31 @@
+{
+  "title": "Computer Science and Algebra: Understanding Leap Years",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we apply algebra and statistics to understand and calculate leap years within a given range?",
+  "short_background_context": "The Advanced Placement (AP) Computer Science A exam is a standardized test that assesses students' understanding of the principles of computer science, including problem-solving, algorithm development, and data analysis. One of the questions in the 2019 exam involved calculating the number of leap years in a given range. This task required students to apply their knowledge of algebra and statistics, as they had to initialize a numeric variable, loop through each year in the range, call a function to determine if a year was a leap year, and update a count based on the result. This mission will guide you through a similar process, allowing you to apply your mathematical skills in a practical context.",
+  "tasks": [
+    "Task 1: Initialize a numeric variable to count the number of leap years.",
+    "Task 2: Develop a loop that goes through each year in a given range.",
+    "Task 3: Create a function that determines if a year is a leap year and apply this function within your loop."
+  ],
+  "pre_thinking_prompts": [
+    "What is a leap year and how is it determined?",
+    "How can we use a loop to go through a range of years?",
+    "What steps do we need to take to count the number of leap years in a given range?"
+  ],
+  "reflection_prompt": "What did you learn about the application of algebra and statistics in solving real-world problems? How did you find the process of developing a function to determine leap years?",
+  "ai_tutor_prompts": [
+    "Can you explain why we need to initialize a numeric variable before starting the loop?",
+    "What is the purpose of the leap year function in our loop?",
+    "How does the count update based on the result of the leap year function?"
+  ],
+  "remix_zone": "How might you modify this problem to calculate the number of leap years in a different range or to calculate a different event that occurs periodically?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

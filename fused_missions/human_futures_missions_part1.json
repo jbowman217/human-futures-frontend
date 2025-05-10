@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Spinning Toy Design",
+    "grade_band": "9-12",
+    "subjects": ["Algebra", "Geometry"],
+    "driving_question": "How can we use algebra and geometry to design a spinning toy using the family of functions y=cx^4 - x^2?",
+    "short_background_context": "A company designs spinning toys using the family of functions y=cx^4 - x^2. Students will calculate area, determine optimal 'c' values, and analyze design impacts.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Calculate the area bounded by y=cx^4 - x^2 and the x-axis.",
+        "materials": [],
+        "hint": "Remember: find the points where the graph crosses the x-axis first."
+      },
+      {
+        "task_text": "Determine the value of c for a given maximum cross-section.",
+        "materials": [],
+        "hint": "Think about setting up an equation that maximizes area."
+      },
+      {
+        "task_text": "Analyze how changing c affects toy design.",
+        "materials": [],
+        "hint": "What happens to the curve's width and steepness as c changes?"
+      }
+    ],
+    "reflection_prompt": "How does understanding the function shape impact the design and utility of the toy?",
+    "remix_zone": "Students remix by designing toys with different functions (like parabolas or trigonometric curves).",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Exploring Latin Squares Through Computer Science",
+    "grade_band": "9-12",
+    "subjects": ["Algebra", "Economics"],
+    "driving_question": "How can we use computer science concepts to understand and solve Latin Squares?",
+    "short_background_context": "Latin Squares are mathematical structures used in statistics, design, and coding. Students will code, check, and model them with AP Computer Science principles.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Analyze scoring rubrics for Latin Square solutions.",
+        "materials": [],
+        "hint": "What makes a Latin Square different from a random arrangement?"
+      },
+      {
+        "task_text": "Write code to extract columns from arrays.",
+        "materials": [],
+        "hint": "Think about looping over each row and picking the same index."
+      },
+      {
+        "task_text": "Verify if a 2D array forms a Latin Square.",
+        "materials": [],
+        "hint": "Remember that each row and column must have all different values."
+      }
+    ],
+    "reflection_prompt": "How can understanding mathematical structures like Latin Squares help in designing efficient systems?",
+    "remix_zone": "Students remix by creating Latin Squares for different real-world constraints (seating plans, tournament scheduling).",
+    "display": {
+      "graph_builder": false,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Probability and Sampling Distributions",
+    "grade_band": "High School",
+    "subjects": ["Algebra", "Statistics", "Economics"],
+    "driving_question": "How can we use probability and sampling distributions to solve real-world problems?",
+    "short_background_context": "Students explore geode opening probabilities and model mean/standard deviation using geometric distribution logic.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Calculate mean and standard deviation for geodes opened until finding a red crystal.",
+        "materials": [],
+        "hint": "Remember that mean for geometric distribution = 1/p."
+      },
+      {
+        "task_text": "Find the probability of opening 3 geodes and finding no red crystal.",
+        "materials": [],
+        "hint": "Use (1-p)^n where n is the number of failures."
+      },
+      {
+        "task_text": "Find the probability of opening 4 geodes and finding a red crystal on the 4th.",
+        "materials": [],
+        "hint": "Geometric probability formula: (1-p)^(n-1) * p."
+      }
+    ],
+    "reflection_prompt": "How can understanding probability models help predict real-world outcomes?",
+    "remix_zone": "Students remix by inventing their own probability games or geode experiments.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Understanding Algebra and Statistics Through Real-World Problems",
+    "grade_band": "High School",
+    "subjects": ["Algebra", "Statistics", "Economics", "Geometry"],
+    "driving_question": "How can we apply algebraic and statistical concepts to analyze and solve real-world problems?",
+    "short_background_context": "Students solve Regents-style problems involving solving for zeros, solving equations, and finding probabilities of independent events.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Find zeros of r(x) = 3x^3 + 12x^2 - 3x - 12.",
+        "materials": [],
+        "hint": "Think about factoring or using the Rational Root Theorem."
+      },
+      {
+        "task_text": "Solve an a > 0 equation for x algebraically.",
+        "materials": [],
+        "hint": "Isolate x by carefully balancing both sides of the inequality."
+      },
+      {
+        "task_text": "Find P(A ∩ B) given P(A) and P(B) for independent events.",
+        "materials": [],
+        "hint": "Multiply probabilities: P(A) * P(B)."
+      }
+    ],
+    "reflection_prompt": "What strategies helped you solve complex problems across different domains?",
+    "remix_zone": "Students remix by designing similar problems based on real-world systems.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Understanding and Applying Geometry in Real Life",
+    "grade_band": "9-12",
+    "subjects": ["Algebra", "Statistics", "Economics", "Geometry"],
+    "driving_question": "How can we apply the principles of geometry to solve real-world problems?",
+    "short_background_context": "Students work with geometric proofs, spatial modeling, and real-world area/volume problems tied to the Regents Geometry exam.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Solve a constructed-response geometry problem using diagrams and models.",
+        "materials": [],
+        "hint": "Visualize the shapes involved and label given dimensions carefully."
+      },
+      {
+        "task_text": "Apply area or volume calculations to a real-world building or project.",
+        "materials": [],
+        "hint": "Area = 2D space; Volume = 3D space — double-check what’s needed."
+      },
+      {
+        "task_text": "Analyze errors in a given geometric proof and fix them.",
+        "materials": [],
+        "hint": "Look for misused theorems, wrong congruency statements, or missing steps."
+      }
+    ],
+    "reflection_prompt": "How does geometric modeling deepen your understanding of real-world systems?",
+    "remix_zone": "Students remix by designing a city park, public installation, or playground using geometric principles.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  }
+]

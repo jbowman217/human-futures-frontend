@@ -1,0 +1,31 @@
+{
+  "title": "Exploring the Regents Examination in Algebra I",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand and apply the scoring and rating system of the Regents Examination in Algebra I?",
+  "short_background_context": "The University of the State of New York conducts the Regents Examination in Algebra I, which is a high-stakes test for high school students. The examination is scored by a minimum of three mathematics teachers following a systematic and consistent method. The scoring process involves rating constructed-response questions, recording the raw scores, and converting the raw scores to a scale score using a conversion chart. The final examination score is the scale score. This mission will help you understand the scoring system and apply it in a simulated environment.",
+  "tasks": [
+    "Task 1: Analyze the scoring system of the Regents Examination in Algebra I and summarize the key points.",
+    "Task 2: Create a hypothetical student's answer paper for the examination and score it following the rating guide.",
+    "Task 3: Convert the raw scores to a scale score using a hypothetical conversion chart and determine the final examination score."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the terms 'raw score', 'scale score', and 'constructed-response questions'?",
+    "How does the scoring system ensure fairness and consistency in rating the examination?"
+  ],
+  "reflection_prompt": "Reflect on the process of scoring and rating the examination. How does this understanding help you in preparing for such examinations?",
+  "ai_tutor_prompts": [
+    "Can you explain why it's important to use the conversion chart provided for each administration?",
+    "What would be the implications if a teacher scored more than one-third of the constructed-response questions on a student's paper?"
+  ],
+  "remix_zone": "Students could remix this problem by designing their own conversion chart and explaining the rationale behind it. They could also explore how the scoring system might differ for other subjects or types of questions.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

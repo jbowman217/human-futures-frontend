@@ -1,0 +1,32 @@
+{
+  "title": "Algebra, Statistics, and Geometry Examination Prep",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebra, statistics, and geometry concepts to solve real-world problems?",
+  "short_background_context": "This mission is based on a real-world high school examination from the University of the State of New York. The examination covers a range of topics in algebra, statistics, and geometry. It requires students to utilize information provided for each question, including diagrams, graphs, charts, etc., to determine their answers. The examination is designed to test students' understanding and application of various mathematical concepts and their ability to solve problems using appropriate formula substitutions, diagrams, graphs, and charts.",
+  "tasks": [
+    "Analyze and interpret a given graph that models the number of customers in a caf\u00e9 during business hours.",
+    "Solve an algebraic expression and determine its equivalent expression.",
+    "Identify the correct solution point to a given equation."
+  ],
+  "pre_thinking_prompts": [
+    "What do you notice about the graph?",
+    "What steps do you think you need to follow to solve the algebraic expression?",
+    "What strategies can you use to find the solution point to an equation?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did your understanding of algebra, statistics, and geometry concepts deepen?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that answer?",
+    "What other strategies could you have used to solve this problem?",
+    "How does this concept apply to real-world situations?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own graphs, algebraic expressions, or equations based on real-world scenarios they encounter or imagine.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

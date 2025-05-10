@@ -1,0 +1,33 @@
+{
+  "title": "Investigative Task: Understanding Normal Distribution",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use the concept of normal distribution to understand and predict the amount of gold applied to a necklace during production?",
+  "short_background_context": "The College Board's AP Statistics exam includes an investigative task that requires students to understand and apply statistical concepts in real-world scenarios. One such task involves the production of gold necklaces. A machine applies a certain amount of gold to each necklace it produces, and this amount can be modeled using a normal distribution. The mean amount of gold applied is 300mg, with a standard deviation of 5mg. This task will guide you through understanding and applying this distribution to predict the likelihood of a necklace containing a certain amount of gold.",
+  "tasks": [
+    "Task 1: Graphically represent the normal distribution of the amount of gold applied to the necklaces. Include the mean and standard deviation on your graph.",
+    "Task 2: Using the 'normalcdf' function, calculate the probability of a necklace containing between 296mg and 304mg of gold.",
+    "Task 3: Provide a written explanation of your findings, including how you used the normal distribution and 'normalcdf' function to calculate the probability."
+  ],
+  "pre_thinking_prompts": [
+    "What does a normal distribution graph look like?",
+    "What do the mean and standard deviation represent in this context?",
+    "How can we use the 'normalcdf' function to calculate probabilities?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of normal distribution and how it can be applied in real-world scenarios. How confident do you feel in your ability to calculate probabilities using this distribution?",
+  "ai_tutor_prompts": [
+    "What does the mean of 300mg represent in this context?",
+    "Why is the standard deviation important in understanding the distribution?",
+    "Can you explain how the 'normalcdf' function works?"
+  ],
+  "remix_zone": "Students could remix this problem by considering different means and standard deviations, or by applying the concept to different real-world scenarios, such as the production of other types of jewelry or goods.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

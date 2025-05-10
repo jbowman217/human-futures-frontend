@@ -1,0 +1,32 @@
+{
+  "title": "Factoring Algebraic Expressions",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we factor complex algebraic expressions completely?",
+  "short_background_context": "Factoring is a key concept in algebra, statistics, and geometry, and forms the basis for many more complex mathematical operations. It involves breaking down an algebraic expression into its simplest factors or terms that, when multiplied together, give the original expression. This mission is based on a question from the Algebra II Regents High School Examination conducted by the University of the State of New York. The question requires students to factor a complex algebraic expression completely, demonstrating their understanding of algebraic operations and factoring techniques.",
+  "tasks": [
+    "Task 1: Review the basics of factoring and identify the factors of simple algebraic expressions.",
+    "Task 2: Apply your knowledge to factor the given complex algebraic expression: 2x3 - 3x2 - 18x + 27.",
+    "Task 3: Reflect on the factoring process and explain why it is important in algebra, statistics, and geometry."
+  ],
+  "pre_thinking_prompts": [
+    "What is factoring and why is it important?",
+    "What techniques can you use to factor algebraic expressions?",
+    "How would you approach factoring a complex algebraic expression?"
+  ],
+  "reflection_prompt": "Reflect on the factoring process for the given expression. What steps did you take? What challenges did you encounter and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "What is your first step in factoring this expression?",
+    "Can you explain why you chose this method for factoring?",
+    "What can you do if you get stuck during the factoring process?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own complex algebraic expressions for their peers to factor. They could also explore different factoring techniques and compare their effectiveness.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

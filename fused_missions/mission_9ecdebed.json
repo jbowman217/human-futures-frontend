@@ -1,0 +1,32 @@
+{
+  "title": "Analyzing Stadium Attendance: A Statistical Investigation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How does a change in stadium affect the average per-game attendance of a team?",
+  "short_background_context": "The College Board's AP Statistics 2021 sample question provides an interesting case study. It explores the impact of a team moving to a new stadium on their average per-game attendance. The question is based on the analysis of boxplots, which reveal that the team tended to have a higher average per-game attendance in the new stadium than in the old one. This mission will challenge you to investigate this scenario further, using statistical analysis and economic reasoning.",
+  "tasks": [
+    "Task 1: Analyze the boxplots and describe the difference in attendance between the old and new stadium.",
+    "Task 2: Develop a hypothesis explaining why the attendance might be higher in the new stadium.",
+    "Task 3: Design a survey or experiment that could test your hypothesis."
+  ],
+  "pre_thinking_prompts": [
+    "What does the boxplot tell you about the attendance in the old and new stadium?",
+    "What factors could contribute to a higher attendance in the new stadium?",
+    "How might you design a survey or experiment to test your hypothesis?"
+  ],
+  "reflection_prompt": "Reflect on your analysis and hypothesis. How confident are you in your conclusions and why? What did you learn about the relationship between venue and attendance?",
+  "ai_tutor_prompts": [
+    "What does the median value represent in this context? Why is it significant?",
+    "Could there be other factors influencing the higher attendance in the new stadium? What might they be?",
+    "How would you ensure that your survey or experiment is unbiased and reliable?"
+  ],
+  "remix_zone": "Students could remix this problem by considering other factors that might influence attendance, such as team performance or ticket prices, and incorporating these into their analysis and hypothesis.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

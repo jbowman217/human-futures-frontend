@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra II",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply your knowledge of Algebra, Statistics, Economics, and Geometry to solve complex problems on the Regents Examination in Algebra II?",
+  "short_background_context": "The University of the State of New York conducts the Regents High School Examination in Algebra II. This exam is designed to test students' knowledge and understanding of Algebra, Statistics, Economics, and Geometry. The examination includes constructed-response questions, which require students to construct their own responses rather than choosing from provided options. The scoring of the exam is conducted by a minimum of three mathematics teachers, and the scores are converted to a scale score using a conversion chart provided by the Department.",
+  "tasks": [
+    "Review the Model Response Set provided by the Department and identify the key elements of a high-scoring response.",
+    "Construct your own responses to a set of practice constructed-response questions, ensuring they align with the key elements identified in Task 1.",
+    "Self-score your responses using the rubrics provided by the Department, then convert your raw score to a scale score using the provided conversion chart."
+  ],
+  "pre_thinking_prompts": [
+    "What are the key elements of a high-scoring response?",
+    "How can you ensure your responses align with these elements?",
+    "How can you accurately score your own responses?"
+  ],
+  "reflection_prompt": "Reflect on your performance on the practice questions. What did you do well? Where can you improve? How can you apply what you've learned to future exams?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach for your response?",
+    "How does your response align with the key elements of a high-scoring response?",
+    "Are you sure your scoring is accurate? Can you explain how you arrived at your scale score?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own constructed-response questions and scoring rubrics, then exchanging with a classmate for practice.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

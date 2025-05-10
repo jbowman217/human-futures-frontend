@@ -1,0 +1,39 @@
+{
+  "title": "Algebra II: Statistics, Geometry, and Climate",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Climate",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebra, statistics, and geometry to understand and address real-world climate issues?",
+  "short_background_context": "This mission is based on a high school examination in Algebra II, which includes elements of statistics and geometry. The examination requires students to utilize a variety of mathematical skills and concepts to answer questions. This mission remixes these elements to focus on climate-related issues, demonstrating how mathematical skills can be applied to understand and address real-world problems. Students will need to use a graphing calculator, a straightedge ruler, and their critical thinking skills to complete the tasks.",
+  "tasks": [
+    {
+      "task_1": "Using algebraic expressions, model the relationship between carbon emissions and global temperature rise."
+    },
+    {
+      "task_2": "Conduct a statistical analysis of historical climate data to predict future trends."
+    },
+    {
+      "task_3": "Design a geometric model of a sustainable city, taking into account factors such as energy efficiency and land use."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about climate change and its causes?",
+    "How can mathematics help us understand and address climate change?",
+    "What are some ways that cities can be designed to be more sustainable?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the application of algebra, statistics, and geometry to real-world problems. How has this mission changed your understanding of these subjects and their relevance to issues like climate change?",
+  "ai_tutor_prompts": [
+    "Can you explain how you arrived at your answer?",
+    "What assumptions did you make in your calculations?",
+    "How would your model change if certain variables were altered?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different real-world issue to focus on, such as public health or economic inequality. They could also incorporate additional mathematical concepts or tools into their models.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

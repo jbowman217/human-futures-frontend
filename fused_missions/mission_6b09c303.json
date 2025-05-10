@@ -1,0 +1,42 @@
+{
+  "title": "Understanding and Applying the Framework for Teaching Evaluation Instrument",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can the Framework for Teaching Evaluation Instrument be used to enhance teaching practices and promote student learning?",
+  "short_background_context": "The Framework for Teaching Evaluation Instrument is a tool developed by Charlotte Danielson in 2011 and further enhanced in 2013. It is designed to promote a common understanding of excellence in teaching among teachers, administrators, and the larger community. The framework includes definitions and expectations for each domain and component of teaching at each performance level. It also includes specific language around the instructional implications of the Common Core State Standards. This mission aims to help you understand and apply this framework in various subject contexts.",
+  "tasks": [
+    {
+      "task_1": "Research and summarize the four domains, 22 components, and 76 elements of the Framework for Teaching Evaluation Instrument."
+    },
+    {
+      "task_2": "Analyze how the framework can be applied in the teaching of each of the subjects: Economics, Geometry, Statistics, History, Health, Ethics, and Algebra."
+    },
+    {
+      "task_3": "Create a lesson plan for one of the subjects using the framework, ensuring that the definitions and expectations for each domain and component are met."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the Framework for Teaching Evaluation Instrument?",
+    "How do you think this framework can enhance teaching practices?",
+    "How can this framework be applied in different subject areas?"
+  ],
+  "reflection_prompt": "Reflect on how using the Framework for Teaching Evaluation Instrument can enhance your understanding of effective teaching practices and promote student learning. How did it influence your lesson plan creation?",
+  "ai_tutor_prompts": [
+    "Can you explain how the framework promotes a common understanding of excellence in teaching?",
+    "How does the framework incorporate the instructional implications of the Common Core State Standards?",
+    "How did you ensure that your lesson plan meets the definitions and expectations of the framework?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different subject area or grade level for the lesson plan task. They could also explore how the framework has evolved over time and how these changes impact teaching practices.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

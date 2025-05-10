@@ -1,0 +1,47 @@
+{
+  "title": "Options to Finance Medicare for All",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Health Education",
+    "Government"
+  ],
+  "driving_question": "How can the United States finance a Medicare for All single-payer health care system?",
+  "tasks": [
+    "Analyze the current health care spending in the United States",
+    "Identify the benefits and drawbacks of a Medicare for All system",
+    "Explore various options to finance a Medicare for All system",
+    "Compare the U.S. health care system to other major industrialized nations",
+    "Propose your own solution for financing Medicare for All"
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the current health care system in the U.S.?",
+    "What are some potential benefits of a Medicare for All system?",
+    "What challenges might arise in financing a Medicare for All system?"
+  ],
+  "reflection_prompt": "Reflect on the various options discussed for financing Medicare for All. Which do you think is the most feasible and why?",
+  "ai_tutor_prompts": [
+    "What is the current health care spending in the U.S.?",
+    "What are the administrative costs of the traditional Medicare program?",
+    "What are some potential ways to save costs in a Medicare for All system?",
+    "What are some potential sources of revenue to finance Medicare for All?"
+  ],
+  "remix_zone": {
+    "ideas": [
+      "Create a presentation outlining your proposed solution for financing Medicare for All",
+      "Write a letter to a local representative advocating for your chosen financing option",
+      "Design a poster illustrating the benefits of a Medicare for All system"
+    ]
+  },
+  "display_fields": [
+    "title",
+    "grade_band",
+    "subjects",
+    "driving_question",
+    "tasks",
+    "pre_thinking_prompts",
+    "reflection_prompt",
+    "ai_tutor_prompts",
+    "remix_zone"
+  ]
+}

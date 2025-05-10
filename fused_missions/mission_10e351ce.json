@@ -1,0 +1,38 @@
+{
+  "title": "AP Statistics: Understanding and Applying Formulas",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we apply statistical formulas to analyze and interpret real-world data?",
+  "short_background_context": "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data. It is applicable to a wide variety of academic fields from the physical and social sciences to the humanities, as well as to business, government and industry. In this mission, we will delve into the world of AP Statistics, exploring various formulas and their applications. We will use real-world data to understand the relationship between different variables, predict outcomes, and interpret results. This will involve using descriptive statistics, probability distributions, inferential statistics, and regression analysis.",
+  "tasks": [
+    {
+      "task": "Analyze the relationship between mass and length of bullfrogs using the given scatterplot."
+    },
+    {
+      "task": "Calculate and interpret the slope of the least-squares regression line for predicting mass from length."
+    },
+    {
+      "task": "Interpret the coefficient of determination in the context of the data."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What does the scatterplot tell you about the relationship between mass and length of bullfrogs?",
+    "What does the slope of the least-squares regression line represent?",
+    "How does the coefficient of determination help in understanding the data?"
+  ],
+  "reflection_prompt": "Reflect on the tasks you've completed. How well do you understand the application of statistical formulas in real-world scenarios?",
+  "ai_tutor_prompts": [
+    "Can you explain the significance of the slope in the regression line?",
+    "What does the coefficient of determination tell you about the relationship between the variables?",
+    "How does the scatterplot help in visualizing the relationship between the variables?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different set of variables and creating their own scatterplot. They could then calculate the least-squares regression line and interpret the slope and coefficient of determination in the context of their chosen variables.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

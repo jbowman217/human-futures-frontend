@@ -1,0 +1,37 @@
+{
+  "title": "Understanding Power Series in Calculus and its Application in Economics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply the concept of power series in calculus to real-world economic problems?",
+  "short_background_context": "A power series is a series of the form \u2211a\u2099x\u207f, where a\u2099 represents the coefficient of the nth term and x is a variable. Power series are useful in many areas of mathematics, including calculus and algebra, and have applications in various fields such as physics and economics. In this mission, we will explore the concept of power series, their convergence, and how they can be used to model and solve economic problems.",
+  "tasks": [
+    {
+      "task": "Using the ratio test, find the interval of convergence of a given power series."
+    },
+    {
+      "task": "Apply the concept of power series to model an economic problem, such as predicting future revenue based on current trends."
+    },
+    {
+      "task": "Analyze the impact of changes in the coefficients of the power series on the economic model."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is a power series and how is it represented?",
+    "What is the ratio test and how can it be used to find the interval of convergence of a power series?",
+    "How can power series be applied in economics?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of power series and their application in economics has deepened. What challenges did you face and how did you overcome them? What new insights have you gained?",
+  "ai_tutor_prompts": [
+    "Can you explain why the ratio test is useful in determining the interval of convergence?",
+    "How does changing the coefficients of the power series affect the economic model?",
+    "Can you explain how the power series model can help predict future economic trends?"
+  ],
+  "remix_zone": "Students could remix this problem by exploring the application of power series in other real-world contexts, such as physics or biology. They could also investigate other series, such as geometric or harmonic series, and their applications.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Spinning Toy Design",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we use algebra and geometry to design a spinning toy using the family of functions y=cx^4 - x^2?",
+  "short_background_context": "A company designs spinning toys using the family of functions y=cx^4 - x^2, where c is a positive constant. The shape of the spinning toy is generated when the region bounded by the x-axis and the graph of y=cx^4 - x^2 in the first quadrant is revolved about the x-axis. Both x and y are measured in inches. Your mission is to understand the design process of these toys by exploring the mathematical concepts involved.",
+  "tasks": [
+    "Find the area of the region in the first quadrant bounded by the x-axis and the graph of y=cx^4 - x^2 for a given value of c.",
+    "Determine the value of c for a particular spinning toy, given the radius of the largest cross-sectional circular slice.",
+    "Explore how changes in the value of c affect the design of the spinning toy."
+  ],
+  "pre_thinking_prompts": [
+    "How does the function y=cx^4 - x^2 relate to the design of the spinning toy?",
+    "What does the value of c represent in the context of the spinning toy design?",
+    "How might the area of the region bounded by the x-axis and the graph of y=cx^4 - x^2 affect the design of the spinning toy?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the algebraic and geometric concepts involved in the design of the spinning toy has deepened. How might these concepts be applied in other real-world contexts?",
+  "ai_tutor_prompts": [
+    "Can you explain why we need to find the area of the region bounded by the x-axis and the graph of y=cx^4 - x^2?",
+    "How does the radius of the largest cross-sectional circular slice relate to the value of c?",
+    "What would happen to the design of the spinning toy if the value of c was increased or decreased?"
+  ],
+  "remix_zone": "Consider a different family of functions for the design of the spinning toy. How would this change the steps you take in the design process?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

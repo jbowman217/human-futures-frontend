@@ -1,0 +1,41 @@
+{
+  "title": "Safe Internet: A Multidisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we ensure a safer Internet experience for K12 students using Edtech apps?",
+  "short_background_context": "The Internet has become an integral part of education, especially with the rise of educational technology (Edtech) apps. However, with this rise comes the challenge of ensuring safety for K12 students. This mission is based on a project funded by the Internet Society Foundation that focuses on the safety benchmarks of Edtech apps. The project involves various research areas such as advertising, contextual advertising, software developer kits, and more. Your mission is to understand these concepts and propose solutions to make the Internet safer for students.",
+  "tasks": [
+    {
+      "task_1": "Research and understand the concepts of advertising, contextual advertising, and retargeting advertising in relation to Edtech apps. Create a report detailing how these advertising methods could potentially impact the safety of students online."
+    },
+    {
+      "task_2": "Analyze the safety measures currently in place for Edtech apps. Use statistical methods to evaluate their effectiveness and propose improvements."
+    },
+    {
+      "task_3": "Design a safe Edtech app prototype that incorporates your proposed improvements. Use geometry and algebraic principles in your design process."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is your current understanding of Internet safety?",
+    "How can advertising methods impact online safety?",
+    "What safety measures do you think are necessary for Edtech apps?"
+  ],
+  "reflection_prompt": "Reflect on your learning process. What new insights about Internet safety and Edtech apps have you gained? How can you apply these insights in the future?",
+  "ai_tutor_prompts": [
+    "How does your understanding of advertising techniques influence your perception of Internet safety?",
+    "What statistical methods did you use in your analysis and why?",
+    "How did you incorporate mathematical principles in your app design?"
+  ],
+  "remix_zone": "Students could remix this problem by focusing on different aspects of Internet safety, such as data privacy or cyberbullying. They could also design a different type of Edtech tool, like a website or a game.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

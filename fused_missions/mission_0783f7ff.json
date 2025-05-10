@@ -1,0 +1,33 @@
+{
+  "title": "Analyzing Senator Bernie Sanders's Tax Plan",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Health"
+  ],
+  "driving_question": "How would Senator Bernie Sanders's proposed tax plan impact the economy, specifically high-income households, and what are the implications for healthcare?",
+  "short_background_context": "The Tax Foundation, a non-partisan, non-profit research institution, provides an analysis of Senator Bernie Sanders's tax plan. The plan proposes several changes to the tax code, including increased marginal tax rates for all taxpayers, new payroll taxes, and provisions aimed at high-income households. The plan is projected to raise tax revenue by $13.6 trillion over the next decade. However, it is also projected to lead to a 9.5% lower GDP over the long term. This mission will involve analyzing the details of the plan, its projected impacts, and its implications for healthcare.",
+  "tasks": [
+    "Analyze the proposed changes to the tax code under Senator Sanders's plan and summarize them.",
+    "Calculate the projected increase in tax revenue over the next decade and the projected decrease in GDP.",
+    "Discuss the implications of the new 2.2% 'income-based [health care] premium paid by households.'"
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about tax policy and its impact on the economy?",
+    "What are your initial thoughts on Senator Sanders's proposed tax plan?",
+    "How do you think this plan might impact high-income households and healthcare?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of tax policy and its impact on the economy before and after this mission. How has your understanding changed? What new insights have you gained?",
+  "ai_tutor_prompts": [
+    "How does the plan propose to raise tax revenue?",
+    "What are the projected economic impacts of the plan?",
+    "What could be the implications of the 2.2% income-based healthcare premium?"
+  ],
+  "remix_zone": "Students could remix this problem by comparing Senator Sanders's tax plan with the current tax policy or with another proposed tax plan. They could also delve deeper into the implications for healthcare.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

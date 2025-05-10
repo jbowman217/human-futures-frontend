@@ -1,0 +1,33 @@
+{
+  "title": "AP Statistics: Exploring Data through Graphs",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use segmented bar graphs to interpret and compare data?",
+  "short_background_context": "In this mission, we will be exploring the 2024 AP Statistics Free-Response Question 2, focusing on data exploration. You will be presented with a scenario involving two schools - an elementary school and a middle school - and their respective sales of small, medium, and large bottles. The data is presented in segmented bar graphs. Your task is to interpret the graphs, compare the data, and make conclusions based on your findings. This mission will require you to apply your knowledge of algebra, geometry, and economics to understand and solve the problem.",
+  "tasks": [
+    "Task 1: Analyze the segmented bar graphs for both schools and determine if they are correctly partitioned according to the given proportions.",
+    "Task 2: Compare the sales of small bottles between the two schools and determine if the elementary school's administrator's claim that they sold more small bottles is correct.",
+    "Task 3: Provide mathematical support for your conclusions in Task 2."
+  ],
+  "pre_thinking_prompts": [
+    "What information can you gather from the segmented bar graphs?",
+    "What does the width of the segments represent?",
+    "How would you compare the sales of the two schools?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of data interpretation and comparison. How has this mission helped you to apply your knowledge of algebra, geometry, and economics to real-world problems?",
+  "ai_tutor_prompts": [
+    "Why did you choose to partition the bar graph in that way?",
+    "Can you explain your mathematical reasoning behind your conclusion?",
+    "How does the context of the problem influence your interpretation of the data?"
+  ],
+  "remix_zone": "Students could remix this problem by changing the proportions of the sales, the number of bottles sold, or the types of items being sold. They could also introduce a third school for comparison.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

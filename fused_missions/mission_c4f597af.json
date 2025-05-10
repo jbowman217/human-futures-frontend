@@ -1,0 +1,38 @@
+{
+  "title": "AP Statistics: Understanding Experimental Design",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics"
+  ],
+  "driving_question": "How can we design an experiment to test the effectiveness of a new drug on acne severity?",
+  "short_background_context": "In this mission, we will dive into the world of experimental design and statistical analysis. We will use a real-world scenario, where a new drug is being tested for its effectiveness on acne severity. The experiment involves 72 people who receive either the new drug or a placebo. The response variable is the improvement in acne severity. We will explore the key components of this experiment, understand the scoring guidelines, and analyze the factors affecting the improvement scores.",
+  "tasks": [
+    {
+      "task": "Identify the treatments, experimental units, and response variable in the given scenario."
+    },
+    {
+      "task": "Explain why it is important to include both the new drug and the placebo in the treatments."
+    },
+    {
+      "task": "Discuss the factors that might cause the improvement scores to vary."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by 'treatments', 'experimental units', and 'response variable'?",
+    "Why might it be important to include a placebo in a drug trial?",
+    "What factors do you think could affect the improvement scores in this experiment?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of experimental design before and after this mission. What new insights have you gained? How would you apply these insights to design an experiment in a different context?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on why the placebo is included in the treatments?",
+    "Why is it important to specify the experimental units as individual people?",
+    "What might be the implications if the response variable is not defined correctly?"
+  ],
+  "remix_zone": "Students could remix this problem by proposing a different scenario for an experiment, such as testing the effectiveness of a new teaching method on students' math scores. They would then identify the treatments, experimental units, and response variable in their scenario.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

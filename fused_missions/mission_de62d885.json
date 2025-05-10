@@ -1,0 +1,33 @@
+{
+  "title": "Exploring Data: Understanding Outliers and Five-Number Summary",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics",
+    "Economics"
+  ],
+  "driving_question": "How can we utilize statistical methods to understand and interpret data sets in real-world contexts?",
+  "short_background_context": "In this mission, we will explore the scoring guidelines of the 2021 AP\u00ae Statistics exam. We will focus on the concepts of the five-number summary and outliers in a data set. The five-number summary includes the minimum, lower quartile (Q1), median, upper quartile (Q3), and maximum of a data set. Outliers are data points that significantly differ from the rest of the data. Two methods of identifying outliers will be discussed: Method A uses the interquartile range (IQR), and Method B uses standard deviations. Understanding these concepts is crucial in various fields, including economics, where data interpretation can influence policy decisions.",
+  "tasks": [
+    "Task 1: Calculate the five-number summary of a given data set.",
+    "Task 2: Identify outliers in the data set using Method A (1.5\u00d7IQR rule) and Method B (2 standard deviations rule).",
+    "Task 3: Justify your outlier identification by calculating the lower and upper outlier criteria for both methods."
+  ],
+  "pre_thinking_prompts": [
+    "What is the significance of the five-number summary in data analysis?",
+    "How do outliers impact the interpretation of data?",
+    "What are the differences between Method A and Method B in identifying outliers?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the five-number summary and outliers has evolved. How can these concepts be applied in real-world situations?",
+  "ai_tutor_prompts": [
+    "Can you explain why the five-number summary is important in data analysis?",
+    "How does the presence of outliers influence your interpretation of the data set?",
+    "Can you explain the difference between the two methods of identifying outliers?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing a different data set, such as population data or economic data, and applying the same statistical methods.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

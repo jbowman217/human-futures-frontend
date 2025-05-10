@@ -1,0 +1,37 @@
+{
+  "title": "AP Computer Science A: Array/ArrayList Manipulation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use arrays and ArrayLists in Java to manipulate and analyze data?",
+  "short_background_context": "In the AP Computer Science A course, you'll learn about fundamental programming concepts, including object-oriented programming (OOP) and data structures. In this mission, we will focus on arrays and ArrayLists, which are types of data structures in Java that can store multiple values. You'll be given sample student responses and scoring commentary from a previous AP test. Your task will be to understand the problem, analyze the solutions, and then apply your knowledge to similar problems. This will not only help you understand these important concepts better but also prepare you for the AP exam.",
+  "tasks": [
+    {
+      "task_1": "Analyze the sample student responses and scoring commentary for the Array/ArrayList problem. Identify the key components of the solution."
+    },
+    {
+      "task_2": "Create your own Java program that utilizes arrays or ArrayLists to solve a similar problem. Be sure to include comments explaining your code."
+    },
+    {
+      "task_3": "Reflect on the scoring criteria and guidelines. How would you grade your own solution? Identify areas for improvement."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about arrays and ArrayLists in Java?",
+    "What challenges do you anticipate in this mission?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did your understanding of arrays and ArrayLists in Java improve? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why the student solution chose to traverse the array in a certain way?",
+    "What would happen if we changed this part of the code?",
+    "Why is this part of the solution important?"
+  ],
+  "remix_zone": "Try to solve the same problem using a different data structure. How does this change your approach? What are the advantages and disadvantages?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

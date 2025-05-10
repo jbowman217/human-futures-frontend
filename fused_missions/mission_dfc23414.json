@@ -1,0 +1,31 @@
+{
+  "title": "Understanding and Applying Mathematical Standards",
+  "grade_band": "Grade 7",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we apply mathematical procedures, concepts, and applications to solve real-world problems?",
+  "short_background_context": "In May 2024, New York State administered Mathematics Tests, releasing approximately 75% of the questions for review and use. These questions are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics, focusing on standard algorithms and conceptual standards. The questions often require students to apply multiple skills and concepts simultaneously, often within the context of real-world applications. The questions come in different formats: multiple-choice, one-credit, two-credit, and three-credit constructed-response questions, each requiring different levels of procedural skills, conceptual understanding, and application.",
+  "tasks": [
+    "Analyze and solve multiple-choice questions that assess standard algorithms and conceptual standards.",
+    "Solve one-credit constructed-response questions that require multiple steps, assessing procedural skills and conceptual understanding.",
+    "Complete two-credit and three-credit constructed-response questions that require the application of multiple mathematical skills and real-world applications."
+  ],
+  "pre_thinking_prompts": [
+    "What are the key concepts and procedures you need to understand to solve these problems?",
+    "How can you apply these concepts and procedures to real-world situations?"
+  ],
+  "reflection_prompt": "Reflect on your problem-solving process. What strategies were successful? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process in solving this problem?",
+    "How did you apply the mathematical concepts to this real-world situation?",
+    "What other strategies could you have used to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own multiple-choice or constructed-response questions that align with the New York State P\u201312 Next Generation Learning Standards for Mathematics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

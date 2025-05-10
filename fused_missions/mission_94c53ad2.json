@@ -1,0 +1,39 @@
+{
+  "title": "Assessing the Legacies of Historical Redlining: Correlations with Measures of Modern Housing Instability",
+  "grade_band": "High School",
+  "subjects": [
+    "History",
+    "Social Studies",
+    "Economics"
+  ],
+  "driving_question": "How have historical redlining policies affected current housing instability in the United States?",
+  "tasks": [
+    "Research the history of redlining in the United States",
+    "Analyze the correlation between redlining and modern housing instability",
+    "Evaluate the effectiveness of current policies aimed at addressing the legacy of redlining",
+    "Propose alternative policies or strategies to mitigate the negative impacts of redlining"
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about redlining and its historical context?",
+    "How might historical housing policies continue to impact communities today?"
+  ],
+  "reflection_prompt": "Reflect on the legacy of redlining. How has your understanding of its impacts changed after this mission? What strategies do you think could effectively address these issues?",
+  "ai_tutor_prompts": [
+    "Can you explain the concept of redlining?",
+    "What are some of the current measures of housing instability?",
+    "What is the correlation between historical redlining and current housing instability?",
+    "What are some of the policy implications of these findings?"
+  ],
+  "remix_zone": "Consider how the legacy of redlining might be addressed in your own community. What strategies might be effective? How could you advocate for these changes?",
+  "display_fields": [
+    "title",
+    "grade_band",
+    "subjects",
+    "driving_question",
+    "tasks",
+    "pre_thinking_prompts",
+    "reflection_prompt",
+    "ai_tutor_prompts",
+    "remix_zone"
+  ]
+}

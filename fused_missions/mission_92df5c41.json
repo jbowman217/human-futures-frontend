@@ -1,0 +1,33 @@
+{
+  "title": "Algebra I Regents High School Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic principles and statistical analysis in real-world scenarios?",
+  "short_background_context": "This mission is based on a high school examination in Algebra I from the University of the State of New York. The exam tests students' understanding of algebraic concepts and their application in various situations. It includes questions that require the use of a graphing calculator and a ruler, and emphasizes the importance of showing all necessary steps in the problem-solving process, including appropriate formula substitutions, diagrams, graphs, and charts.",
+  "tasks": [
+    "Analyze the graph representing a dog walker\u2019s speed during his 30-minute walk around the neighborhood and interpret what the dog walker was doing during the 12-18 minute interval of his walk.",
+    "Given the relation: {(0,4), (2,6), (4,8), ( x,7)}, determine the value of x that will make this relation a function.",
+    "Interpret the function R(x) = 30 + 40x, which models the total cost of renting a jet ski from the Speedy Jet Ski Rental Company, including an insurance fee and an hourly rental rate."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about reading and interpreting graphs?",
+    "How can you determine whether a relation is a function?",
+    "What does the function R(x) = 30 + 40x represent in the context of the jet ski rental?"
+  ],
+  "reflection_prompt": "What did you learn about applying algebraic principles and statistical analysis in these real-world scenarios? How did your understanding of these concepts deepen as a result of completing these tasks?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that answer?",
+    "What other information could you use to confirm your answer?",
+    "How does this concept apply to other real-world scenarios?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own real-world scenarios that require the application of algebraic principles and statistical analysis. They could also design additional questions based on the given scenarios to challenge their peers.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

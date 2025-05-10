@@ -1,0 +1,34 @@
+{
+  "title": "Exploring Payment Methods in College Bookstores",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can the business office of a local college gather an appropriate sample to determine the methods of payment used by students when buying books at the beginning of a semester, while minimizing bias?",
+  "short_background_context": "The business office of a local college is interested in finding out how students prefer to pay for their books at the beginning of a semester. This information is important for planning purposes, and to ensure that the office can accommodate the students' preferred payment methods. However, collecting this data can be challenging, as it is important to gather a sample that is representative of the entire student population, while minimizing bias. This mission will involve applying concepts from Algebra, Statistics, Geometry, Economics, and Ethics to solve this real-world problem.",
+  "tasks": [
+    "Design a survey that will gather data on students' preferred payment methods while minimizing bias.",
+    "Analyze the data collected from the survey using statistical methods.",
+    "Create a graph or chart that visually represents the findings of the survey."
+  ],
+  "pre_thinking_prompts": [
+    "What are some potential sources of bias in collecting this data?",
+    "What are some strategies for minimizing bias in data collection?",
+    "What statistical methods could be useful in analyzing this data?"
+  ],
+  "reflection_prompt": "Reflect on how you designed the survey and analyzed the data. What challenges did you encounter and how did you overcome them? What did you learn about the process of data collection and analysis?",
+  "ai_tutor_prompts": [
+    "What factors did you consider when designing your survey?",
+    "How did you ensure that your sample was representative of the entire student population?",
+    "How did you interpret the data from your survey?"
+  ],
+  "remix_zone": "Consider how this problem might change if the business office wanted to determine students' preferred methods of payment for other expenses, such as tuition or housing. How would you modify your approach?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

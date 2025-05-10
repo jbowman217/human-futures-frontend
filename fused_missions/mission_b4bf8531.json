@@ -1,0 +1,32 @@
+{
+  "title": "AP Computer Science: Leap Year Calculations",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can you use computer programming to calculate leap years and the day of the week for a given date?",
+  "short_background_context": "In this mission, you will be working with the APCalendar class from the 2019 AP Computer Science A Free-Response Questions. This class contains methods used to calculate information about a calendar. You will be tasked with implementing two methods in this class: one to calculate the number of leap years between two given years, and another to determine the day of the week for a specific date. This mission will require you to apply your knowledge of algebra, statistics, and economics, as well as your programming skills in Java.",
+  "tasks": [
+    "Implement the static method numberOfLeapYears, which returns the number of leap years between year1 and year2, inclusive. Use the helper method isLeapYear appropriately to receive full credit.",
+    "Implement the method dayOfWeek, which returns the value representing the day of the week for a given date (month, day, year), where 0 denotes Sunday, 1 denotes Monday, ..., and 6 denotes Saturday.",
+    "Analyze and explain how the methods you implemented can be used in real-world applications, such as in an economic model or statistical analysis."
+  ],
+  "pre_thinking_prompts": [
+    "What is a leap year and how is it determined?",
+    "How can you use programming to calculate the number of leap years between two given years?",
+    "How can you determine the day of the week for a given date using programming?"
+  ],
+  "reflection_prompt": "Reflect on the methods you implemented. How did you approach each task? What challenges did you encounter and how did you overcome them? How can these methods be applied in real-world contexts?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process behind the implementation of the numberOfLeapYears method?",
+    "How does the dayOfWeek method work? Can you walk me through your code?",
+    "How might these methods be used in a real-world context, such as in an economic model or statistical analysis?"
+  ],
+  "remix_zone": "Think about how you could extend or modify these methods. Could you modify the numberOfLeapYears method to calculate the number of a specific day of the week (e.g., Mondays) between two dates? Could you extend the dayOfWeek method to return the name of the day of the week instead of a number?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

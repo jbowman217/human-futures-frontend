@@ -1,0 +1,33 @@
+{
+  "title": "Understanding Math Questions: Real-world Applications",
+  "grade_band": "Grade 8",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply mathematical procedures, concepts, and applications to real-world problems?",
+  "short_background_context": "The New York State Education Department administers Mathematics Tests annually, releasing large portions of these tests for review and use. These tests are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics, incorporating standard algorithms and conceptual standards. Many questions are framed within the context of real-world applications or require students to complete multiple steps. The tests include multiple-choice questions and constructed-response questions of varying credit value, each assessing different aspects of mathematical knowledge and skills.",
+  "tasks": [
+    "Analyze a set of released multiple-choice and constructed-response questions, identifying the mathematical procedures, concepts, and applications required to answer each.",
+    "Create a real-world problem that could be solved using the mathematical procedures and concepts identified in the previous task.",
+    "Solve the problem you created, showing all work and explaining your reasoning."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical procedures and concepts do you recognize in the released questions?",
+    "What kind of real-world problem could you create using these procedures and concepts?",
+    "How would you go about solving your problem?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of mathematical procedures, concepts, and applications has deepened through this process. What did you find challenging? What did you learn?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose those particular mathematical procedures and concepts for your problem?",
+    "What steps did you take to solve your problem, and why?",
+    "How might you approach this differently next time?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing different mathematical procedures and concepts, creating a different real-world problem, or finding a different solution to the same problem.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

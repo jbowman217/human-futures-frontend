@@ -1,0 +1,33 @@
+{
+  "title": "Algebra II: Real-world Applications",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Climate",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebra, statistics, and geometry to solve real-world problems?",
+  "short_background_context": "This mission is based on the Algebra II Regents High School Examination from the University of the State of New York. The examination covers a range of topics including algebra, statistics, and geometry. Students are expected to use a graphing calculator and a straightedge (ruler) during the examination. The examination consists of four parts, with a total of 37 questions. Students must answer all questions in this examination, and they must show their work, including appropriate formula substitutions, diagrams, graphs, charts, etc. For this mission, we will focus on applying these mathematical concepts to solve real-world problems.",
+  "tasks": [
+    "Task 1: Using the concept of algebra, create a mathematical model to represent a real-world scenario.",
+    "Task 2: Conduct a survey on a topic of your choice and use statistics to analyze the data.",
+    "Task 3: Apply geometry to solve a problem related to climate change."
+  ],
+  "pre_thinking_prompts": [
+    "What real-world situations can be represented using algebra?",
+    "What kind of data would you want to collect through a survey and why?",
+    "How can geometry be applied to understand climate change?"
+  ],
+  "reflection_prompt": "Reflect on the process of applying mathematical concepts to solve real-world problems. What challenges did you encounter and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you think of another way to represent this algebraic expression?",
+    "What assumptions are you making in your statistical analysis?",
+    "How can you verify the accuracy of your geometric model?"
+  ],
+  "remix_zone": "Students can remix this problem by choosing different real-world scenarios for the tasks. They could also choose to use different mathematical concepts to solve the tasks.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

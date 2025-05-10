@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Exploring AP Calculus Concepts in Real-World Scenarios",
+    "grade_band": "9-12",
+    "subjects": ["Algebra", "Statistics", "Economics", "Geometry"],
+    "driving_question": "How can we apply calculus concepts to solve real-world problems involving bacterial growth and particle movement?",
+    "short_background_context": "Students will explore bacterial population growth and particle movement using differentiation, integration, and Riemann sums. Students will model, estimate, and interpret these phenomena.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Estimate rate of bacterial growth using a table.",
+        "materials": [],
+        "hint": "Use difference quotients to approximate the rate of change."
+      },
+      {
+        "task_text": "Approximate total bacteria mass using a Riemann sum.",
+        "materials": [],
+        "hint": "Use left-endpoint, right-endpoint, or midpoint Riemann sums."
+      },
+      {
+        "task_text": "Analyze particle speed, acceleration, and displacement over time.",
+        "materials": [],
+        "hint": "Remember: Speed is the magnitude of velocity; displacement is the integral of velocity."
+      }
+    ],
+    "reflection_prompt": "How can calculus concepts deepen your understanding of real-world change and accumulation?",
+    "remix_zone": "Students remix by applying calculus to population spread, climate modeling, or economic growth.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Computer Science and Economics:

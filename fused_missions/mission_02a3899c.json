@@ -1,0 +1,42 @@
+{
+  "title": "AP Statistics 2021: Probability and Sampling Distributions",
+  "grade_band": "11-12",
+  "subjects": [
+    "Mathematics"
+  ],
+  "driving_question": "How can we use the binomial distribution to calculate the probability of an event in a given time period?",
+  "tasks": [
+    {
+      "task_title": "Understanding Binomial Distribution",
+      "task_description": "Define the random variable as the number of gift cards that a particular employee receives in a 52-week year. Describe the distribution as binomial with n = 52 and p = 0.005."
+    },
+    {
+      "task_title": "Calculating Probability",
+      "task_description": "Identify the event of interest and calculate the probability that a particular employee receives at least one gift card in a 52-week year."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is a binomial distribution?",
+    "How can we define the random variable in this scenario?",
+    "What is the event of interest in this scenario?"
+  ],
+  "reflection_prompt": "Reflect on the process of using a binomial distribution to calculate probability. What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Remember to define the random variable clearly.",
+    "Ensure you understand the binomial distribution before proceeding.",
+    "Don't forget to identify the event of interest correctly."
+  ],
+  "remix_zone": "Try to apply the same principles to a different scenario. For example, calculate the probability of a student passing an exam given certain conditions.",
+  "display_fields": {
+    "title": "AP Statistics 2021: Probability and Sampling Distributions",
+    "grade_band": "11-12",
+    "subjects": [
+      "Mathematics"
+    ],
+    "driving_question": "How can we use the binomial distribution to calculate the probability of an event in a given time period?",
+    "tasks": [
+      "Understanding Binomial Distribution",
+      "Calculating Probability"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Understanding Math Questions: A Deep Dive into New York State Testing Program",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can understanding the structure and requirements of math questions from the New York State Testing Program improve your problem-solving skills and performance on similar tests?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. The tests are designed to assess standard algorithms and conceptual standards, often requiring students to complete multiple steps and apply multiple mathematical skills. The questions are often framed within the context of real-world applications, and many are linked to more than one standard, drawing on the simultaneous application of multiple skills and concepts.",
+  "tasks": [
+    "Analyze and solve a set of multiple-choice questions from the New York State Testing Program. Identify the mathematical concepts and skills required in each question.",
+    "Complete a series of short-response questions. Show your work and explain the steps you took to arrive at your answers.",
+    "Tackle a set of extended-response questions. Show your work, explain your reasoning, and critique the arguments of others if necessary."
+  ],
+  "pre_thinking_prompts": [
+    "What types of mathematical concepts and skills do you think you'll need to solve these problems?",
+    "How do you approach a problem that requires the application of multiple skills and concepts?",
+    "How can real-world applications help in understanding and solving these questions?"
+  ],
+  "reflection_prompt": "What strategies helped you solve the problems? What challenges did you face and how did you overcome them? How will this experience influence your approach to similar problems in the future?",
+  "ai_tutor_prompts": [
+    "Can you break down the problem into smaller, manageable parts?",
+    "What mathematical concepts are being tested in this problem?",
+    "Can you think of a real-world scenario that relates to this problem?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own multiple-choice, short-response, or extended-response questions that align with the New York State P-12 Learning Standards for Mathematics. They could also develop questions that require the application of multiple mathematical skills and concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

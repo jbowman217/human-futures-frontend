@@ -1,0 +1,32 @@
+{
+  "title": "AP Precalculus 2024: Function Concepts",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use function concepts to solve real-world problems?",
+  "short_background_context": "In this mission, we will explore the concepts of functions, their properties, and their applications in real-world scenarios. We will be using the AP Precalculus 2024 Scoring Guidelines as a reference. The mission will focus on the graph of the function f on its domain of -3.5 \u2264 x \u2264 3.5 and the function g given by g(x) = 2.916 * 0.7x. We will also explore the concepts of decimal approximation, end behavior of functions, and the mathematical notation of a limit.",
+  "tasks": [
+    "Calculate the value of h(3) as a decimal approximation, where h is defined by h(x) = g(f(x)).",
+    "Find all values of x for which f(x) = 1.",
+    "Determine the end behavior of g as x increases without bound, using the mathematical notation of a limit."
+  ],
+  "pre_thinking_prompts": [
+    "What is the relationship between functions f and g?",
+    "How can we find the value of x for which f(x) = 1?",
+    "What does the end behavior of a function mean and how can we determine it?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of function concepts and their application in solving these tasks. What strategies did you find most helpful?",
+  "ai_tutor_prompts": [
+    "Can you explain your steps in finding the value of h(3)?",
+    "How did you determine the values of x for which f(x) = 1?",
+    "Can you explain your reasoning behind the end behavior of function g?"
+  ],
+  "remix_zone": "Students could remix this problem by changing the functions f and g, or by exploring different values of x for which f(x) = 1.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

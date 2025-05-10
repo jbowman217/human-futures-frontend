@@ -1,0 +1,32 @@
+{
+  "title": "AP Computer Science A: Understanding Scoring Guidelines",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we interpret and apply the scoring guidelines for AP Computer Science A?",
+  "short_background_context": "In the AP Computer Science A exam, understanding the scoring guidelines is as important as mastering the subject matter. The guidelines provide a detailed breakdown of how points are awarded for each question. For instance, in the 2017 exam, a question on 'Digits' had points allocated for specific tasks like constructing a 'digitList', identifying a digit in 'num', and adding all identified digits to a list. Understanding the scoring guidelines can help you strategize and prioritize your responses during the exam.",
+  "tasks": [
+    "Analyze the scoring guidelines for the 'Digits' question. Identify the key tasks that earn points and summarize them in your own words.",
+    "Develop a strategy for answering the 'Digits' question based on the scoring guidelines. Explain your strategy and why you think it will be effective.",
+    "Create a mock response to the 'Digits' question following your strategy. Then, use the scoring guidelines to grade your own response."
+  ],
+  "pre_thinking_prompts": [
+    "What are the key tasks that earn points in the 'Digits' question?",
+    "How would you prioritize these tasks during the exam?",
+    "What strategies can you employ to ensure you complete all the key tasks?"
+  ],
+  "reflection_prompt": "Reflect on your strategy and mock response. How well did your strategy work? What would you do differently next time?",
+  "ai_tutor_prompts": [
+    "Can you explain why your strategy would be effective?",
+    "How did you ensure that all key tasks were completed in your mock response?",
+    "What challenges did you face in applying the scoring guidelines to your own response?"
+  ],
+  "remix_zone": "Try applying the same strategy to another AP Computer Science A question. How well does your strategy work for different types of questions?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "AP Statistics: Probability and Chi-Square Test",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we apply probability and chi-square test to analyze real-world scenarios?",
+  "short_background_context": "In this mission, you will be working on a problem inspired by an AP Statistics exam. You will be analyzing a scenario involving a convention of baseball card collectors. The collectors can be grouped based on the majority type of cards they own (regular or rare) and the duration they've been collecting cards (less than 6 months, 11+ months). Your task is to calculate probabilities and conduct a chi-square test to determine if there's an association between the duration of collecting and the majority type of cards owned.",
+  "tasks": [
+    "Calculate the probability that a collector has been collecting baseball cards for 11 or more months and has a majority of regular cards.",
+    "Calculate the probability that given a randomly selected collector has been collecting baseball cards for fewer than six months, they have a majority of rare baseball cards.",
+    "Conduct a chi-square test for independence between months collecting baseball cards and majority card status for all baseball card collectors at the convention."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about probability and how it is calculated?",
+    "What is a chi-square test and when is it used?",
+    "How do you think the duration of collecting might affect the type of cards a collector has?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did your understanding of probability and chi-square tests deepen?",
+  "ai_tutor_prompts": [
+    "Can you explain how you calculated the probability?",
+    "What are the null and alternative hypotheses in your chi-square test?",
+    "What conclusions can you draw from the results of your chi-square test?"
+  ],
+  "remix_zone": "You could remix this problem by changing the context. Instead of baseball card collectors, you could use book collectors, coin collectors, or any other type of collectors. You could also change the variables, for example, instead of duration of collecting and type of items, you could use age of the collector and location.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

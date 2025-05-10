@@ -1,0 +1,36 @@
+{
+  "title": "Understanding Algebra and its Applications in Real World",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply concepts of Algebra, Statistics, Geometry, and Economics to solve real-world problems?",
+  "short_background_context": "This mission is based on the New York State Testing Program's Educator Guide to the Regents Examination in Algebra I. The guide is a comprehensive resource that provides a detailed understanding of Algebra and its application in various fields. It is updated to align with the Next Generation Mathematics Learning Standards. The guide also touches upon other subjects like Statistics, Economics, and Geometry, highlighting the interdisciplinary nature of learning and application of mathematical concepts.",
+  "tasks": [
+    "Analyze and solve algebraic equations and inequalities using various methods.",
+    "Apply statistical methods to interpret data and make predictions.",
+    "Use geometric principles to solve real-world problems.",
+    "Understand and apply economic principles using algebraic and statistical methods."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world situations where you can apply algebraic concepts?",
+    "How can statistics help us make informed decisions?",
+    "How does geometry intersect with other areas of study?",
+    "How can we use algebra and statistics to understand economic principles?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of Algebra, Statistics, Geometry, and Economics has deepened through these tasks. What new connections were you able to make?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that method to solve the equation?",
+    "What other statistical methods could you use to interpret this data?",
+    "How might you approach this problem using a different geometric principle?",
+    "Can you explain the economic principle at work in this problem?"
+  ],
+  "remix_zone": "Students can remix this problem by applying these concepts to different real-world scenarios, such as predicting the growth of a business, designing a building, or analyzing a stock market trend.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

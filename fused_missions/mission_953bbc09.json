@@ -1,0 +1,33 @@
+{
+  "title": "Understanding New York State Mathematics Test Questions",
+  "grade_band": "Grade 7",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand and solve the different types of questions in the New York State Mathematics Test?",
+  "short_background_context": "The New York State Testing Program releases a significant portion of its Mathematics Test questions for review and use. These questions are designed to assess the New York State P\u201312 Learning Standards for Mathematics and cover multiple mathematical skills and concepts. The questions are often framed within the context of real-world applications and require students to complete multiple steps. They come in three types: multiple-choice, short-response, and extended-response questions. This mission will focus on understanding and solving these types of questions.",
+  "tasks": [
+    "Analyze and solve multiple-choice questions from the released materials. Explain the steps you took to arrive at your answer.",
+    "Complete short-response questions, showing your work. Discuss the mathematical skills and concepts you applied.",
+    "Work on extended-response questions. Show your work, explain your understanding of the mathematical procedures, concepts, and applications, and critique the arguments of others if possible."
+  ],
+  "pre_thinking_prompts": [
+    "What types of questions do you expect to encounter in the Mathematics Test?",
+    "What mathematical skills and concepts do you think will be most useful?",
+    "How do you plan to approach each type of question?"
+  ],
+  "reflection_prompt": "Reflect on your experience solving these test questions. What strategies worked well for you? What areas do you need to improve on?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach?",
+    "How does this concept apply to the problem?",
+    "What other strategies could you have used?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own multiple-choice, short-response, and extended-response questions based on the New York State P\u201312 Learning Standards for Mathematics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

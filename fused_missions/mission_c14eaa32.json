@@ -1,0 +1,33 @@
+{
+  "title": "Algebra II Regents Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply algebraic and statistical concepts to solve real-world problems?",
+  "short_background_context": "This mission is based on the Algebra II Regents Examination from the University of the State of New York. This examination tests students' understanding of algebraic concepts, statistical analysis, and ethical considerations in data collection. The exam consists of multiple parts, including multiple-choice questions and written responses. Students are required to utilize information provided for each question to determine their answer, with diagrams not necessarily drawn to scale. A graphing calculator and a straightedge (ruler) are necessary tools for this examination.",
+  "tasks": [
+    "Survey a group of high school students to collect information on how many times per week they exercise. Ensure the least biased results by carefully selecting your survey population.",
+    "Given x \u2260 23, find an expression equivalent to 2x\u00b3 + 3x\u00b2 - 4x + 5 / x + 3.",
+    "Analyze the food preferences of sports fans whose favorite sport is football or baseball. Calculate the probability that a fan prefers pizza given that the fan prefers football."
+  ],
+  "pre_thinking_prompts": [
+    "What strategies can you use to ensure unbiased results in your survey?",
+    "How can you approach the algebraic expression task?",
+    "What steps will you take to calculate the probability in the third task?"
+  ],
+  "reflection_prompt": "Reflect on your problem-solving process. What strategies were most effective? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Why did you choose that particular group for your survey? Could there be any biases?",
+    "Can you explain your steps in simplifying the algebraic expression?",
+    "How did you determine the probability? Can you explain your reasoning?"
+  ],
+  "remix_zone": "Consider how you could remix these problems. Could you design a similar survey for a different topic? Could you create a new algebraic expression to simplify? Could you analyze a different set of data to calculate probability?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

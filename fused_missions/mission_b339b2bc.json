@@ -1,0 +1,37 @@
+{
+  "title": "AP Computer Science: Frog Simulation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use algebraic concepts and economic principles to analyze and interpret a computer science problem involving a frog simulation?",
+  "short_background_context": "This mission is based on the 2018 AP Computer Science A exam's free response question involving a frog simulation. The task involves simulating the distance traveled by a hopping frog and determining the proportion of successful frog hopping simulations. You will need to apply your understanding of algebraic concepts to calculate distances and proportions. Moreover, you will use economic principles to analyze the efficiency and effectiveness of the simulation, considering factors such as the number of hops and the goal distance.",
+  "tasks": [
+    {
+      "task_1": "Analyze the frog simulation problem and identify the key components needed to solve it. This includes understanding the role of the hopping distance, the maximum number of hops, and the goal distance."
+    },
+    {
+      "task_2": "Develop an algorithm to simulate the frog's hopping journey. Ensure that the algorithm correctly calculates the total distance traveled by the frog and determines whether the frog has reached its goal."
+    },
+    {
+      "task_3": "Calculate the proportion of successful frog hopping simulations. Use this proportion to evaluate the efficiency of the frog's hopping strategy."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are the key variables in this problem?",
+    "How might the number of hops influence the success of the frog's journey?",
+    "What role does the goal distance play in the simulation?"
+  ],
+  "reflection_prompt": "Reflect on the efficiency of the frog's hopping strategy. How might changing the maximum number of hops or the goal distance impact the success rate of the simulation?",
+  "ai_tutor_prompts": [
+    "Can you explain how you determined the total distance traveled by the frog?",
+    "How did you calculate the proportion of successful simulations?",
+    "What factors might influence the success rate of the frog's journey?"
+  ],
+  "remix_zone": "Consider altering the variables in the problem. For example, you could change the maximum number of hops or the goal distance. How do these changes impact the success rate of the frog's journey?",
+  "display": {
+    "graph_builder": "Use the graph builder to visualize the frog's hopping journey and the success rate of the simulation.",
+    "text_area": "Use the text area to write your algorithm and to explain your reasoning and calculations."
+  }
+}

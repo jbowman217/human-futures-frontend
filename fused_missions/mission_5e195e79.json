@@ -1,0 +1,48 @@
+{
+  "mission": {
+    "title": "ISTE Standards for Educators: A Guide for Teachers and Other Professionals",
+    "grade_band": "Professional Development",
+    "subjects": [
+      "Education",
+      "Technology"
+    ],
+    "driving_question": "How can we understand, prepare for, and adopt the ISTE Standards for Educators to transform teaching and empower learning?",
+    "tasks": [
+      {
+        "task_title": "Understanding the ISTE Standards",
+        "task_description": "Learn about the seven Educator Standards and their implications for teaching and learning in the digital age."
+      },
+      {
+        "task_title": "Preparing for the ISTE Standards",
+        "task_description": "Think about how to prepare to implement the standards in your educational setting."
+      },
+      {
+        "task_title": "Adopting and Implementing the ISTE Standards",
+        "task_description": "Develop a plan for implementing and adopting the standards in your practice."
+      }
+    ],
+    "pre_thinking_prompts": [
+      "What are the ISTE Standards for Educators?",
+      "Why are these standards important for teaching and learning in the digital age?",
+      "How can these standards transform your teaching practice?"
+    ],
+    "reflection_prompt": "Reflect on how adopting the ISTE Standards can enhance your teaching practice and empower your learners.",
+    "ai_tutor_prompts": [
+      "Consider how the ISTE Standards align with your current teaching practice.",
+      "Think about how you can use technology to enhance learning in your classroom.",
+      "Reflect on the challenges and opportunities of implementing the ISTE Standards in your practice."
+    ],
+    "remix_zone": "Adapt and modify this guide to fit your specific educational context and needs.",
+    "display_fields": [
+      "title",
+      "grade_band",
+      "subjects",
+      "driving_question",
+      "tasks",
+      "pre_thinking_prompts",
+      "reflection_prompt",
+      "ai_tutor_prompts",
+      "remix_zone"
+    ]
+  }
+}

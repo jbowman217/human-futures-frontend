@@ -1,0 +1,32 @@
+{
+  "title": "Moon Math Challenge: Exploring Lunar Metrics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "What kind of measurements can you make of the Moon and how can these measurements be used in real-world applications?",
+  "short_background_context": "NASA is planning to return humans to the Moon by 2020 and you, as a student, could be part of the next generation of explorers. The Moon Math Challenge provides an opportunity to enhance your measurement skills, a fundamental building block for science, technology, and engineering. In this mission, you will emulate NASA scientists and engineers by proposing a project, conducting an investigation, collecting real data, and presenting your findings. This interactive mission allows you to engage with NASA's Digital Learning Network, participate in hands-on activities, and ask questions about your specific projects.",
+  "tasks": [
+    "Propose a project to NASA that involves making a measurement of the Moon. This could be the diameter of a crater, the time it takes for the Moon to rotate once on its axis, or whether the Moon moves at a constant speed in its orbit.",
+    "Conduct an investigation by collecting real data. Use appropriate techniques, tools, and formulas to determine measurements.",
+    "Present your findings to a panel, just as a real scientist would at a professional conference. This should include an oral and written presentation summarizing the results of your experiment."
+  ],
+  "pre_thinking_prompts": [
+    "What aspect of the Moon are you interested in measuring and why?",
+    "What tools and techniques will you need to collect your data?",
+    "How will you ensure your measurements are accurate and reliable?"
+  ],
+  "reflection_prompt": "Reflect on the process of conducting your investigation. What challenges did you encounter and how did you overcome them? What did you learn from this experience?",
+  "ai_tutor_prompts": [
+    "Can you explain your choice of measurement in more detail?",
+    "Why did you choose the tools and techniques you used?",
+    "How did you ensure the reliability of your data?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing a different celestial body to measure or by proposing a new method for collecting data.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

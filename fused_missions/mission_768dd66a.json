@@ -1,0 +1,39 @@
+{
+  "title": "Historical Redlining and Modern Housing Instability",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How does the historical redlining practice in the United States impact current housing instability?",
+  "short_background_context": "Redlining was a discriminatory housing policy in the United States in the mid-20th century that denied mortgages to Black households and other communities of color. This policy has been linked to present-day neighborhood poverty and ongoing negative impacts on previously redlined neighborhoods. Policymakers are considering reparative policies to address the effects of these racist housing policies. This mission explores the correlation between historical redlining patterns and current risk of housing instability, using redlining maps and various instability indicators.",
+  "tasks": [
+    {
+      "task_1": "Analyze the correlation between historical redlining patterns and current risk of housing instability using redlining maps and instability indicators.",
+      "task_2": "Evaluate the effectiveness of targeting redlined areas with emergency rental assistance or other emergency housing assistance.",
+      "task_3": "Propose a policy or intervention that could more effectively address housing instability in historically redlined areas."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about redlining and its impacts?",
+    "How do you think redlining might affect housing instability today?",
+    "What factors might contribute to housing instability in historically redlined areas?"
+  ],
+  "reflection_prompt": "Reflect on the correlation between historical redlining and current housing instability. How has your understanding of the impact of redlining changed?",
+  "ai_tutor_prompts": [
+    "Can you explain how redlining might contribute to current housing instability?",
+    "What other factors might be influencing housing instability in these areas?",
+    "How could we use this data to inform policy decisions?"
+  ],
+  "remix_zone": "Students could remix this problem by examining the impact of redlining on other aspects of community health and wellbeing, such as education, employment, or healthcare access.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

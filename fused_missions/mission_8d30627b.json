@@ -1,0 +1,31 @@
+{
+  "title": "AP Calculus BC: Series and Convergence",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply the concepts of series and convergence to solve real-world problems?",
+  "short_background_context": "In this mission, we will be using the Advanced Placement (AP) Calculus BC 2024 sample student responses and scoring commentary as our primary source. The AP Calculus BC exam is an advanced level mathematics exam that high school students can take to earn college credit. One of the topics covered in this exam is the concept of series and convergence, which are fundamental concepts in calculus. These concepts are not only applicable in mathematics but also in economics, where they are used in understanding economic models and forecasting.",
+  "tasks": [
+    {
+      "task": "Reflect on the scoring commentary and identify areas for improvement in the sample student responses."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the terms 'series' and 'convergence'?",
+    "How are these concepts applied in the sample student responses?",
+    "What are some real-world applications of these concepts?"
+  ],
+  "reflection_prompt": "How well did you understand the concepts of series and convergence? What areas do you need to improve on based on the scoring commentary?",
+  "ai_tutor_prompts": [
+    "Can you explain why the series converges or diverges?",
+    "What does the radius of convergence tell us about a series?",
+    "How does the concept of series and convergence apply to economic models?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own series and determining whether it converges or diverges. They could also explore different real-world applications of these concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

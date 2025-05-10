@@ -1,0 +1,40 @@
+{
+  "title": "Analysis of Senator Bernie Sanders's Tax Plan",
+  "grade_band": "11-12",
+  "subjects": [
+    "Economics",
+    "Government"
+  ],
+  "driving_question": "How would Senator Bernie Sanders's tax plan impact the economy and individual income?",
+  "tasks": [
+    "Analyze the key findings of the tax plan",
+    "Explain the new policies Sanders would enact",
+    "Discuss the impact of the tax plan on high-income households",
+    "Evaluate the long-term economic effects of the tax plan",
+    "Identify the new income tax brackets proposed",
+    "Examine the proposed changes to capital gains and dividends tax"
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about tax policies?",
+    "How do tax policies impact the economy?",
+    "What are the current income tax brackets and how might they change under Sanders's plan?"
+  ],
+  "reflection_prompt": "Reflect on the potential benefits and drawbacks of Sanders's tax plan. Who would be most affected by these changes?",
+  "ai_tutor_prompts": [
+    "Explain the concept of payroll taxes",
+    "Describe the impact of tax revenue on the economy",
+    "Discuss the implications of higher marginal tax rates"
+  ],
+  "remix_zone": "Create a presentation explaining the key aspects of Sanders's tax plan and its potential impact on the economy",
+  "display_fields": [
+    "Title",
+    "Grade Band",
+    "Subjects",
+    "Driving Question",
+    "Tasks",
+    "Pre-thinking Prompts",
+    "Reflection Prompt",
+    "AI Tutor Prompts",
+    "Remix Zone"
+  ]
+}

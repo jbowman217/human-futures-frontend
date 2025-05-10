@@ -1,0 +1,38 @@
+{
+  "title": "Probability and Sampling Distributions: Gift Card Scenario",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use the concept of binomial distribution to calculate the probability of an event?",
+  "short_background_context": "In this mission, we will focus on a real-world scenario involving gift cards. Each week, an employee has a probability of 0.005 of being selected to receive a gift card. This selection process is independent from week to week. We will use the concept of binomial distribution to calculate the probability of an employee receiving at least one gift card in a 52-week year. We will also explore how to define a random variable, describe a distribution, identify the event of interest, and provide supporting work to calculate the correct probability.",
+  "tasks": [
+    {
+      "task": "Define the random variable of interest and describe its distribution."
+    },
+    {
+      "task": "Identify the event of interest and provide the correct boundary and direction for the event."
+    },
+    {
+      "task": "Calculate the probability that a particular employee receives at least one gift card in a 52-week year."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the term 'random variable'?",
+    "How would you describe a binomial distribution?",
+    "What is the event of interest in this scenario?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of binomial distribution and probability has deepened after completing this mission.",
+  "ai_tutor_prompts": [
+    "Can you explain why the selection process is independent each week?",
+    "What does the 'probability of success' refer to in this context?",
+    "Why is it important to identify the correct boundary and direction for the event?"
+  ],
+  "remix_zone": "Students could remix this problem by changing the probability of receiving a gift card each week or the number of weeks in the year. They could also consider different events of interest, such as the probability of receiving more than one gift card in a year.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

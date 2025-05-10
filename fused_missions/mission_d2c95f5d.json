@@ -1,0 +1,33 @@
+{
+  "title": "Understanding the 'Babies over Billionaires Act of 2022'",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Health"
+  ],
+  "driving_question": "How might the 'Babies over Billionaires Act of 2022' impact the economy and public health?",
+  "background_context": "The 'Babies over Billionaires Act of 2022' is a bill introduced in the U.S. House of Representatives. It proposes to amend the Internal Revenue Code of 1986 to adopt mark-to-market income tax rules for taxpayers with net worth above a specified threshold. The bill highlights that billionaires have disproportionately benefited during the pandemic, with their collective net worth growing by $1.7 trillion. It suggests that a gradual tax on unrealized capital gains could raise more than $1 trillion over 10 years. The revenue from this tax is proposed to be invested in children, particularly in the first 1000 days of life, to support their physical development, brain development, social-emotional health, and long-term well-being.",
+  "tasks": [
+    "Analyze the proposed tax changes in the 'Babies over Billionaires Act of 2022' and calculate the potential revenue that could be generated over 10 years.",
+    "Investigate the potential impacts of investing in children's health and development during the first 1000 days of life. How might this investment affect society and the economy in the long term?",
+    "Debate the pros and cons of the 'Babies over Billionaires Act of 2022'. Consider its potential economic impacts, its effects on wealth distribution, and its potential benefits for public health."
+  ],
+  "pre_thinking_prompts": [
+    "What are your initial thoughts on the 'Babies over Billionaires Act of 2022'?",
+    "What questions do you have about the proposed tax changes?",
+    "How might investing in children's health and development impact society and the economy?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the 'Babies over Billionaires Act of 2022'. How has your understanding of the proposed bill and its potential impacts changed?",
+  "ai_tutor_prompts": [
+    "Can you explain how the proposed tax changes would work?",
+    "What factors might influence the effectiveness of the proposed investments in children's health and development?",
+    "What are some potential challenges or criticisms of the 'Babies over Billionaires Act of 2022'?"
+  ],
+  "remix_zone": "Students could remix this problem by researching and comparing similar tax proposals in other countries, or by designing their own proposal for a tax policy aimed at addressing wealth inequality and investing in public health.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

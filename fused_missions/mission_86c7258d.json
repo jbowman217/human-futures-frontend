@@ -1,0 +1,32 @@
+{
+  "title": "Mathematical Conversions and Formulas: Real World Applications",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can mathematical conversions and formulas be applied in real-world situations?",
+  "short_background_context": "Mathematics is not just about numbers, it's also about understanding how those numbers interact with the world around us. One of the ways we can see this is through conversions and formulas. Conversions allow us to translate units of measurement from one form to another, while formulas provide a structured way to solve problems. Both are essential tools in many fields, from construction and engineering to economics and health sciences. This mission will help you understand and apply these concepts in real-world contexts.",
+  "tasks": [
+    "Task 1: Using the provided conversion rates, calculate how many ounces are in 3 tons.",
+    "Task 2: Apply the formula for the volume of a right rectangular prism to solve a real-world problem. For example, determine the volume of a storage container given its length, width, and height.",
+    "Task 3: Analyze a real-world economic problem using the conversion rates and formulas. For instance, calculate the cost of materials needed for a construction project."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world situations where you might need to use conversions or formulas?",
+    "Why is it important to understand how to use conversions and formulas?"
+  ],
+  "reflection_prompt": "Reflect on the tasks you completed. How did your understanding of conversions and formulas deepen? How can you apply these concepts in your daily life?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular conversion or formula?",
+    "What would happen if you used a different conversion or formula?",
+    "How does this problem relate to real-world situations?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own real-world problems that require the use of conversions and formulas. They could also explore different units of measurement and additional mathematical formulas.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

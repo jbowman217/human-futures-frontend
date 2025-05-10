@@ -1,0 +1,37 @@
+{
+  "title": "Is GDP Becoming Obsolete? Exploring the 'Beyond GDP' Debate",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we develop a more comprehensive and accurate measure of economic progress and individual well-being than the GDP?",
+  "short_background_context": "Gross Domestic Product (GDP) is a widely used indicator of a country's economic health and an important tool for economic policy. However, it has been criticized for not accurately reflecting individual well-being or economic progress. There have been calls to replace or refocus GDP with a metric that better reflects the welfare dimension. In response, the U.S. agency responsible for the GDP accounts launched the 'GDP and Beyond' program. This mission will explore the 'Beyond GDP' debate and consider alternative measures of economic progress and individual well-being.",
+  "tasks": [
+    "Research and analyze the limitations of GDP as a measure of economic health and individual well-being.",
+    "Investigate the 'Beyond GDP' program and other alternative measures of economic progress. Compare and contrast these measures with GDP.",
+    "Design your own measure of economic progress and individual well-being that addresses the limitations of GDP. Explain your rationale and methodology."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about GDP and its role in measuring economic health?",
+    "Why might GDP not accurately reflect individual well-being or economic progress?",
+    "What factors might a more comprehensive measure of economic progress and individual well-being include?"
+  ],
+  "reflection_prompt": "Reflect on the limitations of GDP and the potential of alternative measures. How has your understanding of economic progress and individual well-being evolved?",
+  "ai_tutor_prompts": [
+    "Can you explain why GDP might not accurately reflect individual well-being?",
+    "What are some potential challenges in developing a more comprehensive measure of economic progress?",
+    "How does your proposed measure address the limitations of GDP?"
+  ],
+  "remix_zone": "Students could remix this problem by considering how different countries might prioritize different factors in their measures of economic progress and individual well-being. They could also explore how these measures might change over time.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

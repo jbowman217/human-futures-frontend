@@ -1,0 +1,33 @@
+{
+  "title": "Regents High School Examination: Algebra II Exploration",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply our knowledge of Algebra, Statistics, Economics, and Geometry to successfully answer Regents Examination questions?",
+  "short_background_context": "The New York State Education Department conducts the Regents Examination in Algebra II to evaluate students' understanding and application of mathematical concepts. This examination is a comprehensive test that covers various topics such as Algebra, Statistics, Economics, and Geometry. The scoring guidelines provided by the department are designed to ensure a systematic and consistent method for awarding credit. The process involves multiple teachers scoring each student's paper, and the final score is a scale score converted from the total raw score.",
+  "tasks": [
+    "Analyze the scoring guidelines and understand the expectations of the examination.",
+    "Solve sample constructed-response questions using your knowledge of Algebra, Statistics, Economics, and Geometry.",
+    "Reflect on your answers, identify your strengths and weaknesses, and strategize on how to improve your performance."
+  ],
+  "pre_thinking_prompts": [
+    "What are the key components of the scoring guidelines?",
+    "What strategies can you use to solve the constructed-response questions?",
+    "How can you apply your knowledge of Algebra, Statistics, Economics, and Geometry to these questions?"
+  ],
+  "reflection_prompt": "Reflect on your performance on the sample questions. What areas did you excel in? Where do you need improvement? How can you use this feedback to prepare for the actual examination?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process in solving this problem?",
+    "How did you apply your knowledge of Algebra/Statistics/Economics/Geometry in this question?",
+    "What alternative methods could you have used to solve this problem?"
+  ],
+  "remix_zone": "Students can remix this problem by creating their own constructed-response questions based on the topics covered in the examination. They can also develop a scoring guideline for their questions, simulating the actual examination process.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

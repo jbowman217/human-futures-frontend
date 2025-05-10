@@ -1,0 +1,36 @@
+{
+  "title": "Access to Health Care: An Interdisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we improve access to health care in our local and global communities?",
+  "short_background_context": "The College Board and WE organization have partnered to create a service-learning program that combines academic rigor with real-world issues. This mission focuses on the topic of access to health care, a critical issue that affects diverse populations across the globe. The College Board is a not-for-profit organization that promotes excellence and equity in education. WE is a movement that empowers people to change the world through a charitable foundation and a social enterprise. Together, they aim to develop well-rounded citizens who can apply their classroom knowledge to address relevant needs in their communities.",
+  "tasks": [
+    "Research and analyze the current state of health care access in your local community. Identify key issues and potential solutions.",
+    "Use statistical methods to predict the impact of your proposed solutions on health care access over the next decade.",
+    "Develop a campaign to raise awareness about health care access issues and your proposed solutions. This could include a presentation, a website, or a community event."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about health care access in your community?",
+    "What questions do you have about health care access?",
+    "What factors do you think might influence health care access?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about health care access and your role as a citizen. How has this mission changed your understanding of these issues?",
+  "ai_tutor_prompts": [
+    "Can you explain why health care access is an important issue?",
+    "How did you use statistical methods in your analysis?",
+    "What factors did you consider when developing your campaign?"
+  ],
+  "remix_zone": "Students could remix this problem by focusing on a different aspect of health care access, such as mental health services or health insurance coverage. They could also adapt the mission to focus on a different community or region.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

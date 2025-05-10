@@ -1,0 +1,32 @@
+{
+  "title": "Financing Medicare for All: An Economic Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can the United States finance a Medicare for All system and what would be the potential economic implications?",
+  "short_background_context": "The United States spends more than $3.2 trillion a year on health care, with about 65% of this funding spent on publicly financed health care programs. Despite this, 28 million Americans remain uninsured. Health care spending in the U.S. accounts for nearly 18% of the GDP and is projected to total over 20% in the next decade. The proposed solution to this crisis is a Medicare-for-all single-payer health care system. The U.S. pays the highest prices in the world for prescription drugs and could save up to $113 billion per year by negotiating lower prices. This mission will explore the potential options for financing this system and the potential economic implications.",
+  "tasks": [
+    "Analyze the current spending on health care in the U.S. and calculate the potential savings from implementing a Medicare for All system.",
+    "Research and compare the health care systems of other industrialized nations, focusing on costs, coverage, and health outcomes.",
+    "Propose and evaluate potential policies that could provide revenue to finance Medicare for All, considering the potential economic impact on businesses and families."
+  ],
+  "pre_thinking_prompts": [
+    "What are the potential benefits and drawbacks of a Medicare for All system?",
+    "How could the U.S. government negotiate lower prices for prescription drugs?",
+    "What potential policies could provide revenue to finance this system?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the potential economic implications of a Medicare for All system. How has your understanding of health care economics changed?",
+  "ai_tutor_prompts": [
+    "Can you explain why the U.S. spends more on health care than any other country?",
+    "What factors might account for the potential savings from a Medicare for All system?",
+    "How might these policies impact the average American family financially?"
+  ],
+  "remix_zone": "Consider how the problem could be remixed by exploring the financing and economic implications of other potential health care reforms.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

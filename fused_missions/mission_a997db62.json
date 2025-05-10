@@ -1,0 +1,37 @@
+{
+  "title": "AP Statistics 2021: Sample Student Responses and Scoring Commentary",
+  "grade_band": "11-12",
+  "subjects": [
+    "Mathematics"
+  ],
+  "driving_question": "How can we critically evaluate statistical claims and provide accurate responses based on proportions rather than counts?",
+  "tasks": [
+    {
+      "task_name": "Evaluate Researcher's Claim",
+      "task_description": "Analyze the researcher's claim about the number of teens who consumed a soft drink in the past week in three cities. Provide a response based on proportions rather than counts."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is the difference between proportions and counts in statistical analysis?",
+    "Why is it important to consider sample sizes when comparing statistics?"
+  ],
+  "reflection_prompt": "Reflect on the process of evaluating the researcher's claim. What did you learn about the importance of considering proportions and sample sizes in statistical analysis?",
+  "ai_tutor_prompts": [
+    "Remember to consider the sample sizes when comparing the numbers.",
+    "Think about the difference between proportions and counts."
+  ],
+  "remix_zone": {
+    "remix_prompt": "Imagine you're the researcher who made the initial claim. How would you respond to the critique of your claim? Would you change your approach to the analysis?"
+  },
+  "display_fields": [
+    "title",
+    "grade_band",
+    "subjects",
+    "driving_question",
+    "tasks",
+    "pre_thinking_prompts",
+    "reflection_prompt",
+    "ai_tutor_prompts",
+    "remix_zone"
+  ]
+}

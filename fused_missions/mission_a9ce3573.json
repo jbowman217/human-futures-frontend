@@ -1,0 +1,30 @@
+{
+  "title": "New York State Mathematics Test Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze the structure and content of standardized math tests to improve our understanding and performance?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These tests include multiple-choice questions, short-response questions, and extended-response questions, each designed to assess different mathematical skills and concepts. The questions are often framed within the context of real-world applications and require the simultaneous application of multiple skills and concepts. This mission will involve analyzing the structure and content of these tests to improve your understanding and performance in mathematics.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the New York State Mathematics Test. Identify the mathematical concepts and skills each question is testing and explain how they are being assessed.",
+    "Analyze a set of short-response questions from the test. Identify the mathematical concepts and skills each question is testing and explain how they are being assessed.",
+    "Analyze a set of extended-response questions from the test. Identify the mathematical concepts and skills each question is testing and explain how they are being assessed."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts and skills do you think are most commonly tested on the New York State Mathematics Test?",
+    "How do you think the format of a question (multiple-choice, short-response, extended-response) affects how it tests your mathematical understanding and skills?"
+  ],
+  "reflection_prompt": "Reflect on your analysis of the test questions. Did anything surprise you? What did you learn about how standardized tests assess mathematical understanding and skills? How will this knowledge help you in the future?",
+  "ai_tutor_prompts": [
+    "What makes you think that this question is testing that particular skill or concept?",
+    "Can you think of a different way this skill or concept could be tested?",
+    "How might you approach this question if you were taking the test?"
+  ],
+  "remix_zone": "Create your own multiple-choice, short-response, and extended-response questions that test the same skills and concepts as the ones you analyzed. Try to make your questions different in some way, while still testing the same skills and concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

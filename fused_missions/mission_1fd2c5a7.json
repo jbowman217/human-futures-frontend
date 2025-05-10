@@ -1,0 +1,37 @@
+{
+  "title": "AP Statistics: Understanding Scatterplot Associations and Predictions",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use scatterplots and linear regression to predict the weight of an animal based on its chest circumference?",
+  "short_background_context": "In this mission, we will be exploring a real-world application of statistics and algebra using data from the AP Statistics 2023 Sample Student Responses. We will be focusing on a scatterplot that reveals a strong, positive, linear association between the chest circumference and weight of tule elk. The mission will involve understanding the components of a scatterplot, making predictions using linear regression, and calculating residuals to assess the accuracy of our predictions.",
+  "tasks": [
+    {
+      "task": "Analyze the scatterplot and describe the association between the chest circumference and weight of tule elk."
+    },
+    {
+      "task": "Use the given linear regression equation to predict the weight of a male tule elk with a chest circumference of 145.9 cm."
+    },
+    {
+      "task": "Calculate the residual for a male tule elk with a chest circumference of 145.9 cm and an actual weight of 204.3 kg."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about scatterplots and linear regression?",
+    "What do you think the relationship between chest circumference and weight in tule elk might be and why?"
+  ],
+  "reflection_prompt": "Reflect on the accuracy of the linear regression model. What did you learn about the relationship between chest circumference and weight in tule elk? How accurate was the model in predicting the weight of the elk?",
+  "ai_tutor_prompts": [
+    "Can you explain why the association is described as strong and positive?",
+    "How did you use the regression equation to predict the weight?",
+    "What does the calculated residual tell you about the accuracy of your prediction?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing a different animal and researching data to create their own scatterplot and regression model.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

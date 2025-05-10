@@ -1,0 +1,37 @@
+{
+  "title": "Next Generation Science Standards: A Multidisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply multidisciplinary knowledge to understand and address real-world problems?",
+  "short_background_context": "The Next Generation Science Standards (NGSS) are a set of K-12 science content standards. These standards are based on the Framework for K-12 Science Education from the National Academy of Sciences. The NGSS are intended to reflect a new vision for American science education, which not only includes scientific knowledge but also the practices used to generate scientific knowledge. The standards are designed to prepare students for college, career, and citizenship by building scientific literacy, including the knowledge and skills needed for the 21st century workforce.",
+  "tasks": [
+    "Analyze the Next Generation Science Standards and identify how they integrate different disciplines such as Economics, Climate, Statistics, Geometry, History, Health, Ethics, and Algebra.",
+    "Choose a real-world problem that can be addressed using these disciplines. Develop a project proposal that outlines how you would use the knowledge from these disciplines to solve the problem.",
+    "Present your proposal and defend your approach, demonstrating how the integration of different disciplines can lead to innovative solutions."
+  ],
+  "pre_thinking_prompts": [
+    "What real-world problems can you think of that might require knowledge in these disciplines?",
+    "How do you think these disciplines might intersect in the real world?",
+    "What are some potential challenges of integrating these disciplines?"
+  ],
+  "reflection_prompt": "Reflect on your learning experience. How has this mission helped you understand the importance of multidisciplinary knowledge in solving real-world problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why multidisciplinary knowledge is important in today's world?",
+    "How does your chosen real-world problem relate to the disciplines you've studied?",
+    "Could there be another approach to solving your chosen problem? If so, what might it look like?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different real-world problem, or by integrating additional disciplines into their approach.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Geometry: A Deep Dive",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply concepts from Algebra, Statistics, and Economics to solve complex Geometry problems as seen in the Regents Examination?",
+  "short_background_context": "The New York State Education Department conducts the Regents Examination in Geometry, a high-stakes test that assesses students' understanding of geometric concepts. The test includes constructed-response questions, which require students to apply their knowledge to solve problems. The scoring of these questions is rigorous, involving a minimum of three mathematics teachers per student's paper. The scores are then converted to a scale score using a conversion chart provided by the department. In this mission, you will explore some of these constructed-response questions, applying your knowledge of Algebra, Statistics, Economics, and Geometry to solve them.",
+  "tasks": [
+    "Analyze a sample constructed-response question from a past Regents Examination in Geometry. Identify the geometric concepts being tested and explain how they relate to concepts from Algebra, Statistics, and Economics.",
+    "Create your own constructed-response question that integrates concepts from Algebra, Statistics, Economics, and Geometry. Include a detailed solution and explanation.",
+    "Develop a rubric for scoring your constructed-response question. Explain how you would award credit for different methods of solving the problem."
+  ],
+  "pre_thinking_prompts": [
+    "What concepts from Algebra, Statistics, and Economics might be relevant to solving Geometry problems?",
+    "What strategies can you use to solve constructed-response questions in Geometry?",
+    "How might the scoring process for the Regents Examination influence the way you approach these questions?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the interconnectedness of Algebra, Statistics, Economics, and Geometry. How has this mission helped you to see these connections more clearly?",
+  "ai_tutor_prompts": [
+    "Can you explain how you arrived at that solution?",
+    "What other methods could you use to solve this problem?",
+    "How do you think your approach to this problem would be scored according to the Regents Examination rubric?"
+  ],
+  "remix_zone": "Students could remix this problem by integrating additional mathematical concepts into their constructed-response question, or by developing a more complex scoring rubric.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

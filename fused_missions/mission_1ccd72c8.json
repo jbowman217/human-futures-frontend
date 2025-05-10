@@ -1,0 +1,31 @@
+{
+  "title": "Particle Motion in the XY-Plane",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we use algebra and geometry to model and analyze the motion of a particle in the xy-plane?",
+  "short_background_context": "In this mission, we will explore the motion of a particle in the xy-plane. The particle's position at any time t \u2265 0 is given by the coordinates (x(t), y(t)), and its velocity vector is (2te^(-t), sin(t^1.25)). At time t=0, the particle is at position (-2, 5). We will use algebraic and geometric concepts to find the speed and acceleration of the particle at a specific time, calculate the total distance traveled by the particle over a given interval, and determine the coordinates of the point where the particle is farthest to the left.",
+  "tasks": [
+    "Find the speed of the particle at time t=1.2 and the acceleration vector of the particle at the same time.",
+    "Calculate the total distance traveled by the particle over the time interval 0 \u2264 t \u2264 1.2.",
+    "Determine the coordinates of the point at which the particle is farthest to the left for t \u2265 0. Explain why there is no point at which the particle is farthest to the right for t \u2265 0."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about velocity and acceleration?",
+    "How can you calculate the total distance traveled by a particle given its velocity?",
+    "What does it mean for a particle to be 'farthest to the left'?"
+  ],
+  "reflection_prompt": "What did you learn about the motion of a particle in the xy-plane? How did algebra and geometry help you analyze this motion?",
+  "ai_tutor_prompts": [
+    "Can you explain how you found the speed of the particle at t=1.2?",
+    "Why did you choose this method to calculate the total distance traveled?",
+    "What makes you think the particle is farthest to the left at this point?"
+  ],
+  "remix_zone": "Try changing the velocity vector and initial position of the particle. How do these changes affect the particle's motion?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

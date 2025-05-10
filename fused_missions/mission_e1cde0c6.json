@@ -1,0 +1,31 @@
+{
+  "title": "Balancing Delimiters: An Exploration of Algebra and Economics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply algebraic concepts to understand the balance in economic systems?",
+  "short_background_context": "In computer science, delimiters are used to specify boundaries between separate, independent regions in plain text or other data streams. An unambiguous delimiter is a character that is not used in the data itself. This concept of balancing and maintaining boundaries is not only applicable in computer science, but also in other fields like algebra and economics. In algebra, balancing equations is a fundamental concept. In economics, balance is crucial in supply and demand, trade, and fiscal policies. This mission will explore the concept of balance in these different contexts.",
+  "tasks": [
+    "Task 1: Analyze the concept of delimiters in computer science and explain its relevance in algebra and economics.",
+    "Task 2: Create an algebraic equation that represents a balanced economic system, using the concept of delimiters.",
+    "Task 3: Discuss the implications when the 'delimiters' or boundaries in the economic system are not balanced. Provide real-world examples."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about delimiters in computer science?",
+    "How do you think this concept applies to algebra and economics?",
+    "Can you think of any examples of balance or imbalance in economics?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of balance in different contexts before and after this mission. How has your understanding evolved?",
+  "ai_tutor_prompts": [
+    "Can you explain why balance is important in these contexts?",
+    "How does imbalance affect an economic system?",
+    "What strategies can be used to maintain balance in algebraic equations and economic systems?"
+  ],
+  "remix_zone": "Students could remix this problem by exploring other fields where the concept of balance is crucial, such as ecology or psychology.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

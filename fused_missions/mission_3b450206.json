@@ -1,0 +1,36 @@
+{
+  "title": "The Color of Money: Black Banks and the Racial Wealth Gap",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How has the racial wealth gap been created, maintained, and perpetuated in the United States, and what role have black banks played in this process?",
+  "short_background_context": "This mission is based on the book 'The Color of Money: Black Banks and the Racial Wealth Gap' by Mehrsa Baradaran. The book explores the racial wealth gap in the United States, focusing on the role of black banks in this issue. It discusses how black and white Americans have had a separate and unequal system of banking and credit, and how this has contributed to the wealth gap. The book also highlights how the 2008 financial crisis significantly impacted the wealth of the black community, demonstrating the deep financial divide between black and white Americans.",
+  "tasks": [
+    "Analyze the role of black banks in the racial wealth gap. Consider their history, their impact on black wealth development, and the challenges they have faced.",
+    "Investigate the effects of the 2008 financial crisis on the black community. Use statistical data to compare its impact on black and white communities.",
+    "Explore the relationship between banking policy, politics, and power. Discuss how these factors have contributed to the racial wealth gap."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the racial wealth gap in the United States?",
+    "What role do you think banks play in wealth creation?",
+    "How do you think the 2008 financial crisis might have affected different communities?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the racial wealth gap and the role of black banks. How has this expanded your understanding of wealth inequality in the United States?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on how banking policy is tied to politics and power?",
+    "What other factors might contribute to the racial wealth gap?",
+    "How might the history of black banks inform future efforts to address the wealth gap?"
+  ],
+  "remix_zone": "Students could remix this problem by investigating the racial wealth gap in their own community or by exploring similar issues in other countries.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

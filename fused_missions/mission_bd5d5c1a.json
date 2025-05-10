@@ -1,0 +1,32 @@
+{
+  "title": "New York State Mathematics Test Analysis",
+  "grade_band": "Grade 7",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and understand the structure and requirements of the New York State Mathematics Test?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. The tests include multiple-choice questions, short-response questions, and extended-response questions, each designed to assess different mathematical skills and concepts. Many of these questions are linked to more than one standard, drawing on the simultaneous application of multiple skills and concepts. The tests also have a real-world application, requiring students to complete multiple steps.",
+  "tasks": [
+    "Analyze a selection of multiple-choice questions from the test and identify the mathematical concepts they are designed to assess.",
+    "Evaluate a set of short-response and extended-response questions. Identify the steps required to answer them and the mathematical skills they are testing.",
+    "Create your own multiple-choice, short-response, and extended-response questions that align with the New York State P-12 Learning Standards for Mathematics."
+  ],
+  "pre_thinking_prompts": [
+    "What types of questions are included in the test?",
+    "What mathematical skills and concepts are being assessed in these questions?",
+    "How are real-world applications integrated into the questions?"
+  ],
+  "reflection_prompt": "Reflect on the process of analyzing and creating test questions. What did you learn about the structure and requirements of the New York State Mathematics Test?",
+  "ai_tutor_prompts": [
+    "Can you explain why you think this question is assessing a particular mathematical concept?",
+    "What steps would you take to answer this question?",
+    "How would you ensure your question aligns with the New York State P-12 Learning Standards for Mathematics?"
+  ],
+  "remix_zone": "Students could remix this problem by creating questions for different grade levels or aligning questions with different learning standards.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

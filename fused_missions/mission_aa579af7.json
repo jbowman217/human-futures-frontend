@@ -1,0 +1,32 @@
+{
+  "title": "Bias in Self-Reported Data Collection",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics"
+  ],
+  "driving_question": "How does self-reporting in data collection introduce bias and how can it be mitigated?",
+  "short_background_context": "In statistics, data collection is a crucial process that can significantly impact the results of a study. One common method of data collection is self-reporting, where subjects provide information about themselves. However, this method can introduce bias due to subjects' poor memory, intentional dishonesty, or misunderstanding of the information being asked. For example, if subjects are asked to keep a daily journal of the number of miles they walk, they may underreport or overreport their activity. This can result in a biased estimation of the mean daily miles walked for the target population. The use of technology, such as activity trackers, can help to reduce this bias by providing a more accurate record of daily activity.",
+  "tasks": [
+    "Analyze the potential sources of bias in self-reported data collection and discuss their impacts on the results of a study.",
+    "Design a study that utilizes both self-reporting and activity trackers to collect data on daily miles walked. Discuss how the use of activity trackers can help to reduce bias.",
+    "Evaluate the ethical considerations of using technology to monitor subjects' daily activities. Discuss the potential privacy concerns and how they can be addressed."
+  ],
+  "pre_thinking_prompts": [
+    "What are some potential sources of bias in self-reported data collection?",
+    "How can technology help to reduce bias in data collection?",
+    "What are some ethical considerations when using technology to monitor subjects' daily activities?"
+  ],
+  "reflection_prompt": "Reflect on the importance of accurate data collection in statistics. How can bias impact the results of a study and how can it be mitigated?",
+  "ai_tutor_prompts": [
+    "Can you think of other ways that bias can be introduced in self-reported data collection?",
+    "How might the use of technology in data collection introduce its own biases?",
+    "What are some potential drawbacks of using technology to monitor subjects' daily activities?"
+  ],
+  "remix_zone": "Consider other forms of self-reported data collection and how bias could be introduced. How could technology be used to reduce this bias?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

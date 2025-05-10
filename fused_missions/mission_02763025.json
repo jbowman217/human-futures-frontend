@@ -1,0 +1,36 @@
+{
+  "title": "Digital Fluency and Its Impact on Society",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How has digital fluency and technology impacted our society, economy, and personal lives?",
+  "short_background_context": "In the modern era, digital fluency and computer science have become integral parts of our lives, influencing everything from our communication methods to our job market. This mission aims to explore the impact of digital fluency on our society, focusing on its ethical implications, accessibility, career paths, and role in data analysis and visualization. Students will delve into the history of technology, its evolution, and how it has shaped our lives. They will also explore the digital divide and its causes, and the role of technology in various sectors such as health, economics, and ethics.",
+  "tasks": [
+    "Research and present a report on how technology has impacted job availability and the nature of work, focusing on fields like IT support and website design.",
+    "Analyze the concept of 'digital divide'. Identify its causes and related issues, and propose potential solutions to address this problem.",
+    "Explore the ethical implications of technology. Discuss the trade-offs with new and emerging technologies, focusing on how they could improve convenience but also impact personal privacy."
+  ],
+  "pre_thinking_prompts": [
+    "What are some ways you see technology impacting your daily life?",
+    "Can you think of any jobs that exist now that might not have existed without the advancement of technology?",
+    "What do you understand by the term 'digital divide'?"
+  ],
+  "reflection_prompt": "Reflect on your learning. How has this mission changed your perspective on the role and impact of technology in our society?",
+  "ai_tutor_prompts": [
+    "Can you think of any potential negative impacts of technology on jobs?",
+    "How might the digital divide impact people's access to opportunities?",
+    "Can you think of any potential solutions to the ethical issues raised by new technologies?"
+  ],
+  "remix_zone": "Students could remix this mission by focusing on a specific aspect of technology's impact on society, such as its role in healthcare or education, or by exploring the impact of a specific technology, like social media or artificial intelligence.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

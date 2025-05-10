@@ -1,0 +1,33 @@
+{
+  "title": "AP Calculus BC: Real-world Applications",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply calculus to solve real-world problems such as temperature changes and particle movement?",
+  "short_background_context": "Calculus is a branch of mathematics that deals with rates of change and the accumulation of quantities. It is used in a wide range of fields including physics, engineering, economics, statistics, and computer graphics. In this mission, we will explore two real-world applications of calculus: modeling the temperature of coffee over time and analyzing the movement of a particle along a curve. We will use concepts such as differentiable functions, Riemann sums, and differential equations to solve these problems. These problems are based on the AP Calculus BC exam, which is designed to test students' understanding of calculus in various contexts.",
+  "tasks": [
+    "Approximate the rate of change of the temperature of coffee over a given interval using the average rate of change.",
+    "Use a left Riemann sum to approximate the value of an integral.",
+    "Determine whether the temperature of the coffee is changing at a decreasing rate or an increasing rate."
+  ],
+  "pre_thinking_prompts": [
+    "What does the rate of change represent in these problems?",
+    "How can we use a Riemann sum to approximate an integral?",
+    "What does it mean for a rate of change to be increasing or decreasing?"
+  ],
+  "reflection_prompt": "What did you learn about applying calculus to real-world problems? How did your understanding of the rate of change and integrals deepen?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that method to approximate the rate of change?",
+    "Why did you choose a left Riemann sum for this problem?",
+    "What information does the rate of change give us in this context?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing different intervals for the rate of change or by modeling different real-world scenarios such as the spread of a disease or the growth of a population.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

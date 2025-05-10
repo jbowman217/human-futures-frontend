@@ -1,0 +1,33 @@
+{
+  "title": "Algebra II Regents High School Examination",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic, geometric, and statistical concepts to solve real-world problems?",
+  "short_background_context": "This mission is based on a real-world Algebra II Regents High School Examination from the University of the State of New York. The examination is designed to test students' understanding and application of various mathematical concepts including algebra, geometry, and statistics. It includes multiple-choice and open-ended questions that require students to utilize information provided, perform computations, and interpret diagrams and graphs. The examination also emphasizes the importance of academic integrity and ethical conduct during the test-taking process.",
+  "tasks": [
+    "Task 1: Solve the algebraic expressions and equations provided in the examination.",
+    "Task 2: Interpret and analyze the given diagrams and graphs to answer the related questions.",
+    "Task 3: Reflect on the ethical implications of academic dishonesty and discuss the importance of maintaining integrity during examinations."
+  ],
+  "pre_thinking_prompts": [
+    "What strategies can you use to solve algebraic expressions and equations?",
+    "How can you interpret and analyze diagrams and graphs in the context of mathematical problems?",
+    "Why is academic integrity important during examinations?"
+  ],
+  "reflection_prompt": "Reflect on your performance on the tasks. What concepts were you strong in? Where did you face challenges? How can you improve in those areas?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process while solving the algebraic expression?",
+    "How did you interpret the graph to answer the question?",
+    "Why is it important to maintain academic integrity during examinations?"
+  ],
+  "remix_zone": "Students can remix the problem by creating their own algebraic expressions or equations, designing their own diagrams or graphs, or discussing different ethical scenarios related to academic integrity.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

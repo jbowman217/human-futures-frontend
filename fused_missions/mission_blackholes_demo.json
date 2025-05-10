@@ -1,0 +1,23 @@
+{
+    "title": "Understanding Black Holes: A Mathematical Approach",
+    "short_background_context": "In this mission, students explore the math behind black holes, escape velocity, and event horizons.",
+    "tasks": [
+      {
+        "task_text": "Graph the escape velocity as a function of distance from a black hole using the Schwarzschild radius formula.",
+        "hint": "Escape velocity is v = √(2GM/r).",
+        "materials": [
+          {
+            "type": "svg",
+            "link": "/materials/blackhole-diagram.svg",
+            "description": "Black hole graph"
+          },
+          {
+            "type": "md",
+            "link": "/materials/blackhole-summary.md",
+            "description": "Mission background summary"
+          }
+        ]
+      }
+    ]
+  }
+  

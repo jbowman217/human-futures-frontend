@@ -1,0 +1,33 @@
+{
+  "title": "Exploring Algebra and Geometry through Regents High School Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic and geometric concepts to solve real-world problems as presented in a Regents High School Examination?",
+  "short_background_context": "The Regents High School Examination is a standardized examination that students in the state of New York must pass to graduate from high school. It covers a range of subjects, including Algebra, Geometry, Statistics, and Economics. The exam requires students to utilize a variety of skills, including graphing, problem-solving, and critical thinking. The exam is rigorous, with multiple parts and a variety of question types, including multiple-choice and open-ended questions. Students must use a graphing calculator and straightedge (ruler) during the examination. This mission will focus on the Algebra I examination, exploring key concepts and skills needed to successfully navigate the exam.",
+  "tasks": [
+    "Analyze and solve the algebraic and geometric problems provided in the Regents High School Examination.",
+    "Create a graph for a given equation or function from the exam using a graphing calculator.",
+    "Prepare a step-by-step guide on how to solve a selected problem from the exam, explaining each step and the reasoning behind it."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic and geometric concepts do you think will be most important for this examination?",
+    "How might a graphing calculator be used to solve some of these problems?",
+    "What strategies can you use to approach a complex problem?"
+  ],
+  "reflection_prompt": "Reflect on your problem-solving process. What strategies were most effective? What concepts were most challenging and how did you overcome those challenges?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "What other strategies could you have used to solve this problem?",
+    "How does this problem relate to real-world situations?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own algebraic or geometric problems inspired by the Regents High School Examination. They could also explore how these concepts might be applied in different real-world contexts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

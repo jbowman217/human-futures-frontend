@@ -1,0 +1,31 @@
+{
+  "title": "AP Computer Science A: Array/ArrayList Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply the scoring criteria of AP Computer Science A to analyze and optimize the use of arrays and ArrayLists in coding?",
+  "short_background_context": "In AP Computer Science A, a key area of focus is the use and manipulation of arrays and ArrayLists. Arrays and ArrayLists are fundamental data structures in programming that store elements of the same type in a contiguous block of memory. They are used to store collections of data, and are particularly useful when working with large sets of data. The College Board provides scoring guidelines for AP Computer Science A, which include penalties for certain mistakes in the use of arrays and ArrayLists. Understanding these scoring guidelines can help you optimize your use of these data structures and avoid common mistakes.",
+  "tasks": [
+    "Analyze the given AP Computer Science A scoring guidelines, focusing on the penalties related to arrays and ArrayLists. Identify and explain three common mistakes that result in penalties.",
+    "Given the canonical solution for the 'isWordChain' and 'createList' methods, evaluate the code based on the scoring guidelines. Identify any potential penalties and explain why they would be assessed.",
+    "Optimize the 'isWordChain' and 'createList' methods to avoid any identified penalties. Explain your changes and how they improve the code."
+  ],
+  "pre_thinking_prompts": [
+    "What are some common mistakes you might make when working with arrays and ArrayLists?",
+    "How do the scoring guidelines penalize these mistakes?",
+    "How might you optimize your code to avoid these penalties?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of arrays and ArrayLists and the AP Computer Science A scoring guidelines. How has this mission helped you improve your coding skills?",
+  "ai_tutor_prompts": [
+    "Can you explain why the penalty you identified would be assessed according to the scoring guidelines?",
+    "How does your optimized code avoid the identified penalties?",
+    "What other strategies might you use to avoid common mistakes when working with arrays and ArrayLists?"
+  ],
+  "remix_zone": "Consider how you could apply the scoring guidelines and your understanding of arrays and ArrayLists to other programming problems. Create a new problem that requires the use of these data structures and evaluate your solution based on the scoring guidelines.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

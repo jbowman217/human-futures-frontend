@@ -1,0 +1,32 @@
+{
+  "title": "AP Computer Science A: Light Board Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use statistical analysis and algebraic reasoning to evaluate and improve the performance of a light board system?",
+  "short_background_context": "In the 2019 AP Computer Science A exam, students were asked to evaluate a light board system. The light board is a 2D array of lights, each of which can be either on or off. The system was initialized with a 40% probability of each light being on. Students were asked to define the implementation of the constructor that initializes the light board and evaluate the status of a light in the 2D array. In this mission, we will delve deeper into this problem, using statistical analysis and algebraic reasoning to evaluate and improve the performance of the light board system.",
+  "tasks": [
+    "Task 1: Analyze the initial state of the light board. What is the expected number of lights that will be on? How does this number change with the size of the board?",
+    "Task 2: Develop a method to evaluate the status of a light. How can you use algebraic reasoning to improve this method?",
+    "Task 3: Propose a modification to the light board system that would improve its performance. Use statistical reasoning to justify your proposal."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about probability and how it relates to the initialization of the light board?",
+    "How might the size of the light board affect its initial state and performance?",
+    "What algebraic methods can you use to evaluate the status of a light?"
+  ],
+  "reflection_prompt": "Reflect on the methods you used to analyze and improve the light board system. How did your understanding of probability, algebra, and statistics influence your approach?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular modification to improve the light board system?",
+    "How did you use statistical reasoning to justify your proposal?",
+    "What other factors might affect the performance of the light board system?"
+  ],
+  "remix_zone": "Consider a different initial probability for the lights being on. How would this change your analysis and proposed modifications?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

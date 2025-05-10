@@ -1,0 +1,37 @@
+{
+  "title": "Data Science for High School: A Multidisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use data science to address real-world problems across multiple disciplines?",
+  "short_background_context": "Data science is a rapidly growing field that combines statistics, mathematics, and computer science to extract insights from data. It's not just for computer scientists - it's a powerful tool that can be used across many disciplines, from economics and climate science to history and health. This mission is based on a National Science Foundation workshop that aimed to identify needs, gaps, and resources for teaching data science in high schools. You will explore how data science can be used in different subjects, develop your own data-driven project, and reflect on the ethical implications of data science.",
+  "tasks": [
+    "Research and present a real-world problem in one of the identified subjects that could be addressed using data science.",
+    "Develop a data-driven project to address this problem, including collecting data, analyzing it using statistical and algebraic methods, and presenting your findings in a clear and compelling way.",
+    "Reflect on the ethical implications of your project, considering issues such as data privacy, bias in data, and the potential impacts of your findings."
+  ],
+  "pre_thinking_prompts": [
+    "What subject are you most interested in exploring through the lens of data science?",
+    "What real-world problems in this subject could be addressed using data?",
+    "What ethical issues might arise in the collection and use of data in this subject?"
+  ],
+  "reflection_prompt": "What did you learn from this project about the power and limitations of data science? How did your understanding of your chosen subject change as a result of this project?",
+  "ai_tutor_prompts": [
+    "Can you think of any other ways you could use data to address this problem?",
+    "What assumptions did you make in your analysis, and how might these affect your results?",
+    "How could you address the ethical issues you identified in your project?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different subject or problem to explore, using different methods of data analysis, or considering different ethical issues.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

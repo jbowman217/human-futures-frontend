@@ -1,0 +1,36 @@
+{
+  "title": "The Interplay of Engineering, Economics, and Environment",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Algebra"
+  ],
+  "driving_question": "How does engineering intersect with economics, climate, statistics, geometry, history, health, and algebra to influence our society?",
+  "short_background_context": "Engineering is a multifaceted discipline that intersects with various fields such as economics, climate, statistics, geometry, history, health, and algebra. It plays a significant role in shaping our society and environment. Engineers utilize scientific and mathematical principles to design and build structures, machines, devices, and systems that solve real-world problems. They also consider the economic feasibility, environmental impact, health implications, and historical context of their designs. This mission will explore the interplay of these subjects in the field of engineering.",
+  "tasks": [
+    "Research and present a case study of an engineering project that significantly impacted the economy and climate.",
+    "Analyze statistical data related to an engineering feat and explain how geometry and algebra were utilized in its design.",
+    "Investigate the historical context of a major engineering project and discuss its health implications."
+  ],
+  "pre_thinking_prompts": [
+    "What are some engineering projects that have had a significant impact on the economy and climate?",
+    "How might statistical data, geometry, and algebra be used in engineering design?",
+    "Can you think of a historical engineering project that had health implications?"
+  ],
+  "reflection_prompt": "Reflect on what you learned about the intersection of engineering with economics, climate, statistics, geometry, history, health, and algebra. How has this broadened your understanding of the role of engineering in society?",
+  "ai_tutor_prompts": [
+    "Can you delve deeper into how the engineering project impacted the economy and climate?",
+    "How might the use of geometry and algebra in the design process influence the final product?",
+    "What were the long-term health implications of the historical engineering project you chose?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different engineering project or by focusing on different subjects that intersect with engineering, such as biology, chemistry, physics, or art.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Adverse Childhood Experiences and Adult Health Outcomes: A Statistical Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Statistics",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How do Adverse Childhood Experiences (ACEs) impact adult health outcomes and behaviors?",
+  "short_background_context": "The Behavioral Risk Factor Surveillance System (BRFSS) conducts an annual telephone survey of adults about their health-related risk behaviors, chronic health conditions, and use of preventive services. The 2021 BRFSS survey included questions about Adverse Childhood Experiences (ACEs). ACEs are traumatic events that occur before the age of 18 and can be categorized as Abuse/Neglect or Household Challenges. This mission involves analyzing the association between ACEs and adult health outcomes and behaviors, and the potential mitigating effects of family support during childhood.",
+  "tasks": [
+    "Analyze the data from the BRFSS survey to determine the prevalence of ACEs among the surveyed population.",
+    "Investigate the association between the number and type of ACEs and adult health outcomes and behaviors.",
+    "Evaluate the potential mitigating effects of family support during childhood on the impact of ACEs on adult health outcomes and behaviors."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about ACEs and their potential impact on health?",
+    "What factors might influence the relationship between ACEs and adult health outcomes and behaviors?",
+    "How might family support during childhood mitigate the effects of ACEs?"
+  ],
+  "reflection_prompt": "Reflect on your findings. Were there any surprising associations between ACEs and adult health outcomes? How did family support during childhood impact these associations?",
+  "ai_tutor_prompts": [
+    "What statistical methods are you using to analyze the data?",
+    "Have you considered all potential confounding factors in your analysis?",
+    "How might the results of this analysis be used to inform public health interventions?"
+  ],
+  "remix_zone": "Students could remix this problem by considering other potential mitigating factors, such as access to mental health services or socio-economic status. They could also analyze the data by gender or race to investigate potential disparities.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

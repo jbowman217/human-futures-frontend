@@ -1,0 +1,37 @@
+{
+  "title": "AP Computer Science A: Frog Simulation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use algebra and economics principles to simulate and analyze a frog hopping scenario in computer science?",
+  "short_background_context": "In this mission, we will be exploring a problem from the 2018 AP Computer Science A exam that involves simulating the hopping of a frog. The problem requires understanding of both algebraic concepts and principles of economics. The frog's hopping is simulated through a series of steps, each of which contributes to the overall distance traveled by the frog. The goal is to determine whether the frog reaches a certain distance or falls short. The problem also involves running multiple simulations and determining the proportion of successful attempts. This requires understanding of probability and statistics, which are key concepts in economics.",
+  "tasks": [
+    {
+      "task": "Understand and analyze the 'Frog Simulation' problem from the 2018 AP Computer Science A exam."
+    },
+    {
+      "task": "Develop an algorithm to simulate the frog's hopping and determine whether the frog reaches the goal distance."
+    },
+    {
+      "task": "Run multiple simulations and calculate the proportion of successful attempts."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic concepts can you identify in the 'Frog Simulation' problem?",
+    "How might principles of economics apply to this problem?",
+    "What steps would you need to take to simulate the frog's hopping?"
+  ],
+  "reflection_prompt": "Reflect on how you used algebra and economics principles to solve the 'Frog Simulation' problem. What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "How can you ensure that your simulation accurately represents the frog's hopping?",
+    "What factors might affect the proportion of successful attempts?",
+    "How can you improve the efficiency of your algorithm?"
+  ],
+  "remix_zone": "Students could remix the problem by changing the conditions of the frog's hopping (e.g., varying the distance of each hop) or by simulating a different scenario (e.g., a race between two frogs).",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

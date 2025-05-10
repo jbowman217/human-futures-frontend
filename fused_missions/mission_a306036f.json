@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra II: A Deep Dive",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the principles of Algebra II to solve complex real-world problems and understand the scoring mechanism of the Regents Examination?",
+  "short_background_context": "The University of the State of New York conducts the Regents High School Examination in Algebra II, which assesses students' understanding of algebraic concepts and their application. The examination is scored based on a systematic, consistent method, and the scores are converted to a scale score for final evaluation. In this mission, we will dive deep into the principles of Algebra II, solve complex problems, and understand the scoring mechanism of the Regents Examination.",
+  "tasks": [
+    "Analyze the scoring mechanism of the Regents Examination in Algebra II and discuss its implications.",
+    "Solve complex algebraic problems that could appear in the Regents Examination.",
+    "Create your own algebraic problems and scoring rubric, mirroring the Regents Examination style."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the Regents Examination in Algebra II?",
+    "What are some of the key principles of Algebra II?",
+    "How do you think the scoring mechanism of the examination works?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of Algebra II before and after this mission. How has your understanding of the subject and the Regents Examination scoring mechanism improved?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "What other methods could you use to solve this problem?",
+    "How does this problem relate to real-world situations?"
+  ],
+  "remix_zone": "Students could remix this problem by incorporating principles from other subjects like Geometry or Statistics. They could also modify the scoring rubric to reflect different grading systems.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

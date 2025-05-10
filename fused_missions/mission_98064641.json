@@ -1,0 +1,30 @@
+{
+  "title": "Exploring Taylor Polynomials and Calculus",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can we use Taylor polynomials to approximate functions and understand the concept of error in Calculus?",
+  "short_background_context": "In AP Calculus, we often use Taylor polynomials to approximate functions. A Taylor series is a representation of a function as an infinite sum of terms. These terms are calculated from the values of the function's derivatives at a single point. In this mission, we'll explore the fourth-degree Taylor polynomial for a function 'f' and a second-degree Taylor polynomial for a function 'g'. We'll also delve into the concept of the Lagrange error bound, which gives an upper limit on the magnitude of the error introduced by using a Taylor polynomial to approximate a function.",
+  "tasks": [
+    "Task 1: Find the fourth-degree Taylor polynomial for function f about 0.",
+    "Task 2: Use the fourth-degree Taylor polynomial for f to approximate f(0.1) and use the Lagrange error bound to show that this approximation is within 51/10 of the exact value of f(0.1).",
+    "Task 3: Write the second-degree Taylor polynomial for function g about 0."
+  ],
+  "pre_thinking_prompts": [
+    "What is a Taylor polynomial and how is it used in Calculus?",
+    "How can we calculate the Lagrange error bound?",
+    "What is the relationship between the degree of the Taylor polynomial and the accuracy of the approximation?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of Taylor polynomials and the concept of error in Calculus. How has this mission helped you better understand these concepts?",
+  "ai_tutor_prompts": [
+    "Can you explain how you derived the Taylor polynomial?",
+    "Why do you think the Lagrange error bound is important in this context?",
+    "What would happen if we increased the degree of the Taylor polynomial?"
+  ],
+  "remix_zone": "Try approximating a different function using a Taylor polynomial of a different degree. How does the degree of the polynomial affect the accuracy of the approximation?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

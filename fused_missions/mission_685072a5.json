@@ -1,0 +1,32 @@
+{
+  "title": "Algebra II Regents High School Examination",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply algebraic, statistical, and geometric concepts to solve complex real-world problems?",
+  "short_background_context": "This mission is based on the Algebra II Regents High School Examination from the University of the State of New York. The examination tests students' understanding and application of algebraic, statistical, and geometric concepts. It consists of multiple parts, including multiple-choice questions, and requires the use of a graphing calculator and a straightedge. Students are expected to write their answers in pen, except for graphs and drawings, which should be done in pencil. Diagrams provided are not necessarily drawn to scale. The examination also includes a perforated sheet of scrap graph paper for any question for which graphing may be helpful but is not required.",
+  "tasks": [
+    "Analyze the lunchtime eating habits of a group of employees in their office building to determine the proportion of employees who purchased lunch in the cafeteria, brought their lunch from home, or purchased lunch from an outside vendor.",
+    "Determine which graph has imaginary roots.",
+    "Find the unique roots of the function f(x) = x^4 - x^3 - 21x^2 + 45x, given that 3 is a root."
+  ],
+  "pre_thinking_prompts": [
+    "What statistical methods can you use to analyze the lunchtime eating habits of the employees?",
+    "What do you know about imaginary roots and how can you identify them in a graph?",
+    "How can you find the roots of a function?"
+  ],
+  "reflection_prompt": "Reflect on the strategies you used to solve the tasks. Which strategies were most effective and why? What did you learn about algebra, statistics, and geometry from this mission?",
+  "ai_tutor_prompts": [
+    "Can you explain your reasoning in more detail?",
+    "What other methods could you use to solve this problem?",
+    "How does this concept relate to what you've learned previously?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own exam questions based on the concepts covered in the mission. They could also design a real-world scenario that requires the application of these concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

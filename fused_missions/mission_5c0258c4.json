@@ -1,0 +1,32 @@
+{
+  "title": "Understanding and Applying Mathematical Concepts",
+  "grade_band": "Grade 8",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply mathematical concepts and procedures to solve real-world problems?",
+  "short_background_context": "The New York State Education Department administers Mathematics Tests annually to assess students' understanding and application of mathematical concepts and procedures. The tests incorporate multiple-choice and constructed-response questions that require students to apply multiple mathematical skills and concepts. Many of these questions are framed within the context of real-world applications or require students to complete multiple steps. This mission is designed to help you better understand these mathematical concepts and apply them to solve problems.",
+  "tasks": [
+    "Analyze and solve multiple-choice questions that assess standard algorithms and conceptual standards.",
+    "Complete one-credit constructed-response questions that require multiple steps, assessing procedural skills, conceptual understanding, and application.",
+    "Complete two-credit and three-credit constructed-response questions that require you to show your work, apply multiple mathematical skills, and solve real-world applications."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts and procedures do you think will be most important in solving these problems?",
+    "How might real-world applications help to contextualize these mathematical concepts?"
+  ],
+  "reflection_prompt": "Reflect on your problem-solving process. What strategies were most effective? What concepts did you find most challenging and how did you overcome those challenges?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "How does this concept apply to real-world situations?",
+    "What other mathematical concepts could be applied to solve this problem?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own real-world scenarios that require the application of the same mathematical concepts and procedures.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

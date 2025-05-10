@@ -1,0 +1,33 @@
+{
+  "title": "Understanding the New York State Mathematics Test",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and understand the structure and content of the New York State Mathematics Test?",
+  "short_background_context": "Every year, the State Education Department of New York releases a significant portion of the questions from the state's Mathematics Test. These questions are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics, covering a range of skills and concepts from algebra and geometry to statistics and economics. The test includes multiple-choice questions, as well as one-credit, two-credit, and three-credit constructed-response questions. Understanding these questions and the skills they assess can help students better prepare for the test and understand the state's expectations.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the test and identify the skills and concepts they are designed to assess.",
+    "Choose a one-credit, two-credit, and three-credit constructed-response question. For each, identify the steps required to answer the question and the skills and concepts it assesses.",
+    "Design your own multiple-choice and constructed-response questions that align with the New York State P\u201312 Next Generation Learning Standards for Mathematics."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the New York State Mathematics Test?",
+    "What skills and concepts do you think the test is likely to assess?",
+    "How do you think the test's questions are designed to assess these skills and concepts?"
+  ],
+  "reflection_prompt": "What have you learned about the structure and content of the New York State Mathematics Test? How will this understanding help you prepare for the test?",
+  "ai_tutor_prompts": [
+    "Can you explain why you think this question assesses the skill or concept you identified?",
+    "What makes a good multiple-choice or constructed-response question?",
+    "How did you ensure that your own questions align with the New York State P\u201312 Next Generation Learning Standards for Mathematics?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different state's Mathematics Test to analyze, or by designing their own test that assesses the same skills and concepts.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Exploring Geometry and its Applications",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can the principles of Geometry be applied to solve real-world problems?",
+  "background_context": "The Regents Examination in Geometry is a comprehensive test that assesses your understanding of various geometric concepts and their applications. In this mission, we will explore different aspects of Geometry, including algebraic representations, statistical interpretations, and economic applications. You will be given tasks that mimic the type of problems you might encounter in the Regents Examination, allowing you to apply and deepen your understanding of these concepts. Remember, the goal is not just to find the right answer, but to understand the process and logic behind it.",
+  "tasks": [
+    "Design a model that applies geometric principles to a real-world problem.",
+    "Analyze a given geometric problem and propose multiple solution pathways.",
+    "Interpret the results of a geometric model in the context of an economic or statistical scenario."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world problems that could be solved using Geometry?",
+    "What different methods can be used to solve a geometric problem?",
+    "How can the results of a geometric model be interpreted in an economic or statistical context?"
+  ],
+  "reflection_prompt": "Reflect on the tasks you completed. What did you learn about the application of Geometry in real-world scenarios? How did your understanding of Geometry deepen?",
+  "ai_tutor_prompts": [
+    "Why did you choose this particular method to solve the problem?",
+    "Can you think of another way to solve this problem?",
+    "How does your geometric model apply to the given economic or statistical scenario?"
+  ],
+  "remix_zone": "Consider a different real-world problem. How would you modify your geometric model to solve this new problem?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

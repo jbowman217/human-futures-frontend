@@ -1,0 +1,36 @@
+{
+  "title": "Artificial Intelligence and the Future of Education",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can artificial intelligence shape the future of education and what ethical considerations should we keep in mind?",
+  "short_background_context": "This mission is based on a report by the U.S. Department of Education discussing the future of teaching and learning in relation to artificial intelligence (AI). The document provides insights and recommendations on how AI can be integrated into education, while also highlighting the importance of ethical considerations. As AI becomes more prevalent in our society, it's crucial to understand how it can be used to enhance education and what potential challenges we might face.",
+  "tasks": [
+    "Research and present a case study on how AI is currently being used in education.",
+    "Analyze the ethical implications of using AI in education and propose solutions to potential issues.",
+    "Design a hypothetical AI tool that could be used in a high school classroom. Explain how it could enhance teaching and learning, and discuss any potential ethical issues."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about artificial intelligence?",
+    "How do you think AI could be used in education?",
+    "What ethical issues might arise from using AI in education?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the use of AI in education. How has your perspective changed? What surprised you the most?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on why you think that AI tool would be beneficial in a classroom?",
+    "What potential issues could arise from your proposed AI tool and how would you address them?",
+    "How might the use of AI in education impact different groups of students?"
+  ],
+  "remix_zone": "Students could remix this problem by focusing on a specific subject area (e.g., how AI could be used in teaching history) or by exploring how AI could be used in different educational settings (e.g., rural vs. urban schools).",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

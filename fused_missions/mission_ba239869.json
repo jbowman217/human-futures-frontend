@@ -1,0 +1,31 @@
+{
+  "title": "Algebra II and Geometry - Real World Application",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic and geometric principles to solve real-world problems?",
+  "short_background_context": "This mission is inspired by the Regents High School Examination in Algebra II conducted by the University of the State of New York. You will be presented with a series of problems that require a deep understanding of algebraic expressions and geometric transformations. Your task is to solve these problems, justify your answers, and reflect on your learning process. Remember, the goal here is not just to find the right answer, but to understand the underlying mathematical principles and how they can be applied in different contexts.",
+  "tasks": [
+    "Task 1: Determine if the expression 21 2 54pn pn8 is equivalent to p18n6p for n and p > 0. Justify your answer.",
+    "Task 2: Show why x \u2260 3 is a factor of m(x) = x3 - x2 - 5x - 3. Justify your answer.",
+    "Task 3: Describe the transformation applied to the graph of p(x) = 2x that form the new function q(x) = 2x^3 - 4."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about simplifying algebraic expressions?",
+    "How can you determine if a number is a factor of a polynomial?",
+    "What do you understand about graph transformations?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did your understanding of algebraic expressions and geometric transformations evolve? What strategies did you find most helpful in solving these problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why you took that step?",
+    "What other approach could you have used here?",
+    "How does this step relate to the problem?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own algebraic expressions and geometric transformations, and challenging their peers to solve them.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

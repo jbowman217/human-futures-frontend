@@ -1,0 +1,30 @@
+{
+  "title": "Understanding Score Conversion in Algebra II Regents Examination",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can you use the raw score conversion chart to determine the final examination score in the Algebra II Regents Examination?",
+  "short_background_context": "In the New York State Education Department's Regents Examination in Algebra II, students' raw scores from the test are converted to final examination scores, also known as scale scores. This conversion is done using a specific chart provided for each administration of the exam. The raw score is located in one column, and the corresponding scale score is found in another. This scale score becomes the student's final examination score. It's important to note that the conversion chart changes from one administration to another, so it's crucial to use the correct chart for each exam.",
+  "tasks": [
+    "Analyze the provided score conversion chart and identify the patterns and relationships between the raw scores and the scale scores.",
+    "Create a mathematical model or equation that could be used to convert raw scores to scale scores based on the provided chart.",
+    "Use your mathematical model to predict the scale scores for hypothetical raw scores not included in the provided chart."
+  ],
+  "pre_thinking_prompts": [
+    "What do you notice about the relationship between the raw scores and the scale scores?",
+    "Why do you think the conversion chart changes for each administration of the exam?",
+    "How might you approach creating a mathematical model for this conversion?"
+  ],
+  "reflection_prompt": "Reflect on the mathematical model you created. How well did it predict the scale scores? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Could there be another way to interpret the relationship between the raw scores and the scale scores?",
+    "What assumptions did you make when creating your mathematical model?",
+    "How would your model handle negative raw scores or raw scores greater than the highest value in the chart?"
+  ],
+  "remix_zone": "Consider how this problem might be remixed if you were to include multiple subjects, such as statistics or data analysis. How could you incorporate these subjects into the task?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

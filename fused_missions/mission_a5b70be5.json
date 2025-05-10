@@ -1,0 +1,33 @@
+{
+  "title": "AP Calculus BC: Warming Milk",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "History",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use calculus to model and understand real-world scenarios such as warming a bottle of milk?",
+  "short_background_context": "In this mission, you will be exploring a scenario where a bottle of milk is taken out of a refrigerator and placed in a pan of hot water to be warmed. The temperature of the milk over time is modeled by a differential equation, which is a type of equation used to describe how a quantity changes over time. You will be tasked with understanding this model, making predictions using it, and evaluating its accuracy.",
+  "tasks": [
+    "Sketch the solution curve for the differential equation modeling the milk's temperature over time.",
+    "Use the tangent line to the graph at t=0 to approximate the temperature of the milk after 2 minutes.",
+    "Write an expression for the second derivative of M in terms of M and use it to determine whether your approximation from the previous task is an underestimate or overestimate."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about differential equations?",
+    "How can a tangent line to a graph be used to make approximations?",
+    "What does the second derivative tell us about a function?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of calculus has deepened through this mission. What new insights have you gained about how calculus can be applied to real-world scenarios?",
+  "ai_tutor_prompts": [
+    "Can you explain why the differential equation models the temperature of the milk over time?",
+    "Why did you choose that point to draw the tangent line?",
+    "What does it mean for the approximation to be an underestimate or overestimate?"
+  ],
+  "remix_zone": "Consider a different scenario where the milk is being cooled instead of warmed. How would the differential equation change? How would this affect your tasks?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

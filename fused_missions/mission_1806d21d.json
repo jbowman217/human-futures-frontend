@@ -1,0 +1,33 @@
+{
+  "title": "Understanding Functions and Their Properties",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand the properties of a function and its graph using calculus and algebra?",
+  "short_background_context": "In this mission, you will be exploring the properties of a function defined on a closed interval. This function, represented by a graph consisting of four line segments, will be analyzed in terms of its derivative, concavity, and rates of change. You will also be introduced to another function defined as an integral of the original function. Understanding these concepts will require you to apply your knowledge of calculus, specifically differentiation and integration, as well as your understanding of algebra and geometry. This mission is inspired by a sample question from the AP Calculus BC exam, which is a college-level course and exam offered by the College Board.",
+  "tasks": [
+    "Identify the intervals where the graph of the function is concave up and provide a reason for your answer.",
+    "Define a new function as the product of the original function and its integral. Calculate the derivative of this new function at a specific point.",
+    "Calculate the limit of a function as it approaches a specific point using L'Hopital's Rule."
+  ],
+  "pre_thinking_prompts": [
+    "What does it mean for a function to be concave up and how can you determine this from a graph?",
+    "How do you calculate the derivative of a function at a specific point?",
+    "What is L'Hopital's Rule and when is it used?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the properties of a function and its graph. How has your understanding of calculus concepts such as differentiation, integration, and limits deepened through this mission?",
+  "ai_tutor_prompts": [
+    "Can you explain why the function is concave up at the intervals you identified?",
+    "How did you apply the product rule in calculating the derivative of the new function?",
+    "Why was it necessary to use L'Hopital's Rule in calculating the limit?"
+  ],
+  "remix_zone": "Try to create your own function and graph. Analyze its properties such as concavity and rates of change. Define a new function as the product of your function and its integral and calculate its derivative at a specific point.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

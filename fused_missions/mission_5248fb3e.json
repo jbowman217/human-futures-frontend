@@ -1,0 +1,30 @@
+{
+  "title": "New York State Mathematics Test Analysis",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can we analyze and understand the structure and demands of the New York State Mathematics Test?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. The Mathematics test includes multiple-choice questions, short-response questions, and extended-response questions. These questions are designed to assess standard algorithms and conceptual standards, often within the context of real-world applications. They require students to complete multiple steps and apply multiple mathematics skills. This mission is designed to help you analyze and understand the structure and demands of this test.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the New York State Mathematics Test and identify the mathematical concepts and skills they are designed to assess.",
+    "Analyze a set of short-response questions from the test and identify the mathematical concepts and skills they are designed to assess.",
+    "Analyze a set of extended-response questions from the test and identify the mathematical concepts and skills they are designed to assess."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the New York State Mathematics Test?",
+    "What mathematical concepts and skills do you think the test might assess?",
+    "How do you think the test questions might be structured?"
+  ],
+  "reflection_prompt": "Reflect on your analysis of the test questions. What did you learn about the structure and demands of the New York State Mathematics Test? How will this understanding help you prepare for the test?",
+  "ai_tutor_prompts": [
+    "Can you explain why you think this question assesses this particular concept or skill?",
+    "How does the structure of this question relate to its purpose?",
+    "What strategies might you use to answer this type of question effectively?"
+  ],
+  "remix_zone": "Create your own multiple-choice, short-response, and extended-response questions that assess the same concepts and skills as the test questions you analyzed.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

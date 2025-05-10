@@ -1,0 +1,37 @@
+{
+  "title": "Data Science for High School: Identifying Needs, Gaps, and Resources",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use data science to identify and address gaps in our understanding across various subjects?",
+  "short_background_context": "Data Science is a field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It is an interdisciplinary field that uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, and information science. This mission is inspired by a National Science Foundation Workshop that aimed to address the challenges of integrating data science into high school education. You will be tasked with identifying needs, gaps, and resources in various subjects using data science techniques.",
+  "tasks": [
+    "Task 1: Identify a gap in one of the subjects using data science techniques. Write a report detailing the gap and how you identified it.",
+    "Task 2: Develop a proposal for a resource that could help fill the identified gap. The proposal should include a detailed plan for implementation and expected outcomes.",
+    "Task 3: Evaluate the potential impact and sustainability of your proposed resource. Use data to support your evaluation."
+  ],
+  "pre_thinking_prompts": [
+    "What are some gaps you've noticed in your studies?",
+    "How might data science help identify these gaps?",
+    "What resources could be developed to address these gaps?"
+  ],
+  "reflection_prompt": "Reflect on the process of using data science to identify gaps in your understanding. How did this process challenge your thinking? How might you use data science in your future studies?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose the particular gap you did?",
+    "How did you ensure the data you used was reliable?",
+    "What factors did you consider when evaluating the impact and sustainability of your proposed resource?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing different subjects to focus on or by developing multiple resources to address the identified gap.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

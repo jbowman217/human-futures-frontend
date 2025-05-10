@@ -1,0 +1,32 @@
+{
+  "title": "AP Statistics: Understanding Distributions and Sampling",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use statistical methods to analyze and draw conclusions from real-world data?",
+  "short_background_context": "In this mission, we will be exploring the world of statistics and how it is used to analyze and interpret real-world data. We will be using a case study from the AP Statistics exam where researchers took water samples from Alaskan streams to measure the dissolved oxygen concentration. The researchers constructed a histogram to represent the distribution of the dissolved oxygen concentration in streams with water temperatures colder than 8\u00b0C. We will learn to understand distributions, sampling, and inferential statistics, and apply these concepts to analyze the given data.",
+  "tasks": [
+    "Analyze the histogram provided by the researchers and describe the distribution of dissolved oxygen concentration in streams with water temperatures colder than 8\u00b0C.",
+    "Using the formulas provided, calculate the mean and standard deviation of the dissolved oxygen concentration.",
+    "Construct a confidence interval for the mean dissolved oxygen concentration."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about histograms and how they represent data?",
+    "How can we calculate the mean and standard deviation of a data set?",
+    "What is a confidence interval and how can we construct one?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about distributions, sampling, and inferential statistics. How can these concepts be applied to other real-world scenarios?",
+  "ai_tutor_prompts": [
+    "What does the shape of the histogram tell you about the data?",
+    "Why is it important to calculate the mean and standard deviation?",
+    "How does the confidence interval help us understand the data?"
+  ],
+  "remix_zone": "Consider a different real-world scenario where you could apply these statistical methods. How would you collect, analyze, and interpret the data?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

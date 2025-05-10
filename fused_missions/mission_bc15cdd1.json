@@ -1,0 +1,33 @@
+{
+  "title": "AP Calculus BC: Gasoline Flow and Particle Movement",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply calculus concepts to model real-world scenarios such as the flow of gasoline and the movement of a particle?",
+  "short_background_context": "In this mission, we will be exploring two real-world scenarios that can be modeled using calculus concepts. The first scenario involves a customer at a gas station pumping gasoline into a gas tank. The rate of flow of gasoline is modeled by a differentiable function. The second scenario involves a particle moving along a curve. The particle's position at time t is given by a function, and its acceleration and speed are also modeled using mathematical functions. We will be using concepts such as Riemann sums, derivatives, and integrals to solve problems related to these scenarios.",
+  "tasks": [
+    "Using the given data, approximate the value of the integral from 60 to 135 of the rate of flow function using a right Riemann sum.",
+    "Justify whether there must exist a value of c, for 60 < c < 120, such that the derivative of the rate of flow function at c is 0.",
+    "Using the given model for the rate of flow of gasoline, find the average rate of flow over the time interval 0 to 150. Show the setup for your calculations."
+  ],
+  "pre_thinking_prompts": [
+    "What does the integral of a rate function represent in a real-world context?",
+    "How can we use a Riemann sum to approximate the value of an integral?",
+    "What does it mean for the derivative of a function to be 0 at a certain point?"
+  ],
+  "reflection_prompt": "Reflect on how you used calculus concepts to model and solve problems related to real-world scenarios. What did you find challenging and how did you overcome those challenges?",
+  "ai_tutor_prompts": [
+    "Remember, a Riemann sum provides an approximation of the area under a curve. How can this concept be applied to the given problem?",
+    "Consider the Mean Value Theorem in justifying whether a certain value of c exists.",
+    "In finding the average rate of flow, consider how the integral of a function over an interval can be used."
+  ],
+  "remix_zone": "Instead of a gas station scenario, consider a scenario where a water pump is filling a tank at varying rates. How would the calculations change?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

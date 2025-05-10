@@ -1,0 +1,34 @@
+{
+  "title": "AP Statistics: Hypothesis Testing and Inference",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use hypothesis testing to make inferences about population proportions?",
+  "short_background_context": "Hypothesis testing is a fundamental concept in statistics that allows us to make inferences about population parameters based on sample data. In this mission, we will focus on the application of a two-sample z-test for a difference of population proportions. This type of test allows us to compare the proportions of two different groups within a population. We'll use an example from an AP Statistics scoring guideline that involves the interest in online fitness classes among different age groups of an exercise center. This mission will help you understand how to formulate null and alternative hypotheses, identify the appropriate hypothesis test, verify the conditions for the test, and draw conclusions based on the test results.",
+  "tasks": [
+    "Task 1: Formulate the null and alternative hypotheses for the given scenario.",
+    "Task 2: Identify the appropriate hypothesis test and verify the conditions for the test.",
+    "Task 3: Calculate the value of the test statistic and the corresponding p-value, and draw a conclusion based on the test results."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by null and alternative hypotheses?",
+    "How do you determine the appropriate hypothesis test for a given scenario?",
+    "What factors do you need to consider when verifying the conditions for a hypothesis test?",
+    "How do you interpret the p-value in the context of the given scenario?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of hypothesis testing. What did you find most challenging about this mission? How can you apply what you've learned to real-world scenarios?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular hypothesis test?",
+    "What assumptions are you making when you verify the conditions for the hypothesis test?",
+    "How does the p-value help you decide whether to reject or fail to reject the null hypothesis?"
+  ],
+  "remix_zone": "Students can remix this problem by changing the scenario, such as comparing the proportions of students who prefer online learning versus traditional classroom learning in different grade levels.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

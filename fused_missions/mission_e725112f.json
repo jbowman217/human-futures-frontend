@@ -1,0 +1,36 @@
+{
+  "title": "Exploring Algebra II: A Regents High School Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can you apply algebraic concepts and statistical methods to solve real-world problems and make informed decisions?",
+  "short_background_context": "You are about to embark on a mission that simulates the Algebra II Regents High School Examination. This examination is designed to test your understanding and application of algebraic concepts, geometric principles, statistical methods, and ethical considerations. You will be presented with a variety of questions that require you to use a graphing calculator, a straightedge, and your critical thinking skills. You will be asked to solve problems, interpret data, and make decisions based on the information provided. Remember, diagrams are not necessarily drawn to scale and you will need to clearly indicate the necessary steps, including appropriate formula substitutions, diagrams, graphs, charts, etc. to determine your answers.",
+  "tasks": [
+    {
+      "task_1": "Determine the exact value of sin(38\u03c0).",
+      "task_2": "Analyze a teacher's method of data collection and identify whether it is an experiment, a simulation, an unbiased survey, or an observational study.",
+      "task_3": "Given the functions f(x) = 2x + 25 and g(x) = x3, find the solutions to f(x) = g(x)."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the sine function and its properties?",
+    "What are the differences between an experiment, a simulation, an unbiased survey, and an observational study?",
+    "How do you solve equations involving functions?"
+  ],
+  "reflection_prompt": "What strategies did you find most effective in solving these problems? How did your understanding of algebraic concepts, geometric principles, statistical methods, and ethical considerations help you in this mission?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that answer?",
+    "Have you considered all possible solutions?",
+    "What other methods could you use to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own algebraic or statistical problems and challenging their peers to solve them. They could also design their own experiments or observational studies and analyze the data collected.",
+  "display": {
+    "graph_builder": "Required for visualizing and solving functions",
+    "text_area": "Required for explaining reasoning and solutions"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Understanding New York State Mathematics Tests",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and understand the structure and expectations of the New York State Mathematics Tests?",
+  "short_background_context": "Every year, the New York State Education Department administers Mathematics Tests for students in grades 3-8. These tests are designed to assess students' understanding of mathematical procedures, concepts, and applications. The test questions are often framed within real-world contexts and require students to complete multiple steps. The tests include multiple-choice questions, one-credit constructed-response questions, two-credit constructed-response questions, and three-credit constructed-response questions. Each type of question assesses different aspects of students' mathematical understanding and skills. Understanding the structure and expectations of these tests can help students prepare for them more effectively.",
+  "tasks": [
+    "Analyze a sample multiple-choice question from the New York State Mathematics Test. Identify what mathematical procedures and concepts it assesses.",
+    "Analyze a sample one-credit constructed-response question from the test. Explain what skills it requires and how it is scored.",
+    "Analyze a sample two-credit or three-credit constructed-response question from the test. Explain how it requires the application of multiple mathematical skills and real-world applications."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the New York State Mathematics Tests?",
+    "What types of questions do you expect to see on these tests?",
+    "What skills do you think these tests are designed to assess?"
+  ],
+  "reflection_prompt": "How has your understanding of the New York State Mathematics Tests changed after analyzing the sample questions? What strategies will you use to prepare for these types of questions?",
+  "ai_tutor_prompts": [
+    "What makes you think that the question is assessing those particular mathematical concepts?",
+    "Can you explain why you think the question requires those specific skills?",
+    "How might understanding the structure and expectations of the test questions help you prepare for the test?"
+  ],
+  "remix_zone": "Create your own multiple-choice or constructed-response question that could potentially appear on the New York State Mathematics Test. Make sure your question assesses specific mathematical procedures and concepts.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

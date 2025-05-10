@@ -1,0 +1,29 @@
+{
+  "title": "Understanding Mathematics Through Real-World Applications",
+  "grade_band": "9-10",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can we apply algebraic concepts and procedures to solve real-world problems?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These tests are designed to measure students' understanding of mathematical procedures, concepts, and applications. The questions are often framed within the context of real-world applications and require students to complete multiple steps, drawing on the simultaneous application of multiple skills and concepts. This mission is designed to help you understand and apply these standards in a practical context.",
+  "tasks": [
+    "Analyze a real-world problem and identify the algebraic concepts and procedures that can be used to solve it.",
+    "Formulate an algebraic equation or set of equations to represent the problem.",
+    "Solve the equation(s) and interpret the results in the context of the problem."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic concepts do you think are most commonly used in real-world situations?",
+    "Can you think of a real-world problem that could be solved using algebra?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of algebra has deepened through this real-world application. What challenges did you encounter and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular algebraic concept or procedure to solve the problem?",
+    "What other algebraic concepts or procedures could you have used to solve the problem and why?",
+    "How does your solution relate to the real-world context of the problem?"
+  ],
+  "remix_zone": "Consider a different real-world problem that could be solved using the same algebraic concept or procedure. How would you approach solving this new problem?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Code Word Checker: Algebraic and Economic Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use algebraic concepts and economic principles to implement a code word checker?",
+  "short_background_context": "In computer science, a code word checker is a program that checks whether a given string meets a set of criteria. This involves understanding and implementing algebraic concepts and logical operations. In the real world, this can be compared to the economic principles of supply and demand where certain conditions need to be met for a transaction to occur. In this mission, you will be tasked to understand the concept of a code word checker and relate it to economic principles.",
+  "tasks": [
+    "Task 1: Understand the concept of a code word checker and its components such as the header, private instance variables, constructors, and the isValid method.",
+    "Task 2: Implement a code word checker using algebraic concepts and logical operations.",
+    "Task 3: Relate the concept of a code word checker to economic principles of supply and demand. Discuss how the conditions in a code word checker can be compared to the conditions for a transaction in economics."
+  ],
+  "pre_thinking_prompts": [
+    "What is a code word checker and how does it work?",
+    "How can algebraic concepts and logical operations be applied in implementing a code word checker?",
+    "How can the concept of a code word checker be related to economic principles?"
+  ],
+  "reflection_prompt": "Reflect on how you were able to use algebraic concepts and economic principles in understanding and implementing a code word checker. What challenges did you encounter and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain how the conditions in a code word checker are similar to the conditions for a transaction in economics?",
+    "How did you decide on the conditions for your code word checker?",
+    "What would happen if the conditions in your code word checker were not met?"
+  ],
+  "remix_zone": "Consider how you could modify the code word checker to check for different conditions. How might these changes affect the output of the code word checker?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

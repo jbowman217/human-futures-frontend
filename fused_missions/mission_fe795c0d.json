@@ -1,0 +1,33 @@
+{
+  "title": "Regents Geometry Examination: Understanding and Application",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand and apply the principles of Geometry to solve real-world problems?",
+  "short_background_context": "The New York State Education Department conducts the Regents Examination in Geometry, a high-stakes test that assesses students' understanding and application of geometric concepts. This examination is scored using a systematic, consistent method, with each student's work evaluated by a minimum of three mathematics teachers. The scoring process considers not just the final answer, but also the student's approach and reasoning. This mission will simulate the experience of taking part of this examination, focusing on the constructed-response questions that require deeper mathematical thinking.",
+  "tasks": [
+    "Analyze and solve a set of constructed-response questions from a past Regents Examination in Geometry.",
+    "Collaborate with peers to evaluate and score each other's work, using the Regents' scoring guidelines.",
+    "Reflect on the scoring process and identify strategies for improving performance on future Geometry exams."
+  ],
+  "pre_thinking_prompts": [
+    "What strategies do you usually use to solve Geometry problems?",
+    "How do you check the accuracy of your solutions?",
+    "What challenges do you anticipate in scoring your peers' work?"
+  ],
+  "reflection_prompt": "What did you learn about your problem-solving process during this mission? How can you apply this learning to improve your performance on future Geometry exams?",
+  "ai_tutor_prompts": [
+    "Can you explain your reasoning for this step?",
+    "What other strategies could you have used to solve this problem?",
+    "How does this problem connect to real-world situations?"
+  ],
+  "remix_zone": "Students could extend this mission by creating their own Geometry problems, complete with scoring guidelines, for their peers to solve and evaluate.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

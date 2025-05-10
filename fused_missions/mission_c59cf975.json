@@ -1,0 +1,35 @@
+{
+  "title": "Grading System in Programming: A Critical Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we create a fair and effective grading system for programming assignments that encourages creativity and originality?",
+  "short_background_context": "In programming, one problem can usually be solved using different logics and constructs but still producing the same output. Sometimes students get marked down inappropriately if their solutions do not follow the answer scheme. In addition, lab exercises and programming assignments are not necessary graded by the instructors but most of the time by the teaching assistants or lab demonstrators. This results in grading inconsistencies in terms of the marks awarded when the same solution is being graded by different person. To address this issue, a set of assessment rubric is necessary in order to provide flexibility for critical and creative solutions among students as well as to improve grading consistencies among instructors and teaching assistants or demonstrators.",
+  "tasks": [
+    "Analyze the current grading system in programming and identify its strengths and weaknesses.",
+    "Design a new grading rubric that encourages creativity and originality in programming solutions.",
+    "Implement the new grading rubric in a mock classroom setting and evaluate its effectiveness."
+  ],
+  "pre_thinking_prompts": [
+    "What are the key components of a grading system in programming?",
+    "Why is it important to encourage creativity and originality in programming solutions?",
+    "How can a grading system be fair and consistent across different instructors and teaching assistants?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating a new grading rubric. What challenges did you face and how did you overcome them? How effective do you think the new grading system is?",
+  "ai_tutor_prompts": [
+    "What factors did you consider when designing the new grading rubric?",
+    "How does your grading system deal with different programming constructs that produce the same output?",
+    "How does your grading system ensure consistency across different graders?"
+  ],
+  "remix_zone": "Students could remix the problem by applying the new grading system to a different subject area or creating a digital tool that automates the grading process based on the new rubric.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

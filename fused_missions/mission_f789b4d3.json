@@ -1,0 +1,32 @@
+{
+  "title": "Stadium Attendance: An Investigative Task",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How does a stadium change impact per-game attendance?",
+  "short_background_context": "In this mission, you will investigate how a change in stadiums affects the average per-game attendance of a sports team. You will be provided with data on the average per-game attendance during years in the old stadium and the new stadium. You will use statistical tools such as boxplots, measures of center (e.g., median, mean), and measures of variability (e.g., range, IQR) to analyze and compare the data. The goal is to determine if the team tended to have a higher average per-game attendance during years in the new stadium than during years in the old stadium.",
+  "tasks": [
+    "Task 1: Create boxplots for the average per-game attendance during years in the old stadium and the new stadium.",
+    "Task 2: Analyze the boxplots to determine the median average per-game attendance in both stadiums and compare them.",
+    "Task 3: Determine and compare the variability in average per-game attendance during the years in the two stadiums."
+  ],
+  "pre_thinking_prompts": [
+    "What do you expect to see in the boxplots for the two stadiums?",
+    "How do you think the change in stadiums will affect the average per-game attendance?",
+    "What factors could contribute to a change in per-game attendance?"
+  ],
+  "reflection_prompt": "Reflect on your findings. Were your initial predictions correct? What did you learn about the impact of a stadium change on per-game attendance?",
+  "ai_tutor_prompts": [
+    "What does the median tell you about the data?",
+    "How does the variability in attendance compare between the two stadiums?",
+    "What other factors might influence attendance that are not captured in this data?"
+  ],
+  "remix_zone": "Consider other factors such as team performance, ticket prices, or local population changes. How might you incorporate these into your analysis?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

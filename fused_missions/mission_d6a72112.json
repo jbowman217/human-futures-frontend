@@ -1,0 +1,34 @@
+{
+  "title": "Space Weather: Math and Science in Space Exploration",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply concepts from economics, geometry, statistics, ethics, and algebra to understand and solve problems related to space weather and satellite design?",
+  "short_background_context": "This mission is based on a series of space science problems that were distributed to thousands of teachers during the 2005-2006 school year. These problems were designed to provide insight into the Sun-Earth system, specifically 'Space Weather', and the challenges that come up in designing satellites to work in space. This mission will take you on a journey through the cosmos where you'll apply your knowledge of economics, geometry, statistics, ethics, and algebra to solve real-world problems related to space exploration.",
+  "tasks": [
+    "Analyze the economics of satellite design and maintenance, considering the costs and benefits of different design choices.",
+    "Use geometry and algebra to calculate the optimal path for a satellite to cover the maximum area of Earth's surface.",
+    "Apply statistical methods to predict the impact of solar storms on satellite functionality."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about space weather and its impact on satellites?",
+    "How might economics play a role in space exploration and satellite design?",
+    "What geometric and algebraic concepts might be useful in satellite path design?"
+  ],
+  "reflection_prompt": "Reflect on how you applied concepts from different subjects to understand and solve problems related to space weather and satellite design. What did you learn? What was challenging? What would you like to explore further?",
+  "ai_tutor_prompts": [
+    "Can you explain the rationale behind your design choices?",
+    "What assumptions did you make in your calculations? How might changing these assumptions affect your results?",
+    "How did you ensure your statistical model accurately represents the impact of solar storms on satellites?"
+  ],
+  "remix_zone": "Consider how these problems might change if we were designing a satellite for Mars instead of Earth. How would the different environmental conditions affect your calculations and design choices?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

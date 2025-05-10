@@ -1,0 +1,32 @@
+{
+  "title": "Algebra II Regents High School Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic, statistical, and geometric concepts to solve real-world problems?",
+  "short_background_context": "This mission is based on the Algebra II Regents High School Examination from the University of the State of New York. The examination is designed to test students' understanding and application of algebraic, statistical, and geometric concepts. The exam is divided into four parts, with a total of 37 questions. The students are expected to utilize the information provided for each question to determine their answer, and demonstrate their working process, including appropriate formula substitutions, diagrams, graphs, charts, etc.",
+  "tasks": [
+    "Task 1: Solve the expression xy8186 4 and explain your steps.",
+    "Task 2: Analyze Chet's financial situation based on the given functions of his bank account and debt. Determine his net worth after n months.",
+    "Task 3: Complete Emmeline's polynomial identity proof used to form Pythagorean triples. Explain each step."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic, statistical, or geometric concepts do you think will be important for these tasks?",
+    "What strategies might be useful for solving these problems?",
+    "What information is given in the problems, and how can you use it?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did your understanding of algebra, statistics, and geometry deepen? What strategies worked well, and what challenges did you face?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach?",
+    "What other methods could you have used?",
+    "How does this concept apply to real-world situations?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own algebraic expressions, financial scenarios, or polynomial proofs. They could also design new problems that incorporate the concepts of algebra, statistics, and geometry.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

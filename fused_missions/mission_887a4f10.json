@@ -1,0 +1,35 @@
+{
+  "title": "Next Generation Mathematics Learning Standards: Real-world Applications",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply the New York State Next Generation Mathematics Learning Standards to real-world problems in various disciplines?",
+  "short_background_context": "In 2015, New York State began a process of review and revision of its current mathematics standards. The resulting New York State Next Generation Mathematics Learning Standards (2017) were developed with the collaboration of educators, parents, curriculum specialists, school administrators, college professors, and cognitive research experts. These standards are designed to equip students with the mathematical concepts necessary to function in a world heavily dependent on the application of mathematics. The standards are rigorous, balanced, and represent a significant level of achievement in mathematics that will enable students to transition successfully to post-secondary education and the workforce.",
+  "tasks": [
+    "Analyze the impact of climate change on the economy using statistical methods.",
+    "Apply geometric principles to design a health-conscious city layout.",
+    "Use algebraic expressions to model ethical dilemmas in history."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think are most relevant to each of these real-world problems?",
+    "How might you approach each task using the mathematical standards?"
+  ],
+  "reflection_prompt": "Reflect on how applying these mathematical standards to real-world problems enhanced your understanding of both the standards and the problems.",
+  "ai_tutor_prompts": [
+    "Can you explain how you used the mathematical standards to approach the problem?",
+    "What challenges did you encounter and how did you overcome them using the standards?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing different real-world problems related to the subjects listed to apply the mathematical standards to.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

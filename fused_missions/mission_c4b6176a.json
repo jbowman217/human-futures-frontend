@@ -1,0 +1,40 @@
+{
+  "title": "AP Computer Science A: MultPractice Class",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can you create a class in Java that generates multiplication practice problems?",
+  "background_context": "In the AP Computer Science A exam, students are often asked to define and implement classes to solve specific problems. One such example is the MultPractice class, which is intended to generate multiplication practice problems. This task involves declaring a class, defining private instance variables, creating a constructor, and implementing methods that return and update the values of these variables. This mission will guide you through the process of creating such a class, helping you understand the key concepts involved and how they are applied in practice.",
+  "tasks": [
+    {
+      "task": "Declare the MultPractice class and all necessary private instance variables."
+    },
+    {
+      "task": "Define a constructor for the MultPractice class that initializes all instance variables using parameters."
+    },
+    {
+      "task": "Implement the getProblem and nextProblem methods."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is the purpose of the MultPractice class?",
+    "What instance variables will you need to declare?",
+    "What should the constructor do?",
+    "What should the getProblem and nextProblem methods do?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating the MultPractice class. What challenges did you encounter and how did you overcome them? What did you learn about class creation in Java?",
+  "ai_tutor_prompts": [
+    "Why did you choose these specific instance variables?",
+    "How does your constructor initialize the instance variables?",
+    "Can you explain how your getProblem method works?",
+    "What does your nextProblem method do and why is it necessary?"
+  ],
+  "remix_zone": "Think about how you could modify the MultPractice class to generate practice problems for other mathematical operations (e.g., addition, subtraction, division).",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Economic and Social Impact of Incarceration",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "What is the true cost of incarceration in the United States and how does it affect different groups in society?",
+  "short_background_context": "The United States has seen an unprecedented scale of incarceration over the past forty years, becoming the world leader in this aspect. While the $80 billion spent annually on corrections is frequently cited as the cost of incarceration, this figure considerably underestimates the true cost by ignoring important social costs. These include costs to incarcerated persons, families, children, and communities. This study estimates the annual economic burden of incarceration in the United States, assigning monetary values to twenty-three different costs, yielding an aggregate burden of one trillion dollars. This approaches 6% of gross domestic product and dwarfs the amount spent on corrections. More than half of the costs are borne by families, children, and community members who have committed no crime.",
+  "tasks": [
+    "Analyze the study and identify the twenty-three different costs considered in the calculation of the economic burden of incarceration.",
+    "Using the data provided, create a pie chart to illustrate the distribution of these costs among different groups in society.",
+    "Research and propose alternative methods of punishment or rehabilitation that could potentially reduce these costs."
+  ],
+  "pre_thinking_prompts": [
+    "What are some potential social costs of incarceration?",
+    "Who do you think bears the most burden of these costs and why?",
+    "What alternatives to incarceration can you think of?"
+  ],
+  "reflection_prompt": "Reflect on the information you have learned about the cost of incarceration. How has your understanding of the issue changed? What are the implications of this issue on society and economy?",
+  "ai_tutor_prompts": [
+    "Can you think of any other social costs that might not have been considered in this study?",
+    "Why do you think these costs are often overlooked in discussions about the cost of incarceration?",
+    "What factors might influence the effectiveness of the alternative methods you proposed?"
+  ],
+  "remix_zone": "Students could remix this problem by researching and comparing the cost of incarceration in different countries. They could also investigate the relationship between the cost of incarceration and crime rates.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

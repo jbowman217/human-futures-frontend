@@ -1,0 +1,33 @@
+{
+  "title": "Understanding the Regents Examination in Algebra I",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use the scoring guidelines of the Regents Examination in Algebra I to evaluate and improve our mathematical abilities?",
+  "short_background_context": "The Regents Examination in Algebra I is a standardized test administered by the New York State Education Department. The exam covers a variety of mathematical topics, including algebra, statistics, economics, and geometry. The scoring process for the exam is rigorous and involves multiple teachers to ensure fairness and accuracy. The Department provides a 'Model Response Set' as a part of the scorer training, which illustrates how less common student responses may be scored. The rubric for the exam is designed to provide a systematic and consistent method for awarding credit.",
+  "tasks": [
+    "Analyze the 'Model Response Set' provided by the Department and identify the key elements that contribute to a high-scoring response.",
+    "Create a series of potential responses to constructed-response questions, then use the scoring guidelines to evaluate and rate your answers.",
+    "Develop a scoring rubric for a new constructed-response question based on the principles and guidelines provided by the Department."
+  ],
+  "pre_thinking_prompts": [
+    "What do you think are the key elements of a high-scoring response?",
+    "How might the scoring guidelines influence the way you approach answering the questions?",
+    "What factors do you think are considered in the development of a scoring rubric?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the scoring process might influence your approach to taking the exam. How has this activity changed your perspective on standardized testing?",
+  "ai_tutor_prompts": [
+    "What makes a response high-scoring according to the 'Model Response Set'?",
+    "Can you explain why your response received the score it did?",
+    "What considerations did you make when developing your scoring rubric?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own constructed-response questions and exchanging them with classmates for scoring, or by researching scoring guidelines for other standardized tests and comparing them to the Regents Examination.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

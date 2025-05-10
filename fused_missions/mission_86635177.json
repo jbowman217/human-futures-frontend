@@ -1,0 +1,36 @@
+{
+  "title": "Data Science in Daily Life",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How does data science permeate many aspects of our daily lives and how can we thoughtfully engage with it?",
+  "short_background_context": "Data science is an interdisciplinary field that is transforming academic disciplines and professional life. It has spawned training programs and new types of jobs. Whether we are fully aware of it or not, data and data science permeate many aspects of our daily lives. The ability to work with, understand, and use data has already become an essential life skill and a requirement for an ever-expanding range of jobs and careers. It is becoming imperative that both the current and next generation of educators be aware of these changes and prepared for teaching students to thoughtfully engage with data.",
+  "tasks": [
+    "Recognize and respond to common challenges students have when reasoning with data",
+    "Articulate some major topics that would be addressed in relation to Data or Data Science in secondary education",
+    "Design data-intensive lessons and instruction for a target learner population"
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the term 'data science'?",
+    "Can you think of any ways data science might be used in your daily life?",
+    "What challenges do you think you might face when reasoning with data?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of data science has evolved through this mission. How do you see its application in your daily life and future career?",
+  "ai_tutor_prompts": [
+    "Can you think of any other ways data science might be applied in your daily life?",
+    "What strategies can you use to overcome the challenges you identified when reasoning with data?",
+    "How might you modify the data-intensive lesson you designed to cater to different learner populations?"
+  ],
+  "remix_zone": "Students could remix the problem by considering different types of data or different applications of data science in their daily lives.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

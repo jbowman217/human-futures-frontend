@@ -1,0 +1,32 @@
+{
+  "title": "AP Precalculus Sample Student Responses and Scoring Commentary",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic methods and rules for exponents and logarithms to solve real-world problems?",
+  "short_background_context": "This mission is based on the AP Precalculus 2024 Scoring Commentary. It focuses on symbolic manipulations, particularly the use of algebraic methods and rules for exponents and logarithms. The mission involves solving equations and rewriting expressions. Students will work with functions and their domains, and apply their knowledge of trigonometric functions, logarithms, and exponents. The tasks will require students to show their work and explain their reasoning.",
+  "tasks": [
+    "Solve the equation ( ) 10gx= for values of x in the domain of g, where ( )( )3xgx e+= .",
+    "Solve the equation ( )4hx\u03c0= for values of x in the domain of h, where ( )() arcsin2xhx= .",
+    "Rewrite the function ( )( ) ( )52 10 10 10log 8 log 2 9log jx x x x=+\u2212 as a single logarithm base 10 without negative exponents in any part of the expression."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the properties of logarithms and exponents that could help you solve these problems?",
+    "What does it mean for a value to be in the domain of a function?",
+    "How can you use your knowledge of trigonometric functions to solve these problems?"
+  ],
+  "reflection_prompt": "What strategies did you use to solve these problems? How did your understanding of algebraic methods and rules for exponents and logarithms help you?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach?",
+    "What other methods could you have used to solve this problem?",
+    "How does this problem connect to what you've learned about logarithms and exponents?"
+  ],
+  "remix_zone": "Try to create your own problems that involve solving equations and rewriting expressions using algebraic methods and rules for exponents and logarithms.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

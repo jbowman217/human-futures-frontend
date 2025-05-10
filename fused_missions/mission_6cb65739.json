@@ -1,0 +1,33 @@
+{
+  "title": "Geometry Regents Examination Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and interpret the Geometry Regents Examination scoring process to understand its implications on student performance and learning?",
+  "short_background_context": "The University of the State of New York administers the Regents High School Examination in Geometry. The scoring process for this examination is meticulous, involving a minimum of three mathematics teachers per student's answer paper. Each student's total raw score is converted to a scale score using a conversion chart, which changes from one administration to another. The scoring rubrics for the constructed-response questions are designed to provide a systematic, consistent method for awarding credit. This mission will delve into understanding this scoring process and its implications on student performance and learning.",
+  "tasks": [
+    "Analyze the Geometry Regents Examination scoring process and summarize its key components.",
+    "Interpret the implications of the scoring process on student performance and learning.",
+    "Design a hypothetical student's answer paper for a constructed-response question and simulate the scoring process."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the Regents Examination in Geometry?",
+    "What are your initial thoughts about the scoring process?",
+    "How do you think this scoring process impacts student performance and learning?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the Geometry Regents Examination scoring process. How has your understanding evolved? What insights have you gained about its implications on student performance and learning?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on why the scoring process involves a minimum of three mathematics teachers?",
+    "What might be the reason for converting raw scores to scale scores?",
+    "How might the systematic and consistent method for awarding credit impact students' learning and performance?"
+  ],
+  "remix_zone": "Consider how you might improve the scoring process for the Geometry Regents Examination. What changes would you make and why?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

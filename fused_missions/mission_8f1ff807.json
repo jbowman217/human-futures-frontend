@@ -1,0 +1,33 @@
+{
+  "title": "Melting Ice Sculpture: A Mathematical Investigation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use mathematical models to predict real-world phenomena such as the melting of an ice sculpture?",
+  "short_background_context": "In this mission, we'll be examining a scenario involving an ice sculpture that melts in a way that can be modeled as a cone maintaining its conical shape as it decreases in size. The radius of the base of the cone is given by a twice-differentiable function r, where r(t) is measured in centimeters and t is measured in days. The rate of change of the radius over time is given, and we'll be using this data to answer a series of questions about the sculpture's melting process.",
+  "tasks": [
+    "Approximate r\u2032\u2032(8.5) using the average rate of change of r\u2032 over the interval 7 \u2264 t \u2264 10. Show the computations that lead to your answer, and indicate units of measure.",
+    "Determine if there is a time t, 0 \u2264 t \u2264 3, for which r\u2032(t) = -6. Justify your answer.",
+    "Create a mathematical model that predicts the radius of the ice sculpture at any given time."
+  ],
+  "pre_thinking_prompts": [
+    "What does the rate of change of the radius tell us about the sculpture?",
+    "What does it mean for a function to be twice-differentiable?",
+    "How might we use the given data to create a mathematical model?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating a mathematical model for this real-world scenario. What challenges did you encounter and how did you overcome them? What did you learn about the application of math in real-world situations?",
+  "ai_tutor_prompts": [
+    "What does the sign of the rate of change tell you about the sculpture's size?",
+    "Why is it important to justify your answer in task 2?",
+    "What assumptions did you make in creating your model, and how might these affect its accuracy?"
+  ],
+  "remix_zone": "Consider a different shape of ice sculpture, such as a sphere or a cube. How would the model change? What additional information might you need?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra I: Understanding the Scoring Process",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How is the scoring process for the Regents Examination in Algebra I conducted and how can it be improved?",
+  "short_background_context": "The New York State Education Department conducts the Regents Examination in Algebra I, which is a high-stakes test for high school students. The scoring process for this examination is complex and involves multiple mathematics teachers. Each student's answer paper is scored by a minimum of three teachers, with no one teacher scoring more than approximately one-third of the constructed-response questions on a student's paper. The scoring is systematic and consistent, with rubrics provided for each question. However, the process is not without its challenges and potential areas for improvement.",
+  "tasks": [
+    "Task 1: Analyze the current scoring process for the Regents Examination in Algebra I and identify its strengths and weaknesses.",
+    "Task 2: Propose a new scoring process that addresses the identified weaknesses while maintaining the strengths of the current process.",
+    "Task 3: Develop a scoring rubric for a sample constructed-response question in Algebra I, incorporating the improvements proposed in Task 2."
+  ],
+  "pre_thinking_prompts": [
+    "What are the key components of the current scoring process?",
+    "What are some potential issues with the current process?",
+    "How might the scoring process be improved?"
+  ],
+  "reflection_prompt": "Reflect on the process of analyzing and improving the scoring process. What did you learn about the complexities of scoring high-stakes tests?",
+  "ai_tutor_prompts": [
+    "Can you think of any potential unintended consequences of your proposed changes?",
+    "How might your proposed changes impact different types of students?",
+    "What are some potential obstacles to implementing your proposed changes?"
+  ],
+  "remix_zone": "Students could remix this problem by proposing changes to the scoring process for a different subject's Regents Examination, or for a similar high-stakes test in another state or country.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "AP Computer Science A: 2D Arrays",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use 2D arrays to solve complex problems in computer science?",
+  "short_background_context": "In this mission, we will be exploring the concept of 2D arrays in computer science, specifically in the context of the AP Computer Science A exam. Arrays are a fundamental data structure in computer science, used to store multiple values in a single variable. A 2D array is essentially an array of arrays, and can be visualized as a grid. This makes them particularly useful for tasks that involve multi-dimensional data or spatial relationships, such as creating a game board or representing a graph. In this mission, we will be focusing on two main tasks: determining the next location in a grid and summing the path through a grid.",
+  "tasks": [
+    {
+      "task": "Write a function that determines the next location in a grid based on the current location."
+    },
+    {
+      "task": "Write a function that calculates the sum of a path through a grid."
+    },
+    {
+      "task": "Apply the scoring guidelines to evaluate and improve your functions."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is a 2D array and how is it used in computer science?",
+    "How can we navigate through a 2D array?",
+    "What strategies can we use to sum the values in a path through a 2D array?"
+  ],
+  "reflection_prompt": "Reflect on the process of writing and improving your functions. What challenges did you face and how did you overcome them? What did you learn about working with 2D arrays?",
+  "ai_tutor_prompts": [
+    "Why did you choose this approach to navigate through the 2D array?",
+    "Can you explain your strategy for summing the values in the path?",
+    "How did the scoring guidelines help you improve your functions?"
+  ],
+  "remix_zone": "Consider how you might modify these functions to handle different scenarios. For example, what if the grid was not a square, but a rectangle? What if you needed to find the path with the highest sum, not just any path?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

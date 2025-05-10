@@ -1,0 +1,34 @@
+{
+  "title": "Understanding Gasoline Flow Rates",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Algebra"
+  ],
+  "driving_question": "How can mathematical models help us understand and predict real-world scenarios such as the flow rate of gasoline?",
+  "short_background_context": "A customer at a gas station is pumping gasoline into a gas tank. The rate of flow of gasoline is modeled by a differentiable function, where the flow rate is measured in gallons per second and time is measured in seconds since pumping began. The problem involves interpreting the meaning of a definite integral in the context of the problem and using a right Riemann sum to approximate the value of the integral. This scenario provides a practical application of calculus and algebra in understanding and predicting real-world situations.",
+  "tasks": [
+    "Interpret the meaning of the integral of the flow rate from time 60 seconds to 135 seconds in the context of the problem.",
+    "Use a right Riemann sum with the given subintervals to approximate the value of the integral.",
+    "Determine whether there must exist a value of time between 60 seconds and 120 seconds such that the derivative of the flow rate is zero, and justify your answer."
+  ],
+  "pre_thinking_prompts": [
+    "What does the integral of the flow rate represent in this context?",
+    "How can a right Riemann sum be used to approximate the value of the integral?",
+    "What does it mean for the derivative of the flow rate to be zero, and how can the Mean Value Theorem be used to determine whether such a time exists?"
+  ],
+  "reflection_prompt": "Reflect on how the mathematical concepts of integrals, Riemann sums, and the Mean Value Theorem can be applied to real-world scenarios. How did these concepts help you understand and solve the problem?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular approach to solve the problem?",
+    "What other mathematical concepts could be applied to this scenario?",
+    "How would the solution change if the flow rate or the time intervals were different?"
+  ],
+  "remix_zone": "Students could remix the problem by considering different flow rates or time intervals, or by introducing additional factors such as the capacity of the gas tank or the cost of gasoline.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

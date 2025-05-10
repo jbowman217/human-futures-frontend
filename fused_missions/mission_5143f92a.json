@@ -1,0 +1,36 @@
+{
+  "title": "Understanding Adverse Childhood Experiences (ACEs) and Their Impact on Health",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How do Adverse Childhood Experiences (ACEs) impact long-term health and what role can healthcare providers play in mitigating these effects?",
+  "short_background_context": "Adverse Childhood Experiences, or ACEs, refer to traumatic events during childhood that can have long-term impacts on an individual's health and well-being. The concept of ACEs comes from a landmark study conducted in 1998 by Kaiser Permanente and the US Centers for Disease Control and Prevention (CDC). The study found that ACEs are incredibly common and that the higher the ACE score, the greater the risk for acute and chronic diseases in both children and adults. ACEs and toxic stress are significant public health issues, and primary care physicians can play a major role in improving outcomes for patients by engaging in the screening and management of these areas.",
+  "tasks": [
+    "Research and summarize the key findings of the 1998 ACE Study and its implications for public health.",
+    "Design a hypothetical ACE screening program for a school or community, considering factors such as cultural competency, ethics, and potential challenges.",
+    "Analyze the role of trauma-informed care (TIC) in addressing ACEs and toxic stress. How can TIC principles be incorporated into a healthcare or educational setting?"
+  ],
+  "pre_thinking_prompts": [
+    "What are some potential long-term impacts of childhood trauma?",
+    "Why might it be important for healthcare providers to be aware of a patient's ACE score?",
+    "What challenges might arise in implementing a trauma-informed approach in a healthcare or educational setting?"
+  ],
+  "reflection_prompt": "Reflect on what you learned about the impact of ACEs on long-term health. How has this changed your understanding of public health and the role of healthcare providers?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on why ACEs are considered a significant public health issue?",
+    "What are some potential ethical considerations in implementing an ACE screening program?",
+    "How might a trauma-informed approach benefit individuals with high ACE scores?"
+  ],
+  "remix_zone": "Students could remix this problem by researching and proposing interventions to address ACEs in different settings, such as schools, community centers, or social service agencies.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Understanding New York State Mathematics Standards",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can the New York State P-12 Learning Standards for Mathematics be applied to solve real-world problems?",
+  "short_background_context": "In 2013, New York State began administering tests that assess student performance according to the new New York State P-12 Learning Standards in Mathematics. These standards require a balanced combination of procedure and conceptual understanding. The tests include multiple-choice questions, short-response questions, and extended-response questions. Multiple-choice questions assess standard algorithms and conceptual standards, often within the context of real-world applications. Short-response questions require students to complete tasks, apply multiple mathematics skills, and show their work. Extended-response questions ask students to complete two or more tasks or a more extensive problem, showing their understanding of mathematical procedures, conceptual understanding, and application.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the 2019 New York State Mathematics Test and identify the mathematical concepts being tested.",
+    "Create a short-response question that requires the application of multiple mathematical skills and show how you would solve it.",
+    "Develop an extended-response question that assesses understanding of mathematical procedures, conceptual understanding, and application. Provide a detailed solution for your question."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think are most frequently tested in the New York State Mathematics Test?",
+    "How would you approach creating a short-response question?",
+    "What elements would you include in an extended-response question?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating and solving your own mathematics questions. What did you learn about the New York State P-12 Learning Standards for Mathematics?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose the mathematical concepts you did for your questions?",
+    "What was your reasoning behind the steps you took to solve your short-response question?",
+    "How did you ensure your extended-response question assessed both mathematical procedures and conceptual understanding?"
+  ],
+  "remix_zone": "Students could remix this problem by swapping their created questions with a peer for solving, or by attempting to solve their questions using a different mathematical concept or procedure.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Exploring Racial Repair: A Journey Towards Justice",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use economic, statistical, and historical data to understand and contribute to the racial repair movement in the United States?",
+  "short_background_context": "The racial repair movement in the United States is a complex, multifaceted effort to address and rectify the long-lasting effects of racial injustice. It involves acknowledging past wrongdoings, taking accountability for present actions, and making amends for past and present harm. This mission will explore the concept of racial repair through various lenses, including economics, statistics, history, health, ethics, and algebra. We will examine real-world data, such as public perceptions of racial treatment and support for the Black Lives Matter movement, and consider the role of various actors in this process, from individuals to institutions to society as a whole.",
+  "tasks": [
+    "Analyze historical data on public perceptions of racial treatment and support for the Black Lives Matter movement. Identify trends and make predictions about future attitudes.",
+    "Design a hypothetical reparations program, considering factors such as economic resources, societal attitudes, and ethical considerations. Use algebraic equations to model the potential impact of this program.",
+    "Investigate the role of different actors (individuals, institutions, society) in the racial repair process. Create a geometric model representing these relationships and their influence on the overall movement."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the racial repair movement?",
+    "What factors do you think contribute to changes in public attitudes towards racial treatment?",
+    "What role do you think different actors (individuals, institutions, society) play in the racial repair process?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the racial repair movement. How has your understanding of this issue deepened? How can you apply this knowledge in your own life and community?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose those particular factors for your reparations program?",
+    "What assumptions are you making in your predictions about future attitudes?",
+    "How does your geometric model represent the relationships between different actors in the racial repair process?"
+  ],
+  "remix_zone": "Consider how this mission could be adapted for a different country or historical context. What factors would you need to consider? How might the tasks and outcomes change?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

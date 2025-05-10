@@ -1,0 +1,31 @@
+{
+  "title": "AP Computer Science Principles: Performance Task",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can you design a program that demonstrates effective use of data abstraction and management of complexity?",
+  "short_background_context": "In this mission, you will be tasked with creating a program for AP Computer Science Principles. This program should demonstrate the running of the program, including its input, functionality, and output. You will need to describe the overall purpose of the program, the functionality demonstrated in the video, and the input and output of the program. Additionally, your program should demonstrate effective use of data abstraction and management of complexity, as outlined in the AP Computer Science Principles 2021 Scoring Guidelines.",
+  "tasks": [
+    "Create a video demonstrating the running of your program, including its input, functionality, and output.",
+    "Write a response that describes the overall purpose of the program, what functionality is demonstrated in the video, and the input and output of the program.",
+    "Include in your written response two program code segments: one that shows how data has been stored in a list (or other collection type) and one that shows the data in this same list being used as part of fulfilling the program\u2019s purpose."
+  ],
+  "pre_thinking_prompts": [
+    "What is the overall purpose of your program?",
+    "How will your program demonstrate effective use of data abstraction and management of complexity?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating your program. What challenges did you encounter and how did you overcome them? How well do you think your program demonstrates effective use of data abstraction and management of complexity?",
+  "ai_tutor_prompts": [
+    "Can you explain how your program uses data abstraction?",
+    "How does your program manage complexity?",
+    "Can you explain how the data in your list is used to fulfill the program's purpose?"
+  ],
+  "remix_zone": "Consider how you could improve your program's functionality or make it more efficient. Could you use a different collection type? Could you manage complexity in a different way?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

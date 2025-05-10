@@ -1,0 +1,31 @@
+{
+  "title": "AP Computer Science A: Calendar Scoring",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can you use algebra and statistics to understand and implement the scoring guidelines for the AP Computer Science A exam's Calendar question?",
+  "short_background_context": "The AP Computer Science A exam is a rigorous assessment that tests students' understanding of key concepts in computer science. One of the questions on the 2019 exam involved calculating the number of leap years in a given range and determining the day of the week for a specific date. This mission will guide you through understanding and implementing the scoring guidelines for this question, which involve key concepts in algebra and statistics. You'll need to understand how to initialize and use variables, loop through ranges, call methods, and calculate values based on these methods.",
+  "tasks": [
+    "Task 1: Analyze the scoring guidelines for the numberOfLeapYears part of the question. Identify the key algebraic and statistical concepts involved.",
+    "Task 2: Implement a solution for the numberOfLeapYears part of the question, following the scoring guidelines. Test your solution with different year ranges.",
+    "Task 3: Analyze the scoring guidelines for the dayOfWeek part of the question. Identify the key algebraic and statistical concepts involved. Implement a solution for this part, following the scoring guidelines. Test your solution with different dates."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic and statistical concepts do you think are involved in this question?",
+    "How might these concepts be applied to implement a solution?"
+  ],
+  "reflection_prompt": "What did you learn about applying algebra and statistics to computer science problems? How did following the scoring guidelines help you understand the problem and implement a solution?",
+  "ai_tutor_prompts": [
+    "Can you explain why you initialized your variable in that way?",
+    "How did you determine the range to loop through?",
+    "Why did you choose to call that particular method?",
+    "How did you calculate the value for the day of the week?"
+  ],
+  "remix_zone": "Try implementing a solution for a different part of the AP Computer Science A exam, following the scoring guidelines. What other algebraic and statistical concepts do you need to use?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Geometry and Algebra in Real World Contexts",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply concepts from geometry and algebra to solve real-world problems and make informed decisions?",
+  "short_background_context": "The University of the State of New York provides a Regents Examination in Geometry, which is a high-stakes assessment that tests students' understanding of geometry concepts. The exam includes constructed-response questions, which require students to apply their knowledge in creative ways. The scoring of these questions is done by a minimum of three mathematics teachers, and the scores are then converted to a scale score. This mission is inspired by this exam and aims to help you apply your understanding of geometry and algebra in real-world contexts.",
+  "tasks": [
+    "Analyze a real-world situation and create a mathematical model using algebra and geometry concepts to solve it.",
+    "Interpret the results of your mathematical model in the context of the real-world situation.",
+    "Critique a peer's mathematical model, providing constructive feedback and suggesting improvements."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world situations where you might need to use geometry and algebra?",
+    "How can you represent these situations mathematically?",
+    "What might be some challenges in creating a mathematical model of a real-world situation?"
+  ],
+  "reflection_prompt": "Reflect on your learning process. What concepts did you find challenging and how did you overcome these challenges? How did this mission help you to apply geometry and algebra in real-world contexts?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this particular mathematical model?",
+    "How does your mathematical model reflect the real-world situation?",
+    "What assumptions did you make in creating your model and how might these affect your results?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different real-world situation to model, using different mathematical concepts, or presenting their model in a different format (e.g., a video or presentation).",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

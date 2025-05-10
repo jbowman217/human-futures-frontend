@@ -1,0 +1,33 @@
+{
+  "title": "Algebra II Regents High School Examination",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics",
+    "Geometry"
+  ],
+  "driving_question": "How can the principles of Algebra, Statistics, Geometry, and Ethics be applied to solve complex mathematical problems in a high-stakes examination setting?",
+  "short_background_context": "This mission is based on the Algebra II Regents High School Examination from The University of the State of New York. The examination is a comprehensive test that assesses students' understanding of various mathematical concepts, including Algebra, Statistics, Geometry, and the ethical use of calculators and other tools. The examination consists of multiple-choice and open-ended questions that require students to use their knowledge and skills to solve complex problems. Students are required to show their work and explain their reasoning, demonstrating their understanding of the mathematical concepts and their ability to apply them in various contexts.",
+  "tasks": [
+    "Task 1: Solve the multiple-choice questions, showing all necessary steps and reasoning.",
+    "Task 2: Solve the open-ended questions, providing detailed explanations and justifications for your answers.",
+    "Task 3: Reflect on the ethical implications of using calculators and other tools in the examination, discussing how they can be used responsibly and effectively to support learning and problem-solving."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think will be most important for this examination?",
+    "How do you plan to use your calculator and other tools effectively during the examination?",
+    "What strategies will you use to solve the complex problems in the examination?"
+  ],
+  "reflection_prompt": "Reflect on your performance in the examination. Which tasks were most challenging for you? What strategies were most effective? How did you use your calculator and other tools responsibly and effectively?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "How does this concept connect to the other mathematical concepts you have learned?",
+    "What would happen if you used a different method to solve the problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own multiple-choice and open-ended questions based on the mathematical concepts covered in the examination. They could also explore different ways to use calculators and other tools to solve complex problems.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

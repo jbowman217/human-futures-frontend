@@ -1,0 +1,33 @@
+{
+  "title": "Understanding the New York State Mathematics Test",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we better understand and analyze the New York State Mathematics Test and its expectations?",
+  "short_background_context": "Every year, the New York State Education Department administers Mathematics Tests for students in grades 3-8. A large portion of these tests are released for review, discussion, and use. The tests are designed to assess the New York State P\u201312 Next Generation Learning Standards for Mathematics, with questions often framed within the context of real-world applications or requiring multiple steps. The questions are linked to more than one standard, drawing on the simultaneous application of multiple skills and concepts. The tests include multiple-choice questions, as well as one, two, and three-credit constructed-response questions, requiring students to complete tasks and show their work.",
+  "tasks": [
+    "Analyze the structure of the New York State Mathematics Test and identify the different types of questions included.",
+    "Review a set of released questions from the 2023 test. Identify the skills and concepts each question is designed to assess.",
+    "Develop your own sample questions that reflect the style and expectations of the New York State Mathematics Test."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the New York State Mathematics Test?",
+    "What types of questions do you expect to see on the test?",
+    "What skills and concepts do you think the test will assess?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the New York State Mathematics Test. How has your understanding changed or deepened? What new insights have you gained?",
+  "ai_tutor_prompts": [
+    "What makes you think that this question is assessing these particular skills or concepts?",
+    "Can you explain why you chose to structure your sample question in this way?",
+    "How does this task relate to real-world applications?"
+  ],
+  "remix_zone": "Students could remix this problem by designing their own mock Mathematics Test, incorporating questions that assess a variety of skills and concepts.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

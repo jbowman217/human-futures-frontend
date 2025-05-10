@@ -1,0 +1,32 @@
+{
+  "title": "Understanding and Applying New York State Mathematics Test Questions",
+  "grade_band": "Grade 8",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply our understanding of Algebra, Statistics, and Geometry to solve real-world problems as presented in the New York State Mathematics Test?",
+  "short_background_context": "New York State administers Mathematics Tests annually, releasing a significant portion of the questions for review and use. These questions are designed to assess the New York State P\u201312 Learning Standards for Mathematics, incorporating both grade-level standards and the \u201cStandards for Mathematical Practices.\u201d The questions are often framed within the context of real-world applications and require students to apply multiple skills and concepts simultaneously. This mission will involve exploring and responding to these questions, focusing on the subjects of Algebra, Statistics, and Geometry.",
+  "tasks": [
+    "Analyze and solve multiple-choice questions from the released materials that cover Algebra, Statistics, and Geometry.",
+    "Respond to short-response questions, showing your work and explaining your process.",
+    "Attempt an extended-response question, demonstrating your understanding of mathematical procedures, conceptual understanding, and application."
+  ],
+  "pre_thinking_prompts": [
+    "What strategies do you usually use when solving mathematical problems?",
+    "How do you approach multi-step problems?",
+    "What real-world applications of these mathematical concepts can you think of?"
+  ],
+  "reflection_prompt": "Reflect on your performance on these tasks. What concepts were you strong in? Where did you struggle? How did your strategies help you in solving the problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "What other strategies could you have used here?",
+    "How does this concept apply to a real-world situation?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own multiple-choice, short-response, or extended-response questions based on the concepts learned. They could also try to relate the problems to their own real-world experiences or interests.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

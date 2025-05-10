@@ -1,0 +1,33 @@
+{
+  "title": "Regents High School Examination: Algebra I",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply algebraic concepts and principles to solve real-world problems?",
+  "short_background_context": "You are about to embark on a mission that will test your knowledge and understanding of Algebra I. This mission is based on the Regents High School Examination in Algebra I from the University of the State of New York. The examination consists of multiple parts, with a total of 37 questions. You will be required to answer all questions, demonstrating your ability to make appropriate formula substitutions, create diagrams, graphs, charts, and more. Remember, the diagrams are not necessarily drawn to scale. You will also have to utilize the information provided for each question to determine your answer.",
+  "tasks": [
+    "Task 1: Simplify the algebraic expression 2 x(x /H11002 4) /H11002 3(x /H11001 5) and write it in its simplest form.",
+    "Task 2: Determine the value of 'w' if the point (3, w) is on the graph of y /H11005 2x /H11001 7.",
+    "Task 3: Write the expression 2 x3 /H11001 3x /H11001 4x2 /H11001 1 in standard form and compare your answer with the responses of four students to determine which one is correct."
+  ],
+  "pre_thinking_prompts": [
+    "What steps will you take to simplify the given algebraic expression?",
+    "How will you determine the value of 'w'?",
+    "What is the standard form of an algebraic expression and how can you write the given expression in standard form?"
+  ],
+  "reflection_prompt": "Reflect on the tasks you completed. Which task did you find most challenging and why? What strategies did you use to overcome the challenges?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose those steps to simplify the expression?",
+    "What does the equation y /H11005 2x /H11001 7 tell you about the relationship between 'x' and 'y'?",
+    "Why is it important to write an algebraic expression in standard form?"
+  ],
+  "remix_zone": "Students can remix this problem by creating their own algebraic expressions to simplify or by designing their own algebraic equations to solve for a specific variable.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

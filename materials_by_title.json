@@ -1,0 +1,47 @@
+{
+  "Access to Healthcare: A Multidisciplinary Approach": [
+    { "type": "image", "link": "/materials/access-to-healthcare-task1-1.png", "description": "Population vs. time-to-care trends" },
+    { "type": "image", "link": "/materials/access-to-healthcare-task2-1.png", "description": "Mobile health unit cost-benefit and ethical analysis" },
+    { "type": "image", "link": "/materials/access-to-healthcare-task3-1.png", "description": "Optimized healthcare layout using geometry" }
+  ],
+  "Probability and Sampling Distributions": [
+    { "type": "image", "link": "/materials/probability-task1-1.png", "description": "Geode discovery distribution" },
+    { "type": "image", "link": "/materials/probability-task2-1.png", "description": "Probability explorer: no red in 3 geodes" },
+    { "type": "image", "link": "/materials/probability-task3-1.png", "description": "Red on 4th geode: conditional probability" }
+  ],
+  "Understanding Black Holes: A Mathematical Approach": [
+    { "type": "image", "link": "/materials/blackhole-task1-1.png", "description": "Mass-radius curve" },
+    { "type": "image", "link": "/materials/blackhole-task2-1.png", "description": "Event horizon cross-section" },
+    { "type": "image", "link": "/materials/blackhole-task3-1.png", "description": "Time dilation vs. distance visualization" }
+  ],
+  "Green New Deal for Public Housing Act: Economic and Environmental Analysis": [
+    { "type": "image", "link": "/materials/greenhousing-task1-1.png", "description": "Public housing statistics" },
+    { "type": "image", "link": "/materials/greenhousing-task2-1.png", "description": "Environmental savings from retrofitting" },
+    { "type": "image", "link": "/materials/greenhousing-task3-1.png", "description": "Social justice outcomes from upgrades" }
+  ],
+  "Spinning Toy Design": [
+    { "type": "image", "link": "/materials/spintoy-task1-1.png", "description": "Area under curve calculation" },
+    { "type": "image", "link": "/materials/spintoy-task2-1.png", "description": "Maximizing area with c parameter" },
+    { "type": "image", "link": "/materials/spintoy-task3-1.png", "description": "Toy shape and stability analysis" }
+  ],
+  "Exploring AP Calculus Concepts in Real-World Scenarios": [
+    { "type": "image", "link": "/materials/calculus-task1-1.png", "description": "Function curves for real-world scenario" },
+    { "type": "image", "link": "/materials/calculus-task2-1.png", "description": "Step-by-step integral calculation" },
+    { "type": "image", "link": "/materials/calculus-task3-1.png", "description": "Final area result visualization" }
+  ],
+  "Safe Internet: Ethics and Edtech": [
+    { "type": "image", "link": "/materials/safe-internet-task1-1.png", "description": "App safety dashboard" },
+    { "type": "image", "link": "/materials/safe-internet-task2-1.png", "description": "Safety model visualization and risks" },
+    { "type": "image", "link": "/materials/safe-internet-task3-1.png", "description": "Geometric ethical design protection model" }
+  ],
+  "Understanding Mass Incarceration: A Multidisciplinary Approach": [
+    { "type": "image", "link": "/materials/massincar-task1-1.png", "description": "Demographic disparities in incarceration" },
+    { "type": "image", "link": "/materials/massincar-task2-1.png", "description": "Economic costs of mass incarceration" },
+    { "type": "image", "link": "/materials/massincar-task3-1.png", "description": "Policy comparisons and alternatives" }
+  ],
+  "Impact of Climate Change on Economy and Health": [
+    { "type": "image", "link": "/materials/climate-task1-1.png", "description": "Population vs. wait time chart" },
+    { "type": "image", "link": "/materials/climate-task2-1.png", "description": "Regional resource allocation & impact" },
+    { "type": "image", "link": "/materials/climate-task3-1.png", "description": "Hospital recommendation memo" }
+  ]
+}

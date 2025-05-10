@@ -1,0 +1,33 @@
+{
+  "title": "Analyzing the Impact of Senator Elizabeth Warren's Proposed Wealth Tax",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Health"
+  ],
+  "driving_question": "What would be the projected economic and budgetary effects of Senator Elizabeth Warren's proposed wealth tax?",
+  "short_background_context": "In 2019, Senator Elizabeth Warren proposed a wealth tax on high-net worth families. The tax would be 2 percent of net worth above $50 million and 6 percent of net worth above $1 billion. The Warren campaign estimated that this proposal would raise $3.75 trillion over ten years. Penn Wharton Budget Model (PWBM) projects that the proposal would raise between $2.3 trillion and $2.7 trillion in additional revenue in the 10-year window 2021 - 2030 while reducing GDP in 2050 by about 1 to 2 percent, depending on how the money is spent.",
+  "tasks": [
+    "Analyze the PWBM's projections and explain how the proposed wealth tax would affect the GDP and the economy in 2050.",
+    "Compare and contrast the Warren campaign's estimates with the PWBM's projections. Discuss possible reasons for any discrepancies.",
+    "Research and discuss the experiences of the four OECD countries that imposed wealth taxes in 2019. How might these experiences inform the U.S.'s approach to implementing a wealth tax?"
+  ],
+  "pre_thinking_prompts": [
+    "What is a wealth tax and how does it work?",
+    "What factors might affect the projected revenue from a wealth tax?",
+    "How might a wealth tax affect the economy and the GDP?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about wealth taxes and their potential impact on the economy. How has this changed your understanding of economic policy and taxation?",
+  "ai_tutor_prompts": [
+    "Can you explain how the wealth tax might affect households not directly subject to the tax?",
+    "What might be some potential challenges in implementing a wealth tax?",
+    "How might the wealth tax affect income inequality?"
+  ],
+  "remix_zone": "Students could remix the problem by proposing their own wealth tax policy and analyzing its potential economic and budgetary effects.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

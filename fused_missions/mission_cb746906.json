@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra I: Understanding and Applying Mathematical Concepts",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply algebraic concepts to solve real-world problems and interpret statistical data?",
+  "short_background_context": "The Regents Examination in Algebra I is a comprehensive evaluation designed to assess students' understanding of various algebraic concepts. This examination is conducted by the University of the State of New York and is part of the high school curriculum. The test includes constructed-response questions, which require students to apply their knowledge and problem-solving skills. These questions are scored based on a systematic and consistent rubric. The exam also incorporates elements of statistics, economics, and geometry, making it a multi-disciplinary assessment. This mission will help you prepare for such an examination and enhance your understanding of these subjects.",
+  "tasks": [
+    "Analyze and interpret statistical data using algebraic concepts.",
+    "Solve real-world problems using algebra and geometry.",
+    "Evaluate economic scenarios using principles of algebra and statistics."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic concepts do you think are most useful in solving real-world problems?",
+    "How can statistics be used in conjunction with algebra to interpret data?",
+    "How might algebra and geometry intersect in problem-solving?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the algebraic concepts after completing the tasks. How have your problem-solving skills improved? What concepts do you find most challenging and why?",
+  "ai_tutor_prompts": [
+    "Can you explain how you arrived at that solution?",
+    "How might you approach this problem differently?",
+    "What assumptions are you making in this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by incorporating additional mathematical concepts, such as calculus or trigonometry, into their solutions. They could also apply these concepts to different real-world scenarios, such as physics problems or business cases.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

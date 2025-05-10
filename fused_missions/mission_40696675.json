@@ -1,0 +1,31 @@
+{
+  "title": "Understanding New York State Mathematics Test Questions",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand and apply the concepts and skills tested in the New York State Mathematics Test?",
+  "short_background_context": "Every year, New York State administers Mathematics Tests to assess the proficiency of students in various mathematical concepts and skills. These tests include multiple-choice, short-response, and extended-response questions that test students' understanding of mathematical procedures, concepts, and applications. The questions are designed to assess the New York State P\u201312 Learning Standards for Mathematics and often require multiple steps, the application of multiple mathematics skills, and real-world applications. This mission will focus on understanding and applying the concepts and skills tested in these examinations.",
+  "tasks": [
+    "Analyze and discuss a set of released multiple-choice questions from the New York State Mathematics Test. Identify the mathematical concepts and skills being tested in each question.",
+    "Solve a set of short-response questions from the test. Show your work and explain your thought process.",
+    "Create an extended-response question that could appear on the test. The question should require the application of multiple mathematical skills and concepts, and it should have a real-world application."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts and skills do you think are most commonly tested on the New York State Mathematics Test?",
+    "How do you approach solving a multi-step mathematical problem?",
+    "What real-world applications can you think of for the mathematical concepts and skills you have learned?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the mathematical concepts and skills tested on the New York State Mathematics Test. How confident do you feel in your ability to apply these concepts and skills? What areas do you need to work on?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "How does this mathematical concept apply to real-world situations?",
+    "What other mathematical skills or concepts could be used to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own multiple-choice, short-response, or extended-response questions that test the same mathematical concepts and skills. They could also try solving the problems using different mathematical methods or approaches.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Computer Science and Economics: Understanding the Impact of Code Errors",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can understanding common code errors in computer science help us model and predict economic costs?",
+  "short_background_context": "Computer programming is a critical skill in today's digital world, and understanding the common errors that programmers make can help us improve the efficiency and effectiveness of our code. These errors can also have economic impacts, such as the cost to fix the errors, the time lost due to these errors, and the potential loss of customers or users due to faulty software. In this mission, we will explore the common errors identified in the AP Computer Science A scoring guidelines and examine their potential economic impacts.",
+  "tasks": [
+    {
+      "task": "Analyze the AP Computer Science A scoring guidelines and identify the common code errors that result in penalty points."
+    },
+    {
+      "task": "Research and estimate the average time it takes to identify and fix each type of error. Use this information to calculate the potential cost of these errors based on average programmer salaries."
+    },
+    {
+      "task": "Create a mathematical model to predict the potential economic impact of these errors on a software development project. Consider factors such as the size of the project, the number of programmers, and the complexity of the code."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are some common errors that programmers make?",
+    "How might these errors impact the cost and timeline of a software development project?",
+    "How could we use mathematics to model these impacts?"
+  ],
+  "reflection_prompt": "Reflect on how understanding common programming errors can help improve the efficiency and economy of software development. How might this knowledge impact your approach to programming in the future?",
+  "ai_tutor_prompts": [
+    "Can you think of other factors that might influence the cost of these errors?",
+    "How might different programming languages or development environments impact the frequency or cost of these errors?",
+    "How could improvements in education or training reduce these costs?"
+  ],
+  "remix_zone": "Consider how different programming languages or development environments might impact the frequency or cost of these errors. Could you adapt your model to account for these factors?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

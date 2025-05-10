@@ -1,0 +1,31 @@
+{
+  "title": "Exploring Differential Equations: A Real-world Application",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply algebraic concepts and economic principles to solve real-world problems involving differential equations?",
+  "short_background_context": "Differential equations are mathematical tools often used in various fields, including economics, to describe the relationship between variables. They are particularly useful in modeling situations where change is involved. In this mission, we will explore a differential equation from the Advanced Placement (AP) Calculus BC exam. This equation represents a particular solution with an initial condition. We will use different mathematical techniques such as Taylor polynomial and Euler's method to approximate solutions. This mission will provide an opportunity to apply your algebraic skills in a real-world context and understand the practical applications of these mathematical concepts in economics.",
+  "tasks": [
+    "Task 1: Write the second-degree Taylor polynomial for the given function about x=1. Use this polynomial to approximate f(2).",
+    "Task 2: Use Euler's method, starting at x=1 with two steps of equal size, to approximate f(2). Show your work.",
+    "Task 3: Find the particular solution to the differential equation."
+  ],
+  "pre_thinking_prompts": [
+    "What is a Taylor polynomial and how can it be used to approximate functions?",
+    "What is Euler's method and how can it be used to approximate solutions to differential equations?",
+    "How can we find the particular solution to a differential equation?"
+  ],
+  "reflection_prompt": "Reflect on the process of solving this problem. Which method did you find easier to use, the Taylor polynomial or Euler's method? Why? How do you see these concepts applied in economics?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach for the problem?",
+    "What other methods could you use to solve this problem?",
+    "How does this concept relate to real-world situations, particularly in economics?"
+  ],
+  "remix_zone": "Students could remix this problem by changing the initial conditions or the differential equation itself. They could also explore different approximation methods or apply these concepts to different real-world scenarios in economics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

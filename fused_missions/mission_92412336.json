@@ -1,0 +1,33 @@
+{
+  "title": "Understanding New York State Mathematics Standards Through Real-world Applications",
+  "grade_band": "Grade 8",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the New York State P-12 Learning Standards for Mathematics to solve real-world problems?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These standards are used to create multiple-choice, short-response, and extended-response questions that measure a student's understanding of mathematical procedures, concepts, and applications. Many of these questions are framed within the context of real-world applications or require students to complete multiple steps, drawing on the simultaneous application of multiple skills and concepts.",
+  "tasks": [
+    "Analyze and solve a set of multiple-choice questions designed to assess standard algorithms and conceptual standards.",
+    "Complete a series of short-response questions that require the application of multiple mathematics skills and real-world applications.",
+    "Respond to extended-response questions that assess your understanding of mathematical procedures, conceptual understanding, and application."
+  ],
+  "pre_thinking_prompts": [
+    "What real-world situations can you think of that might require the use of these mathematical concepts?",
+    "What strategies will you use to solve multi-step problems?",
+    "How might you apply different mathematical skills simultaneously to solve a problem?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the New York State P-12 Learning Standards for Mathematics. How confident do you feel in applying these standards to solve real-world problems? What areas do you think you need to improve?",
+  "ai_tutor_prompts": [
+    "How did you decide which mathematical concepts to apply to solve this problem?",
+    "What strategies did you use to solve this multi-step problem?",
+    "Can you explain why you chose this approach to solve the problem?"
+  ],
+  "remix_zone": "Students can remix this problem by creating their own real-world problems that require the application of the New York State P-12 Learning Standards for Mathematics. They can also try solving the problems using different mathematical concepts and strategies.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

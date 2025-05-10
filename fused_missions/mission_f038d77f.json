@@ -1,0 +1,33 @@
+{
+  "title": "AP Computer Science A: Game Simulation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use Java programming to simulate the play and scoring of a single-player video game?",
+  "short_background_context": "In this mission, you'll be exploring the 2022 AP Computer Science A free-response question involving the simulation of a single-player video game. The game consists of three levels, represented by the Level class in Java. Each level has a goal and a certain number of points. The Game class represents the play of the game. You'll be tasked with implementing methods in the Game class to simulate the play of the game and calculate the score.",
+  "tasks": [
+    "Task 1: Write the getScore method, which returns the score for the most recently played game.",
+    "Task 2: Implement the play method, which simulates the play of this Game (consisting of three levels) and updates all relevant game data.",
+    "Task 3: Implement the playManyTimes method, which simulates the play of num games and returns the highest score earned."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand about the Level and Game classes?",
+    "How would you approach implementing the getScore method?",
+    "What considerations would you need to make when implementing the play and playManyTimes methods?"
+  ],
+  "reflection_prompt": "Reflect on the process of implementing these methods. What challenges did you face and how did you overcome them? What did you learn about Java programming and game simulation?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process behind implementing the getScore method?",
+    "What considerations did you make when implementing the play method?",
+    "How did you ensure the playManyTimes method returns the highest score earned?"
+  ],
+  "remix_zone": "Consider how you could remix this problem. Could you add more levels to the game? What about adding different types of levels with varying goals and points? How would these changes impact the methods you've implemented?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

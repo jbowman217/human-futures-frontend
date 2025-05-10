@@ -1,0 +1,39 @@
+{
+  "title": "Exploring High School Regents Examination in Geometry",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the principles of Algebra, Statistics, Economics, and Geometry to successfully navigate and understand the High School Regents Examination in Geometry?",
+  "short_background_context": "The High School Regents Examination in Geometry is a comprehensive test that assesses students' understanding of key concepts in geometry. This examination is designed by the New York State Education Department and is used to evaluate the proficiency of students in the subject. The exam includes constructed-response questions, which require students to apply their knowledge and understanding to solve problems. The scoring of this exam is done by a minimum of three mathematics teachers, and the scores are converted to a scale score using a conversion chart provided by the Department. The final examination score is the student's scale score. In this mission, we will explore the principles of Algebra, Statistics, Economics, and Geometry to understand and navigate this examination.",
+  "tasks": [
+    {
+      "task_1": "Analyze the scoring process of the Regents Examination in Geometry. Identify the key factors that influence the final score."
+    },
+    {
+      "task_2": "Develop a strategy to approach the constructed-response questions in the exam. Consider the principles of Algebra, Statistics, Economics, and Geometry in your strategy."
+    },
+    {
+      "task_3": "Create a set of practice constructed-response questions based on the principles of Algebra, Statistics, Economics, and Geometry. Include a detailed solution and explanation for each question."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the Regents Examination in Geometry?",
+    "What strategies do you typically use when approaching constructed-response questions?",
+    "How might the principles of Algebra, Statistics, Economics, and Geometry be applied in this examination?"
+  ],
+  "reflection_prompt": "Reflect on the strategies you developed for approaching the constructed-response questions. How effective do you think these strategies would be in a real exam setting? How did the principles of Algebra, Statistics, Economics, and Geometry influence your strategy development and understanding of the examination?",
+  "ai_tutor_prompts": [
+    "Can you explain your strategy in more detail?",
+    "How might you apply this strategy to a different subject or type of question?",
+    "What other factors might influence the final score of the examination?"
+  ],
+  "remix_zone": "Students could remix this problem by developing their own scoring rubric for the practice questions they created, based on the information provided about the scoring process of the Regents Examination in Geometry.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

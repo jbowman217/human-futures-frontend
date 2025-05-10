@@ -1,0 +1,37 @@
+{
+  "title": "Step Tracker: An Intersection of Algebra and Economics",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use algebraic concepts to track fitness data and understand its economic implications?",
+  "short_background_context": "In today's digital age, fitness tracking devices have become increasingly popular. These devices record various types of data, such as the number of steps taken, calories burned, and sleep patterns. This data can be used to understand a person's health and fitness levels. However, it can also have economic implications. For instance, insurance companies may offer discounts to individuals who maintain a certain level of physical activity. In this mission, you will design a step tracker system and analyze the data it produces. You will use algebraic concepts to calculate averages and understand patterns. Furthermore, you will explore the economic implications of this data.",
+  "tasks": [
+    {
+      "task": "Design a 'StepTracker' class that records fitness data. The class should have methods to add daily steps, calculate active days, and compute the average steps."
+    },
+    {
+      "task": "Use the 'StepTracker' class to simulate a month's worth of data. Analyze the data to identify patterns and trends."
+    },
+    {
+      "task": "Discuss the economic implications of fitness data. How could insurance companies use this data? What are the potential benefits and drawbacks for consumers?"
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic concepts will you need to implement the 'StepTracker' class?",
+    "How might an insurance company use fitness data?",
+    "What are some potential benefits and drawbacks of sharing fitness data with insurance companies?"
+  ],
+  "reflection_prompt": "Reflect on the process of designing the 'StepTracker' class. What challenges did you encounter and how did you overcome them? How has this mission deepened your understanding of the intersection between algebra, computer science, and economics?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose to implement the 'StepTracker' class in that way?",
+    "What patterns or trends did you notice in the simulated data? What do these patterns suggest?",
+    "How might the economic implications of fitness data affect consumer behavior?"
+  ],
+  "remix_zone": "Consider how you could expand the 'StepTracker' class. Could you add methods to track other types of fitness data, such as calories burned or sleep patterns? How would these additions impact the economic implications of the data?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

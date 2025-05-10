@@ -1,0 +1,33 @@
+{
+  "title": "AP Computer Science A: Game Simulation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can you simulate the play and scoring of a single-player video game using Java?",
+  "short_background_context": "In this mission, you will be working with a single-player video game simulation. The game consists of three levels and is represented by the 'Game' class in Java. Each level in the game is represented by the 'Level' class. Your task is to understand the game's dynamics, including the scoring system and the game's play, and write methods to simulate the play of the game and calculate the score for the most recently played game.",
+  "tasks": [
+    "Write the 'getScore' method, which returns the score for the most recently played game.",
+    "Understand and implement the 'isBonus' method of the 'Game' class, which returns true if this is a bonus game and false otherwise.",
+    "Implement the 'playManyTimes' method, which simulates the play of 'num' games and returns the highest score earned."
+  ],
+  "pre_thinking_prompts": [
+    "What is the purpose of the 'getScore' method?",
+    "What does the 'isBonus' method signify in the context of the game?",
+    "How would you approach the 'playManyTimes' method?"
+  ],
+  "reflection_prompt": "Reflect on the methods you implemented. How did they contribute to the overall game simulation? How could you improve your code?",
+  "ai_tutor_prompts": [
+    "Can you explain how the 'getScore' method works?",
+    "What happens if the 'isBonus' method returns true?",
+    "What would be the result if 'num' in the 'playManyTimes' method is set to 1?"
+  ],
+  "remix_zone": "Consider adding more levels to the game or introducing a multiplayer mode. How would these changes affect the methods you've implemented?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

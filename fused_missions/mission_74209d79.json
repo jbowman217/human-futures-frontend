@@ -1,0 +1,32 @@
+{
+  "title": "New York State Mathematics Test Analysis",
+  "grade_band": "Grade 8",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and understand the structure and content of the New York State Mathematics Test to improve our performance?",
+  "short_background_context": "In 2013, New York State began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These tests are designed to assess standard algorithms and conceptual standards, often requiring multiple steps and the application of multiple mathematics skills. The questions are often framed within the context of real-world applications and linked to more than one standard, drawing on the simultaneous application of multiple skills and concepts.",
+  "tasks": [
+    "Analyze a selection of multiple-choice questions from the test, identifying the mathematical concepts and skills required to solve them.",
+    "Evaluate a set of short-response questions, detailing the steps required to solve them and the real-world applications they represent.",
+    "Critique a number of extended-response questions, assessing their complexity and the reasoning skills they require."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think are most commonly tested on the New York State Mathematics Test?",
+    "How do you think the test questions are designed to assess both your mathematical knowledge and your problem-solving skills?",
+    "What strategies do you think would be most effective in tackling these test questions?"
+  ],
+  "reflection_prompt": "Reflect on the tasks you completed. What did you learn about the structure and content of the test? How will this knowledge help you in your future test preparation?",
+  "ai_tutor_prompts": [
+    "Why do you think the test includes questions that require the application of multiple mathematical skills?",
+    "How might understanding the real-world applications of a question help you solve it?",
+    "Why is it important to understand the steps required to solve a question?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own test questions that assess the same mathematical concepts and skills.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

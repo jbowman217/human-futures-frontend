@@ -1,0 +1,32 @@
+{
+  "title": "AP Computer Science Principles: Program Design and Functionality",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can you design and create a functional program that meets specific requirements?",
+  "short_background_context": "In the AP Computer Science Principles course, students are tasked with designing, coding, and testing their own programs. The program must meet certain requirements, such as including a student-developed procedure, a call to that procedure, and the use of a list. Additionally, the program must be able to accept and process input and produce output. The functionality of the program is demonstrated through a video, and students must also provide a written response that describes the input and what the program does with it. This mission will challenge you to create a program that meets these requirements and to demonstrate your understanding of the program's design and functionality.",
+  "tasks": [
+    "Design and code a program that includes a student-developed procedure, a call to that procedure, and the use of a list.",
+    "Create a video demonstrating the functionality of your program, including input and output.",
+    "Write a response that describes at least one valid input to your program and what the program does with that input."
+  ],
+  "pre_thinking_prompts": [
+    "What kind of program do you want to create?",
+    "What will be the purpose of your student-developed procedure?",
+    "What kind of input will your program accept, and how will it process that input?"
+  ],
+  "reflection_prompt": "Reflect on the process of designing and coding your program. What challenges did you face, and how did you overcome them? How well does your program meet the requirements?",
+  "ai_tutor_prompts": [
+    "Can you explain how your program uses the list?",
+    "What would happen if your program received a different type of input?",
+    "How does your student-developed procedure contribute to the functionality of your program?"
+  ],
+  "remix_zone": "Consider how you could expand or modify your program. Could you add additional functionality? Could you use a different type of collection? Could you process the input in a different way?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

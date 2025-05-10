@@ -1,0 +1,29 @@
+{
+  "title": "Understanding Computer Science Scoring Guidelines",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we interpret and apply the AP Computer Science A scoring guidelines to improve our coding skills?",
+  "short_background_context": "The AP Computer Science A course is a college-level course that introduces students to computer science with fundamental topics that include problem-solving, design strategies and methodologies, organization of data (data structures), approaches to processing data (algorithms), analysis of potential solutions, and the ethical and social implications of computing. The course emphasizes both object-oriented and imperative problem-solving and design using Java language. These scoring guidelines are used to assess students' responses and understanding of the course content. Understanding these guidelines can help you improve your coding skills and performance on the AP exam.",
+  "tasks": [
+    "Task 1: Analyze the scoring guidelines for the AP Computer Science A exam, focusing on the penalties and how they can affect a student's score.",
+    "Task 2: Apply the scoring guidelines to a sample piece of code. Identify any errors that would result in penalties according to the guidelines.",
+    "Task 3: Write a piece of code that adheres to the scoring guidelines. Ensure that it does not include any elements that would result in a penalty."
+  ],
+  "pre_thinking_prompts": [
+    "What are some common errors that result in penalties according to the scoring guidelines?",
+    "How can understanding these guidelines help improve your coding skills?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the scoring guidelines has influenced the way you write code. What changes have you made to avoid penalties?",
+  "ai_tutor_prompts": [
+    "Can you explain why certain errors result in penalties?",
+    "How would you correct a piece of code that includes an error resulting in a penalty?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own scoring guidelines for a coding assignment. They could also create a tutorial or guide for other students on how to avoid common coding errors that result in penalties.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

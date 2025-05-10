@@ -1,0 +1,35 @@
+{
+  "title": "Empowering Connected Learners: An Interdisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use technology to empower learners and transform education across various disciplines?",
+  "short_background_context": "The International Society for Technology in Education (ISTE) is a leading organization committed to empowering connected learners in a connected world. They have developed standards for learning, teaching, and leading in the digital age, which are widely recognized and adopted worldwide. These standards reflect an evolution in the teaching profession and focus on the promise technology has for empowering learning. They provide a roadmap for educators worldwide as they navigate decisions about curriculum, instruction, professional learning, and how to transform pedagogy enabled by the thoughtful, purposeful, and strategic use of technology. In this mission, we will explore how these standards can be applied across various disciplines to empower learners and transform education.",
+  "tasks": [
+    "Research and present a case study on how technology has transformed teaching and learning in one of the identified subjects.",
+    "Design a lesson plan for one of the identified subjects that incorporates the use of technology in a meaningful way to enhance learning.",
+    "Analyze the impact of your technology-integrated lesson plan on student learning using statistical methods."
+  ],
+  "pre_thinking_prompts": [
+    "What are some ways you've seen technology used in education?",
+    "How might technology enhance learning in different subjects?",
+    "What potential challenges might arise from integrating technology into teaching and learning?"
+  ],
+  "reflection_prompt": "Reflect on the process of designing and implementing a technology-integrated lesson plan. What worked well? What challenges did you encounter and how did you overcome them? How might you improve your lesson plan based on your analysis of its impact on student learning?",
+  "ai_tutor_prompts": [
+    "Can you think of any other ways technology might be used to enhance learning in this subject?",
+    "How might the use of technology in your lesson plan support the development of 21st-century skills?",
+    "What ethical considerations might arise from the use of technology in education?"
+  ],
+  "remix_zone": "Consider how you might adapt your lesson plan for a different subject or grade level. How might you integrate technology in a different way or use a different type of technology to enhance learning?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

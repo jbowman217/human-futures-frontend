@@ -1,0 +1,33 @@
+{
+  "title": "Understanding and Applying New York State Mathematics Standards",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the New York State P\u201312 Learning Standards for Mathematics to solve real-world problems?",
+  "background_context": "In May 2022, New York State administered the Mathematics Tests and has since released about 75% of the questions for review and use. These questions are designed to assess the New York State P\u201312 Learning Standards for Mathematics, which include both grade-level standards and the 'Standards for Mathematical Practices.' The questions often require multiple steps and the simultaneous application of multiple skills and concepts. They may be framed within the context of real-world applications, and many are linked to more than one standard. This mission will involve exploring these released questions and applying the standards they assess to solve problems.",
+  "tasks": [
+    "Review the released questions from the 2022 New York State Mathematics Test and identify the standards they are designed to assess.",
+    "Choose one of the released questions that requires the application of multiple mathematical skills and solve it, showing your work.",
+    "Create a real-world problem that requires the application of the same standards as the question you chose, and solve it."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the New York State P\u201312 Learning Standards for Mathematics?",
+    "What strategies do you typically use to solve multi-step math problems?",
+    "How might you apply mathematical concepts to real-world situations?"
+  ],
+  "reflection_prompt": "Reflect on your problem-solving process. Which standards did you apply, and how did they help you solve the problem? What did you learn from this experience?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular approach to solve the problem?",
+    "How does this standard apply to the problem you created?",
+    "What other real-world situations might this standard apply to?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing different released questions to explore, creating different real-world problems, or applying different standards to solve the problems.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

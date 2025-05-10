@@ -1,0 +1,37 @@
+{
+  "title": "Understanding Economics: From Needs and Wants to Wealth Inequality",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How does economics impact our daily lives and the world around us?",
+  "short_background_context": "Economics is not just about money, it's about understanding the production, distribution, and consumption of goods and services. It's about understanding what people need and want, and how these needs and wants are met. It's also about understanding the disparities in wealth and resources around the world. In this mission, we will delve into the world of economics, exploring concepts like needs and wants, production, distribution, and wealth inequality.",
+  "tasks": [
+    "Task 1: Create a 'needs and wants' list for a hypothetical person living in a developed country and another living in a developing country. Compare and contrast the lists.",
+    "Task 2: Choose a product or service you use daily. Map out its production, distribution, and consumption process.",
+    "Task 3: Research and present on wealth inequality in your community, country, and globally. Include statistics and discuss potential solutions to address this issue."
+  ],
+  "pre_thinking_prompts": [
+    "What do you think are the basic needs for survival?",
+    "How do you think wealth is distributed in your community or country?",
+    "Can you think of a product or service and describe its journey from production to your hands?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about economics. How has your understanding of needs, wants, and wealth inequality changed? How can you apply this knowledge in your daily life?",
+  "ai_tutor_prompts": [
+    "Why do you think there are differences in the 'needs and wants' lists for people in different countries?",
+    "What factors might affect the production, distribution, and consumption process of a product or service?",
+    "What are some potential consequences of wealth inequality? How might it be addressed?"
+  ],
+  "remix_zone": "Students could remix this problem by researching and presenting on the economic systems of different countries and how they address needs, wants, and wealth distribution.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

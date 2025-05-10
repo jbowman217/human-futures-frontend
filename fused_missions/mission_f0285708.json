@@ -1,0 +1,32 @@
+{
+  "title": "Bacteria Population Density in a Petri Dish",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we model and interpret the density of a bacteria population in a circular petri dish?",
+  "short_background_context": "In this mission, we will be analyzing the density of a bacteria population in a circular petri dish. The density is given by an increasing, differentiable function f, where f(r) is measured in milligrams per square centimeter. Values of f(r) for selected values of r are provided. We will use these values to estimate the rate of change of the bacteria population's density at a certain distance from the center of the petri dish, and also to approximate the total mass of bacteria in the dish. This mission requires a good understanding of algebra, statistics, and calculus concepts, as well as the ability to interpret and apply these concepts in a real-world context.",
+  "tasks": [
+    "Use the data in the table to estimate f\u2032(2.25). Using correct units, interpret the meaning of your answer in the context of this problem.",
+    "Approximate the total mass of bacteria in the petri dish using a right Riemann sum with the four subintervals indicated by the data in the table.",
+    "Discuss the implications of your findings on the growth of the bacteria population in the petri dish."
+  ],
+  "pre_thinking_prompts": [
+    "What does f(r) represent in this context?",
+    "What does the derivative of f(r) represent in this context?",
+    "What is a right Riemann sum and how can it be used in this context?"
+  ],
+  "reflection_prompt": "Reflect on the process of applying calculus concepts to this real-world problem. What did you find challenging? What did you learn?",
+  "ai_tutor_prompts": [
+    "What does the rate of change of the bacteria population's density tell us?",
+    "Why did we use a right Riemann sum to approximate the total mass of bacteria?",
+    "What assumptions did we make in our calculations and how might these affect our results?"
+  ],
+  "remix_zone": "You could remix this problem by considering different shapes of petri dishes, different types of bacteria, or different growth rates.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

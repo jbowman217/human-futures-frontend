@@ -1,0 +1,43 @@
+{
+  "title": "Analyzing Senator Elizabeth Warren's Proposed Wealth Tax",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Political Science",
+    "Mathematics"
+  ],
+  "driving_question": "What are the projected budgetary and economic effects of Senator Elizabeth Warren's proposed wealth tax?",
+  "tasks": [
+    {
+      "task_1": "Read the article and summarize the key points",
+      "task_2": "Calculate the projected revenue from the proposed tax for the years 2021-2030",
+      "task_3": "Analyze the projected impact on GDP in 2050",
+      "task_4": "Discuss the potential effects on average hourly wages in 2050",
+      "task_5": "Compare the proposal with wealth taxes in other countries",
+      "task_6": "Debate the constitutionality and feasibility of implementing a wealth tax in the United States"
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What is a wealth tax?",
+    "What are the arguments for and against wealth taxes?",
+    "How might a wealth tax affect the economy?"
+  ],
+  "reflection_prompt": "Reflect on the potential benefits and drawbacks of implementing Senator Warren's proposed wealth tax. How might it impact different sectors of the economy and society?",
+  "ai_tutor_prompts": [
+    "Explain the difference between a wealth tax and an income tax",
+    "Describe the potential macroeconomic effects of a wealth tax",
+    "Discuss the reasons why some countries have abandoned wealth taxes"
+  ],
+  "remix_zone": "Create a presentation or infographic summarizing the key findings of the Penn Wharton Budget Model's analysis of Senator Warren's proposed wealth tax",
+  "display_fields": [
+    "Title",
+    "Grade Band",
+    "Subjects",
+    "Driving Question",
+    "Tasks",
+    "Pre-thinking Prompts",
+    "Reflection Prompt",
+    "AI Tutor Prompts",
+    "Remix Zone"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "New York State Mathematics Standards Assessment",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the New York State P-12 Learning Standards for Mathematics to solve real-world problems?",
+  "short_background_context": "In 2013, New York State began implementing tests designed to assess student performance in line with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These tests are designed to evaluate students' understanding of mathematical procedures, concepts, and applications, often within the context of real-world problems. The tests include multiple-choice questions, short-response questions, and extended-response questions, each requiring the application of multiple mathematical skills and concepts.",
+  "tasks": [
+    "Analyze and solve a set of multiple-choice questions designed to assess standard algorithms and conceptual standards.",
+    "Complete a series of short-response tasks that require you to show your work and apply multiple mathematical skills.",
+    "Answer an extended-response question that allows you to demonstrate your understanding of mathematical procedures, conceptual understanding, and application."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think you'll need to apply to solve these problems?",
+    "How do you plan to approach the extended-response question?",
+    "What strategies can you use to ensure you understand what each question is asking?"
+  ],
+  "reflection_prompt": "What did you learn about your understanding of the New York State P-12 Learning Standards for Mathematics from completing this mission? What strategies were most effective for you?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve this problem?",
+    "How does this concept apply to the real world?",
+    "What other mathematical concepts could be used to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own multiple-choice, short-response, and extended-response questions based on the New York State P-12 Learning Standards for Mathematics.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Revitalizing Distressed Communities: A 21st Century Homestead Act",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use public funds to stimulate wealth accrual for residents of low to moderate income communities while avoiding exclusionary gentrification?",
+  "short_background_context": "The 21st century Homestead Act aims to counteract the longstanding legacy of racially discriminatory housing policies by revitalizing distressed communities through public investment. The basic structure of the program is a wholesale transfer of land to residents who meet certain criteria. This proposal would benefit people who live in select small and medium-sized cities that are experiencing high vacancies. Housing is a powerful lever that affects other aspects of inequality. For most Americans, their home is their largest asset, and for those who do not own a home, it is their greatest expense. This mission will explore the potential of this proposal and its implications.",
+  "tasks": [
+    "Analyze the history of racially discriminatory housing policies and their impact on wealth distribution.",
+    "Design a model of a city that could benefit from the 21st century Homestead Act, including potential infrastructure and job investments.",
+    "Develop a set of criteria for residents to qualify for the land transfer program, ensuring it is ethical, fair, and beneficial to the community."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the original Homestead Act?",
+    "How do housing policies impact wealth distribution?",
+    "What are some potential benefits and drawbacks of a land transfer program?"
+  ],
+  "reflection_prompt": "Reflect on the potential impacts of the 21st century Homestead Act. What are some potential challenges in implementing such a program? How might it transform distressed communities?",
+  "ai_tutor_prompts": [
+    "Can you explain how housing policies have historically contributed to wealth inequality?",
+    "What factors would you consider when designing criteria for the land transfer program?",
+    "How might the revitalization of distressed communities impact other aspects of inequality?"
+  ],
+  "remix_zone": "Students could remix this problem by considering how the 21st century Homestead Act might be implemented in their own community or a community they are familiar with.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

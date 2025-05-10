@@ -1,0 +1,39 @@
+{
+  "title": "Regents Examination in Algebra II",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic concepts to solve real-world problems and interpret the results?",
+  "short_background_context": "This mission is based on the Regents Examination in Algebra II, a high-stakes assessment administered by the New York State Department of Education. The exam tests students' understanding of various algebraic concepts and their ability to apply these concepts in different contexts. It includes constructed-response questions, which require students to construct their own responses rather than choosing from provided options. The scoring process is rigorous and involves multiple mathematics teachers. This mission will provide you with an opportunity to engage with the type of tasks you might encounter on such an exam.",
+  "tasks": [
+    {
+      "task_description": "Analyze a real-world problem and construct a mathematical model (e.g., equation, graph) to represent the problem."
+    },
+    {
+      "task_description": "Apply algebraic concepts and techniques to solve the problem represented by your model."
+    },
+    {
+      "task_description": "Interpret the solution in the context of the problem and communicate your reasoning clearly and effectively."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the problem?",
+    "What algebraic concepts might be relevant to solving this problem?",
+    "How might you represent this problem mathematically?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did the tasks help you deepen your understanding of algebraic concepts? What strategies were effective for you, and what challenges did you encounter?",
+  "ai_tutor_prompts": [
+    "Why did you choose that approach to solve the problem?",
+    "Can you explain your reasoning in more detail?",
+    "How does your solution relate to the original problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own real-world problems that require the application of algebraic concepts. They could also explore different mathematical models for the same problem and compare their effectiveness.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

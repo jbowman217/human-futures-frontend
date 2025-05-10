@@ -1,0 +1,31 @@
+{
+  "title": "AP Computer Science A: Delimiters",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use algebraic thinking and economic principles to understand and solve complex computer science problems?",
+  "short_background_context": "In this mission, we will be exploring a problem from the AP Computer Science A exam. The problem, called 'Delimiters', involves storing and comparing strings in arrays and ArrayLists, and determining whether open and close delimiters in an ArrayList are balanced. This requires understanding of array manipulation, string comparison, and the concept of 'balance' in computer science. We will also explore how this problem can be viewed from an algebraic perspective, and how economic principles can be applied to optimize our solution.",
+  "tasks": [
+    "Task 1: Analyze the problem and identify the key components needed to solve it. This includes understanding what delimiters are, how arrays and ArrayLists work, and how balance is determined in this context.",
+    "Task 2: Develop a solution to the problem using pseudocode or actual code. Your solution should correctly store and compare strings, and accurately determine whether delimiters are balanced.",
+    "Task 3: Reflect on your solution. Consider how algebraic thinking was used in your solution, and how economic principles could be applied to optimize it. Could your solution be more efficient? If so, how?"
+  ],
+  "pre_thinking_prompts": [
+    "What are delimiters and how are they used in computer science?",
+    "What is the difference between an array and an ArrayList?",
+    "What does it mean for delimiters to be 'balanced'?"
+  ],
+  "reflection_prompt": "Reflect on the process of solving this problem. How did you use algebraic thinking in your solution? How could economic principles be applied to optimize your solution?",
+  "ai_tutor_prompts": [
+    "Can you explain your approach to solving this problem?",
+    "How did you ensure that all elements in the array or ArrayList were accessed correctly?",
+    "What does 'balance' mean in this context and how did you determine it?"
+  ],
+  "remix_zone": "Consider how this problem could be remixed. Could you solve it using a different programming language? Could you add additional constraints or complexity? How would you adapt your solution to these changes?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

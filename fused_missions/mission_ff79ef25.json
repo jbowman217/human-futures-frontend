@@ -1,0 +1,30 @@
+{
+  "title": "AP Computer Science: Word Pair Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply algebraic thinking and economic principles to understand and solve complex problems in computer science?",
+  "short_background_context": "In the 2018 AP Computer Science A exam, students were asked to analyze a problem about word pairs. The task involved forming pairs of strings from an array and adding them to an ArrayList. Then, students had to count the number of pairs in the ArrayList that had the same value. This mission will help you understand the principles behind this problem and apply them to similar challenges in the future.",
+  "tasks": [
+    "Analyze the scoring guidelines and student responses from the 2018 AP Computer Science A exam.",
+    "Create your own version of the word pair problem using a different context (e.g., numbers, objects).",
+    "Solve your problem and explain your reasoning in a short essay."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about arrays and ArrayLists?",
+    "How might you approach a problem that involves pairing and counting elements?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did your understanding of arrays and ArrayLists change?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach?",
+    "What other strategies might you use to solve this problem?",
+    "How does this problem connect to the concepts of algebra and economics?"
+  ],
+  "remix_zone": "Consider how you might extend this problem. Could you add more complexity, such as multiple arrays or different types of data?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

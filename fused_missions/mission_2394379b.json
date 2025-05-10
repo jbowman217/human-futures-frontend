@@ -1,0 +1,31 @@
+{
+  "title": "Applying Scoring Criteria to Computer Science Problems",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we apply scoring criteria to solve computer science problems effectively?",
+  "short_background_context": "The College Board provides scoring guidelines for AP\u00ae Computer Science A exams. These guidelines detail how points are awarded or deducted based on the student's response to a question. Understanding these guidelines can help students improve their problem-solving skills and perform better on exams. In this mission, we will focus on a specific problem from the 2023 Scoring Guidelines - finding a free block of time in a schedule and making an appointment. We'll explore how the scoring criteria apply to this problem and how to avoid common pitfalls.",
+  "tasks": [
+    "Task 1: Analyze the provided problem and scoring guidelines. Identify the key components of the problem and how points are awarded or deducted.",
+    "Task 2: Develop a solution for the problem using the scoring criteria as a guide. Be mindful of common pitfalls that may result in point deductions.",
+    "Task 3: Review your solution and apply the scoring criteria to assess your work. Identify areas for improvement and revise your solution as needed."
+  ],
+  "pre_thinking_prompts": [
+    "What are the key components of the problem?",
+    "How does the scoring criteria apply to this problem?",
+    "What common pitfalls should you avoid to maximize your score?"
+  ],
+  "reflection_prompt": "Reflect on the process of applying the scoring criteria to your solution. How did this help you improve your problem-solving skills? What did you learn about avoiding common pitfalls?",
+  "ai_tutor_prompts": [
+    "Consider how you're applying the scoring criteria. Are there any areas where you could lose points?",
+    "Think about how you're avoiding common pitfalls. Is there a different approach that could help you avoid these issues?",
+    "Reflect on your solution. How does it align with the scoring criteria? What changes could you make to improve your score?"
+  ],
+  "remix_zone": "Students could remix the problem by creating their own computer science problem and corresponding scoring guidelines. They could then exchange problems with a peer and apply the scoring criteria to assess each other's solutions.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

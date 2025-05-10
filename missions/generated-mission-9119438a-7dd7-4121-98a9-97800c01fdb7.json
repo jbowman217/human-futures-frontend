@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Probability and Policies: A Deep Dive into NYC's Affordable Housing Lotteries",
+        "driving_question": "How can we use geometric distribution logic to understand the process of getting selected in housing lotteries for affordable apartments in NYC?",
+        "tasks": [
+            {
+                "task_text": "Research and gather data on the odds of successfully securing an affordable apartment through NYC's housing lotteries. These odds vary on different factors; however, get a common approximation like 1 in 50 or 1 in 100. Further, explain the concept of geometric distribution and how it applies in this context.",
+                "hint": "You can find information on the NYC's official website or other reliable data sources. Geometric distribution logic can be used to model the number of trials needed for a success in a random experiment. In this case, 'success' is getting selected in the lottery."
+            },
+            {
+                "task_text": "Using the geometric distribution logic and the odds you obtained, calculate the expected number of attempts (applications) a person has to make before they secure an apartment. Explain the concept of 'expected number of attempts' and illustrate with your calculations.",
+                "hint": "The expected number of attempts is basically the average number of tries required for a success. In terms of geometric distribution, it's calculated as 1 divided by the probability of success."
+            },
+            {
+                "task_text": "Finally, consider different policies or procedures that could potentially reduce the number of attempts and wait time for people in need of stable and affordable housing. Propose constructive changes and explain why they might be effective.",
+                "hint": "You could consider policies from other cities or countries, or even create innovative solutions of your own. Try to think about changes that could increase the chances of success, and thus decrease the expected number of attempts."
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+{
+  "title": "Algebra II Regents Examination",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Ethics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic principles, statistical analysis, ethical considerations, and geometric concepts to solve complex problems in a high-stakes examination setting?",
+  "short_background_context": "The New York State Regents Examinations are a series of standardized tests that students must pass in order to graduate from high school in New York State. These exams cover various subjects, including Algebra II. This examination requires students to apply their knowledge and skills in Algebra, Statistics, Ethics, and Geometry. It involves multiple-choice and written-response questions that require the use of a graphing calculator and a straightedge. The examination also tests students' understanding of ethical considerations in a testing environment, as they must sign a statement indicating that they had no unlawful knowledge of the questions or answers prior to the examination.",
+  "tasks": [
+    "Analyze and solve algebraic equations and expressions, including those involving exponents, roots, and radicals.",
+    "Interpret and create statistical graphs and diagrams, using a graphing calculator as necessary.",
+    "Reflect on ethical considerations in a testing environment and sign a statement indicating compliance with ethical standards."
+  ],
+  "pre_thinking_prompts": [
+    "What strategies can you use to solve complex algebraic equations?",
+    "How can you use a graphing calculator to interpret and create statistical graphs and diagrams?",
+    "What ethical considerations should you keep in mind during a testing environment?"
+  ],
+  "reflection_prompt": "Reflect on your performance on the examination. Which areas did you excel in, and which areas do you need to improve? How did your understanding of Algebra, Statistics, Ethics, and Geometry contribute to your performance?",
+  "ai_tutor_prompts": [
+    "Can you explain your thought process in solving this algebraic equation?",
+    "How did you use the graphing calculator to interpret this statistical graph?",
+    "Why is it important to uphold ethical standards in a testing environment?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own Algebra II examination questions, incorporating elements of Algebra, Statistics, Ethics, and Geometry. They could also design a study guide or tutorial for other students preparing for the Regents Examination.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "AP Calculus BC: Function Analysis",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze and interpret the behavior of a function using its derivative?",
+  "short_background_context": "In this mission, we'll be exploring an AP Calculus BC sample question that involves analyzing a function and its derivative. The function f is defined on the closed interval [-2, 8] and satisfies f(2) = 1. The graph of f', the derivative of f, consists of two line segments and a semicircle. We'll be tasked with determining whether f has a relative minimum or maximum at x = 6, identifying intervals where the graph of f is concave down, calculating a limit, and finding the absolute minimum value of f on the given interval.",
+  "tasks": [
+    "Determine whether f has a relative minimum, a relative maximum, or neither at x = 6. Provide a reason for your answer.",
+    "Identify on what open intervals, if any, is the graph of f concave down. Provide a reason for your answer.",
+    "Calculate the limit as x approaches 2 of (6x^3 - 5x + 6)/(x - 2), or show that it does not exist. Justify your answer.",
+    "Find the absolute minimum value of f on the closed interval [-2, 8]. Justify your answer."
+  ],
+  "pre_thinking_prompts": [
+    "What does it mean for a function to have a relative minimum or maximum at a certain point?",
+    "What does the derivative of a function tell us about the behavior of the function?",
+    "How can we determine where a function is concave down based on its derivative?",
+    "What is L\u2019Hospital\u2019s Rule and when can we apply it?",
+    "How can we find the absolute minimum value of a function on a given interval?"
+  ],
+  "reflection_prompt": "Reflect on the process you used to analyze the function and its derivative. What strategies were most helpful? What concepts were most challenging?",
+  "ai_tutor_prompts": [
+    "Can you explain why the sign of f' does not change at x = 6?",
+    "What does it mean for f' to be decreasing on an interval?",
+    "Why are we allowed to apply L\u2019Hospital\u2019s Rule in this situation?",
+    "How did you determine the absolute minimum value of f on the interval [-2, 8]?"
+  ],
+  "remix_zone": "Try creating your own function and derivative graph. Then, analyze the function's behavior using the same methods we used in this mission.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Probability and Sampling Distributions in Economics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use probability and sampling distributions to make predictions in economics?",
+  "short_background_context": "In this mission, you will be exploring the concept of probability and sampling distributions using a real-world scenario involving bath fizzies. Each bath fizzy contains a cash prize, and the amount of cash varies. The mission is based on an AP Statistics question and involves calculating the proportion of bath fizzies containing certain dollar values, determining the probability of certain outcomes, and calculating the expected value of the distribution. You will also interpret your results in the context of the scenario. This mission will help you understand how statistics can be used in economics and business to make predictions and inform decision-making.",
+  "tasks": [
+    "Calculate the proportion of bath fizzies containing $1 and those containing at least $10.",
+    "Given a bath fizzy contains at least $10, calculate the probability that it contains $100.",
+    "Calculate the expected value of the distribution of cash prizes in the bath fizzies and interpret what this means in the context of the scenario."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the term 'probability'?",
+    "What is a sampling distribution and how is it used in statistics?",
+    "How do you calculate the expected value of a distribution?"
+  ],
+  "reflection_prompt": "What did you learn about how probability and sampling distributions can be used in economics? How might these concepts be applied in other real-world scenarios?",
+  "ai_tutor_prompts": [
+    "What does the proportion of bath fizzies containing $1 tell us about the distribution?",
+    "How does the probability of a bath fizzy containing $100 change if we know it contains at least $10?",
+    "What does the expected value of the distribution tell us about the average cash prize in a bath fizzy?"
+  ],
+  "remix_zone": "Consider a different scenario where the cash prizes in the bath fizzies are distributed differently. How would this change the calculations and the interpretations of the results?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

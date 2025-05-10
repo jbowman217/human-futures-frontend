@@ -1,0 +1,32 @@
+{
+  "title": "Algebra II Regents Exam Analysis",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic concepts to solve real-world problems and analyze mathematical models?",
+  "short_background_context": "This mission is based on the Algebra II Regents Exam conducted by the University of the State of New York. The exam tests various algebraic concepts including determining the average rate of change from a graph, factoring expressions, solving algebraic equations, and understanding mathematical models. The tasks in this mission will help you to understand these concepts more deeply and apply them to solve problems. You will also analyze different responses to the exam questions, which will help you to understand common mistakes and how to avoid them.",
+  "tasks": [
+    "Analyze the graph shown in Question 25 and determine the average rate of change from 2 to 4 hours. Explain your reasoning.",
+    "Factor the expression given in Question 26 completely. Describe the steps you took to factor the expression.",
+    "Solve the algebraic equation given in Question 27 for all values of x. Check your solution for extraneous roots."
+  ],
+  "pre_thinking_prompts": [
+    "What does the average rate of change represent in the context of the graph?",
+    "What strategies can you use to factor the expression?",
+    "How can you check for extraneous roots when solving the equation?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of these algebraic concepts. What strategies did you find most helpful? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that method to solve the problem?",
+    "What would happen if you used a different approach?",
+    "How does this concept apply to real-world situations?"
+  ],
+  "remix_zone": "Create your own algebraic problems based on real-world situations. Try to incorporate concepts from geometry and statistics as well.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

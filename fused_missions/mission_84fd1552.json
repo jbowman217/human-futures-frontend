@@ -1,0 +1,30 @@
+{
+  "title": "Leap Year Calculation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can you calculate the number of leap years in a given date range using algebraic expressions and computer science concepts?",
+  "short_background_context": "Leap years are a fascinating concept in our calendar system. They occur every four years to help synchronize the calendar year with the solar year, or the length of time it takes Earth to complete its orbit around the sun, which is about 365.25 days. To account for the extra 0.25 days, we add an extra day, February 29, in each leap year. In this mission, you will use algebraic expressions and computer science concepts to calculate the number of leap years in a given date range.",
+  "tasks": [
+    "Task 1: Initialize a numeric variable to keep track of the number of leap years.",
+    "Task 2: Create a loop that goes through each year in the given date range.",
+    "Task 3: For each year, determine if it's a leap year and update your count accordingly."
+  ],
+  "pre_thinking_prompts": [
+    "What is a leap year and why do we have them?",
+    "How would you determine if a year is a leap year?",
+    "What kind of loop would be most effective for this task and why?"
+  ],
+  "reflection_prompt": "Reflect on the process of creating this algorithm. What did you find challenging? What did you learn about leap years, loops, and variables?",
+  "ai_tutor_prompts": [
+    "Can you explain why we need to initialize a numeric variable at the start?",
+    "Why did you choose this specific type of loop for this task?",
+    "How does the program determine if a year is a leap year?"
+  ],
+  "remix_zone": "Try to modify your program to calculate the number of leap years in a different date range, or to calculate the number of a specific day of the week (like Monday) in a given date range.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

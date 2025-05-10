@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra II",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic principles to solve real-world problems and interpret the results?",
+  "short_background_context": "The Regents Examination in Algebra II is a comprehensive test that assesses students' understanding of various algebraic principles. It includes constructed-response questions that require students to apply their knowledge to solve problems and interpret the results. The exam is scored by a minimum of three mathematics teachers, with each teacher scoring approximately one-third of the constructed-response questions on a student's paper. The scores are then converted to a scale score using a conversion chart provided by the New York State Education Department. This mission will allow you to practice the skills necessary to succeed on this exam.",
+  "tasks": [
+    "Analyze a set of data and use algebraic principles to make predictions about future data points.",
+    "Solve a complex real-world problem using algebraic equations and interpret the results.",
+    "Create a geometric model that represents a real-world scenario and use algebra to solve for unknown variables."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic principles do you think will be most useful in solving these tasks?",
+    "What strategies can you use to approach complex problems?",
+    "How can you use algebra to make predictions about data?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? What strategies were most effective in solving the tasks? What areas do you need to improve on?",
+  "ai_tutor_prompts": [
+    "Can you explain why you used that particular algebraic principle?",
+    "What other strategies could you have used to solve this problem?",
+    "How does your solution relate to the real-world scenario?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own real-world scenarios to model with algebra. They could also adjust the complexity of the tasks to challenge themselves further.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

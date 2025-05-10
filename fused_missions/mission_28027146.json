@@ -1,0 +1,37 @@
+{
+  "title": "AP Computer Science A: Calendar Scoring Guidelines",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we apply algebra and statistics to solve real-world problems in computer science, specifically in the context of a calendar system?",
+  "short_background_context": "In the AP Computer Science A exam, students are often required to solve complex problems using their understanding of computer science principles. One such problem is based on a calendar system, where students are required to calculate the number of leap years in a range and determine the day of the week for a given date. This problem not only tests their understanding of computer science but also their ability to apply algebra and statistics in a real-world context. This mission will guide you through the process of solving such a problem, helping you understand the application of these subjects in a practical scenario.",
+  "tasks": [
+    {
+      "task": "Write a function to calculate the number of leap years in a given range."
+    },
+    {
+      "task": "Write a function to determine the day of the week for a given date."
+    },
+    {
+      "task": "Analyze the scoring guidelines and understand how points are awarded for correct solutions and deducted for errors."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are the rules for determining if a year is a leap year?",
+    "How can you determine the day of the week for a given date?",
+    "What are some potential errors you could make in your code and how can you avoid them?"
+  ],
+  "reflection_prompt": "Reflect on the process of solving this problem. What challenges did you face and how did you overcome them? What did you learn about the application of algebra and statistics in computer science?",
+  "ai_tutor_prompts": [
+    "Can you explain your approach to solving this problem?",
+    "What steps did you take to ensure your code is correct?",
+    "How did you apply your understanding of algebra and statistics to solve this problem?"
+  ],
+  "remix_zone": "Try modifying the problem to calculate the number of weekends in a given year or determine the day of the week for a specific date in the future.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

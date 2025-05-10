@@ -1,0 +1,31 @@
+{
+  "title": "Exploring Data: Length of Stay in a Hospital",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we use statistical measures to understand and interpret the distribution of length of stay in a hospital?",
+  "short_background_context": "Statistics is a mathematical science that involves the collection, analysis, interpretation, presentation, and organization of data. In this mission, we will focus on a real-world scenario: the length of stay of patients in a hospital. We will explore measures of central tendency and dispersion, specifically the five-number summary (minimum, lower quartile, median, upper quartile, and maximum) and the concept of outliers. We will also compare two methods of identifying outliers, providing a deeper understanding of how statistics can be applied to real-world data.",
+  "tasks": [
+    "Calculate the five-number summary of the distribution of length of stay in the hospital.",
+    "Identify the outliers using method A (1.5 IQR rule) and method B (2 standard deviations rule).",
+    "Justify your findings and explain the implications of these outliers on the overall data analysis."
+  ],
+  "pre_thinking_prompts": [
+    "What is a five-number summary and how is it calculated?",
+    "What is an outlier and why is it important in data analysis?",
+    "What are the differences between method A and method B of identifying outliers?"
+  ],
+  "reflection_prompt": "Reflect on the process of calculating the five-number summary and identifying outliers. What did you find challenging and why? How did this mission deepen your understanding of data analysis in statistics?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that number as the median?",
+    "Why did you consider this value as an outlier?",
+    "How does the presence of outliers affect your interpretation of the data?"
+  ],
+  "remix_zone": "Students could remix this problem by gathering and analyzing data from a different real-world scenario, such as the distribution of grades in a class or the ages of people in a city.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

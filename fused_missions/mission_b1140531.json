@@ -1,0 +1,32 @@
+{
+  "title": "Algebra I Regents High School Examination",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can you apply algebraic, statistical, and geometric concepts to solve real-world problems presented in a high school examination format?",
+  "short_background_context": "This mission is based on the Algebra I Regents High School Examination from the University of the State of New York. The examination is designed to test students' understanding and application of algebraic concepts, with some elements of statistics and geometry. The exam requires the use of a graphing calculator and a straightedge, and students must answer a variety of questions, including multiple-choice and open-ended problems. Diagrams, graphs, and other visual aids may be used, and students are expected to clearly indicate their steps and reasoning.",
+  "tasks": [
+    "Task 1: Solve a set of algebraic problems, including factorization and equation solving. Show all steps and reasoning.",
+    "Task 2: Analyze and interpret statistical data presented in various formats. Use your understanding of statistics to answer related questions.",
+    "Task 3: Apply geometric concepts to solve problems. Use a straightedge to create accurate diagrams and graphs where necessary."
+  ],
+  "pre_thinking_prompts": [
+    "What algebraic concepts do you think will be most important for this mission?",
+    "How might statistics and geometry be incorporated into an algebra exam?",
+    "What strategies will you use to solve complex problems and show your reasoning?"
+  ],
+  "reflection_prompt": "Reflect on your performance on this mission. What concepts did you find most challenging, and how did you overcome those challenges? What strategies were most effective for you?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "How does this concept relate to what you've learned previously?",
+    "What would happen if you changed this part of the equation or diagram?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own algebra, statistics, or geometry problems for their peers to solve. They could also modify the existing problems to make them more challenging or to focus on different concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

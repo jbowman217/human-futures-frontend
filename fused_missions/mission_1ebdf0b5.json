@@ -1,0 +1,31 @@
+{
+  "title": "Modeling a Periodic Context: The Rolling Tire",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Geometry"
+  ],
+  "driving_question": "How can we model the height of a point on a rolling tire using a sinusoidal function?",
+  "short_background_context": "The tire of a car has a radius of 9 inches, and a person rolls the tire forward at a constant rate on level ground. Point W on the edge of the tire touches the ground at certain intervals. The tire completes a full rotation, and the next time W touches the ground is at different time intervals. The maximum height of W above the ground is 18 inches. As the tire rolls, the height of W above the ground periodically increases and decreases. The sinusoidal function h models the height of point W above the ground, in inches, as a function of time t, in seconds.",
+  "tasks": [
+    "Task 1: Determine possible coordinates (t,h(t)) for the five points: F, G, J, K, and P.",
+    "Task 2: Write the function h in the form ( ) ( )( )sin ht a bt c d= ++ . Find values of constants a, b, c, and d.",
+    "Task 3: Based on your model, predict the height of point W at a specific time."
+  ],
+  "pre_thinking_prompts": [
+    "What does a sinusoidal function look like?",
+    "How does the height of point W change over time?",
+    "What do the constants a, b, c, and d represent in the function?"
+  ],
+  "reflection_prompt": "What did you learn about modeling real-world situations with sinusoidal functions? How confident are you in your ability to interpret and construct these models?",
+  "ai_tutor_prompts": [
+    "What does the height of point W represent in the real world?",
+    "How does changing the values of a, b, c, and d affect the function?",
+    "Can you think of other real-world situations that could be modeled with a sinusoidal function?"
+  ],
+  "remix_zone": "Students could remix the problem by changing the radius of the tire, the rate at which it rolls, or the maximum height of point W above the ground. They could also consider a different point on the tire.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

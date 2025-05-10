@@ -1,0 +1,34 @@
+{
+  "title": "Understanding and Applying New York State Mathematics Standards",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Health",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply the New York State P-12 Learning Standards for Mathematics to real-world problems?",
+  "short_background_context": "In 2013, New York State (NYS) began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. The tests are designed to measure students' understanding of standard algorithms and conceptual standards. The questions are often framed within the context of real-world applications and require students to complete multiple steps. In 2021, due to the ongoing COVID-19 pandemic, the tests included previously administered questions and were used solely as a measure of student learning.",
+  "tasks": [
+    "Analyze and interpret a set of previously administered multiple-choice questions from the New York State Mathematics Test.",
+    "Apply the New York State P-12 Learning Standards for Mathematics to solve a real-world problem.",
+    "Create a new multiple-choice question that could be included in a future New York State Mathematics Test, ensuring it aligns with the P-12 Learning Standards and requires the application of multiple standards."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the New York State P-12 Learning Standards for Mathematics?",
+    "How would you approach solving a real-world problem using these standards?",
+    "What elements would you include in a multiple-choice question to ensure it aligns with the standards and is rigorous enough to be included in the state test?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the New York State P-12 Learning Standards for Mathematics before and after this mission. How confident do you feel in applying these standards to real-world problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the real-world problem?",
+    "How does your multiple-choice question align with the P-12 Learning Standards?",
+    "What other real-world scenarios could you apply these standards to?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different state's mathematics standards to study and apply, or by creating a set of multiple-choice questions instead of just one.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

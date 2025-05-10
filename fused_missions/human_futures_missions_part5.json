@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Understanding Statistical Analysis in Real World Contexts",
+    "grade_band": "9-12",
+    "subjects": ["Algebra", "Statistics", "Economics"],
+    "driving_question": "How can we use statistical analysis to make meaningful comparisons in real-world contexts?",
+    "short_background_context": "Students analyze soft drink consumption rates in different cities, learning the importance of proportion vs. raw counts in research.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Calculate soft drink consumption proportions across cities.",
+        "materials": [],
+        "hint": "Proportion = count divided by total population."
+      },
+      {
+        "task_text": "Critique research claims based on raw counts.",
+        "materials": [],
+        "hint": "Raw counts ignore differences in population size."
+      },
+      {
+        "task_text": "Propose improved methods for comparing groups.",
+        "materials": [],
+        "hint": "Consider using normalized rates or per capita comparisons."
+      }
+    ],
+    "reflection_prompt": "How did statistical reasoning change your interpretation of group comparisons?",
+    "remix_zone": "Students remix by applying proportion analysis to food insecurity, technology access, or voting rates.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Access to Clean Water: A Justice-Focused Challenge",
+    "grade_band": "9-12",
+    "subjects": ["Economics", "Climate", "Statistics", "History", "Health", "Ethics", "Algebra"],
+    "driving_question": "How can we use interdisciplinary thinking to improve access to clean water in underserved communities?",
+    "short_background_context": "Students model economic and health impacts of water scarcity, analyze geographic patterns, and propose policy solutions.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Model economic and health effects of lack of clean water.",
+        "materials": [],
+        "hint": "Consider costs of waterborne diseases, lost work hours, and healthcare expenses."
+      },
+      {
+        "task_text": "Analyze data on clean water access globally.",
+        "materials": [],
+        "hint": "Look at distribution patterns, climate vulnerabilities, and economic inequalities."
+      },
+      {
+        "task_text": "Propose a local or global clean water access intervention.",
+        "materials": [],
+        "hint": "Balance cost, speed, and community impact."
+      }
+    ],
+    "reflection_prompt": "How can simple data-driven thinking shift global justice outcomes?",
+    "remix_zone": "Students remix by focusing on different geographies or designing low-cost water purification solutions.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "The Economic and Social Impact of Incarceration",
+    "grade_band": "9-12",
+    "subjects": ["Economics", "Climate", "Statistics", "Geometry", "History", "Health", "Ethics", "Algebra"],
+    "driving_question": "What is the true cost of incarceration in the United States and how does it affect different groups in society?",
+    "short_background_context": "Students quantify direct and indirect costs of incarceration, map burdens across social groups, and propose more just approaches to justice systems.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Identify economic and social costs tied to incarceration.",
+        "materials": [],
+        "hint": "Look at direct costs (prison funding) and indirect costs (community impacts)."
+      },
+      {
+        "task_text": "Model total societal burden from available cost studies.",
+        "materials": [],
+        "hint": "Aggregate different cost categories over time and by group."
+      },
+      {
+        "task_text": "Propose alternative systems prioritizing public health and equity.",
+        "materials": [],
+        "hint": "Think about community-led interventions, public health alternatives, or restorative justice."
+      }
+    ],
+    "reflection_prompt": "How does thinking economically about incarceration shift traditional views on justice?",
+    "remix_zone": "Students remix by proposing justice reforms in education, housing, or environmental justice systems.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  },
+  {
+    "title": "Assessing the Legacies of Historical Redlining: Correlations with Measures of Modern Housing Instability",
+    "grade_band": "High School",
+    "subjects": ["History", "Social Studies", "Economics"],
+    "driving_question": "How have historical redlining policies affected current housing instability in the United States?",
+    "short_background_context": "Students connect the historical legacy of redlining to modern measures of housing instability, and propose reparative policies or strategies.",
+    "pre_thinking_prompts": [
+      "What ideas or thoughts come to mind?",
+      "What questions come to mind?"
+    ],
+    "tasks": [
+      {
+        "task_text": "Research history of redlining.",
+        "materials": [],
+        "hint": "Look at federal housing maps and loan policies of the early 20th century."
+      },
+      {
+        "task_text": "Analyze correlation with housing instability indicators.",
+        "materials": [],
+        "hint": "Overlay redlining maps with modern eviction, foreclosure, or poverty rates."
+      },
+      {
+        "task_text": "Propose reparative or mitigation strategies.",
+        "materials": [],
+        "hint": "Focus on restoring community wealth and correcting disinvestment."
+      }
+    ],
+    "reflection_prompt": "How does seeing historical patterns in modern data reshape your understanding of justice?",
+    "remix_zone": "Students remix by analyzing redlining impacts on education, health, political participation, or climate vulnerability.",
+    "display": {
+      "graph_builder": true,
+      "text_area": true
+    }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "title": "Space Weather and Satellite Engineering",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How does space weather affect the design and operation of satellites?",
+  "short_background_context": "This mission is based on a series of space science problems originally distributed to teachers during the 2004-2005 school year by NASA's IMAGE satellite program. The problems provide authentic glimpses into modern engineering issues that arise in designing satellites to work in space. They also offer insight into the basic phenomena of the Sun-Earth system, specifically 'Space Weather'. These problems were designed to be 'one-pagers', compact and engaging, popular among participating teachers.",
+  "tasks": [
+    {
+      "task": "Construct a timeline of events from two accounts of an aurora to identify common elements."
+    },
+    {
+      "task": "Study tabulated data and draw statistical conclusions about the relationship between sunspots and solar flares."
+    },
+    {
+      "task": "Calculate the areas of simple solar cell patterns and calculate the total power for these shapes."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about space weather and its effects on Earth?",
+    "How do you think space weather might affect satellites?",
+    "What are some ways engineers might design satellites to withstand space weather?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about the relationship between space weather and satellite engineering. How has your understanding of this topic changed?",
+  "ai_tutor_prompts": [
+    "Can you explain your reasoning for that answer?",
+    "What evidence supports your conclusion?",
+    "How might you approach this problem differently?"
+  ],
+  "remix_zone": "Students could remix this problem by researching and incorporating additional real-world data on space weather events and their effects on satellite operations.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

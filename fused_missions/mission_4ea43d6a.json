@@ -1,0 +1,33 @@
+{
+  "title": "Exploring Calculus Concepts in Real-World Scenarios",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply calculus concepts to solve real-world problems involving bacterial growth and particle movement?",
+  "short_background_context": "Calculus is a branch of mathematics that deals with rates of change and accumulation of quantities. It is used in many fields, including physics, engineering, economics, statistics, and medicine. In this mission, we will explore two real-world scenarios: the growth of a bacteria population in a petri dish and the movement of a particle in the xy-plane. We will use calculus concepts such as differentiation, integration, and Riemann sums to solve these problems. The aim is to deepen your understanding of these concepts and see how they can be applied in real-world situations.",
+  "tasks": [
+    "Estimate the rate of change of the bacteria population at a certain point using the given data and interpret the meaning of your answer in the context of the problem.",
+    "Approximate the total mass of bacteria in the petri dish using a right Riemann sum with the subintervals indicated by the data in the table.",
+    "Find the speed and acceleration of the particle at a certain time, the total distance traveled by the particle over a time interval, and the coordinates of the point at which the particle is farthest to the left."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about rates of change and how they can be calculated?",
+    "What is a Riemann sum and how can it be used to approximate an integral?",
+    "How can you calculate speed and acceleration from a velocity vector?"
+  ],
+  "reflection_prompt": "What did you learn about applying calculus concepts to solve real-world problems? How did your understanding of these concepts deepen through this mission?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that method to estimate the rate of change?",
+    "Why did you choose a right Riemann sum to approximate the integral?",
+    "Can you explain how you calculated the speed and acceleration from the velocity vector?"
+  ],
+  "remix_zone": "Consider a different scenario, such as the spread of a disease in a population or the movement of a planet in space. How could you apply the same calculus concepts to solve problems in these scenarios?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

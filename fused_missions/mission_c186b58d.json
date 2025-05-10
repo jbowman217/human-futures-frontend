@@ -1,0 +1,28 @@
+{
+  "title": "Engineering the Future: Applying Algebra in Engineering",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra"
+  ],
+  "driving_question": "How can we apply algebraic concepts to solve real-world engineering problems?",
+  "short_background_context": "The University of Texas at Austin, in collaboration with NASA engineers and secondary education specialists, has developed an innovative high school engineering course called Engineer Your World. This course aims to transform how engineering is taught in high schools across the United States. It encourages students to understand and appreciate the engineering approach to problem-solving, regardless of whether they decide to pursue engineering as a career. The course is efficient, human-centered, and focuses on contextual learning. Students collaborate to construct their own understanding within the parameters of the engineering design process. They discover connections between abstract concepts and practical applications by using science, mathematics, and engineering concepts to solve real-world problems.",
+  "tasks": [
+    "Identify a real-world problem that can be solved using engineering principles and algebraic concepts.",
+    "Design a solution for the identified problem using the engineering design process.",
+    "Apply algebraic concepts to optimize your design and present your findings."
+  ],
+  "pre_thinking_prompts": [
+    "What are some real-world problems you think could be solved using engineering principles?",
+    "How can algebraic concepts be applied in engineering design?"
+  ],
+  "reflection_prompt": "Reflect on the process of applying algebraic concepts in your engineering design. What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you think of other ways to apply algebra in solving this problem?",
+    "How might you further optimize your design using algebraic concepts?"
+  ],
+  "remix_zone": "Consider a different real-world problem. How might you apply the same engineering and algebraic principles to solve it?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Understanding Mass Incarceration: A Multidisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How does mass incarceration impact our society, and what factors contribute to it?",
+  "short_background_context": "Mass incarceration refers to the extensive imprisonment of people in the United States. It's a complex issue involving various government agencies and systems, including federal, state, local, and tribal systems. These systems collectively hold almost 2 million people in various types of facilities. The reasons for incarceration vary, and understanding them is crucial for reform. During the COVID-19 pandemic, prison and jail populations saw significant reductions, but these were temporary changes rather than permanent policy shifts. This mission will help you understand the dynamics of mass incarceration, its impact on society, and the factors contributing to it.",
+  "tasks": [
+    "Analyze the data on mass incarceration and create a detailed report highlighting the major contributing factors.",
+    "Investigate the economic impact of mass incarceration on local and national levels.",
+    "Design a reform policy proposal aimed at reducing mass incarceration rates, considering ethical, health, and social perspectives."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about mass incarceration?",
+    "What factors do you think contribute to mass incarceration?",
+    "How do you think mass incarceration impacts society?"
+  ],
+  "reflection_prompt": "Reflect on what you have learned about mass incarceration. How has your understanding of the issue changed? What surprised you the most?",
+  "ai_tutor_prompts": [
+    "Can you explain the connection between mass incarceration and economics?",
+    "How does the data support your conclusions?",
+    "What ethical considerations did you take into account in your reform policy proposal?"
+  ],
+  "remix_zone": "Students could remix this problem by focusing on the impact of mass incarceration on a specific demographic or exploring the role of private prisons in mass incarceration.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

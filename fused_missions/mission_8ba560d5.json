@@ -1,0 +1,33 @@
+{
+  "title": "Regents Geometry Examination Exploration",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the principles of Algebra, Statistics, Economics, and Geometry to solve real-world problems?",
+  "short_background_context": "You are about to embark on a journey through the Regents High School Examination in Geometry. This examination is used by the New York State Education Department to assess students' understanding and application of geometry concepts. The exam includes constructed-response questions, which require you to generate and write out your solutions. The scoring process is rigorous and involves multiple mathematics teachers. Your task is not only to solve these problems but also to understand the scoring process and how you can maximize your score.",
+  "tasks": [
+    "Analyze the scoring process for the Regents Examination in Geometry and discuss how understanding this process can help you maximize your score.",
+    "Choose a constructed-response question from a past Regents Examination in Geometry. Solve the problem, explaining your process and reasoning.",
+    "Create your own constructed-response question that could potentially appear on a future Regents Examination in Geometry. Include a detailed solution."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about the Regents Examination in Geometry?",
+    "What strategies do you typically use when solving constructed-response questions?",
+    "How do you think understanding the scoring process might influence how you approach these problems?"
+  ],
+  "reflection_prompt": "Reflect on your experience with this mission. How has your understanding of the Regents Examination in Geometry and its scoring process changed? How will you apply what you've learned to future problem-solving tasks?",
+  "ai_tutor_prompts": [
+    "Can you explain your reasoning in more detail?",
+    "How might you approach this problem differently?",
+    "What other methods could you use to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this mission by choosing a different subject area for the Regents Examination, such as Algebra or Statistics. They could also create a study guide or tutorial for other students preparing for the Regents Examination in Geometry.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

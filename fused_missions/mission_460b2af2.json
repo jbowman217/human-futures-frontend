@@ -1,0 +1,32 @@
+{
+  "title": "Algebra II: Graphing and Interpretation",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use algebra and graphing to solve real-world problems and interpret the results?",
+  "short_background_context": "This mission is based on the Algebra II Regents High School Examination from the University of the State of New York. The original exam required students to answer a series of questions, demonstrating their understanding of algebraic concepts, including graphing, formula substitutions, and interpretation of diagrams. In this mission, we will focus on the concept of graphing, specifically the graphing of the function y = 3.2(1.8)^x. This function represents an exponential growth model, which is a common occurrence in various real-world scenarios such as economics and statistics.",
+  "tasks": [
+    "Task 1: Graph the function y = 3.2(1.8)^x on a graph builder. Include all necessary steps and explanations.",
+    "Task 2: Interpret the graph. What does the graph tell us about the relationship between x and y?",
+    "Task 3: Apply the function to a real-world scenario. For example, consider the function as a model for economic growth or population growth. What would x and y represent in this context? What would the graph tell us about this scenario?"
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about graphing exponential functions?",
+    "What does the equation y = 3.2(1.8)^x represent?",
+    "How might this function apply to a real-world scenario?"
+  ],
+  "reflection_prompt": "What did you learn from this mission? How did graphing the function help you understand its meaning and potential applications?",
+  "ai_tutor_prompts": [
+    "What does the 'x' represent in our function?",
+    "Can you explain why the graph has the shape it does?",
+    "How does the base of the exponent, 1.8, affect the graph and the real-world scenario it represents?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different exponential function to graph and interpret, or by applying the function to a different real-world scenario.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

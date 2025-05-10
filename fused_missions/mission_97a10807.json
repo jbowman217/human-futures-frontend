@@ -1,0 +1,37 @@
+{
+  "title": "Exploring Next Generation Science Standards",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can the Next Generation Science Standards be used to guide interdisciplinary learning in high school?",
+  "short_background_context": "The Next Generation Science Standards (NGSS) are a set of educational standards that aim to prepare students for college, career, and citizenship. They are based on the Framework for K-12 Science Education developed by the National Research Council. The NGSS are arranged by Disciplinary Core Ideas and by Topics, covering a wide range of subjects. As future citizens, it's crucial for students to understand these standards and how they guide their learning journey.",
+  "tasks": [
+    "Task 1: Analyze the structure of the Next Generation Science Standards and identify the core ideas and topics covered.",
+    "Task 2: Choose one of the core ideas or topics from the NGSS and research how it is applied in real-world contexts.",
+    "Task 3: Develop a project proposal that integrates at least three subjects listed above and aligns with the chosen core idea or topic from the NGSS."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the Next Generation Science Standards?",
+    "Why do you think these standards are important for your learning?",
+    "What subjects are you interested in and how do they connect with the NGSS?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the NGSS has evolved. How can these standards guide your future learning and career aspirations?",
+  "ai_tutor_prompts": [
+    "Can you elaborate on why you chose this particular core idea or topic?",
+    "How does your project proposal align with the NGSS?",
+    "What challenges did you face while integrating different subjects into your project proposal?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing different core ideas or topics from the NGSS, or by integrating additional subjects into their project proposal.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

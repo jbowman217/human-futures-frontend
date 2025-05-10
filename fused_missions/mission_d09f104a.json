@@ -1,0 +1,42 @@
+{
+  "title": "Space Mathematics: Understanding Aerospace Technology through Math",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "History",
+    "Algebra"
+  ],
+  "driving_question": "How can mathematical knowledge and skills enhance our understanding of aerospace technology and its achievements?",
+  "short_background_context": "Aerospace technology has made significant strides over the years, with mathematical applications playing a crucial role in its development. This mission aims to supplement your high school level mathematics with activities designed to enhance your mathematical knowledge and skills, and to assist you in understanding aerospace technology and its achievements. You will explore various mathematical aspects of recent NASA missions, computation and measurement, algebra, geometry, probability and statistics, and more. The goal is to understand how these mathematical topics are applied in the real-world context of aerospace technology.",
+  "tasks": [
+    {
+      "task_title": "Mathematical Aspects of Recent NASA Missions",
+      "task_description": "Research and present a report on how mathematics played a role in a recent NASA mission."
+    },
+    {
+      "task_title": "Computation and Measurement in Aerospace",
+      "task_description": "Design a hypothetical spacecraft using principles of geometry and algebra. Explain the computations and measurements involved."
+    },
+    {
+      "task_title": "Probability and Statistics in Space Exploration",
+      "task_description": "Analyze a dataset related to space exploration (e.g., rocket launches, astronaut health data) using statistical methods."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think are most important in aerospace technology?",
+    "How do you think mathematics contributes to the success of space missions?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the role of mathematics in aerospace technology has changed after completing these tasks.",
+  "ai_tutor_prompts": [
+    "Can you explain more about how you applied this mathematical concept?",
+    "How might you approach this problem differently using another mathematical concept?"
+  ],
+  "remix_zone": "Students could remix the problem by choosing a different area of technology (e.g., robotics, renewable energy) and exploring the role of mathematics within that context.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

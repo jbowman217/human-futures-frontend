@@ -1,0 +1,32 @@
+{
+  "title": "Understanding New York State Mathematics Tests",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we analyze the structure and content of the New York State Mathematics Tests to better understand the expectations for students?",
+  "short_background_context": "Every year, the State Education Department of New York administers Mathematics Tests for Grades 3-8. A significant portion of these tests, including multiple-choice, short-response, and extended-response questions, are released for review and use. These questions are designed to assess the New York State P\u201312 Learning Standards for Mathematics, focusing on standard algorithms, conceptual standards, and real-world applications. They often require students to complete multiple steps and apply various mathematical skills simultaneously. By analyzing these questions, we can gain a better understanding of the test's demands and the Department's expectations for students.",
+  "tasks": [
+    "Analyze a set of multiple-choice questions from the 2022 Mathematics Test and identify the mathematical skills and concepts they assess.",
+    "Review several short-response and extended-response questions, noting the types of tasks students are asked to complete and the real-world applications they incorporate.",
+    "Create a map detailing what each question you reviewed measures and the correct response to each question."
+  ],
+  "pre_thinking_prompts": [
+    "What types of mathematical skills and concepts do you think the test questions will assess?",
+    "How do you think real-world applications are incorporated into the test questions?",
+    "What challenges do you anticipate in mapping the measures and correct responses of each question?"
+  ],
+  "reflection_prompt": "Reflect on the process of analyzing the test questions. What did you learn about the expectations for students? How did this activity challenge your understanding of the Mathematics Tests?",
+  "ai_tutor_prompts": [
+    "Can you explain why you think this question assesses a particular mathematical skill or concept?",
+    "How does this real-world application relate to the mathematical task in the question?",
+    "What strategies did you use to accurately map the measures and correct responses of each question?"
+  ],
+  "remix_zone": "Students could remix this problem by selecting test questions from a different year or a different subject, such as English Language Arts, and conducting a similar analysis.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

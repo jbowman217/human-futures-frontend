@@ -1,0 +1,33 @@
+{
+  "title": "High School Algebra I: Exam Preparation",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic concepts to solve real-world problems and interpret the results?",
+  "short_background_context": "This mission is based on a high school Algebra I examination. The exam tests a variety of algebraic concepts including correlation, functions, and expressions. You will need to solve problems in different contexts, such as sports, shopping, and dining. You will also need to interpret diagrams and graphs. The exam requires clear indication of necessary steps, including appropriate formula substitutions, diagrams, graphs, charts, etc. You will need a graphing calculator and a straightedge (ruler) to complete this mission.",
+  "tasks": [
+    "Task 1: Identify and explain a real-world example of a causal relationship using correlation.",
+    "Task 2: Given a function, determine the output for specific inputs and explain the meaning in the context of the problem.",
+    "Task 3: Write and interpret an expression equivalent to x^2."
+  ],
+  "pre_thinking_prompts": [
+    "What is a causal relationship and how can you identify one in a real-world context?",
+    "How do you determine the output of a function for a specific input?",
+    "How can you write an expression equivalent to x^2?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of correlation, functions, and expressions. Which task was the most challenging and why? How did you overcome the challenge?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that correlation as a causal relationship?",
+    "Why did you choose that value for the function's output?",
+    "Can you explain how you arrived at the equivalent expression for x^2?"
+  ],
+  "remix_zone": "Students can remix this problem by creating their own real-world examples for correlation, functions, and expressions. They can also explore different methods for solving the tasks.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

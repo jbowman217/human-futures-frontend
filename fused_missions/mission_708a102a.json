@@ -1,0 +1,31 @@
+{
+  "title": "Exploring Data: Five-Number Summary and Outliers",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics"
+  ],
+  "driving_question": "How can we use the five-number summary and outlier detection methods to analyze a dataset?",
+  "short_background_context": "In this mission, we will explore the concepts of five-number summary and outlier detection in the context of a real-world scenario: analyzing the length of hospital stays. The five-number summary includes the minimum, lower quartile (Q1), median, upper quartile (Q3), and maximum of a dataset. Outliers are values that are significantly different from other observations in the dataset. There are different methods to identify outliers, and we will focus on two: Method A, which considers a value an outlier if it is greater than 1.5 times the interquartile range (IQR) above Q3 or below Q1, and Method B, which considers a value an outlier if it is 2 or more standard deviations away from the mean.",
+  "tasks": [
+    "Calculate the five-number summary of a given dataset representing the length of hospital stays.",
+    "Identify outliers in the dataset using Method A and justify your findings.",
+    "Identify outliers in the dataset using Method B and justify your findings."
+  ],
+  "pre_thinking_prompts": [
+    "What does the five-number summary tell us about a dataset?",
+    "Why is it important to identify outliers in a dataset?",
+    "How might the two methods of identifying outliers yield different results?"
+  ],
+  "reflection_prompt": "Reflect on how understanding the five-number summary and outliers can help in analyzing real-world datasets. How did the two methods of identifying outliers compare?",
+  "ai_tutor_prompts": [
+    "What does the median tell us about the dataset?",
+    "Can you explain why you identified those values as outliers using Method A?",
+    "Why did you choose those values as outliers using Method B? How does this method differ from Method A?"
+  ],
+  "remix_zone": "Students could remix this problem by using a different dataset, such as test scores or heights of individuals, and applying the same concepts of five-number summary and outlier detection.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Data Science in Everyday Life",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How does data science permeate various aspects of our daily lives and how can we use it to make informed decisions?",
+  "short_background_context": "In the modern world, data is being continually produced and it's transforming practices in academic disciplines and professional life. A whole interdisciplinary field of 'data science' has emerged, spawning training programs and new types of jobs. Whether we are fully aware of it or not, data and data science permeate many aspects of our daily lives. The ability to work with, understand, and use data has already become an essential life skill and a requirement for an ever-expanding range of jobs and careers. In this mission, we will explore how data science integrates into various subjects and how it can be used in our everyday lives.",
+  "tasks": [
+    "Identify and analyze how data science is used in different sectors such as health, economics, and history.",
+    "Design a data-intensive lesson plan on a chosen subject integrating data science principles.",
+    "Evaluate different tools, platforms, environments, and curricula used in data science and data science education."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by 'data science'?",
+    "Can you think of any examples where data science is used in everyday life?",
+    "Why do you think understanding data and data science is important?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of the role of data science in various fields has evolved. How can you apply this knowledge in your daily life?",
+  "ai_tutor_prompts": [
+    "Can you elaborate more on how data science is used in the example you provided?",
+    "What are some challenges you might face while integrating data science into your chosen subject?",
+    "Why did you choose the particular tools or platforms for your data-intensive lesson plan?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different sector or field where data science is applied. They could also explore different tools and platforms used in data science.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

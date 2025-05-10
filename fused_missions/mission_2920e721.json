@@ -1,0 +1,35 @@
+{
+  "title": "Internet Safety: Analyzing K12 Edtech Safety Benchmark",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we analyze and interpret the K12 Edtech Safety Benchmark to understand and improve internet safety in schools?",
+  "short_background_context": "The Internet Society Foundation has funded a project to research and analyze the safety of educational technology (Edtech) in K12 schools. This project has resulted in the K12 Edtech Safety Benchmark, a comprehensive document that provides insights into the current state of internet safety in schools. The benchmark covers various aspects, including the types of apps used in schools, the safety measures in place, and the potential risks and threats. As students who are directly affected by these findings, it's crucial to understand this benchmark, interpret its data, and think critically about how internet safety in schools can be improved.",
+  "tasks": [
+    "Task 1: Analyze and summarize the key findings of the K12 Edtech Safety Benchmark.",
+    "Task 2: Use statistical methods to interpret the data presented in the benchmark.",
+    "Task 3: Develop a proposal for improving internet safety in your school based on the findings of the benchmark."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about internet safety?",
+    "Why is internet safety important in schools?",
+    "What are some potential risks or threats associated with internet use in schools?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the K12 Edtech Safety Benchmark. How has this mission changed or deepened your understanding of internet safety in schools? What steps can you take to improve internet safety in your own school?",
+  "ai_tutor_prompts": [
+    "Can you explain why the findings of the benchmark are significant?",
+    "How did you interpret the data presented in the benchmark?",
+    "What factors did you consider when developing your proposal for improving internet safety?"
+  ],
+  "remix_zone": "Students can remix this problem by focusing on a specific aspect of the benchmark, such as the types of apps used in schools or the safety measures in place. They could also conduct their own survey in their school to compare with the findings of the benchmark.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

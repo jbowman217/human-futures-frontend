@@ -1,0 +1,38 @@
+{
+  "title": "AP Computer Science A: Understanding Scoring Criteria and Code Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand the scoring criteria for AP Computer Science A and apply it to analyze and improve code?",
+  "short_background_context": "The AP Computer Science A exam is a rigorous test that assesses students' understanding of the principles of computer science, including problem solving, design strategies and methodologies, organization of data (data structures), approaches to processing data (algorithms), analysis of potential solutions, and the ethical and social implications of computing. The exam includes a free-response section where students are required to write and analyze code. Understanding the scoring criteria is crucial for success. In this mission, we will explore the scoring guidelines and a sample code to understand how the scoring process works and how to write better code.",
+  "tasks": [
+    {
+      "task": "Review the scoring criteria provided in the source text and summarize the key points."
+    },
+    {
+      "task": "Analyze the sample code 'Sign' provided in the source text. Identify any potential issues based on the scoring criteria."
+    },
+    {
+      "task": "Improve the sample code 'Sign' based on your analysis and the scoring criteria. Explain the changes you made and why."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What do you notice about the scoring criteria for the AP Computer Science A exam?",
+    "What are some common mistakes that could result in penalty points?",
+    "How does the sample code 'Sign' align with the scoring criteria?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the scoring criteria and how it applies to code analysis. How has this mission improved your coding skills and your ability to analyze code?",
+  "ai_tutor_prompts": [
+    "Can you explain why a certain part of the scoring criteria is important?",
+    "What would happen if the sample code 'Sign' had a certain issue that results in penalty points?",
+    "How does your improved version of the 'Sign' code align better with the scoring criteria?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own scoring criteria based on the AP Computer Science A guidelines and applying it to different sample codes.",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

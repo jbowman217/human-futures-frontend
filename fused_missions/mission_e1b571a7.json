@@ -1,0 +1,35 @@
+{
+  "title": "AI and Its Applications in Real Life",
+  "grade_band": "High School",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we use AI to solve real-world problems and inspire innovation?",
+  "short_background_context": "The International Society for Technology in Education (ISTE) is a nonprofit organization that accelerates the use of technology to solve challenging problems and inspire innovation. ISTE sets a bold vision for education transformation through the ISTE Standards, a framework for students, educators, administrators, coaches, and computer science educators to rethink education and create innovative learning environments. This mission is about understanding AI and its practical use in solving real-world problems. Students will be exposed to hands-on AI projects and learn how to apply them in various subjects like economics, geometry, statistics, health, ethics, and algebra.",
+  "tasks": [
+    "Research and present a real-world problem that can be solved using AI.",
+    "Design an AI model to solve the chosen problem and explain how it works.",
+    "Evaluate the ethical implications of using AI in the chosen context."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about AI?",
+    "Can you think of any real-world problems that AI could solve?",
+    "What ethical considerations should we have when using AI?"
+  ],
+  "reflection_prompt": "Reflect on your learning experience. What did you learn about AI and its applications? How did this mission help you understand the use of AI in real-world scenarios?",
+  "ai_tutor_prompts": [
+    "Can you explain more about why you chose this problem?",
+    "How does your AI model solve the problem?",
+    "What are potential ethical issues in your chosen context?"
+  ],
+  "remix_zone": "Students could remix this problem by choosing a different real-world problem, designing a different AI model, or focusing on a different ethical consideration.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

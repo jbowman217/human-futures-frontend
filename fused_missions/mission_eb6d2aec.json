@@ -1,0 +1,32 @@
+{
+  "title": "Algebra and Geometry in Real World Contexts",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply algebraic and geometric principles to solve real-world problems?",
+  "short_background_context": "This mission is inspired by the Regents High School Examination in Algebra I from the University of the State of New York. The examination tests students' understanding and application of algebraic concepts, including solving equations, interpreting graphs, and reasoning mathematically. In this mission, you will be tasked with solving similar problems, requiring you to apply your knowledge of algebra, statistics, and geometry. Remember, diagrams are not necessarily drawn to scale, and a correct numerical answer with no work shown will receive only partial credit.",
+  "tasks": [
+    {
+      "task": "Create a graph based on a given function and interpret its key features."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What strategies can you use to solve the equation?",
+    "How can you identify the zeros of a function from its graph?",
+    "What key features should you look for when interpreting a graph?"
+  ],
+  "reflection_prompt": "Reflect on the strategies you used to solve these problems. Which strategies were most effective? What did you learn about interpreting graphs and solving equations?",
+  "ai_tutor_prompts": [
+    "Can you explain your reasoning in more detail?",
+    "What other strategies could you use to solve this problem?",
+    "How does this graph relate to the function?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own algebraic equations or functions to graph. They could also explore different methods for solving the equation or interpreting the graph.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

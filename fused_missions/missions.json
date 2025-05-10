@@ -1,0 +1,54 @@
+
+[
+  {
+    "title": "Understanding Black Holes",
+    "short_background_context": "This mission explores the math and science behind black holes.",
+    "tasks": [
+      {
+        "task_text": "Graph the escape velocity curve near a black hole's event horizon.",
+        "hint": "Use the Schwarzschild radius formula.",
+        "materials": [
+          {
+            "type": "svg",
+            "link": "/materials/blackhole-escape.svg",
+            "description": "Escape velocity diagram"
+          },
+          {
+            "type": "md",
+            "link": "/materials/blackhole-notes.md",
+            "description": "Mission notes"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+[
+  {
+    "title": "Understanding Black Holes",
+    "short_background_context": "This mission explores the math and science behind black holes.",
+    "tasks": [
+      {
+        "task_text": "Graph the escape velocity curve near a black hole's event horizon.",
+        "hint": "Use the Schwarzschild radius formula.",
+        "materials": [
+          {
+            "type": "svg",
+            "link": "/materials/blackhole-escape.svg",
+            "description": "Escape velocity diagram"
+          },
+          {
+            "type": "md",
+            "link": "/materials/blackhole-notes.md",
+            "description": "Mission notes"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+

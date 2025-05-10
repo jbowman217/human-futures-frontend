@@ -1,0 +1,32 @@
+{
+  "title": "Probability and Sampling Distributions",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use probability and sampling distributions to solve real-world problems?",
+  "short_background_context": "In the world of gaming, there are often rewards and prizes that can be won. These rewards are usually determined by probability, a mathematical concept that measures the likelihood of an event happening. In this mission, we will be looking at a game where players open geodes to find a red crystal. The probability of finding a red crystal in a geode is 0.08. We will be using the concepts of mean, standard deviation, and geometric distribution to solve problems related to this game scenario.",
+  "tasks": [
+    "Task 1: Calculate the mean and standard deviation of the number of geodes a player opens until finding a red crystal.",
+    "Task 2: Calculate the probability of a player opening 3 geodes and not finding a red crystal.",
+    "Task 3: Calculate the probability of a player opening 4 geodes and either not finding a red crystal or finding a red crystal on the fourth geode."
+  ],
+  "pre_thinking_prompts": [
+    "What does the mean represent in this context?",
+    "What does the standard deviation represent in this context?",
+    "How can we calculate the probability of an event happening?"
+  ],
+  "reflection_prompt": "Reflect on how you used the concepts of mean, standard deviation, and geometric distribution to solve the tasks. What did you find challenging and how did you overcome it?",
+  "ai_tutor_prompts": [
+    "Can you explain how you calculated the mean?",
+    "How did you calculate the standard deviation?",
+    "What method did you use to calculate the probability?"
+  ],
+  "remix_zone": "Students could remix the problem by changing the probability of finding a red crystal in a geode, or by changing the number of geodes opened.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Understanding and Applying Algebraic Concepts",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can algebraic concepts be applied to solve real-world problems and interpret data?",
+  "short_background_context": "Algebra is a branch of mathematics that deals with symbols and the rules for manipulating those symbols. In this mission, we will explore some real-world problems that require the application of algebraic concepts. We will examine a dog walker's speed during a 30-minute walk, the relation of a set of coordinates, and the cost model of a jet ski rental company. These problems will require us to interpret data, understand relations and functions, and apply algebraic formulas. By the end of this mission, you should be able to apply algebraic concepts to solve problems and make informed decisions.",
+  "tasks": [
+    "Analyze the graph representing a dog walker's speed during his 30-minute walk and determine what the dog walker was doing during the 12-18 minute interval of his walk.",
+    "Given the relation {(0,4), (2,6), (4,8), ( x,7)}, determine the value of x that will make this relation a function.",
+    "Interpret the function R(x) = 30 + 40x, which models the total cost of renting a jet ski from the Speedy Jet Ski Rental Company. Identify what R(x) and x represent in this context."
+  ],
+  "pre_thinking_prompts": [
+    "What does the graph tell you about the dog walker's speed during his walk?",
+    "How can you determine if a relation is a function?",
+    "What do you think the variables in the function R(x) = 30 + 40x represent?"
+  ],
+  "reflection_prompt": "Reflect on how you applied algebraic concepts to solve these tasks. What strategies were most helpful? What did you learn about interpreting data and making decisions based on algebraic models?",
+  "ai_tutor_prompts": [
+    "Can you explain how you interpreted the graph?",
+    "What criteria did you use to determine if the relation is a function?",
+    "How did you interpret the function R(x) = 30 + 40x in the context of the jet ski rental?"
+  ],
+  "remix_zone": "Consider a different scenario where you could apply these algebraic concepts. For example, you could create a graph representing a different situation, come up with a new set of coordinates for a relation, or create a new cost model for a different service or product.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

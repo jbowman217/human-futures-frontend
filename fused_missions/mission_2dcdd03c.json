@@ -1,0 +1,32 @@
+{
+  "title": "AP Statistics: Hypothesis Testing and Inference",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use hypothesis testing to make inferences about population means?",
+  "short_background_context": "In the world of statistics, hypothesis testing is a critical tool used to make inferences about population parameters based on sample data. This mission is based on an AP Statistics question that focuses on hypothesis testing, specifically the matched pairs t-test for a mean difference. The scenario involves a medical study comparing the effects of a placebo and omega-3 on irritability scores in patients with a specific medical condition. You will be tasked with formulating null and alternative hypotheses, identifying the appropriate hypothesis test, verifying the conditions for the test, calculating the test statistic and corresponding p-value, and drawing a conclusion based on your findings.",
+  "tasks": [
+    "Formulate the null and alternative hypotheses for the given scenario.",
+    "Identify the appropriate hypothesis test and verify the conditions for this test.",
+    "Calculate the test statistic and corresponding p-value, and draw a conclusion based on these results."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by null and alternative hypotheses?",
+    "How do you identify the appropriate hypothesis test?",
+    "What is the significance of the p-value in hypothesis testing?"
+  ],
+  "reflection_prompt": "Reflect on the process of conducting a hypothesis test. What did you find challenging? What did you learn about the relationship between the p-value and the conclusion of the test?",
+  "ai_tutor_prompts": [
+    "Why did you choose that particular hypothesis test?",
+    "Can you explain how you verified the conditions for the test?",
+    "How did you interpret the p-value in relation to your hypotheses?"
+  ],
+  "remix_zone": "Consider a different medical condition and treatment. How would you formulate the hypotheses and conduct the hypothesis test in this new context?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

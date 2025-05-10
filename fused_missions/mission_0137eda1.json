@@ -1,0 +1,33 @@
+{
+  "title": "Understanding New York State Mathematics Test Questions",
+  "grade_band": "Grade 8",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Geometry"
+  ],
+  "driving_question": "How can we understand and solve various types of math questions from the New York State Mathematics Test?",
+  "short_background_context": "In May 2022, New York State administered the Mathematics Tests and has now made approximately 75% of the questions from these tests available for review and use. These test questions are designed to assess the New York State P\u201312 Learning Standards for Mathematics and cover various aspects of mathematics including algebra, statistics, and geometry. The questions are of different types - multiple choice, short response, and extended response - each requiring the application of different skills and concepts. This mission will help you understand and solve these types of questions.",
+  "tasks": [
+    "Analyze and solve a set of multiple-choice questions from the released test materials.",
+    "Understand and respond to a set of short-response questions, showing your work and explaining your reasoning.",
+    "Work on a set of extended-response questions, demonstrating your understanding of mathematical procedures, concepts, and applications."
+  ],
+  "pre_thinking_prompts": [
+    "What types of math problems do you expect to see in these test questions?",
+    "What strategies do you plan to use to solve these problems?",
+    "How do you plan to show your work and reasoning in the short and extended response questions?"
+  ],
+  "reflection_prompt": "Reflect on your performance on these tasks. What strategies worked well? What challenges did you face and how did you overcome them? What did you learn about your mathematical understanding and skills?",
+  "ai_tutor_prompts": [
+    "What steps did you take to solve this problem?",
+    "Can you explain your reasoning behind this solution?",
+    "How does this problem relate to the concepts we've learned in class?",
+    "What other strategies could you have used to solve this problem?"
+  ],
+  "remix_zone": "Students could remix this problem by creating their own multiple-choice, short-response, and extended-response questions based on the concepts covered in the test materials. They could then exchange these questions with classmates to solve.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "AP Computer Science A: Methods and Control Structures",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply methods and control structures in a real-world context?",
+  "short_background_context": "In this mission, we will dive into the world of AP Computer Science A, focusing on methods and control structures. You will be working with a sample problem from the AP exam, which involves scoring guidelines and student responses. The problem revolves around designing a scoring system for a game with three levels and a bonus round. You will need to understand and apply concepts such as arrays, local variables, and methods in order to solve the problem. The goal is to deepen your understanding of these concepts and enhance your problem-solving skills in computer science.",
+  "tasks": [
+    "Analyze the given scoring guidelines and understand the problem.",
+    "Implement the 'getScore' and 'playManyTimes' methods following the guidelines.",
+    "Debug and optimize your code to ensure it's working correctly and efficiently."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand about the problem from the scoring guidelines?",
+    "What methods and control structures will you need to implement?",
+    "What potential challenges do you anticipate in solving this problem?"
+  ],
+  "reflection_prompt": "Reflect on the process of solving this problem. What did you learn about methods and control structures? What strategies were effective, and what challenges did you face?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose to implement the methods in this way?",
+    "How does your 'getScore' method work?",
+    "What would happen if you made 'x' change to your 'playManyTimes' method?"
+  ],
+  "remix_zone": "Think about how you could expand this problem. Could you add more levels to the game? Could you implement additional features, like a leaderboard or player profiles?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

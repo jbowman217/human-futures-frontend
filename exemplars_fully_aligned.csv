@@ -1,0 +1,190 @@
+mission_id,task_label,task_id,tier,content,response_type,user_id,created_at
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Ideas,e9c4052e0703,A,"This task made me think about how math connects to pattern recognition in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:00:00.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Ideas,e9c4052e0703,B,"This reminds me of how equity in access can show up in ways we don’t expect.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:00:01.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Ideas,e9c4052e0703,C,"This task made me think about how math connects to student agency in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:00:02.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Questions,4c8013589cbb,A,"I’d remix this to explore how real-world application impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:00:03.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Questions,4c8013589cbb,B,"This task made me think about how math connects to student agency in the real world.",Prethinking-Questions,exemplar-seed,2025-05-07T13:00:04.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Questions,4c8013589cbb,C,"I’d remix this to explore how systems thinking impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:00:05.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Reflection,5e7923a3b676,A,"I’d remix this to explore how ethical design impacts my community.",Reflection,exemplar-seed,2025-05-07T13:00:06.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Reflection,5e7923a3b676,B,"This reminds me of how equity in access can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:00:07.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Reflection,5e7923a3b676,C,"This reminds me of how ethical design can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:00:08.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Remix,cfb5d8180a9c,A,"This task made me think about how math connects to pattern recognition in the real world.",Remix,exemplar-seed,2025-05-07T13:00:09.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Remix,cfb5d8180a9c,B,"This reminds me of how pattern recognition can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:00:10.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Remix,cfb5d8180a9c,C,"This task made me think about how math connects to pattern recognition in the real world.",Remix,exemplar-seed,2025-05-07T13:00:11.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 1,a70e5d92f3c9,A,"I’d remix this to explore how calculus reasoning impacts my community.",Task 1,exemplar-seed,2025-05-07T13:00:12.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 1,a70e5d92f3c9,B,"This task made me think about how math connects to pattern recognition in the real world.",Task 1,exemplar-seed,2025-05-07T13:00:13.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 1,a70e5d92f3c9,C,"This reminds me of how student agency can show up in ways we don’t expect.",Task 1,exemplar-seed,2025-05-07T13:00:14.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 2,29a948b6fd47,A,"This task made me think about how math connects to pattern recognition in the real world.",Task 2,exemplar-seed,2025-05-07T13:00:15.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 2,29a948b6fd47,B,"I’d remix this to explore how creative remix impacts my community.",Task 2,exemplar-seed,2025-05-07T13:00:16.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 2,29a948b6fd47,C,"This task made me think about how math connects to structural injustice in the real world.",Task 2,exemplar-seed,2025-05-07T13:00:17.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 3,122e3038d1a3,A,"This task made me think about how math connects to systems thinking in the real world.",Task 3,exemplar-seed,2025-05-07T13:00:18.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 3,122e3038d1a3,B,"This reminds me of how statistical insight can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:00:19.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 3,122e3038d1a3,C,"I’d remix this to explore how equity in access impacts my community.",Task 3,exemplar-seed,2025-05-07T13:00:20.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Prethinking-Ideas,a45a6d6fdb18,A,"This reminds me of how structural injustice can show up in ways we don’t expect.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:01:00.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Prethinking-Ideas,a45a6d6fdb18,B,"This reminds me of how real-world application can show up in ways we don’t expect.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:01:01.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Prethinking-Ideas,a45a6d6fdb18,C,"I’d remix this to explore how systems thinking impacts my community.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:01:02.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Prethinking-Questions,924d67eaa95b,A,"I’d remix this to explore how ethical design impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:01:03.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Prethinking-Questions,924d67eaa95b,B,"This reminds me of how structural injustice can show up in ways we don’t expect.",Prethinking-Questions,exemplar-seed,2025-05-07T13:01:04.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Prethinking-Questions,924d67eaa95b,C,"This task made me think about how math connects to statistical insight in the real world.",Prethinking-Questions,exemplar-seed,2025-05-07T13:01:05.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Reflection,61850b4f6c02,A,"I’d remix this to explore how creative remix impacts my community.",Reflection,exemplar-seed,2025-05-07T13:01:06.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Reflection,61850b4f6c02,B,"This reminds me of how statistical insight can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:01:07.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Reflection,61850b4f6c02,C,"This reminds me of how systems thinking can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:01:08.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Remix,1781a58c1c9f,A,"This task made me think about how math connects to creative remix in the real world.",Remix,exemplar-seed,2025-05-07T13:01:09.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Remix,1781a58c1c9f,B,"This task made me think about how math connects to calculus reasoning in the real world.",Remix,exemplar-seed,2025-05-07T13:01:10.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Remix,1781a58c1c9f,C,"This reminds me of how statistical insight can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:01:11.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 1,6a3cd28dc247,A,"This reminds me of how systems thinking can show up in ways we don’t expect.",Task 1,exemplar-seed,2025-05-07T13:01:12.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 1,6a3cd28dc247,B,"This task made me think about how math connects to calculus reasoning in the real world.",Task 1,exemplar-seed,2025-05-07T13:01:13.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 1,6a3cd28dc247,C,"This reminds me of how student agency can show up in ways we don’t expect.",Task 1,exemplar-seed,2025-05-07T13:01:14.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 2,e58c82bb0c93,A,"This reminds me of how systems thinking can show up in ways we don’t expect.",Task 2,exemplar-seed,2025-05-07T13:01:15.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 2,e58c82bb0c93,B,"This task made me think about how math connects to systems thinking in the real world.",Task 2,exemplar-seed,2025-05-07T13:01:16.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 2,e58c82bb0c93,C,"This reminds me of how equity in access can show up in ways we don’t expect.",Task 2,exemplar-seed,2025-05-07T13:01:17.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 3,ec4c1ea23846,A,"This reminds me of how student agency can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:01:18.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 3,ec4c1ea23846,B,"This reminds me of how creative remix can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:01:19.000Z
+17df3646-3365-4eff-aa0e-40d826afeceb,Task 3,ec4c1ea23846,C,"This reminds me of how systems thinking can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:01:20.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Prethinking-Ideas,6f7b5df62fe3,A,"I’d remix this to explore how ethical design impacts my community.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:02:00.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Prethinking-Ideas,6f7b5df62fe3,B,"This reminds me of how systems thinking can show up in ways we don’t expect.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:02:01.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Prethinking-Ideas,6f7b5df62fe3,C,"This task made me think about how math connects to statistical insight in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:02:02.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Prethinking-Questions,b6f918f88a9c,A,"This task made me think about how math connects to real-world application in the real world.",Prethinking-Questions,exemplar-seed,2025-05-07T13:02:03.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Prethinking-Questions,b6f918f88a9c,B,"I’d remix this to explore how creative remix impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:02:04.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Prethinking-Questions,b6f918f88a9c,C,"I’d remix this to explore how statistical insight impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:02:05.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Reflection,a3bd1e726a42,A,"This reminds me of how student agency can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:02:06.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Reflection,a3bd1e726a42,B,"This task made me think about how math connects to statistical insight in the real world.",Reflection,exemplar-seed,2025-05-07T13:02:07.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Reflection,a3bd1e726a42,C,"This reminds me of how equity in access can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:02:08.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Remix,7239b8d9b9b1,A,"I’d remix this to explore how systems thinking impacts my community.",Remix,exemplar-seed,2025-05-07T13:02:09.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Remix,7239b8d9b9b1,B,"This reminds me of how equity in access can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:02:10.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Remix,7239b8d9b9b1,C,"This reminds me of how pattern recognition can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:02:11.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 1,4e9b1db3a9b8,A,"This task made me think about how math connects to calculus reasoning in the real world.",Task 1,exemplar-seed,2025-05-07T13:02:12.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 1,4e9b1db3a9b8,B,"This task made me think about how math connects to systems thinking in the real world.",Task 1,exemplar-seed,2025-05-07T13:02:13.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 1,4e9b1db3a9b8,C,"This task made me think about how math connects to pattern recognition in the real world.",Task 1,exemplar-seed,2025-05-07T13:02:14.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 2,ccbdc7a263c6,A,"This task made me think about how math connects to equity in access in the real world.",Task 2,exemplar-seed,2025-05-07T13:02:15.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 2,ccbdc7a263c6,B,"This task made me think about how math connects to ethical design in the real world.",Task 2,exemplar-seed,2025-05-07T13:02:16.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 2,ccbdc7a263c6,C,"I’d remix this to explore how real-world application impacts my community.",Task 2,exemplar-seed,2025-05-07T13:02:17.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 3,af0b6a5c1a0e,A,"This task made me think about how math connects to student agency in the real world.",Task 3,exemplar-seed,2025-05-07T13:02:18.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 3,af0b6a5c1a0e,B,"This reminds me of how equity in access can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:02:19.000Z
+57586f9a-f79b-481f-a580-69f687aabb52,Task 3,af0b6a5c1a0e,C,"I’d remix this to explore how calculus reasoning impacts my community.",Task 3,exemplar-seed,2025-05-07T13:02:20.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Prethinking-Ideas,3439c49ec89d,A,"I’d remix this to explore how real-world application impacts my community.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:03:00.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Prethinking-Ideas,3439c49ec89d,B,"This task made me think about how math connects to statistical insight in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:03:01.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Prethinking-Ideas,3439c49ec89d,C,"This reminds me of how equity in access can show up in ways we don’t expect.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:03:02.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Prethinking-Questions,f6896711d39f,A,"This task made me think about how math connects to ethical design in the real world.",Prethinking-Questions,exemplar-seed,2025-05-07T13:03:03.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Prethinking-Questions,f6896711d39f,B,"I’d remix this to explore how structural injustice impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:03:04.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Prethinking-Questions,f6896711d39f,C,"This reminds me of how structural injustice can show up in ways we don’t expect.",Prethinking-Questions,exemplar-seed,2025-05-07T13:03:05.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Reflection,7e9b7fc104b1,A,"I’d remix this to explore how structural injustice impacts my community.",Reflection,exemplar-seed,2025-05-07T13:03:06.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Reflection,7e9b7fc104b1,B,"This task made me think about how math connects to equity in access in the real world.",Reflection,exemplar-seed,2025-05-07T13:03:07.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Reflection,7e9b7fc104b1,C,"This reminds me of how systems thinking can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:03:08.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Remix,1e6ff0a7f12a,A,"I’d remix this to explore how real-world application impacts my community.",Remix,exemplar-seed,2025-05-07T13:03:09.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Remix,1e6ff0a7f12a,B,"This reminds me of how pattern recognition can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:03:10.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Remix,1e6ff0a7f12a,C,"This reminds me of how systems thinking can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:03:11.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 1,139e6c8a0a14,A,"This task made me think about how math connects to creative remix in the real world.",Task 1,exemplar-seed,2025-05-07T13:03:12.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 1,139e6c8a0a14,B,"This task made me think about how math connects to real-world application in the real world.",Task 1,exemplar-seed,2025-05-07T13:03:13.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 1,139e6c8a0a14,C,"This task made me think about how math connects to calculus reasoning in the real world.",Task 1,exemplar-seed,2025-05-07T13:03:14.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 2,5988b38ab3bc,A,"I’d remix this to explore how real-world application impacts my community.",Task 2,exemplar-seed,2025-05-07T13:03:15.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 2,5988b38ab3bc,B,"This reminds me of how ethical design can show up in ways we don’t expect.",Task 2,exemplar-seed,2025-05-07T13:03:16.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 2,5988b38ab3bc,C,"I’d remix this to explore how calculus reasoning impacts my community.",Task 2,exemplar-seed,2025-05-07T13:03:17.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 3,6cfc5d472def,A,"This reminds me of how ethical design can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:03:18.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 3,6cfc5d472def,B,"This reminds me of how calculus reasoning can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:03:19.000Z
+fef1716d-2eec-427d-ac7f-2b692d8b92f7,Task 3,6cfc5d472def,C,"I’d remix this to explore how equity in access impacts my community.",Task 3,exemplar-seed,2025-05-07T13:03:20.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Prethinking-Ideas,a4f2571ae936,A,"I’m thinking about how probability can measure waiting time — not just chances...",Prethinking-Ideas,exemplar-seed,2025-05-07T13:04:00.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Prethinking-Ideas,a4f2571ae936,B,"This reminds me of waiting to win something — like a game or prize...",Prethinking-Ideas,exemplar-seed,2025-05-07T13:04:01.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Prethinking-Ideas,a4f2571ae936,C,"Sometimes it feels like no matter how many times you try, nothing works...",Prethinking-Ideas,exemplar-seed,2025-05-07T13:04:02.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Prethinking-Questions,f2d44f79fd81,A,"What distinguishes geometric distributions from other types...",Prethinking-Questions,exemplar-seed,2025-05-07T13:04:03.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Prethinking-Questions,f2d44f79fd81,B,"How does probability tell us how many tries we’ll need to succeed?",Prethinking-Questions,exemplar-seed,2025-05-07T13:04:04.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Prethinking-Questions,f2d44f79fd81,C,"Why do rare things feel so impossible, even if we know they’re possible?",Prethinking-Questions,exemplar-seed,2025-05-07T13:04:05.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Reflection,5ef2d3c30a0f,A,"I realized that probability isn’t just about games. It’s about how long people wait...",Reflection,exemplar-seed,2025-05-07T13:04:06.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Reflection,5ef2d3c30a0f,B,"This helped me understand how rare events are part of a pattern...",Reflection,exemplar-seed,2025-05-07T13:04:07.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Reflection,5ef2d3c30a0f,C,"I never knew math could explain waiting. It made me feel less alone...",Reflection,exemplar-seed,2025-05-07T13:04:08.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Remix,8a169b76fcd9,A,"I’d remix this for voter engagement. How many outreach attempts does it take...",Remix,exemplar-seed,2025-05-07T13:04:09.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Remix,8a169b76fcd9,B,"What if we used this to study mentorship access...",Remix,exemplar-seed,2025-05-07T13:04:10.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Remix,8a169b76fcd9,C,"I’d use this to understand why I never win raffles...",Remix,exemplar-seed,2025-05-07T13:04:11.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 1,5f264d93d271,A,"This is about modeling ‘expected wait.’ In a geometric distribution...",Task 1,exemplar-seed,2025-05-07T13:04:12.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 1,5f264d93d271,B,"I used the formula 1/p and realized that with a 20% success rate...",Task 1,exemplar-seed,2025-05-07T13:04:13.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 1,5f264d93d271,C,"If it takes a lot of tries to win something, that’s what this shows...",Task 1,exemplar-seed,2025-05-07T13:04:14.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 2,55c93cd9d70a,A,"Geometric models can show how systems appear fair but function as filters...",Task 2,exemplar-seed,2025-05-07T13:04:15.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 2,55c93cd9d70a,B,"In a housing lottery with 1 in 50 odds, the expected wait could be years...",Task 2,exemplar-seed,2025-05-07T13:04:16.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 2,55c93cd9d70a,C,"People apply for housing over and over and never get picked...",Task 2,exemplar-seed,2025-05-07T13:04:17.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 3,4d6ae4fc9923,A,"I’d use geometric distribution to model artist grants. Creators with limited access...",Task 3,exemplar-seed,2025-05-07T13:04:18.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 3,4d6ae4fc9923,B,"This could be used for job hunting. If someone has a 1 in 20 chance...",Task 3,exemplar-seed,2025-05-07T13:04:19.000Z
+182b2688-0a78-4dc5-9981-35d57f0b7d68,Task 3,4d6ae4fc9923,C,"I would use this for scholarships. Sometimes it feels like you try so many times...",Task 3,exemplar-seed,2025-05-07T13:04:20.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Prethinking-Ideas,e2e7b0ed4213,A,"I’m starting to see calculus as a language for acceleration, not just movement...",Prethinking-Ideas,exemplar-seed,2025-05-07T13:05:00.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Prethinking-Ideas,e2e7b0ed4213,B,"This makes me think about how fast things grow or shrink — not just how much...",Prethinking-Ideas,exemplar-seed,2025-05-07T13:05:01.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Prethinking-Ideas,e2e7b0ed4213,C,"I know bacteria grow fast and keep going until something stops them...",Prethinking-Ideas,exemplar-seed,2025-05-07T13:05:02.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Prethinking-Questions,d68cb85e222f,A,"What’s the difference between a rate and an accumulation — and how do we know...",Prethinking-Questions,exemplar-seed,2025-05-07T13:05:03.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Prethinking-Questions,d68cb85e222f,B,"How do we know how fast something is changing if we don’t have a formula?",Prethinking-Questions,exemplar-seed,2025-05-07T13:05:04.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Prethinking-Questions,d68cb85e222f,C,"Why does stuff grow so fast sometimes?",Prethinking-Questions,exemplar-seed,2025-05-07T13:05:05.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Reflection,c8744d3f19e8,A,"This experience made me realize that healthcare access is not just a logistics issue...",Reflection,exemplar-seed,2025-05-07T13:05:06.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Reflection,c8744d3f19e8,B,"This mission helped me understand how healthcare is about more than just having a hospital...",Reflection,exemplar-seed,2025-05-07T13:05:07.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Reflection,c8744d3f19e8,C,"I didn’t know that some people have to go really far just to see a doctor...",Reflection,exemplar-seed,2025-05-07T13:05:08.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Remix,244835fc730c,A,"I would remix this mission to analyze maternal health deserts across the U.S...",Remix,exemplar-seed,2025-05-07T13:05:09.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Remix,244835fc730c,B,"I’d remix this to study health access for people living in shelters...",Remix,exemplar-seed,2025-05-07T13:05:10.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Remix,244835fc730c,C,"I would use this to help kids in schools. Some schools don’t have nurses...",Remix,exemplar-seed,2025-05-07T13:05:11.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 1,b820b1c3050e,A,"Just 13% of the population lives within 1 hour, while nearly 87% lives 3+ hours away...",Task 1,exemplar-seed,2025-05-07T13:05:12.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 1,b820b1c3050e,B,"Only 280 people live within 1 hour, while 1,700+ live 3 or more hours away...",Task 1,exemplar-seed,2025-05-07T13:05:13.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 1,b820b1c3050e,C,"Most people have to travel a long time to get help...",Task 1,exemplar-seed,2025-05-07T13:05:14.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 2,5749c7ff97c0,A,"I support a tiered policy approach that subsidizes preventive clinics...",Task 2,exemplar-seed,2025-05-07T13:05:15.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 2,5749c7ff97c0,B,"I support a policy that adds small clinics in underserved areas...",Task 2,exemplar-seed,2025-05-07T13:05:16.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 2,5749c7ff97c0,C,"I think the government should bring help to people if they live far away...",Task 2,exemplar-seed,2025-05-07T13:05:17.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 3,e4f805802b2e,A,"To minimize average travel time, I’d map the population data and use weighted centroid placement...",Task 3,exemplar-seed,2025-05-07T13:05:18.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 3,e4f805802b2e,B,"I’d place the center where the largest group of people lives...",Task 3,exemplar-seed,2025-05-07T13:05:19.000Z
+b095cf38-127c-4251-a3bb-2b8a1ac230ba,Task 3,e4f805802b2e,C,"I would put the clinic in the middle of the neighborhood...",Task 3,exemplar-seed,2025-05-07T13:05:20.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Ideas,e9c4052e0703,A,"This task made me think about how math connects to equity in access in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:06:00.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Ideas,e9c4052e0703,B,"This task made me think about how math connects to ethical design in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:06:01.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Ideas,e9c4052e0703,C,"This task made me think about how math connects to real-world application in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:06:02.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Questions,4c8013589cbb,A,"This task made me think about how math connects to creative remix in the real world.",Prethinking-Questions,exemplar-seed,2025-05-07T13:06:03.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Questions,4c8013589cbb,B,"This reminds me of how pattern recognition can show up in ways we don’t expect.",Prethinking-Questions,exemplar-seed,2025-05-07T13:06:04.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Prethinking-Questions,4c8013589cbb,C,"I’d remix this to explore how ethical design impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:06:05.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Reflection,5e7923a3b676,A,"This reminds me of how real-world application can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:06:06.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Reflection,5e7923a3b676,B,"This reminds me of how equity in access can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:06:07.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Reflection,5e7923a3b676,C,"I’d remix this to explore how student agency impacts my community.",Reflection,exemplar-seed,2025-05-07T13:06:08.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Remix,cfb5d8180a9c,A,"This reminds me of how systems thinking can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:06:09.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Remix,cfb5d8180a9c,B,"I’d remix this to explore how creative remix impacts my community.",Remix,exemplar-seed,2025-05-07T13:06:10.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Remix,cfb5d8180a9c,C,"This reminds me of how systems thinking can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:06:11.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 1,a70e5d92f3c9,A,"I’d remix this to explore how real-world application impacts my community.",Task 1,exemplar-seed,2025-05-07T13:06:12.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 1,a70e5d92f3c9,B,"I’d remix this to explore how creative remix impacts my community.",Task 1,exemplar-seed,2025-05-07T13:06:13.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 1,a70e5d92f3c9,C,"This reminds me of how creative remix can show up in ways we don’t expect.",Task 1,exemplar-seed,2025-05-07T13:06:14.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 2,29a948b6fd47,A,"This task made me think about how math connects to systems thinking in the real world.",Task 2,exemplar-seed,2025-05-07T13:06:15.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 2,29a948b6fd47,B,"This task made me think about how math connects to creative remix in the real world.",Task 2,exemplar-seed,2025-05-07T13:06:16.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 2,29a948b6fd47,C,"I’d remix this to explore how ethical design impacts my community.",Task 2,exemplar-seed,2025-05-07T13:06:17.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 3,122e3038d1a3,A,"This task made me think about how math connects to equity in access in the real world.",Task 3,exemplar-seed,2025-05-07T13:06:18.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 3,122e3038d1a3,B,"This reminds me of how equity in access can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:06:19.000Z
+9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4,Task 3,122e3038d1a3,C,"This task made me think about how math connects to ethical design in the real world.",Task 3,exemplar-seed,2025-05-07T13:06:20.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Prethinking-Ideas,e21279f06cb1,A,"This task made me think about how math connects to creative remix in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:07:00.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Prethinking-Ideas,e21279f06cb1,B,"This reminds me of how statistical insight can show up in ways we don’t expect.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:07:01.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Prethinking-Ideas,e21279f06cb1,C,"This task made me think about how math connects to ethical design in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:07:02.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Prethinking-Questions,a5adf645893e,A,"This task made me think about how math connects to statistical insight in the real world.",Prethinking-Questions,exemplar-seed,2025-05-07T13:07:03.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Prethinking-Questions,a5adf645893e,B,"This task made me think about how math connects to equity in access in the real world.",Prethinking-Questions,exemplar-seed,2025-05-07T13:07:04.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Prethinking-Questions,a5adf645893e,C,"This reminds me of how calculus reasoning can show up in ways we don’t expect.",Prethinking-Questions,exemplar-seed,2025-05-07T13:07:05.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Reflection,f5985ac1d28d,A,"This reminds me of how structural injustice can show up in ways we don’t expect.",Reflection,exemplar-seed,2025-05-07T13:07:06.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Reflection,f5985ac1d28d,B,"This task made me think about how math connects to real-world application in the real world.",Reflection,exemplar-seed,2025-05-07T13:07:07.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Reflection,f5985ac1d28d,C,"This task made me think about how math connects to ethical design in the real world.",Reflection,exemplar-seed,2025-05-07T13:07:08.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Remix,98bbd55391e6,A,"I’d remix this to explore how real-world application impacts my community.",Remix,exemplar-seed,2025-05-07T13:07:09.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Remix,98bbd55391e6,B,"I’d remix this to explore how calculus reasoning impacts my community.",Remix,exemplar-seed,2025-05-07T13:07:10.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Remix,98bbd55391e6,C,"This task made me think about how math connects to structural injustice in the real world.",Remix,exemplar-seed,2025-05-07T13:07:11.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 1,4934a83a093d,A,"This task made me think about how math connects to systems thinking in the real world.",Task 1,exemplar-seed,2025-05-07T13:07:12.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 1,4934a83a093d,B,"I’d remix this to explore how structural injustice impacts my community.",Task 1,exemplar-seed,2025-05-07T13:07:13.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 1,4934a83a093d,C,"I’d remix this to explore how real-world application impacts my community.",Task 1,exemplar-seed,2025-05-07T13:07:14.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 2,8dbf96977582,A,"This reminds me of how equity in access can show up in ways we don’t expect.",Task 2,exemplar-seed,2025-05-07T13:07:15.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 2,8dbf96977582,B,"This reminds me of how ethical design can show up in ways we don’t expect.",Task 2,exemplar-seed,2025-05-07T13:07:16.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 2,8dbf96977582,C,"This task made me think about how math connects to calculus reasoning in the real world.",Task 2,exemplar-seed,2025-05-07T13:07:17.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 3,a7466b7606fd,A,"I’d remix this to explore how statistical insight impacts my community.",Task 3,exemplar-seed,2025-05-07T13:07:18.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 3,a7466b7606fd,B,"This reminds me of how creative remix can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:07:19.000Z
+36cadbf4-7292-4c42-b4f7-fd1898f06cc3,Task 3,a7466b7606fd,C,"This task made me think about how math connects to statistical insight in the real world.",Task 3,exemplar-seed,2025-05-07T13:07:20.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Prethinking-Ideas,dd52d1eb1789,A,"I’d remix this to explore how real-world application impacts my community.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:08:00.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Prethinking-Ideas,dd52d1eb1789,B,"This task made me think about how math connects to ethical design in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:08:01.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Prethinking-Ideas,dd52d1eb1789,C,"This task made me think about how math connects to real-world application in the real world.",Prethinking-Ideas,exemplar-seed,2025-05-07T13:08:02.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Prethinking-Questions,b37e358f3a2b,A,"I’d remix this to explore how calculus reasoning impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:08:03.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Prethinking-Questions,b37e358f3a2b,B,"I’d remix this to explore how ethical design impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:08:04.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Prethinking-Questions,b37e358f3a2b,C,"I’d remix this to explore how real-world application impacts my community.",Prethinking-Questions,exemplar-seed,2025-05-07T13:08:05.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Reflection,51e5f34a57dc,A,"I’d remix this to explore how calculus reasoning impacts my community.",Reflection,exemplar-seed,2025-05-07T13:08:06.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Reflection,51e5f34a57dc,B,"I’d remix this to explore how pattern recognition impacts my community.",Reflection,exemplar-seed,2025-05-07T13:08:07.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Reflection,51e5f34a57dc,C,"I’d remix this to explore how statistical insight impacts my community.",Reflection,exemplar-seed,2025-05-07T13:08:08.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Remix,263ba5f6bc3c,A,"I’d remix this to explore how systems thinking impacts my community.",Remix,exemplar-seed,2025-05-07T13:08:09.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Remix,263ba5f6bc3c,B,"This reminds me of how systems thinking can show up in ways we don’t expect.",Remix,exemplar-seed,2025-05-07T13:08:10.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Remix,263ba5f6bc3c,C,"I’d remix this to explore how statistical insight impacts my community.",Remix,exemplar-seed,2025-05-07T13:08:11.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 1,1882e0dfdecb,A,"I’d remix this to explore how creative remix impacts my community.",Task 1,exemplar-seed,2025-05-07T13:08:12.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 1,1882e0dfdecb,B,"This task made me think about how math connects to real-world application in the real world.",Task 1,exemplar-seed,2025-05-07T13:08:13.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 1,1882e0dfdecb,C,"This reminds me of how pattern recognition can show up in ways we don’t expect.",Task 1,exemplar-seed,2025-05-07T13:08:14.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 2,4b26e7f5cc7e,A,"This reminds me of how systems thinking can show up in ways we don’t expect.",Task 2,exemplar-seed,2025-05-07T13:08:15.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 2,4b26e7f5cc7e,B,"I’d remix this to explore how equity in access impacts my community.",Task 2,exemplar-seed,2025-05-07T13:08:16.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 2,4b26e7f5cc7e,C,"This task made me think about how math connects to ethical design in the real world.",Task 2,exemplar-seed,2025-05-07T13:08:17.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 3,7d8082b1a98b,A,"This task made me think about how math connects to systems thinking in the real world.",Task 3,exemplar-seed,2025-05-07T13:08:18.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 3,7d8082b1a98b,B,"This task made me think about how math connects to real-world application in the real world.",Task 3,exemplar-seed,2025-05-07T13:08:19.000Z
+e7fa05ff-9a55-4286-b8e2-701f2ba50b81,Task 3,7d8082b1a98b,C,"This reminds me of how statistical insight can show up in ways we don’t expect.",Task 3,exemplar-seed,2025-05-07T13:08:20.000Z

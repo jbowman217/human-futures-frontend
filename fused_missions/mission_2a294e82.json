@@ -1,0 +1,36 @@
+{
+  "title": "Green New Deal for Public Housing Act: An Economic and Environmental Analysis",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Climate",
+    "Statistics",
+    "Geometry",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can the modernization of public housing provide economic empowerment opportunities and contribute to climate change mitigation?",
+  "short_background_context": "The Green New Deal for Public Housing Act is a bill introduced in the United States Congress with the aim of providing economic empowerment opportunities through the modernization of public housing. The Act seeks to stimulate workforce capacity, rehabilitate distressed public housing, upgrade housing with energy-efficient materials, and transition the entire public housing stock into highly energy-efficient homes. The Act also aims to maximize tenant participation and management by low- and very low-income individuals in the rehabilitation, upgrade, and transition of public housing through education, training, and jobs. This mission will explore the economic, environmental, and social implications of this Act.",
+  "tasks": [
+    "Analyze the economic implications of the Act, considering aspects such as job creation, cost of implementation, and potential return on investment.",
+    "Investigate the environmental impact of transitioning public housing into highly energy-efficient homes, including potential reductions in carbon emissions.",
+    "Explore the social and ethical implications of the Act, considering factors such as tenant participation, health impacts of improved housing conditions, and equity in housing."
+  ],
+  "pre_thinking_prompts": [
+    "What are some potential economic benefits and challenges of modernizing public housing?",
+    "How might transitioning to energy-efficient homes impact the environment?",
+    "What social and ethical considerations are important when modernizing public housing?"
+  ],
+  "reflection_prompt": "Reflect on your findings. How do the economic, environmental, and social implications of the Act interact? What trade-offs might need to be considered?",
+  "ai_tutor_prompts": [
+    "How did you consider the long-term versus short-term economic impacts in your analysis?",
+    "What assumptions did you make about the environmental benefits of energy-efficient homes?",
+    "How might the Act impact different stakeholders differently?"
+  ],
+  "remix_zone": "Consider how this problem could be remixed by focusing on a different aspect of the Act, such as its impact on the manufacturing sector or its implications for education and training opportunities.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

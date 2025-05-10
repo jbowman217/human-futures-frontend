@@ -1,0 +1,31 @@
+{
+  "title": "AP Computer Science A: 2D Arrays and Economics",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics"
+  ],
+  "driving_question": "How can we use 2D arrays in computer science to understand and solve economic problems?",
+  "short_background_context": "In AP Computer Science A, you have been learning about 2D arrays and how they can be used to store and manipulate data. In this mission, you will apply this knowledge to a real-world economic problem. You will be given a 2D array representing a candy box, where each cell represents a different type of candy. Your task is to manipulate this array to solve various problems, such as moving a certain type of candy to the first row or removing a candy of a certain flavor. This will help you understand how 2D arrays can be used to solve complex problems and how these concepts can be applied to economics.",
+  "tasks": [
+    "Task 1: Write a function that moves a specific type of candy to the first row of the candy box.",
+    "Task 2: Write a function that removes a candy of a certain flavor from the candy box.",
+    "Task 3: Discuss how these functions could be used to solve an economic problem, such as managing inventory in a candy store."
+  ],
+  "pre_thinking_prompts": [
+    "How can 2D arrays be used to represent real-world data?",
+    "What are some potential challenges in manipulating 2D arrays?",
+    "How can the concepts of computer science be applied to economics?"
+  ],
+  "reflection_prompt": "Reflect on how your understanding of 2D arrays has deepened through this mission. How can you apply these concepts to solve other real-world problems?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose this approach for moving the candy?",
+    "What would happen if the flavor you are trying to remove is not in the candy box?",
+    "How does this relate to the concept of supply and demand in economics?"
+  ],
+  "remix_zone": "Consider a different scenario where you have a 2D array representing a warehouse of different products. How would you modify your functions to manage this inventory?",
+  "display": {
+    "graph_builder": false,
+    "text_area": true
+  }
+}

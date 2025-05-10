@@ -1,0 +1,353 @@
+[
+    {
+      "id": "9ed6a6a2-2f0c-4c49-859b-4ae87e8741e4",
+      "title": "Spinning Toy Design",
+      "tasks": [
+        {
+          "hint": "Start by finding the x-intercepts (roots of the equation). Use symmetry to estimate area. Consider definite integrals or numerical approximation.",
+          "materials": [
+            {
+              "link": "/materials/spintoy-task1-1.png",
+              "type": "image",
+              "description": "Area under curve calculation"
+            }
+          ],
+          "task_text": "Calculate the area bounded by y = cx⁴ - x² and the x-axis."
+        },
+        {
+          "hint": "Use definite integration and test values of c. Plot area vs. c and find where the area is maximized.",
+          "materials": [
+            {
+              "link": "/materials/spintoy-task2-1.png",
+              "type": "image",
+              "description": "Maximizing area with c parameter"
+            }
+          ],
+          "task_text": "Determine the value of c that maximizes the cross-sectional area."
+        },
+        {
+          "hint": "What happens to the curve’s width, depth, and steepness as c increases or decreases?",
+          "materials": [
+            {
+              "link": "/materials/spintoy-task3-1.png",
+              "type": "image",
+              "description": "Toy shape and stability analysis"
+            }
+          ],
+          "task_text": "Analyze how adjusting c affects the toy's shape, stability, and design."
+        }
+      ]
+    },
+    {
+      "id": "17df3646-3365-4eff-aa0e-40d826afeceb",
+      "title": "Access to Healthcare: A Multidisciplinary Approach\nHow can we improve access to health care in our local and global communities?\nTasks:\nAnalyze the relationship between time to care and population. What trends do you see? How should this influence healthcare planning?\n\n\nBuild an ethical argument for or against investing in a mobile health unit for high-time zones.\nDesign a health center layout that minimizes travel time and maximizes access. Use geometry or spatial logic to justify your design.\n",
+      "tasks": [
+        {
+          "hint": "Use the table and graph to see how distance affects access. Look for inflection points.",
+          "materials": [
+            {
+              "link": "/materials/access-to-healthcare-task1-1.png",
+              "type": "image",
+              "description": "Population vs. time-to-care trends"
+            }
+          ],
+          "task_text": "Analyze the relationship between time to care and population. What trends do you see? How should this influence healthcare planning?"
+        },
+        {
+          "hint": "Focus on fairness, efficiency, and human rights tradeoffs.",
+          "materials": [
+            {
+              "link": "/materials/access-to-healthcare-task2-1.png",
+              "type": "image",
+              "description": "Mobile health unit cost-benefit and ethical analysis"
+            }
+          ],
+          "task_text": "Build an ethical argument for or against investing in a mobile health unit for high-time zones."
+        },
+        {
+          "hint": "Use spatial coordinates, path integrals, or area optimization.",
+          "materials": [
+            {
+              "link": "/materials/access-to-healthcare-task3-1.png",
+              "type": "image",
+              "description": "Optimized healthcare layout using geometry"
+            }
+          ],
+          "task_text": "Design a health center layout that minimizes travel time and maximizes access. Use geometry or spatial logic to justify your design."
+        }
+      ]
+    },
+    {
+      "id": "57586f9a-f79b-481f-a580-69f687aabb52",
+      "title": "Green New Deal for Public Housing Act: Economic and Environmental Analysis",
+      "tasks": [
+        {
+          "hint": "Estimate direct and indirect job multipliers from public construction. Consider federal cost per job created and downstream economic activity.",
+          "materials": [
+            {
+              "link": "/materials/greenhousing-task1-1.png",
+              "type": "image",
+              "description": "Public housing statistics"
+            }
+          ],
+          "task_text": "Analyze the Act’s economic implications—including costs, job creation, and long-term return on investment (ROI)."
+        },
+        {
+          "hint": "Focus on reduced carbon emissions, air quality improvements, and long-term cost savings.",
+          "materials": [
+            {
+              "link": "/materials/greenhousing-task2-1.png",
+              "type": "image",
+              "description": "Environmental savings from retrofitting"
+            }
+          ],
+          "task_text": "Investigate environmental impacts of energy-efficient upgrades to public housing."
+        },
+        {
+          "hint": "Which populations benefit most? Consider race, income, disability, and health inequities.",
+          "materials": [
+            {
+              "link": "/materials/greenhousing-task3-1.png",
+              "type": "image",
+              "description": "Social justice outcomes from upgrades"
+            }
+          ],
+          "task_text": "Explore how upgrading public housing can advance social justice."
+        }
+      ]
+    },
+    {
+      "id": "e7fa05ff-9a55-4286-b8e2-701f2ba50b81",
+      "title": "Understanding Mass Incarceration: A Multidisciplinary Approach",
+      "tasks": [
+        {
+          "hint": "Focus on racial, income, and geographic disparities. Which communities are most impacted? Why?",
+          "materials": [
+            {
+              "link": "/materials/massincar-task1-1.png",
+              "type": "image",
+              "description": "Demographic disparities in incarceration"
+            }
+          ],
+          "task_text": "Analyze patterns of mass incarceration by race, income level, and geography. What disparities do you notice?"
+        },
+        {
+          "hint": "Consider direct costs like corrections budgets and indirect costs like lost income, lower tax revenue, and disrupted family systems.",
+          "materials": [
+            {
+              "link": "/materials/massincar-task2-1.png",
+              "type": "image",
+              "description": "Economic costs of mass incarceration"
+            }
+          ],
+          "task_text": "Estimate the full economic cost of mass incarceration—including government spending, lost wages, and intergenerational impacts."
+        },
+        {
+          "hint": "Use real examples from cities or states. Consider decarceration strategies, reinvestment plans, and health equity outcomes.",
+          "materials": [
+            {
+              "link": "/materials/massincar-task3-1.png",
+              "type": "image",
+              "description": "Policy comparisons and alternatives"
+            }
+          ],
+          "task_text": "Design a justice-centered policy proposal that addresses the harms of mass incarceration while balancing public safety and community health."
+        }
+      ]
+    },
+    {
+      "id": "182b2688-0a78-4dc5-9981-35d57f0b7d68",
+      "title": "Probability and Sampling Distributions",
+      "tasks": [
+        {
+          "hint": "Remember: Mean = 1/p and SD = √((1-p)/p²). Let p = 0.15.",
+          "materials": [
+            {
+              "link": "/materials/probability-task1-1.png",
+              "type": "image",
+              "description": "Geode discovery distribution"
+            }
+          ],
+          "task_text": "Calculate the mean and standard deviation for geodes opened until finding a red crystal."
+        },
+        {
+          "hint": "Use (1 - p)^n, where p = 0.15 and n = 3.",
+          "materials": [
+            {
+              "link": "/materials/probability-task2-1.png",
+              "type": "image",
+              "description": "Probability explorer: no red in 3 geodes"
+            }
+          ],
+          "task_text": "Find the probability of opening 3 geodes and finding no red crystal."
+        },
+        {
+          "hint": "Use (1 - p)^(n-1) * p, where p = 0.15 and n = 4.",
+          "materials": [
+            {
+              "link": "/materials/probability-task3-1.png",
+              "type": "image",
+              "description": "Red on 4th geode: conditional probability"
+            }
+          ],
+          "task_text": "Find the probability of opening 4 geodes and getting a red crystal on the 4th."
+        }
+      ]
+    },
+    {
+      "id": "b095cf38-127c-4251-a3bb-2b8a1ac230ba",
+      "title": "Exploring AP Calculus Concepts in Real-World Scenarios",
+      "tasks": [
+        {
+          "hint": "",
+          "materials": [
+            {
+              "link": "/materials/calculus-task1-1.png",
+              "type": "image",
+              "description": "Function curves for real-world scenario"
+            }
+          ],
+          "task_text": "Estimate rate of bacterial growth"
+        },
+        {
+          "hint": "",
+          "materials": [
+            {
+              "link": "/materials/calculus-task2-1.png",
+              "type": "image",
+              "description": "Step-by-step integral calculation"
+            }
+          ],
+          "task_text": "Approximate bacteria mass with Riemann sum"
+        },
+        {
+          "hint": "",
+          "materials": [
+            {
+              "link": "/materials/calculus-task3-1.png",
+              "type": "image",
+              "description": "Final area result visualization"
+            }
+          ],
+          "task_text": "Analyze particle motion with derivatives"
+        }
+      ]
+    },
+    {
+      "id": "e21ac366-08b1-42ad-91e7-d91cae65772b",
+      "title": "Safe Internet: Ethics and Edtech",
+      "tasks": [
+        {
+          "hint": "Examine behavioral, contextual, and native advertising and how they affect privacy, attention, and safety in Edtech platforms.",
+          "materials": [
+            {
+              "link": "/materials/safe-internet-task1-1.png",
+              "type": "image",
+              "description": "App safety dashboard"
+            }
+          ],
+          "task_text": "Research types of advertising in Edtech (behavioral, contextual, native) and analyze their implications on student safety, privacy, and learning focus."
+        },
+        {
+          "hint": "Evaluate app safety features like encryption, age gates, parental controls, ad filtering, and consent flows. What patterns or gaps do you see?",
+          "materials": [
+            {
+              "link": "/materials/safe-internet-task2-1.png",
+              "type": "image",
+              "description": "Safety model visualization and risks"
+            }
+          ],
+          "task_text": "Use data to assess how safe popular Edtech apps are. Which features are missing? How does that impact student safety?"
+        },
+        {
+          "hint": "Use concentric protection zones, ethical hierarchies, and data flow analysis to optimize design.",
+          "materials": [
+            {
+              "link": "/materials/safe-internet-task3-1.png",
+              "type": "image",
+              "description": "Geometric ethical design protection model"
+            }
+          ],
+          "task_text": "Design a safer Edtech prototype using principles of geometric protection and ethical safeguards. Show how your design handles privacy, safety, and student empowerment."
+        }
+      ]
+    },
+    {
+      "id": "fef1716d-2eec-427d-ac7f-2b692d8b92f7",
+      "title": "Impact of Climate Change on Economy and Health",
+      "tasks": [
+        {
+          "hint": "Focus on sectors most vulnerable to climate shifts—agriculture, infrastructure, energy, insurance. What are the ripple effects across regions?",
+          "materials": [
+            {
+              "link": "/materials/climate-task1-1.png",
+              "type": "image",
+              "description": "Population vs. wait time chart"
+            }
+          ],
+          "task_text": "Analyze how climate change affects the economy. Which sectors show the largest projected losses?"
+        },
+        {
+          "hint": "Look into temperature-linked risks: heat illness, respiratory problems, waterborne diseases, and impacts on vulnerable groups like children and seniors.",
+          "materials": [
+            {
+              "link": "/materials/climate-task2-1.png",
+              "type": "image",
+              "description": "Regional resource allocation & impact"
+            }
+          ],
+          "task_text": "Model the health effects of rising global temperatures. How do risks change as the planet warms?"
+        },
+        {
+          "hint": "Think about long-term cost savings, emission reductions, and justice. Would you invest in energy systems, heat-resilient housing, healthcare, or something else?",
+          "materials": [
+            {
+              "link": "/materials/climate-task3-1.png",
+              "type": "image",
+              "description": "Hospital recommendation memo"
+            }
+          ],
+          "task_text": "Design a climate mitigation proposal that balances cost, health outcomes, and equity. What would you prioritize?"
+        }
+      ]
+    },
+    {
+      "id": "36cadbf4-7292-4c42-b4f7-fd1898f06cc3",
+      "title": "Understanding Black Holes: A Mathematical Approach",
+      "tasks": [
+        {
+          "hint": "Use the Schwarzschild radius formula: R = 2GM/c². Radius increases linearly with mass.",
+          "materials": [
+            {
+              "link": "/materials/blackhole-task1-1.png",
+              "type": "image",
+              "description": "Mass-radius curve"
+            }
+          ],
+          "task_text": "Model the relationship between black hole mass and event horizon radius."
+        },
+        {
+          "hint": "Use v = √(GM/r) for orbital velocity and T = 2π√(r³/GM) for period.",
+          "materials": [
+            {
+              "link": "/materials/blackhole-task2-1.png",
+              "type": "image",
+              "description": "Event horizon cross-section"
+            }
+          ],
+          "task_text": "Estimate the orbital speed and period of an object near a black hole."
+        },
+        {
+          "hint": "Relate time dilation, force, and energy equations near the Schwarzschild radius.",
+          "materials": [
+            {
+              "link": "/materials/blackhole-task3-1.png",
+              "type": "image",
+              "description": "Time dilation vs. distance visualization"
+            }
+          ],
+          "task_text": "Explore energy, force, and time distortions near black holes."
+        }
+      ]
+    }
+  ]

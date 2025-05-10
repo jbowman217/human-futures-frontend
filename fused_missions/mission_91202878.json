@@ -1,0 +1,38 @@
+{
+  "title": "Probability and Sampling Distributions in Real-World Contexts",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use probability and sampling distributions to predict outcomes in real-world scenarios?",
+  "short_background_context": "In this mission, we will explore the concept of probability and sampling distributions through a real-world problem. We will focus on a scenario where employees have a chance to receive a gift card each week. The probability of an employee being selected to receive a gift card is independent each week. We will use the binomial distribution to model this scenario and calculate the probability of a particular outcome. This mission will help you understand how these mathematical concepts are used in real-world situations and will also enhance your problem-solving skills.",
+  "tasks": [
+    {
+      "task1": "Define the random variable in the given scenario and describe its distribution."
+    },
+    {
+      "task2": "Identify the event of interest and calculate its probability using the binomial distribution."
+    },
+    {
+      "task3": "Interpret the calculated probability in the context of the given scenario."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What does the random variable represent in this scenario?",
+    "How would you describe the distribution of the random variable?",
+    "What is the event of interest and how can its probability be calculated?"
+  ],
+  "reflection_prompt": "What did you learn about using probability and sampling distributions in real-world scenarios? How can you apply this knowledge in other contexts?",
+  "ai_tutor_prompts": [
+    "Can you explain why the binomial distribution is appropriate for this scenario?",
+    "Why is it important to correctly identify the event of interest?",
+    "How does the calculated probability relate to the real-world scenario?"
+  ],
+  "remix_zone": "Try to remix this problem by changing the probability of an employee receiving a gift card each week or the number of weeks in a year. How do these changes affect the calculated probability?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

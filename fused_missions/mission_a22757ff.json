@@ -1,0 +1,32 @@
+{
+  "title": "AP Precalculus: Function Concepts",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we use the concepts of functions, limits, and decimal approximation to solve real-world problems?",
+  "short_background_context": "In this mission, we will delve into the world of functions and their applications. We will be working with two functions, f and g, and their domains. We will also explore the concept of limits and their significance in understanding the behavior of functions. Decimal approximation is another crucial concept that we will be using to solve problems. This mission is based on an AP Precalculus problem that requires a deep understanding of these concepts. We will be using a graphing calculator to aid in our problem-solving process.",
+  "tasks": [
+    "Task 1: Find the value of h(3) as a decimal approximation, where h is defined by h(x) = g(f(x)).",
+    "Task 2: Find all values of x for which f(x)=1.",
+    "Task 3: Determine the end behavior of g as x increases without bound. Express your answer using the mathematical notation of a limit."
+  ],
+  "pre_thinking_prompts": [
+    "What do you understand by the term 'function'?",
+    "How can we use a graphing calculator to find the value of a function at a given point?",
+    "What is a limit and how is it used in calculus?"
+  ],
+  "reflection_prompt": "What new insights have you gained about functions, limits, and decimal approximation? How can you apply these concepts to solve other mathematical problems?",
+  "ai_tutor_prompts": [
+    "Can you explain how you arrived at that solution?",
+    "What other methods could you have used to solve this problem?",
+    "How would the solution change if the function or its domain were different?"
+  ],
+  "remix_zone": "Try changing the functions and their domains. How does this affect the solutions? Experiment with different types of functions (e.g., linear, quadratic, exponential) and see how this changes the problem.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

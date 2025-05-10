@@ -1,0 +1,40 @@
+{
+  "title": "AP Statistics: Inference and Hypothesis Testing",
+  "grade_band": "9-12",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics"
+  ],
+  "driving_question": "How can we use statistical inference to make decisions about population proportions?",
+  "short_background_context": "In this mission, we will focus on the concept of statistical inference, specifically hypothesis testing. Hypothesis testing is a statistical method that uses sample data to evaluate the validity of a hypothesis about a population. We will be looking at a real-world scenario where an exercise center is trying to determine the interest of its members in online fitness classes, divided into two age groups: 18 to 55 years and 56 years or older. We will use a two-sample z-test to compare the proportions of these two populations. The mission will guide you through the process of stating the null and alternative hypotheses, identifying the appropriate test, verifying the conditions for the test, calculating the test statistic and p-value, and drawing a conclusion.",
+  "tasks": [
+    {
+      "task": "Identify and state the null and alternative hypotheses for this scenario."
+    },
+    {
+      "task": "Identify the appropriate statistical test for this scenario and explain why it is appropriate."
+    },
+    {
+      "task": "Verify the conditions for the identified test, calculate the test statistic and p-value, and draw a conclusion based on these calculations."
+    }
+  ],
+  "pre_thinking_prompts": [
+    "What are the null and alternative hypotheses in this scenario?",
+    "What statistical test would be appropriate for this scenario and why?",
+    "How do you verify the conditions for this test and calculate the test statistic and p-value?"
+  ],
+  "reflection_prompt": "Reflect on the process of hypothesis testing. What steps did you find challenging and why? How confident are you in your conclusion and why?",
+  "ai_tutor_prompts": [
+    "Why did you choose that as your null hypothesis?",
+    "Can you explain why you chose that statistical test?",
+    "How did you verify the conditions for the test?",
+    "Can you explain how you calculated the test statistic and p-value?",
+    "What does your p-value tell you about your null hypothesis?"
+  ],
+  "remix_zone": "Consider a different scenario where the exercise center wants to compare the interest in online classes between male and female members. How would you modify the hypotheses and the test for this scenario?",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

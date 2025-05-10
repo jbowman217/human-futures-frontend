@@ -1,0 +1,36 @@
+{
+  "title": "Access to Health Care: A Multidisciplinary Approach",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "History",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can we improve access to health care in our local and global communities?",
+  "short_background_context": "Access to health care is a complex issue that impacts individuals and communities around the world. It is influenced by a variety of factors, including socioeconomic status, geography, and policy decisions. In this mission, students will explore the topic of health care access from multiple disciplinary perspectives, including economics, geometry, statistics, history, health, ethics, and algebra. This mission is inspired by the work of College Board and WE, organizations that are committed to promoting educational equity and empowering students to become compassionate leaders and active citizens.",
+  "tasks": [
+    "Research and analyze the current state of health care access in your local community. Use statistical methods to present your findings.",
+    "Develop an ethical argument for or against a proposed health care policy. Use historical and economic evidence to support your argument.",
+    "Design a model of a health care facility using principles of geometry and algebra. Consider how your design could improve health care access in an underserved area."
+  ],
+  "pre_thinking_prompts": [
+    "What do you already know about access to health care?",
+    "What factors do you think influence health care access?",
+    "How might different subjects like economics or geometry relate to health care access?"
+  ],
+  "reflection_prompt": "Reflect on your learning experience. What new insights did you gain about health care access? How did approaching the issue from multiple disciplinary perspectives enhance your understanding?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that particular statistical method for your analysis?",
+    "How does your historical and economic evidence support your ethical argument?",
+    "What considerations did you make in your design to improve health care access?"
+  ],
+  "remix_zone": "Students could remix this mission by focusing on a different aspect of health care access, such as mental health services or preventative care. They could also adapt the mission to explore health care access in a specific country or region.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

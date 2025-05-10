@@ -1,0 +1,34 @@
+{
+  "title": "Understanding and Applying New York State Mathematics Standards",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Health",
+    "Algebra"
+  ],
+  "driving_question": "How can we apply the New York State P-12 Learning Standards for Mathematics to real-world problems?",
+  "short_background_context": "In 2013, New York State (NYS) began administering tests designed to assess student performance in accordance with the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in Mathematics. These tests use multiple-choice questions to assess standard algorithms and conceptual standards. Many questions are framed within the context of real-world applications or require students to complete multiple steps. In 2021, due to the ongoing COVID-19 pandemic, NYSED administered only Session 1 of the Grades 3-8 ELA and Mathematics Tests. The tests included previously administered questions, providing an opportunity for cost savings and ensuring the development of new test forms for future years.",
+  "tasks": [
+    "Analyze the previously administered test questions and identify the mathematical concepts they are assessing.",
+    "Apply the identified mathematical concepts to solve real-world problems in the context of Economics, Geometry, Statistics, Health, and Algebra.",
+    "Create your own multiple-choice questions that assess the New York State P-12 Learning Standards for Mathematics."
+  ],
+  "pre_thinking_prompts": [
+    "What mathematical concepts do you think are being assessed in the test questions?",
+    "How can these concepts be applied to real-world problems?",
+    "What kind of multiple-choice questions can you create to assess these concepts?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the New York State P-12 Learning Standards for Mathematics. How well were you able to apply these standards to real-world problems? What challenges did you face and how did you overcome them?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose the mathematical concept you did for the real-world problem?",
+    "Why do you think this multiple-choice question accurately assesses the mathematical concept?",
+    "How would you explain the solution to your real-world problem to a peer?"
+  ],
+  "remix_zone": "Students can remix this problem by choosing different real-world contexts to apply the mathematical concepts, or by creating different types of questions (e.g., open-ended questions, short-answer questions) to assess the concepts.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "mission": {
+    "title": "AP\u00ae Statistics 2021: Focus on Collecting Data",
+    "grade_band": "AP Level",
+    "subjects": [
+      "Statistics"
+    ],
+    "driving_question": "How can bias be introduced in data collection and how can it be mitigated?",
+    "tasks": [
+      {
+        "task": "Evaluate the potential bias in using daily journals for data collection and propose a more reliable method.",
+        "pre_thinking_prompts": [
+          "What is bias in data collection?",
+          "What factors could introduce bias in self-reporting methods like daily journals?",
+          "How can the use of technology, like activity trackers, reduce bias in data collection?"
+        ],
+        "reflection_prompt": "Reflect on how bias can impact the accuracy of data and the importance of selecting appropriate data collection methods.",
+        "ai_tutor_prompts": [
+          "Explain how keeping a daily journal could result in a bias.",
+          "Describe a bias that could result from the use of a daily journal.",
+          "How can the use of activity trackers help avoid this bias?"
+        ],
+        "remix_zone": "Consider other scenarios where bias could be introduced in data collection. How could these biases be mitigated?",
+        "display_fields": {
+          "model_solution": "Keeping daily journals could introduce response bias due to self-reporting by subjects who may have a poor or incomplete memory of the amount of walking done. Wearing activity trackers would likely provide a more accurate record of daily miles walked by each subject in the study.",
+          "scoring": "Essentially correct (E) if the response satisfies the following two components: 1. Indicates that keeping a daily journal could result in a bias that would be avoided by using activity trackers AND provides a reasonable explanation. 2. Provides a description of a bias that refers to the use of a daily journal resulting in a systematic/consistent underreporting or overreporting of daily miles walked."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "AI in Action: Exploring Real-World Applications",
+  "grade_band": "9-12",
+  "subjects": [
+    "Economics",
+    "Geometry",
+    "Statistics",
+    "Health",
+    "Ethics",
+    "Algebra"
+  ],
+  "driving_question": "How can artificial intelligence (AI) be used to solve real-world problems and inspire innovation?",
+  "short_background_context": "The International Society for Technology in Education (ISTE) is a nonprofit organization that encourages the use of technology to solve challenging problems and inspire innovation. ISTE believes in the transformative potential of technology in teaching and learning. They provide a framework for students, educators, administrators, coaches, and computer science educators to rethink education and create innovative learning environments. This mission is based on the work of ISTE and aims to explore the practical use of AI in various fields.",
+  "tasks": [
+    "Research and present a real-world problem that can be solved using AI.",
+    "Design a simple AI model that could potentially solve the problem identified.",
+    "Evaluate the ethical implications of implementing your AI model in the real world."
+  ],
+  "pre_thinking_prompts": [
+    "What are some problems you believe AI could solve?",
+    "How might AI transform the way we approach these problems?",
+    "What ethical considerations should we keep in mind when implementing AI solutions?"
+  ],
+  "reflection_prompt": "Reflect on the process of designing your AI model. What challenges did you face and how did you overcome them? What did you learn about the potential and limitations of AI?",
+  "ai_tutor_prompts": [
+    "Can you think of any other ways AI could be applied to this problem?",
+    "What are some potential drawbacks or limitations of your AI model?",
+    "How might the ethical considerations you identified influence the design or implementation of your AI model?"
+  ],
+  "remix_zone": "Students could remix this problem by considering different real-world problems, designing different types of AI models, or exploring different ethical considerations.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}

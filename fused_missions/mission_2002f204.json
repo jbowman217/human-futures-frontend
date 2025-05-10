@@ -1,0 +1,33 @@
+{
+  "title": "Regents Examination in Algebra II: A Deep Dive",
+  "grade_band": "High School",
+  "subjects": [
+    "Algebra",
+    "Statistics",
+    "Economics",
+    "Geometry"
+  ],
+  "driving_question": "How can we apply the principles of Algebra, Statistics, Economics, and Geometry to solve complex real-world problems?",
+  "short_background_context": "The Regents Examination in Algebra II is a comprehensive test that assesses your understanding of various mathematical concepts. It is designed by the University of the State of New York and is considered a crucial part of the high school curriculum. The exam covers a range of topics including Algebra, Statistics, Economics, and Geometry. The scoring process is rigorous and involves a minimum of three mathematics teachers. This mission is designed to help you understand the depth and breadth of the examination, its scoring process, and how to apply mathematical concepts to solve the problems presented.",
+  "tasks": [
+    "Analyze the scoring process of the Regents Examination in Algebra II and discuss its fairness and comprehensiveness.",
+    "Solve a set of constructed-response questions that cover Algebra, Statistics, Economics, and Geometry.",
+    "Create your own constructed-response question based on the principles of Algebra II and provide a model response for it."
+  ],
+  "pre_thinking_prompts": [
+    "What do you know about the Regents Examination in Algebra II?",
+    "How familiar are you with the subjects covered in the examination?",
+    "What strategies do you think would be effective in tackling the constructed-response questions?"
+  ],
+  "reflection_prompt": "Reflect on your understanding of the subjects covered in the examination. How well were you able to apply these concepts in solving the tasks? What areas do you need to improve on?",
+  "ai_tutor_prompts": [
+    "Can you explain why you chose that approach to solve the problem?",
+    "What other methods could you have used to solve the task?",
+    "How does this task relate to real-world applications of these mathematical principles?"
+  ],
+  "remix_zone": "Students could remix this problem by incorporating other mathematical concepts into the constructed-response questions. They could also modify the scoring process and discuss how their changes could affect the fairness and comprehensiveness of the examination.",
+  "display": {
+    "graph_builder": true,
+    "text_area": true
+  }
+}
