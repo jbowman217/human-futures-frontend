@@ -47,11 +47,13 @@ async function validateMissionMaterials() {
         return;
       }
 
-      const badLinks = task.materials.filter((mat: any) => 
+      const badLinks = (task.materials as { link: string }[]).filter((mat: { link: string }) =>
         !mat.link ||
         typeof mat.link !== 'string' ||
         !mat.link.startsWith('/materials/') ||
         !/\.(png|jpg|jpeg|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
+      );
+      
       );      
         );
       });
