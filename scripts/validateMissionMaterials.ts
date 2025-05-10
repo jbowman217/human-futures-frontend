@@ -47,13 +47,14 @@ async function validateMissionMaterials() {
         return;
       }
 
-      const badLinks = task.materials.filter(
-        mission.materials.forEach((mat: any) => {
+      const badLinks = task.materials.filter((mat: { link: string }) => {
+        return (
           !mat.link ||
           typeof mat.link !== 'string' ||
           !mat.link.startsWith('/materials/') ||
           !/\.(png|jpg|jpeg|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
-      );
+        );
+      });
 
       if (badLinks.length > 0) {
         malformedLinks += badLinks.length;
