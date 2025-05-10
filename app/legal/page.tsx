@@ -1,12 +1,10 @@
-"use client";
+// app/legal/page.tsx
+import { promises as fs } from 'fs';
+import path from 'path';
 
-import fs from "fs";
-import path from "path";
-import React from "react";
-
-export default function LegalPage() {
-  const terms = fs.readFileSync(path.resolve("./terms.md"), "utf8");
-  const privacy = fs.readFileSync(path.resolve("./privacy.md"), "utf8");
+export default async function LegalPage() {
+  const terms = await fs.readFile(path.join(process.cwd(), 'terms.md'), 'utf8');
+  const privacy = await fs.readFile(path.join(process.cwd(), 'privacy.md'), 'utf8');
 
   return (
     <div className="min-h-screen bg-black text-white p-8 max-w-4xl mx-auto space-y-12">
