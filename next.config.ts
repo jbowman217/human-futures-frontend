@@ -1,7 +1,10 @@
 // next.config.ts
 
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Add custom Next.js config here (no turbopack or experimental needed)
+  experimental: {
+    appDir: true,
+  },
 };
 
 export default nextConfig;
