@@ -3,17 +3,18 @@ dotenv.config({ path: '.env.local' });
 
 import { createClient } from '@supabase/supabase-js';
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
-);
-
-// Define a clean interface for your materials
+// ✅ Define material interface
 interface Material {
   link?: string;
   type?: string;
   description?: string;
 }
+
+// ✅ Connect to Supabase
+const supabase = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+);
 
 async function validateMissionMaterials() {
   const { data: missions, error } = await supabase
@@ -58,20 +59,20 @@ async function validateMissionMaterials() {
         !mat.link ||
         typeof mat.link !== 'string' ||
         !mat.link.startsWith('/materials/') ||
-        !/\.(png|jpg|jpeg|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
+        !/\.(png|jpe?g|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
       );
 
       if (badLinks.length > 0) {
         malformedLinks += badLinks.length;
         console.warn(
-          `⚠️ ${title} — Task ${taskIndex + 1} contains ${badLinks.length} malformed material link(s).`
+          `⚠️ ${title} — Task ${taskIndex + 1} has ${badLinks.length} bad material link(s).`
         );
         missionHasAll = false;
       }
     });
 
     if (missionHasAll) {
-      console.log(`✅ ${title} — All 3 tasks passed material validation.`);
+      console.log(`✅ ${title} — All 3 tasks passed.`);
       missionPassCount++;
     } else {
       missionFailCount++;
@@ -79,12 +80,12 @@ async function validateMissionMaterials() {
   }
 
   console.log('\n🧾 SUMMARY:');
-  console.log(`✅ Missions Passed: ${missionPassCount}`);
-  console.log(`❌ Missions with Issues: ${missionFailCount}`);
+  console.log(`✅ Passed: ${missionPassCount}`);
+  console.log(`❌ Failed: ${missionFailCount}`);
   console.log(`📦 Tasks Checked: ${totalTasks}`);
   console.log(`⚠️ Tasks Missing Materials: ${tasksWithMissing}`);
-  console.log(`❌ Malformed Material Links: ${malformedLinks}`);
-  console.log('\n🎯 Material validation complete.\n');
+  console.log(`❌ Malformed Links: ${malformedLinks}`);
+  console.log('\n🎯 Validation complete.\n');
 }
 
 validateMissionMaterials();
