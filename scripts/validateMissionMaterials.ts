@@ -55,6 +55,7 @@ async function validateMissionMaterials() {
         return;
       }
 
+      // ✅ FIX: Add type to `mat`
       const badLinks = task.materials.filter((mat: Material) =>
         !mat.link ||
         typeof mat.link !== 'string' ||
