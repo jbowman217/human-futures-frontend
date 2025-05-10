@@ -47,12 +47,12 @@ async function validateMissionMaterials() {
         return;
       }
 
-      const badLinks = task.materials.filter((mat: { link: string }) => {
-        return (
-          !mat.link ||
-          typeof mat.link !== 'string' ||
-          !mat.link.startsWith('/materials/') ||
-          !/\.(png|jpg|jpeg|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
+      const badLinks = task.materials.filter((mat: any) => 
+        !mat.link ||
+        typeof mat.link !== 'string' ||
+        !mat.link.startsWith('/materials/') ||
+        !/\.(png|jpg|jpeg|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
+      );      
         );
       });
 
