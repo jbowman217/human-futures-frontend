@@ -30,7 +30,7 @@ export default function HomePage() {
       if (error) {
         console.error('❌ Supabase error:', error);
       } else {
-        setMissions(data || []); // ✅ All 9 missions now
+        setMissions(data || []);
       }
     }
 
@@ -45,51 +45,53 @@ export default function HomePage() {
     'bg-teal-600',
     'bg-pink-600',
     'bg-red-600',
+    'bg-indigo-600',
+    'bg-cyan-600',
   ];
 
   return (
-<main className="p-6 max-w-7xl mx-auto mb-0 pb-0">
-<h1 className="text-5xl font-extrabold text-center text-white tracking-wide mb-12">
-        HUMAN FUTURES
-      </h1>
+    <div className="min-h-screen bg-black px-6 py-10">
+      <main className="max-w-7xl mx-auto">
+        <h1 className="text-5xl font-extrabold text-center text-white tracking-wide mb-12 uppercase">
+          HUMAN FUTURES
+        </h1>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {missions.map((mission, index) => {
-          const color = colorThemes[index % colorThemes.length];
-          return (
-            <Link key={mission.id} href={`/mission/${mission.id}`}>
-              <div
-                className={`flex flex-col rounded-2xl shadow-xl hover:shadow-2xl 
-                  p-4 sm:p-6 
-                  min-h-[440px] 
-                  w-full sm:max-w-[420px] 
-                  text-white hover:scale-[1.01] transition duration-300 
-                  ${color}`}
-              >
-                <div className="space-y-4 flex-1">
-                  <h2 className="font-bold text-[clamp(1.25rem,2vw,1.5rem)] leading-snug line-clamp-3">
-                    {mission.title}
-                  </h2>
-                  <p className="text-[clamp(1rem,1.4vw,1.125rem)] leading-normal line-clamp-3">
-                    {mission.driving_question?.trim()}
-                  </p>
-                  <ul className="list-disc pl-5 space-y-2 text-base leading-snug">
-                    {(mission.tasks || []).map((task: any, i: number) => (
-                      <li key={i} className="line-clamp-2">{task.task_text}</li>
-                    ))}
-                  </ul>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {missions.map((mission, index) => {
+            const color = colorThemes[index % colorThemes.length];
+            return (
+              <Link key={mission.id} href={`/mission/${mission.id}`}>
+                <div
+                  className={`flex flex-col rounded-2xl shadow-xl hover:shadow-yellow-300/50 
+                    p-6 min-h-[440px] w-full sm:max-w-[420px]
+                    text-white hover:scale-[1.01] transition duration-300 ease-in-out 
+                    ${color}`}
+                >
+                  <div className="space-y-4 flex-1">
+                    <h2 className="font-bold text-[clamp(1.25rem,2vw,1.5rem)] leading-snug line-clamp-3">
+                      {mission.title}
+                    </h2>
+                    <p className="text-[clamp(1rem,1.4vw,1.125rem)] leading-normal line-clamp-3">
+                      {mission.driving_question?.trim()}
+                    </p>
+                    <ul className="list-disc pl-5 space-y-2 text-base leading-snug">
+                      {(mission.tasks || []).map((task: any, i: number) => (
+                        <li key={i} className="line-clamp-2">{task.task_text}</li>
+                      ))}
+                    </ul>
+                  </div>
+                  <div className="mt-auto pt-4 flex items-center justify-end text-sm font-medium">
+                    <span className="text-white opacity-80 hover:opacity-100 transition">
+                      Start Mission
+                    </span>
+                    <ArrowRight size={18} className="ml-2" />
+                  </div>
                 </div>
-                <div className="mt-auto pt-4 flex items-center justify-end text-sm font-medium">
-                  <span className="text-white opacity-70 hover:opacity-100 transition">
-                    Start Mission
-                  </span>
-                  <ArrowRight size={18} className="ml-2" />
-                </div>
-              </div>
-            </Link>
-          );
-        })}
-      </div>
-    </main>
+              </Link>
+            );
+          })}
+        </div>
+      </main>
+    </div>
   );
 }
