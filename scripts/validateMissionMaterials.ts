@@ -48,7 +48,7 @@ async function validateMissionMaterials() {
       }
 
       const badLinks = task.materials.filter(
-        (mat) =>
+        mission.materials.forEach((mat: any) => {
           !mat.link ||
           typeof mat.link !== 'string' ||
           !mat.link.startsWith('/materials/') ||
