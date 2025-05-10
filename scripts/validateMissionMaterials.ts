@@ -47,16 +47,12 @@ async function validateMissionMaterials() {
         return;
       }
 
-      const badLinks = (task.materials as { link: string }[]).filter((mat: { link: string }) =>
+      const badLinks = (task.materials as { link: string }[]).filter((mat) =>
         !mat.link ||
         typeof mat.link !== 'string' ||
         !mat.link.startsWith('/materials/') ||
         !/\.(png|jpg|jpeg|svg|pdf|md|txt|mp4|csv)$/i.test(mat.link)
       );
-      
-      );      
-        );
-      });
 
       if (badLinks.length > 0) {
         malformedLinks += badLinks.length;
@@ -81,7 +77,6 @@ async function validateMissionMaterials() {
   console.log(`📦 Tasks Checked: ${totalTasks}`);
   console.log(`⚠️ Tasks Missing Materials: ${tasksWithMissing}`);
   console.log(`❌ Malformed Material Links: ${malformedLinks}`);
-
   console.log('\n🎯 Material validation complete.\n');
 }
 
