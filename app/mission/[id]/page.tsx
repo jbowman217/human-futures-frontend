@@ -47,14 +47,25 @@ export default function MissionPage() {
 
   async function saveThought(key: string, value: string) {
     if (!value.trim()) return;
+
     const payload = {
       mission_id: id,
-      user_id: studentData.name || 'anonymous',
+      user_id: studentData.name?.trim() || 'anonymous',
+      zip_code: studentData.zip?.trim() || '',
       page_type: key,
-      content: value,
+      content: value.trim(),
+      created_at: new Date().toISOString()
     };
-    const { error } = await supabase.from('student_thoughts').insert([payload]);
-    if (error) console.error('Error saving thought:', error);
+
+    console.log("🧠 Attempting to save student thought:", payload);
+
+    const { error } = await supabase.from('student_feedback').insert([payload]);
+
+    if (error) {
+      console.error("❌ Supabase insert error:", error.message);
+    } else {
+      console.log("✅ Thought saved successfully.");
+    }
   }
 
   function nextPage() {
