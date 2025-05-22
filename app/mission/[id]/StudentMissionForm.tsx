@@ -15,8 +15,37 @@ export function StudentMissionForm({ missionId }: { missionId: string }) {
   const handleSubmit = async () => {
     setLoading(true);
     try {
+      // Submit core content
       const ok1 = await submitStudentThoughts(missionId, userId, thoughts, questions);
       const ok2 = await submitStudentResponse(missionId, userId, solution, reflection);
+
+      // Trigger OpenAI feedback in parallel
+      if (thoughts) {
+        fetch('/api/ai/analyzeThought', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            mission_id: missionId,
+            user_id: userId,
+            content: thoughts,
+            page_type: 'prethinking'
+          })
+        });
+      }
+
+      if (reflection) {
+        fetch('/api/ai/analyzeThought', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            mission_id: missionId,
+            user_id: userId,
+            content: reflection,
+            page_type: 'reflection'
+          })
+        });
+      }
+
       if (ok1 && ok2) {
         setSubmitted(true);
       } else {
