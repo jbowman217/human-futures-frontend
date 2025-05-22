@@ -1,0 +1,8 @@
+{
+  "remix_prompts": [
+    "How would this model change if we were measuring daylight hours across seasons?",
+    "Rewrite the problem in a climate science or music waveform context.",
+    "What happens if the periodicity is disrupted (e.g. a broken oscillator)?",
+    "Create a public campaign using polar graphs to represent seasonal temperature swings."
+  ]
+}

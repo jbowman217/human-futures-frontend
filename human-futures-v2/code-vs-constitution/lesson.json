@@ -1,0 +1,32 @@
+{
+  "lesson_id": "code-vs-constitution",
+  "grade_band": "8–12",
+  "title": "Code ≠ Constitution",
+  "topics": [
+    "AI",
+    "Law and Policy",
+    "Regulation",
+    "Fairness",
+    "Digital Rights"
+  ],
+  "objectives": [
+    "Understand how AI technologies challenge existing laws and rights",
+    "Identify gaps between policy and algorithmic enforcement",
+    "Analyze proposed or current AI laws and their impact on communities",
+    "Propose rights, protections, or reforms for an AI-powered society"
+  ],
+  "justice_theme": "Civil Rights, Digital Power, and Algorithmic Governance",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai_policy",
+    "ethics",
+    "governance",
+    "civil_rights",
+    "regulation",
+    "constitutional_values"
+  ],
+  "standards": [
+    "ISTE 2d, 3a, 6d, 7a",
+    "AI4K12: Societal Impact, Representation and Reasoning"
+  ]
+}

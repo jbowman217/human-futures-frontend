@@ -1,0 +1,16 @@
+{
+  "lesson_id": "ai-guessing-game",
+  "grade_band": "4–12",
+  "title": "Who’s the Algorithm Really Guessing?",
+  "topics": ["AI", "Classification", "Bias", "Decision Trees"],
+  "objectives": [
+    "Use decision trees to classify data",
+    "Model how AI makes decisions using classification algorithms",
+    "Design and test an AI-style guessing game",
+    "Reflect on how classification and bias show up in the real world"
+  ],
+  "standards": ["ISTE 5a, 5d", "AI4K12: Representation, Societal Impact"],
+  "tags": ["ai", "classification", "bias", "decision_tree", "data_modeling"],
+  "justice_theme": "Algorithmic Bias and Representation",
+  "estimated_time_minutes": 120
+}

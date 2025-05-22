@@ -1,0 +1,14 @@
+{
+  "understanding": [
+    "Constructs and interprets five-number summaries and boxplots",
+    "Explains how different outlier rules work and why they matter"
+  ],
+  "application": [
+    "Applies both IQR and standard deviation rules to a dataset",
+    "Analyzes real or hypothetical systems for skew and fairness"
+  ],
+  "remix": [
+    "Builds creative or critical interpretations of outlier data",
+    "Uses visualization, metaphor, or narrative to reframe data stories"
+  ]
+}

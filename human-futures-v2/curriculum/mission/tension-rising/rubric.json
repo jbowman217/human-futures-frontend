@@ -1,0 +1,14 @@
+{
+  "understanding": [
+    "Explains stress, strain, and the toe/linear/failure regions of a tendon model",
+    "Describes how hierarchical structure affects mechanical response"
+  ],
+  "application": [
+    "Models nonlinear elasticity using springs and math",
+    "Simulates and explains changes in stiffness over time"
+  ],
+  "remix": [
+    "Uses physical tension to model emotional, social, or political dynamics",
+    "Builds artistic or narrative tools that reflect structural response"
+  ]
+}

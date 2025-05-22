@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Review the app permissions of a tool you use every day. What data is it collecting — and why?",
+    "solution_text": "Common permissions include location, contacts, microphone, camera. Students should question whether each is essential to functionality.",
+    "tags": ["privacy", "data_tracking", "app_permissions"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Simplify a confusing section of a terms of service agreement into plain, student-friendly language.",
+    "solution_text": "Should highlight what is being collected, stored, or sold, and how. Original and revised text can be compared.",
+    "tags": ["terms_of_service", "language_translation", "user_rights"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Design a “Data Consent Dashboard” for an app that gives users clear, fair control over their personal information.",
+    "solution_text": "Might include toggles, transparency meters, data visualizations, or opt-out screens. Goal is clarity and autonomy.",
+    "tags": ["design_thinking", "user_agency", "data_ethics"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "What are the risks of trading convenience for surveillance? Explain using a real-world example.",
+    "solution_text": "Should connect to examples like location tracking, smart assistants, facial recognition — and what people lose or gain.",
+    "tags": ["surveillance", "ethical_tradeoff", "real_world_analysis"],
+    "difficulty_level": "medium"
+  }
+]

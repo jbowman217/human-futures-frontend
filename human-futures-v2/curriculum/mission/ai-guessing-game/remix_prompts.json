@@ -1,0 +1,9 @@
+{
+  "remix_prompts": [
+    "Create a decision tree for something personal — like classifying your moods, outfits, or music.",
+    "Make a remix where every branch of your decision tree reflects a value or justice principle.",
+    "Swap datasets — could your classifier work on voting methods, art movements, or community needs?",
+    "Design a protest version: A classifier that detects algorithmic injustice instead of enabling it.",
+    "Add randomness — what if your classifier had to guess based on incomplete data?"
+  ]
+}

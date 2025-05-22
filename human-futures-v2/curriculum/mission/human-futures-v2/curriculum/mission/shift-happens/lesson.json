@@ -1,0 +1,31 @@
+{
+  "lesson_id": "shift-happens",
+  "grade_band": "10–12",
+  "title": "Shift Happens",
+  "topics": [
+    "Phase Shift",
+    "Sine Function",
+    "Time Delay",
+    "Graph Alignment",
+    "Transformations"
+  ],
+  "objectives": [
+    "Apply horizontal transformations to sinusoidal models",
+    "Interpret phase shift as delay or difference in access or action",
+    "Analyze when being ‘out of phase’ creates inequity or innovation",
+    "Use modeling to surface invisible lags and structural delays"
+  ],
+  "justice_theme": "Delay, Timing, and the Costs of Being ‘Out of Phase’",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "phase_shift",
+    "time_delay",
+    "horizontal_translation",
+    "lag_analysis",
+    "access_modeling"
+  ],
+  "standards": [
+    "HSF-TF.B.5",
+    "MP.4: Model with mathematics"
+  ]
+}

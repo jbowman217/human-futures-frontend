@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "You’re 1 of 200 employees. What’s the probability that you get selected *at least once* over 52 independent weekly raffles?",
+    "solution_text": "P(not selected) = (199/200)^52 ≈ 0.77 → So P(selected at least once) ≈ 1 – 0.77 = 0.23 or 23%.",
+    "tags": ["probability", "complement_rule", "long_term_modeling"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "What’s the expected number of gift cards a person should receive over 52 weeks?",
+    "solution_text": "E(X) = 52 × (1/200) = 0.26 expected wins. On average, fewer than 1 win per person per year.",
+    "tags": ["expected_value", "equity", "random_systems"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Is Agatha right to claim unfairness if she never wins? Use probability to explain your answer.",
+    "solution_text": "P(0 wins) ≈ 0.77. While unlikely, it's not statistically shocking. This is expected for many people in a large population.",
+    "tags": ["interpretation", "fairness", "simulation_logic"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Design an alternative system where everyone gets a chance at recognition. Describe the pros and cons compared to pure randomness.",
+    "solution_text": "Examples: rotational wins, point-based raffles, streak bonuses. Fairer *perceived* but possibly less random and scalable.",
+    "tags": ["system_design", "fairness", "remix"],
+    "difficulty_level": "hard"
+  }
+]

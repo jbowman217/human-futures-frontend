@@ -1,0 +1,31 @@
+{
+  "lesson_id": "wait-watchers",
+  "grade_band": "10–12",
+  "title": "Wait Watchers",
+  "topics": [
+    "Statistical Simulation",
+    "Random Sampling",
+    "Productivity Analysis",
+    "Error Bounds"
+  ],
+  "objectives": [
+    "Run simulations of random outcomes based on constraints",
+    "Analyze variation in outcomes to set performance benchmarks",
+    "Reflect on fairness and pressure in monitored work systems",
+    "Design simulations that center worker well-being"
+  ],
+  "justice_theme": "Surveillance, Expectation, and the Algorithmic Workplace",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "simulation",
+    "statistical_variability",
+    "systems_modeling",
+    "productivity",
+    "algorithmic_bias"
+  ],
+  "standards": [
+    "S-IC.5",
+    "S-ID.A.1",
+    "MP.2: Reason abstractly and quantitatively"
+  ]
+}

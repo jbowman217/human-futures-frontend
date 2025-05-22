@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Choose an environmental issue (e.g. pollution, deforestation, heat islands). What data would an AI need to address it?",
+    "solution_text": "Depends on issue: sensors, satellite imagery, historical data, public records, crowd-sourced reports. Students must justify choices.",
+    "tags": ["data_modeling", "climate_ai", "problem_scoping"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Analyze an existing AI-for-environment system. Who benefits most — and who might be harmed or ignored?",
+    "solution_text": "Could discuss smart grid access, sensor placement in underserved areas, eco-optimizations that exclude workers, etc.",
+    "tags": ["impact_analysis", "tech_equity", "climate_justice"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "Build a basic concept for an AI system that predicts flooding in your region. What inputs would it need?",
+    "solution_text": "Weather forecasts, elevation maps, rainfall history, urban runoff, local observations. Model should balance simplicity and realism.",
+    "tags": ["ai_design", "climate_risk", "localization"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Create a plan to test and improve your AI solution. What could go wrong, and how will you fix it?",
+    "solution_text": "Students should predict data issues, equity gaps, over-reliance, or false positives. Then propose adjustments.",
+    "tags": ["iteration", "systems_thinking", "test_and_refine"],
+    "difficulty_level": "hard"
+  }
+]

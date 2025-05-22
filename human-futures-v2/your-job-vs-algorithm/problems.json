@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "List 5 tasks performed by a nurse, a delivery driver, or a teacher. Which ones could be automated by AI?",
+    "solution_text": "AI might handle tasks like scheduling, monitoring, or data entry — but emotional care, decision-making, and adaptability often require humans.",
+    "tags": ["job_analysis", "automation", "ai_vs_human"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Imagine an algorithm scores job applicants based on GPA, social media, and tone of voice. What are the risks?",
+    "solution_text": "Bias, exclusion, overreliance on non-contextual data, and reinforcement of inequality are major risks.",
+    "tags": ["hiring_bias", "algorithmic_decision", "ethics"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Design an 'AI surveillance' system that tracks a worker’s behavior. Then list 3 ways it could be misused.",
+    "solution_text": "Responses may include over-monitoring, false positives, psychological stress, or punishing breaks or creativity.",
+    "tags": ["surveillance", "workplace_control", "ai_ethics"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "Interview someone with a job. Ask: What parts of your job could be automated? What parts shouldn’t be?",
+    "solution_text": "Students should synthesize personal narratives with ethical reasoning around value, dignity, and trust.",
+    "tags": ["real_world", "interview", "labor_ethics"],
+    "difficulty_level": "medium"
+  }
+]

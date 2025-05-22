@@ -1,0 +1,31 @@
+{
+  "lesson_id": "click-or-else",
+  "grade_band": "6–10",
+  "title": "Would You Click 'Accept'?",
+  "topics": [
+    "AI",
+    "Privacy",
+    "Surveillance",
+    "Consent",
+    "Ethical Design"
+  ],
+  "objectives": [
+    "Analyze the trade-offs of AI technologies in everyday life",
+    "Identify how data is collected and used through terms of service",
+    "Evaluate the ethical implications of AI-powered surveillance",
+    "Propose redesigns that balance privacy, safety, and utility"
+  ],
+  "justice_theme": "Surveillance, Consent, and the Right to Opt Out",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai_ethics",
+    "privacy",
+    "terms_of_service",
+    "surveillance",
+    "data_agency"
+  ],
+  "standards": [
+    "ISTE 2d, 5d, 6d",
+    "AI4K12: Societal Impact, Natural Interaction"
+  ]
+}

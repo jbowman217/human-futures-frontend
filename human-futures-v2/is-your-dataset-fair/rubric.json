@@ -1,0 +1,14 @@
+{
+  "understanding": [
+    "Identifies patterns and bias in student-created data",
+    "Explains how training data affects AI outcomes"
+  ],
+  "application": [
+    "Creates fairer datasets and surveys",
+    "Visualizes and interprets data (e.g., bar graphs)"
+  ],
+  "remix": [
+    "Designs improved versions of biased tasks",
+    "Invents fairness-focused tools or storytelling remixes"
+  ]
+}

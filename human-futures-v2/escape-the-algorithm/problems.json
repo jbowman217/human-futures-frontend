@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Open a video or social media app and list the first 5 things it shows you. What do they have in common?",
+    "solution_text": "They likely reflect past interactions — likes, views, follows — due to recommender system logic.",
+    "tags": ["behavioral_tracking", "recommendation", "pattern_analysis"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Design your own recommendation system using a paper decision tree. Use questions like 'Do you like fast-paced music?' or 'Do you prefer snacks over meals?'",
+    "solution_text": "Answers will vary. Tree should end with personalized suggestions based on student’s path.",
+    "tags": ["algorithm_design", "decision_tree", "customization"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "You and a friend search the same word on YouTube and get totally different results. Why might that happen?",
+    "solution_text": "Because the algorithm personalizes results based on past activity, location, device use, and engagement history.",
+    "tags": ["filter_bubble", "personalization", "algorithmic_bias"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "How could a recommender system accidentally reinforce harmful stereotypes?",
+    "solution_text": "By repeatedly serving content based on biased engagement patterns, ignoring context, or prioritizing virality over safety.",
+    "tags": ["ai_ethics", "bias", "recommendation"],
+    "difficulty_level": "hard"
+  }
+]

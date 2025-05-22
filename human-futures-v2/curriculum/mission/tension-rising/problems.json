@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Given a spring-string system, at what point does each spring begin to contribute to tension?",
+    "solution_text": "When its crimped string length is fully extended — model this as threshold strain.",
+    "tags": ["modeling", "biomechanics", "thresholds"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Plot the stress–strain curve for a tendon with 2 fibrils of different lengths. Describe the ‘toe’ and linear regions.",
+    "solution_text": "Toe = nonlinear stretch before tension, linear = constant stiffness after. Curve increases as more fibrils straighten.",
+    "tags": ["stress_strain", "plotting", "curve_interpretation"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Explain why fibrils of different lengths give rise to a nonlinear stress–strain response.",
+    "solution_text": "They activate sequentially. Shorter ones pull first; longer ones engage later, increasing stiffness gradually.",
+    "tags": ["microstructure", "progressive_activation", "nonlinearity"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "What does the ‘failure point’ mean in a tendon model? How is it visible in the math?",
+    "solution_text": "When all fibrils are taut and overloaded. Seen as sudden drop or plateau in the curve.",
+    "tags": ["biomechanics", "failure_analysis", "limit_modeling"],
+    "difficulty_level": "hard"
+  }
+]

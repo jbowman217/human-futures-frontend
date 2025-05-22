@@ -1,0 +1,32 @@
+{
+  "lesson_id": "pressure-drop",
+  "grade_band": "10–12",
+  "title": "Pressure Drop",
+  "topics": [
+    "Flow Rate",
+    "Resistance",
+    "Capacitance",
+    "Circulatory Modeling",
+    "Poiseuille’s Law"
+  ],
+  "objectives": [
+    "Model pulsatile blood flow using analogies to fluid and electrical circuits",
+    "Apply Poiseuille’s law to estimate pressure drop and flow",
+    "Interpret differential equations in the context of circulatory systems",
+    "Analyze the smoothing effect of compliant vessels and capacitors"
+  ],
+  "justice_theme": "Blood, Flow, and Medical Access Under Pressure",
+  "estimated_time_minutes": 120,
+  "tags": [
+    "windkessel",
+    "fluid_dynamics",
+    "electrical_model",
+    "differential_equation",
+    "circulation"
+  ],
+  "standards": [
+    "HS-PS2-6",
+    "MP.4: Model with mathematics",
+    "AP CALC BC: FUN-5.A to FUN-5.C"
+  ]
+}

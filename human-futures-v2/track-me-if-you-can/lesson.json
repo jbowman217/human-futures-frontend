@@ -1,0 +1,31 @@
+{
+  "lesson_id": "track-me-if-you-can",
+  "grade_band": "10–12",
+  "title": "Track Me If You Can",
+  "topics": [
+    "Bias",
+    "Sampling",
+    "Experimental Design",
+    "Causation vs. Correlation",
+    "Measurement Error"
+  ],
+  "objectives": [
+    "Compare data collection methods and identify sources of bias",
+    "Design and critique randomized experiments",
+    "Analyze claims of causality using statistical evidence",
+    "Evaluate ethical trade-offs in health and behavior tracking"
+  ],
+  "justice_theme": "Surveillance, Consent, and Statistical Power",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "sampling_bias",
+    "experiment_design",
+    "causation",
+    "data_tracking",
+    "health_surveillance"
+  ],
+  "standards": [
+    "AP STATS LO: VAR-4.A, EXP-1.B to EXP-3.C",
+    "S-IC.1, S-IC.3, S-IC.5"
+  ]
+}

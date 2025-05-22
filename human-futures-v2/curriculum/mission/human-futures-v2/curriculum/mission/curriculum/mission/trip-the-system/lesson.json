@@ -1,0 +1,31 @@
+{
+  "lesson_id": "trip-the-system",
+  "grade_band": "10–12",
+  "title": "Trip the System",
+  "topics": [
+    "Systems of Equations",
+    "Circle and Line Intersection",
+    "Quadratics",
+    "Constraints"
+  ],
+  "objectives": [
+    "Solve nonlinear systems graphically and algebraically",
+    "Interpret the number of solutions as points of access or collision",
+    "Use geometry to model restriction, exclusion, or entry into spaces",
+    "Visualize systems that allow or block passage"
+  ],
+  "justice_theme": "Boundaries, Access, and Point of Contact",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "nonlinear_systems",
+    "circle_line",
+    "quadratics",
+    "spatial_constraints",
+    "intersection_modeling"
+  ],
+  "standards": [
+    "HSA-REI.C.7",
+    "G-GPE.A.1",
+    "MP.1: Make sense of problems"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Break down the logic of a simple NPC. What conditions trigger its actions?",
+    "solution_text": "Students should identify If → Then structures, such as: If player enters room → NPC greets; If attacked → NPC flees.",
+    "tags": ["npc_behavior", "logic_flow", "decision_tree"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Design a three-branch decision tree for an NPC who helps players in a puzzle game. What does it ask? What does it do?",
+    "solution_text": "Tree may include: Is player stuck? → Give hint; Has player failed 3x? → Offer solution; Else → Observe quietly.",
+    "tags": ["decision_tree", "game_design", "ai_interaction"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "How could an NPC reflect unconscious bias? Give an example from a real or imagined game.",
+    "solution_text": "Bias may show in who NPC helps, language used, or assumptions about player roles or identities.",
+    "tags": ["bias", "npc_design", "digital_equity"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "You built an NPC that always gives the same advice. How could you make it smarter — or more human?",
+    "solution_text": "Use state-tracking, memory, randomization, or adaptive dialogue to change behavior over time.",
+    "tags": ["npc_adaptation", "user_experience", "ai_evolution"],
+    "difficulty_level": "hard"
+  }
+]

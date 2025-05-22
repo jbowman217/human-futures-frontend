@@ -1,0 +1,32 @@
+{
+  "lesson_id": "tension-rising",
+  "grade_band": "10–12",
+  "title": "Tension Rising",
+  "topics": [
+    "Stress and Strain",
+    "Elasticity",
+    "Nonlinear Systems",
+    "Biomechanics",
+    "Hooke’s Law"
+  ],
+  "objectives": [
+    "Model ligament and tendon behavior using stress-strain curves",
+    "Understand the toe region, linear region, and failure point",
+    "Simulate tension using springs and strings",
+    "Connect physical deformation to justice metaphors"
+  ],
+  "justice_theme": "Load, Resistance, and Breaking Points",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "biomechanics",
+    "elasticity",
+    "hookes_law",
+    "tissue_modeling",
+    "nonlinearity"
+  ],
+  "standards": [
+    "HS-PS2-1",
+    "MP.4: Model with mathematics",
+    "AP PHYS: INT-2.A"
+  ]
+}

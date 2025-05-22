@@ -1,0 +1,32 @@
+{
+  "lesson_id": "escape-the-algorithm",
+  "grade_band": "5–8",
+  "title": "Can You Escape the Algorithm?",
+  "topics": [
+    "AI",
+    "Recommender Systems",
+    "Behavior Tracking",
+    "Algorithmic Influence",
+    "Personal Data"
+  ],
+  "objectives": [
+    "Identify how AI powers recommender systems and content feeds",
+    "Understand how personal data influences digital experiences",
+    "Analyze fairness and risks of algorithmic personalization",
+    "Design and evaluate ethical alternatives to current systems"
+  ],
+  "justice_theme": "Digital Autonomy and Data Profiling",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai",
+    "recommendation",
+    "filter_bubble",
+    "data_profiling",
+    "user_agency",
+    "algorithmic_bias"
+  ],
+  "standards": [
+    "ISTE 2d, 5d, 6c",
+    "AI4K12: Natural Interaction, Societal Impact"
+  ]
+}

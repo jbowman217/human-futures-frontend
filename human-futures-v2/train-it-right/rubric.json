@@ -1,0 +1,14 @@
+{
+  "understanding": [
+    "Explains how machine learning works using supervised learning",
+    "Describes how data shape model decisions"
+  ],
+  "application": [
+    "Trains, tests, and refines a model using structured tools",
+    "Identifies and improves biased or incomplete data"
+  ],
+  "remix": [
+    "Redesigns datasets or models for better representation",
+    "Creates original media to communicate bias and fairness"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "lesson_id": "the-filter-fails",
+  "grade_band": "9–12",
+  "title": "The Filter Fails",
+  "topics": [
+    "2D Arrays",
+    "Validation",
+    "Duplication",
+    "Pattern Checking"
+  ],
+  "objectives": [
+    "Write methods to validate structure and uniqueness in data grids",
+    "Model systems that require fair representation or inclusion",
+    "Analyze how exclusion or error can occur despite strong structure",
+    "Critique rules that check *what* is present but not *how* it's used"
+  ],
+  "justice_theme": "Inclusion, Pattern Recognition, and Structural Bias",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "2d_arrays",
+    "validation",
+    "duplicates",
+    "latin_square",
+    "fairness_checks"
+  ],
+  "standards": [
+    "AP CSA: CON-2.B, CON-2.E",
+    "MP.3: Construct viable arguments and critique reasoning"
+  ]
+}

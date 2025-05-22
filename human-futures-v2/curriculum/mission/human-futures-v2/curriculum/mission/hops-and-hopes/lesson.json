@@ -1,0 +1,31 @@
+{
+  "lesson_id": "hops-and-hopes",
+  "grade_band": "9–12",
+  "title": "Hops and Hopes",
+  "topics": [
+    "Simulation",
+    "Randomness",
+    "Looping",
+    "Probability",
+    "System Limits"
+  ],
+  "objectives": [
+    "Design and run simulations using conditional logic and loops",
+    "Model probabilistic outcomes in limited-resource environments",
+    "Interpret success rates in systems with random movement",
+    "Reflect on how randomness impacts access and equity"
+  ],
+  "justice_theme": "Systems, Scarcity, and Randomized Access",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "simulation",
+    "iteration",
+    "randomness",
+    "constraints",
+    "success_models"
+  ],
+  "standards": [
+    "AP CSA: MOD-3.C, CON-2.E",
+    "MP.4: Model with mathematics"
+  ]
+}

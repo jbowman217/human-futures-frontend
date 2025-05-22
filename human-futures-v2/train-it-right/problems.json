@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "You train a model to detect ‘happy’ messages, but it fails when given slang or nonstandard grammar. What might be missing from your training data?",
+    "solution_text": "Lack of linguistic diversity. Biased data may exclude cultural variation, dialect, or tone.",
+    "tags": ["bias", "data_representation", "language_diversity"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "A model is trained only on data from one region or demographic. What are the consequences when used globally?",
+    "solution_text": "Inaccurate predictions, misclassifications, systemic bias, and loss of trust.",
+    "tags": ["sampling_bias", "ai_failures", "ethics"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Create a checklist to review a dataset before training. What would you look for to ensure fairness?",
+    "solution_text": "Balanced labels, diverse representation, annotation consistency, feature clarity, and data volume.",
+    "tags": ["data_audit", "model_fairness", "dataset_design"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "How can you test if your model has bias? Design an experiment with test data.",
+    "solution_text": "Students might create edge-case test inputs, adversarial examples, or demographic comparisons.",
+    "tags": ["testing", "validation", "bias_detection"],
+    "difficulty_level": "hard"
+  }
+]

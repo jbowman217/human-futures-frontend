@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Use two different chatbots and ask each the same three questions. Compare their answers. Which was more helpful or human-like?",
+    "solution_text": "Answers will vary. Students should note differences in tone, task success, and natural language handling.",
+    "tags": ["nlp", "chatbot_testing", "ai_perception"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Design a simple chatbot dialogue for helping a student choose a lunch option. Include at least 3 paths.",
+    "solution_text": "Expected to include basic prompts, branching options, and fallback logic. Clarity and tone matter.",
+    "tags": ["conversation_design", "dialogue_tree", "user_interface"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "A chatbot gives medical advice — but misinterprets a symptom. What could go wrong?",
+    "solution_text": "Students should consider risk, liability, and the need for verification, human oversight, and trust in critical contexts.",
+    "tags": ["chatbot_risks", "nlp_errors", "ethics"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "How could cultural bias show up in chatbot responses? Give an example.",
+    "solution_text": "Examples might include assumptions about names, food, languages, slang, or values embedded in training data.",
+    "tags": ["bias", "nlp", "cultural_context"],
+    "difficulty_level": "medium"
+  }
+]

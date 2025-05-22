@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Use a speech-to-text AI tool to transcribe a short message. How accurate was it?",
+    "solution_text": "Students should compare original message vs. transcript, noting word errors, tone loss, or accent misreads.",
+    "tags": ["mlaas", "api_test", "accuracy"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Imagine a facial recognition API misidentifies someone. What are the consequences — and who's responsible?",
+    "solution_text": "Answers may explore surveillance, discrimination, accountability gaps, and platform disclaimers.",
+    "tags": ["accountability", "error_analysis", "power"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Map out every service or API a delivery app (like Uber Eats or DoorDash) depends on. Who controls what?",
+    "solution_text": "Students should include maps, payments, traffic prediction, routing, ads, notifications — all outsourced tools.",
+    "tags": ["dependency_map", "systems_thinking", "ai_infrastructure"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Design a minimal, ethical alternative to an AI service you tried. What does it gain — and what does it lose?",
+    "solution_text": "Examples: a human transcription network, manual content moderation, in-house data annotation. Trade-offs in speed, cost, ethics.",
+    "tags": ["redesign", "abstraction", "human_in_loop"],
+    "difficulty_level": "hard"
+  }
+]

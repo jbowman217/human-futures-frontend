@@ -1,0 +1,32 @@
+{
+  "lesson_id": "train-it-right",
+  "grade_band": "6–12",
+  "title": "Train It Right",
+  "topics": [
+    "Machine Learning",
+    "Classification",
+    "Supervised Learning",
+    "Sampling Bias",
+    "Dataset Ethics"
+  ],
+  "objectives": [
+    "Train and test a basic machine learning model using labeled data",
+    "Understand the impact of biased or incomplete training data",
+    "Visualize how features influence model output",
+    "Refine a model based on real-world equity and accuracy concerns"
+  ],
+  "justice_theme": "Bias, Fairness, and Who Gets Represented in the Data",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai",
+    "machine_learning",
+    "sampling_bias",
+    "data_ethics",
+    "supervised_learning",
+    "dataset_design"
+  ],
+  "standards": [
+    "ISTE 5b, 5d, 7b",
+    "AI4K12: Learning, Societal Impact"
+  ]
+}

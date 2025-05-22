@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Use Poiseuille’s law to calculate the pressure drop (P) when: Q = 2×10⁻⁶ m³/s, radius H = 0.002 m, length L = 0.05 m, and viscosity μ = 0.004 Pa·s.",
+    "solution_text": "Use R = (8μL)/(πH⁴) and then P = QR. Final pressure drop ≈ 40 Pa.",
+    "tags": ["fluid_dynamics", "poiseuille", "unit_conversion"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "What role does the balloon play in the garden sprayer demonstration of the Windkessel effect?",
+    "solution_text": "It mimics the compliant aorta: smoothing sharp bursts into continuous flow.",
+    "tags": ["windkessel", "analog_modeling", "smoothing"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Compare the electrical equation C(dV/dt) + V/R = I to the circulatory equation C(dP/dt) + P/R = Q. Match each term.",
+    "solution_text": "V ↔ P, I ↔ Q, C and R are direct analogues (capacitance and compliance, resistance).",
+    "tags": ["analogies", "equation_matching", "circuits"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Why does a loss of compliance in arteries lead to greater strain on the heart?",
+    "solution_text": "Stiffer arteries can’t absorb pressure, leading to higher peak loads and cardiovascular stress.",
+    "tags": ["medical_modeling", "physiology", "math_in_health"],
+    "difficulty_level": "medium"
+  }
+]

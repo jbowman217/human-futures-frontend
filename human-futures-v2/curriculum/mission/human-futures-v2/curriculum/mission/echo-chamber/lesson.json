@@ -1,0 +1,30 @@
+{
+  "lesson_id": "echo-chamber",
+  "grade_band": "9–12",
+  "title": "Echo Chamber",
+  "topics": [
+    "String Analysis",
+    "ArrayLists",
+    "Nested Loops",
+    "Equality Checks"
+  ],
+  "objectives": [
+    "Analyze pairs of words in a sequence for repetition or match",
+    "Count and track repeated or recycled ideas in text",
+    "Reflect on when repetition amplifies and when it erases",
+    "Model echo chambers in language and code"
+  ],
+  "justice_theme": "Repetition, Voice, and the Power of Echo",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "string_analysis",
+    "word_pairs",
+    "language",
+    "pattern_recognition",
+    "social_amplification"
+  ],
+  "standards": [
+    "AP CSA: DAT-2.C, CON-1.E",
+    "MP.7: Look for and make use of structure"
+  ]
+}

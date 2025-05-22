@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Draw a picture of a teacher. Then compare your drawing with your classmates. What patterns do you see?",
+    "solution_text": "Students may identify patterns in gender, clothing, setting, or roles. Discussion should highlight stereotypes and variation.",
+    "tags": ["bias", "pattern_recognition", "visual_analysis"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "You surveyed your class about favorite games. The list is called 'Best Games Ever.' What’s a better title for this list?",
+    "solution_text": "Answers may include: 'Our Class's Favorite Games', 'Top Games for 4th Grade', etc. Goal is to reflect specificity and avoid overgeneralization.",
+    "tags": ["survey", "data_labeling", "bias"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "You asked only your friends which pet the class should get. What might go wrong with this dataset?",
+    "solution_text": "Dataset is unrepresentative. It could miss other preferences and lead to biased decisions.",
+    "tags": ["sampling_bias", "fairness", "decision_making"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "An AI system trained only on images of white cats keeps mislabeling black cats as dogs. What’s wrong with the training data?",
+    "solution_text": "The training set lacks diversity. AI learns biased associations based on incomplete input.",
+    "tags": ["training_data", "ai_bias", "classification_error"],
+    "difficulty_level": "hard"
+  }
+]

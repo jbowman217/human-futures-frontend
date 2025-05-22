@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Analyze a social media post or headline that you suspect is misleading or AI-generated. What makes it hard to trust?",
+    "solution_text": "Look for manipulative language, lack of sources, sensationalism, or AI-style vagueness. May include visual cues too.",
+    "tags": ["media_literacy", "disinformation", "trust_signals"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Design a simple fact-checker bot. What questions should it ask before saying something is true?",
+    "solution_text": "Questions might include: Who published this? When? What sources does it cite? Has this been verified elsewhere?",
+    "tags": ["bot_design", "truth_validation", "ethics"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "Explain how deepfakes work. What are they, how are they made, and how can we spot them?",
+    "solution_text": "Deepfakes use GANs to blend facial expressions and voices. Detection involves audio glitches, inconsistent lighting, unnatural expressions.",
+    "tags": ["deepfake", "perception", "ai_technology"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Why is AI-powered misinformation dangerous during elections or emergencies?",
+    "solution_text": "It can shape voter behavior, create panic, or suppress critical warnings — often before platforms or people notice.",
+    "tags": ["civic_literacy", "social_impact", "crisis_misinformation"],
+    "difficulty_level": "medium"
+  }
+]

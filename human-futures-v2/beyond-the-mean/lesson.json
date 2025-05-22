@@ -1,0 +1,32 @@
+{
+  "lesson_id": "beyond-the-mean",
+  "grade_band": "10–12",
+  "title": "Beyond the Mean",
+  "topics": [
+    "Distributions",
+    "Five-Number Summary",
+    "Outliers",
+    "Boxplots",
+    "Measures of Center and Spread"
+  ],
+  "objectives": [
+    "Construct and interpret five-number summaries and boxplots",
+    "Compare methods for identifying outliers",
+    "Evaluate how outliers impact decision-making and fairness",
+    "Use statistical tools to question who defines ‘normal’"
+  ],
+  "justice_theme": "Outliers, Equity, and Systemic Bias",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "five_number_summary",
+    "outliers",
+    "skew",
+    "boxplot",
+    "healthcare",
+    "statistical_fairness"
+  ],
+  "standards": [
+    "AP STATS LO: VAR-1.A to VAR-1.F",
+    "S-ID.1, S-ID.2, S-ID.3"
+  ]
+}

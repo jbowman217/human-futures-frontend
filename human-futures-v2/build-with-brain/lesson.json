@@ -1,0 +1,33 @@
+{
+  "lesson_id": "build-with-brain",
+  "grade_band": "8–12",
+  "title": "Build with Someone Else’s Brain",
+  "topics": [
+    "Machine Learning as a Service (MLaaS)",
+    "APIs",
+    "Abstraction",
+    "Outsourced Intelligence",
+    "Accountability"
+  ],
+  "objectives": [
+    "Use external AI APIs (e.g., speech-to-text, image recognition, emotion detection)",
+    "Understand how MLaaS tools are trained and what limitations they have",
+    "Evaluate the risks and ethical trade-offs of using pre-built models",
+    "Design a project that uses — or questions — someone else’s AI"
+  ],
+  "justice_theme": "Power, Dependence, and the Cost of Convenience",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "mlaas",
+    "api",
+    "abstraction",
+    "outsourced_ai",
+    "power",
+    "black_box",
+    "ai_dependency"
+  ],
+  "standards": [
+    "ISTE 4a, 5b, 6d",
+    "AI4K12: Representation and Reasoning, Societal Impact"
+  ]
+}

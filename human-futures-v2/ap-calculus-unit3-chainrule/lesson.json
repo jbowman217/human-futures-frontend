@@ -1,0 +1,32 @@
+{
+  "lesson_id": "ap-calculus-unit3-chainrule",
+  "grade_band": "11–12",
+  "title": "Chain Reactions and Hidden Rules",
+  "topics": [
+    "Chain Rule",
+    "Composite Functions",
+    "Implicit Differentiation",
+    "Inverse Functions",
+    "Reflected Behavior"
+  ],
+  "objectives": [
+    "Use the chain rule to differentiate composite functions",
+    "Apply implicit differentiation to analyze relationships without isolating y",
+    "Interpret inverse functions and their derivatives graphically and algebraically",
+    "Model how change flows through layered or hidden systems"
+  ],
+  "justice_theme": "Systems Within Systems: Power, Reaction, and Influence",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "chain_rule",
+    "implicit_diff",
+    "inverse_functions",
+    "nested_change",
+    "calculus_modeling"
+  ],
+  "standards": [
+    "AP CALC LO: CHA-3.A to CHA-5.C",
+    "MP.2: Reason abstractly and quantitatively",
+    "MP.7: Look for and make use of structure"
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "problem_text": "Create a method that generates all unique word pairs from a given array of strings.",
+    "solution_text": "Use nested loops (i < j) to create new WordPair objects and store them in an ArrayList.",
+    "tags": ["arrays", "nested_loops", "object_instantiation"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Count how many word pairs contain exact matches (e.g., 'echo', 'echo').",
+    "solution_text": "Iterate through the list of WordPairs, compare first and second string using .equals().",
+    "tags": ["pattern_match", "comparison", "data_count"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Use your code on a text (e.g., poem or speech). What patterns do you find?",
+    "solution_text": "Students may find repetition, emphasis, echoing themes. Prompt for interpretation, not just output.",
+    "tags": ["string_analysis", "cultural_patterns", "language_modeling"],
+    "difficulty_level": "medium"
+  }
+]

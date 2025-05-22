@@ -1,0 +1,32 @@
+{
+  "lesson_id": "info-wars-ai-edition",
+  "grade_band": "8–12",
+  "title": "Info Wars — AI Edition",
+  "topics": [
+    "AI",
+    "Disinformation",
+    "Deepfakes",
+    "Media Literacy",
+    "Bots"
+  ],
+  "objectives": [
+    "Analyze how AI tools are used to create and spread disinformation",
+    "Evaluate credibility and intent behind AI-generated content",
+    "Design an AI-powered information campaign — for good or critique",
+    "Reflect on truth, trust, and civic responsibility in the age of AI"
+  ],
+  "justice_theme": "Misinformation, Bias, and the Right to the Truth",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai",
+    "disinformation",
+    "deepfakes",
+    "media_literacy",
+    "critical_thinking",
+    "truth_ethics"
+  ],
+  "standards": [
+    "ISTE 3b, 6d, 7a",
+    "AI4K12: Perception, Societal Impact"
+  ]
+}

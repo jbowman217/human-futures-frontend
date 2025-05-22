@@ -1,0 +1,20 @@
+[
+  {
+    "problem_text": "Sketch the graph of f(x) = 3·sin(2x - π) + 1 and label amplitude, period, and phase shift.",
+    "solution_text": "Amplitude = 3, Period = π, Phase Shift = π/2 right, Vertical Shift = +1",
+    "difficulty_level": "medium",
+    "tags": ["trig_graph", "transformation", "visual_modeling"]
+  },
+  {
+    "problem_text": "Convert the rectangular point (3, -3) to polar coordinates.",
+    "solution_text": "r = √18 = 3√2, θ = arctan(-1) = -π/4 → polar = (3√2, 7π/4)",
+    "difficulty_level": "easy",
+    "tags": ["polar_coordinates", "conversion"]
+  },
+  {
+    "problem_text": "A spring oscillates from 3cm to 7cm every 4 seconds. Write a sine model.",
+    "solution_text": "Midline = 5, Amplitude = 2, Period = 4 → f(t) = 2·sin(π/2·t) + 5",
+    "difficulty_level": "hard",
+    "tags": ["real_world", "periodic_modeling", "physics"]
+  }
+]

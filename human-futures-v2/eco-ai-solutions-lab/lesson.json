@@ -1,0 +1,32 @@
+{
+  "lesson_id": "eco-ai-solutions-lab",
+  "grade_band": "7–12",
+  "title": "Eco-AI Solutions Lab",
+  "topics": [
+    "AI",
+    "Climate Justice",
+    "Environmental Modeling",
+    "Sustainability",
+    "Tech for Good"
+  ],
+  "objectives": [
+    "Understand how AI is used in environmental problem-solving",
+    "Analyze real-world applications of AI in climate, pollution, and conservation efforts",
+    "Evaluate ethical trade-offs in green tech development",
+    "Design and present an AI-powered environmental solution"
+  ],
+  "justice_theme": "Climate Equity and Sustainable Innovation",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai",
+    "climate",
+    "environmental_justice",
+    "sustainability",
+    "modeling",
+    "tech_for_good"
+  ],
+  "standards": [
+    "ISTE 3b, 4a, 7a",
+    "AI4K12: Representation and Reasoning, Societal Impact"
+  ]
+}

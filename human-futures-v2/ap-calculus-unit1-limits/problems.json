@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Evaluate the limit of f(x) as x approaches 2 from the left and right on the graph below. Is the function continuous at x = 2?",
+    "solution_text": "Compare left- and right-hand limits. If they’re equal and match the function value, it’s continuous. Otherwise, note the type of discontinuity.",
+    "tags": ["limits", "continuity", "graph_analysis"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Create a piecewise function that changes rules at x = 5. Make one side linear and the other exponential. Analyze its limit at x = 5.",
+    "solution_text": "Use functions like f(x) = 2x for x < 5 and f(x) = e^x for x ≥ 5. Evaluate both sides of the limit at x = 5 and determine continuity.",
+    "tags": ["piecewise", "limit_definition", "function_construction"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "Sketch a function with a removable discontinuity at x = 3 and a jump at x = –2. Label all important points.",
+    "solution_text": "Remove a point (open circle) at x = 3 but define the limit. At x = –2, have a vertical jump between left and right limits.",
+    "tags": ["discontinuity", "removable", "jump"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "The limit of g(x) as x → ∞ is 4. What does that mean in a real-world model (e.g., population, cost, speed)?",
+    "solution_text": "Interpret asymptotic behavior — like cost leveling off, speed maxing out, or population stabilizing near a resource limit.",
+    "tags": ["modeling", "asymptote", "real_world_interpretation"],
+    "difficulty_level": "medium"
+  }
+]

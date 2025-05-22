@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Use the equation C(dV/dt) + V/R = I to explain how a capacitor and resistor interact over time. Then translate it to a blood flow system.",
+    "solution_text": "C = compliance (artery), V = pressure, I = flow rate. The system stores and slowly releases flow, smoothing sharp inputs.",
+    "tags": ["circuits", "fluid_modeling", "analogies"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "You model access to food in a neighborhood as a circuit. What might represent a resistor? What could be a capacitor?",
+    "solution_text": "Resistor = distance, red tape, stigma; Capacitor = community fridge, food bank storing surplus.",
+    "tags": ["system_design", "equity_modeling", "math_as_metaphor"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "A circuit breaks when a certain threshold is crossed. What does that represent in a social system?",
+    "solution_text": "Could represent burnout, systemic failure, breaking trust. Students map thresholds to real-life system limits.",
+    "tags": ["thresholds", "failure_points", "system_limits"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "What’s dangerous about modeling people with rigid systems like circuits or equations?",
+    "solution_text": "Oversimplifies human behavior, erases complexity, may justify harmful automation or policy decisions.",
+    "tags": ["model_ethics", "reductionism", "representation"],
+    "difficulty_level": "hard"
+  }
+]

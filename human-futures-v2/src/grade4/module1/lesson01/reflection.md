@@ -1,0 +1,3 @@
+- What does “times as many” mean in your own words?
+- When could this kind of comparison be useful in real life?
+- What’s one way drawing helped you understand multiplication better today?

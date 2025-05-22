@@ -1,0 +1,32 @@
+{
+  "lesson_id": "hidden-systems",
+  "grade_band": "10–12",
+  "title": "Hidden Systems",
+  "topics": [
+    "Mathematical Modeling",
+    "Circuits",
+    "Analogy",
+    "Flow and Feedback",
+    "Interdisciplinary Reasoning"
+  ],
+  "objectives": [
+    "Compare physical systems (electrical, biological, social) using shared mathematical models",
+    "Use analogies to explain pressure, resistance, flow, and feedback",
+    "Critically assess the limits of modeling human systems with technical structures",
+    "Design and simulate circuit-like systems that represent real-world behavior"
+  ],
+  "justice_theme": "Visibility, Abstraction, and the Ethics of Modeling",
+  "estimated_time_minutes": 120,
+  "tags": [
+    "circuits",
+    "fluid_dynamics",
+    "resistance",
+    "systems_thinking",
+    "modeling_ethics"
+  ],
+  "standards": [
+    "MP.4: Model with mathematics",
+    "HS-PS3-5",
+    "AI4K12: Representation and Reasoning"
+  ]
+}

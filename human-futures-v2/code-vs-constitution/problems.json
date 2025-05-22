@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Choose a real AI regulation or policy. What is it trying to do? Who does it help — and who might it hurt?",
+    "solution_text": "Students should summarize intent, beneficiaries, and possible harms. Example: facial recognition bans may protect privacy but limit public safety claims.",
+    "tags": ["policy_analysis", "ai_law", "impact_evaluation"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Your AI system unfairly denied someone access to a job, loan, or school. What failed — the law, the code, or both?",
+    "solution_text": "Encourage reflection on logic vs. legality. Highlight how algorithmic rules may contradict human rights or anti-bias protections.",
+    "tags": ["failure_case", "civil_rights", "code_vs_law"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "Draft a single rule you’d embed in all AI systems. What is it — and why does it matter?",
+    "solution_text": "Rules might include transparency, right to explanation, ability to appeal. Should connect to fairness and justice.",
+    "tags": ["rule_design", "ai_governance", "ethics"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Explain why AI ‘neutrality’ is a myth. Use an example from your life or the news.",
+    "solution_text": "Students should note that AI is built from human decisions — data, labeling, goals. Neutrality often hides bias.",
+    "tags": ["bias", "power", "misconceptions"],
+    "difficulty_level": "medium"
+  }
+]

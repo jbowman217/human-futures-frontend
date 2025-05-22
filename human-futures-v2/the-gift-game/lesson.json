@@ -1,0 +1,31 @@
+{
+  "lesson_id": "the-gift-game",
+  "grade_band": "10–12",
+  "title": "The Gift Game",
+  "topics": [
+    "Probability",
+    "Expected Value",
+    "Geometric Distribution",
+    "Fairness",
+    "Simulation"
+  ],
+  "objectives": [
+    "Calculate probabilities of random selection in repeated trials",
+    "Estimate expected value in real-world contexts",
+    "Simulate random processes and interpret outcomes",
+    "Evaluate how fairness feels vs. how it functions"
+  ],
+  "justice_theme": "Randomness, Perception, and Structural Fairness",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "probability",
+    "expected_value",
+    "random_selection",
+    "equity_modeling",
+    "simulation"
+  ],
+  "standards": [
+    "AP STATS LO: VAR-3.B, PROB-3.A to PROB-3.C",
+    "S-MD.6, S-MD.7"
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "type": "application_problem",
+    "prompt": "A basketball team has 3 times as many wins as the soccer team. If the soccer team has 4 wins, how many wins does the basketball team have?",
+    "scaffold_tags": [
+      "multiplicative comparison",
+      "times as many",
+      "use diagram"
+    ]
+  },
+  {
+    "type": "fluency_drill",
+    "prompt": "Write a multiplication equation for: 'The library has 5 times as many fiction books as nonfiction books. There are 6 nonfiction books.'",
+    "scaffold_tags": [
+      "equation writing",
+      "comparison",
+      "symbolic representation"
+    ]
+  },
+  {
+    "type": "conceptual_question",
+    "prompt": "Explain why 24 = 3 \u00d7 8 is a multiplication comparison. What does it mean?",
+    "scaffold_tags": [
+      "explanation",
+      "mathematical meaning",
+      "MP.3"
+    ]
+  }
+]

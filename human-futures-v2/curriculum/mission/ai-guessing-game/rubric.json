@@ -1,0 +1,14 @@
+{
+  "understanding": [
+    "Can explain how AI classification works using a decision tree",
+    "Demonstrates awareness of data features and algorithmic reasoning"
+  ],
+  "application": [
+    "Builds and tests a functional decision tree",
+    "Runs a working simulation of classification"
+  ],
+  "remix": [
+    "Redesigns classifier with justice or equity in mind",
+    "Proposes original ideas for alternative datasets, categories, or uses"
+  ]
+}

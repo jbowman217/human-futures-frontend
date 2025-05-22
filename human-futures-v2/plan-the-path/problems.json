@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Design a basic 5x5 grid map with 3 obstacles. How would a robot find the shortest path from the top left to the bottom right?",
+    "solution_text": "Answers should use decision logic like: avoid blocked cells, move toward goal, test multiple routes.",
+    "tags": ["pathfinding", "optimization", "grid_navigation"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Add sensors to your robot. How does it behave differently when it can ‘see’ traps or obstacles?",
+    "solution_text": "Students should reflect on improved responsiveness: stops, reroutes, avoids danger zones, chooses alternate logic paths.",
+    "tags": ["sensor_logic", "adaptive_ai", "robotics"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Your robot crashes into a person. What rule failed? How would you change it?",
+    "solution_text": "Students might identify missing proximity rules, lack of human detection, or failed fallback procedures. Propose safety layers.",
+    "tags": ["safety", "ethics", "error_handling"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "Is it better for your robot to be fast or cautious? Explain your trade-off logic.",
+    "solution_text": "Depends on context: emergency vs. routine. Students should justify based on safety, efficiency, or ethical design.",
+    "tags": ["design_tradeoffs", "ethics", "optimization"],
+    "difficulty_level": "medium"
+  }
+]

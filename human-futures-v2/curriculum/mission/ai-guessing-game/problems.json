@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Sort the following items into categories: basketball, violin, hip-hop, Picasso, soccer, ballet, trumpet, jazz, football, photography. Create your own groupings and explain your logic.",
+    "solution_text": "Students may group by domain (music, art, sport), type (individual vs team), origin (culture), etc.",
+    "tags": ["classification", "data_sorting", "open_response"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Design a decision tree that classifies at least 8 of your items using yes/no questions. Draw or diagram your logic.",
+    "solution_text": "Tree should begin with a broad question and branch to more specific. Each leaf = a unique class.",
+    "tags": ["decision_tree", "data_modeling", "visual_structure"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Run a simulation using your decision tree. One student picks an item; another plays the AI and asks only tree-based questions to guess it.",
+    "solution_text": "If the tree works well, the AI should guess correctly within 5–7 questions.",
+    "tags": ["ai_simulation", "classification_logic", "social_learning"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "How would you redesign your decision tree to avoid bias or exclusion? What perspectives were left out?",
+    "solution_text": "Students should reflect on assumptions in their categories and data. Suggest changes to be more inclusive or nuanced.",
+    "tags": ["bias", "ai_ethics", "justice"],
+    "difficulty_level": "hard"
+  }
+]

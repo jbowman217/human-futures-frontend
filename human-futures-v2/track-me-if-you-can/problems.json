@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Compare two data collection methods: self-reported journals vs. wearable trackers. Identify at least one bias in each.",
+    "solution_text": "Journals may over- or underreport due to memory or social desirability bias. Trackers may glitch or miss context (e.g., walking with hands in pockets).",
+    "tags": ["bias", "measurement_error", "data_methods"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "In a study of 100 adults, walking more was associated with lower cholesterol. Can you conclude causation?",
+    "solution_text": "Not necessarily — correlation doesn’t prove causation. Confounding variables (diet, stress, genetics) could explain the difference.",
+    "tags": ["causation", "confounding", "significance"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Design a randomized experiment to test if walking causes lower cholesterol. Include control, treatment, and response variables.",
+    "solution_text": "Randomly assign subjects to walk daily (treatment) or not (control). Measure cholesterol after 30 days. Control for age, diet, sleep, etc.",
+    "tags": ["experiment_design", "randomization", "causality"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "Why might machine-generated data be trusted more than human-reported data? What are the risks of this assumption?",
+    "solution_text": "Machines seem objective, but may miss cultural context, consent, or ethical nuance. Overtrust can lead to false confidence and harm.",
+    "tags": ["data_ethics", "trust", "automation_bias"],
+    "difficulty_level": "hard"
+  }
+]

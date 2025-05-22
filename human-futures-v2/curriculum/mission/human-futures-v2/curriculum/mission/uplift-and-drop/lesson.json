@@ -1,0 +1,30 @@
+{
+  "lesson_id": "uplift-and-drop",
+  "grade_band": "10–12",
+  "title": "Uplift & Drop",
+  "topics": [
+    "Amplitude",
+    "Midline",
+    "Max/Min Behavior",
+    "Sinusoidal Interpretation",
+    "Vertical Transformations"
+  ],
+  "objectives": [
+    "Interpret amplitude and midline in terms of access, opportunity, and emotional range",
+    "Model rise and fall dynamics in social, political, or physical systems",
+    "Use transformations to shift balance and equity",
+    "Critique systems that widen amplitude without raising the baseline"
+  ],
+  "justice_theme": "Access, Range, and the Systems That Lift or Drop Us",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "amplitude",
+    "equity_modeling",
+    "midline_analysis",
+    "rise_fall_patterns"
+  ],
+  "standards": [
+    "HSF-TF.B.5",
+    "MP.2: Reason abstractly and quantitatively"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "understanding": [
+    "Explains how robots use decision logic to plan motion",
+    "Identifies risks and responses in real-time pathfinding"
+  ],
+  "application": [
+    "Builds and tests pathfinding algorithms using grids or trees",
+    "Adapts logic based on context, sensor input, and failure cases"
+  ],
+  "remix": [
+    "Reimagines motion planning for safety, empathy, or justice",
+    "Designs tools that balance automation and human judgment"
+  ]
+}

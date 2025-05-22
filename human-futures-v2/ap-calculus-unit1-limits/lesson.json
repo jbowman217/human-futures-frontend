@@ -1,0 +1,33 @@
+{
+  "lesson_id": "ap-calculus-unit1-limits",
+  "grade_band": "11–12",
+  "title": "Approaching the Edge",
+  "topics": [
+    "Limits",
+    "Continuity",
+    "Graphs of Functions",
+    "Piecewise Behavior",
+    "Asymptotic Analysis"
+  ],
+  "objectives": [
+    "Estimate and evaluate limits using tables, graphs, and equations",
+    "Understand when a function is continuous and where it breaks",
+    "Analyze one-sided and infinite limits in real-world contexts",
+    "Interpret discontinuities and behavior at boundaries"
+  ],
+  "justice_theme": "Modeling Change, Thresholds, and System Breakdowns",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "limits",
+    "continuity",
+    "boundary_behavior",
+    "asymptotes",
+    "calculus_modeling",
+    "system_failure"
+  ],
+  "standards": [
+    "AP CALC LO: LIM-1.A to LIM-3.C",
+    "MP.2: Reason abstractly and quantitatively",
+    "MP.4: Model with mathematics"
+  ]
+}

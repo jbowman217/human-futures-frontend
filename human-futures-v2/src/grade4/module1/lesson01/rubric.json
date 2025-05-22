@@ -1,0 +1,20 @@
+{
+  "thinking": {
+    "4": "Clearly interprets multiplicative comparisons using correct math language and examples.",
+    "3": "Interprets comparisons correctly with minor support.",
+    "2": "Partially interprets comparisons but has misunderstandings.",
+    "1": "Struggles to interpret comparisons or misuses multiplication."
+  },
+  "explanation": {
+    "4": "Uses clear language and diagrams to explain thinking.",
+    "3": "Explains with some clarity or detail.",
+    "2": "Incomplete or vague explanation.",
+    "1": "Cannot explain reasoning or uses incorrect ideas."
+  },
+  "modeling": {
+    "4": "Uses accurate tape diagrams and equations consistently.",
+    "3": "Mostly uses diagrams and equations correctly.",
+    "2": "Attempts to use models but with errors.",
+    "1": "Does not use or incorrectly uses models."
+  }
+}

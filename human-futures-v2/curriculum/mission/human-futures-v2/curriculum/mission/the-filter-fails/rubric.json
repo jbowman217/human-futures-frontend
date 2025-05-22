@@ -1,0 +1,14 @@
+{
+  "understanding": [
+    "Explains Latin Square rules and structure validation",
+    "Identifies edge cases and corner failures in logic"
+  ],
+  "application": [
+    "Builds, tests, and critiques validation systems",
+    "Applies rules to structured 2D data with rigor"
+  ],
+  "remix": [
+    "Creates counter-examples or critiques of filtering systems",
+    "Designs new forms of validation that center inclusion or equity"
+  ]
+}

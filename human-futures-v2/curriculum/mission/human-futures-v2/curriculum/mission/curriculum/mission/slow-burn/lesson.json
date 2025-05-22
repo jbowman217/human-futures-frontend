@@ -1,0 +1,32 @@
+{
+  "lesson_id": "slow-burn",
+  "grade_band": "10–12",
+  "title": "Slow Burn",
+  "topics": [
+    "Exponential Decay",
+    "Half-Life",
+    "Function Modeling",
+    "Time-Dependent Systems"
+  ],
+  "objectives": [
+    "Model caffeine metabolism with exponential decay functions",
+    "Interpret decay graphs in the context of overstimulation and rest",
+    "Analyze parameters like rate and initial value in human-centered systems",
+    "Reflect on addiction, fatigue, and access to sustainable energy"
+  ],
+  "justice_theme": "Productivity Culture, Stimulus Cycles, and the Right to Rest",
+  "estimated_time_minutes": 90,
+  "tags": [
+    "exponential_decay",
+    "function_modeling",
+    "half_life",
+    "rest_cycles",
+    "overwork"
+  ],
+  "standards": [
+    "HSA-REI.D.11",
+    "F-LE.A.1c",
+    "F-LE.A.3",
+    "MP.4: Model with mathematics"
+  ]
+}

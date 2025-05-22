@@ -1,0 +1,5 @@
+{
+  "hint_prompt": "What does 'times as many' mean? Can you draw or explain that idea with numbers or a picture?",
+  "feedback_prompt": "Is your equation showing a comparison? Double check that you're multiplying and that your diagram matches your story.",
+  "remix_prompt": "Make up your own comparison \u2014 one number is a certain number of times bigger than another \u2014 and write a story and equation about it."
+}

@@ -1,0 +1,32 @@
+{
+  "lesson_id": "code-your-ai-teammate",
+  "grade_band": "6–12",
+  "title": "Code Your AI Teammate",
+  "topics": [
+    "AI",
+    "Game Design",
+    "Non-Player Characters (NPCs)",
+    "Behavioral Logic",
+    "Decision Trees"
+  ],
+  "objectives": [
+    "Understand how AI powers NPC behavior in games",
+    "Design and code a simple decision-making system using AI logic",
+    "Evaluate how game AI affects user experience, inclusion, and fairness",
+    "Create ethical, creative, or culturally relevant NPCs"
+  ],
+  "justice_theme": "Digital Representation and Player Agency",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai",
+    "video_games",
+    "npc_design",
+    "decision_tree",
+    "player_experience",
+    "ethical_ai"
+  ],
+  "standards": [
+    "ISTE 4a, 5b, 6c",
+    "AI4K12: Representation and Reasoning, Natural Interaction"
+  ]
+}

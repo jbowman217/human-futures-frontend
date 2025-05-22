@@ -1,0 +1,23 @@
+{
+  "id": "d6571a20-a9b7-417d-90de-43729e551ffd",
+  "grade_band": "Grade 6",
+  "module": "Module 3",
+  "lesson": "Lesson 11",
+  "course": "Math",
+  "title": "Untitled Mission",
+  "mission_type": "core",
+  "learning_objectives": [],
+  "skills": [],
+  "content": {
+    "lesson_json": null,
+    "mission_md": "",
+    "remix_prompts": null,
+    "problems": null
+  },
+  "rubric": {},
+  "llm_prompts": {},
+  "reflection_prompt": "",
+  "remix_prompt": "",
+  "status": "draft",
+  "created_at": "2025-05-19T15:46:10.722Z"
+}

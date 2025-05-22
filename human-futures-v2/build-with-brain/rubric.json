@@ -1,0 +1,14 @@
+{
+  "understanding": [
+    "Explains what MLaaS is and how it differs from building models from scratch",
+    "Identifies risks and limitations of using pre-built AI tools"
+  ],
+  "application": [
+    "Tests or integrates a public AI API with documentation",
+    "Designs or critiques a system that relies on external intelligence"
+  ],
+  "remix": [
+    "Builds alternatives or critiques based on transparency, control, or equity",
+    "Creates creative media to unpack abstraction and power in AI systems"
+  ]
+}

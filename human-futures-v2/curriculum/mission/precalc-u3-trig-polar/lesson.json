@@ -1,0 +1,25 @@
+{
+  "lesson_id": "precalc-u3-trig-polar",
+  "grade_band": "Pre-Calculus",
+  "title": "Trigonometric & Polar Functions",
+  "topics": [
+    "Trigonometric Graphs",
+    "Transformations",
+    "Inverse Trig",
+    "Polar Graphs",
+    "Parametric Motion"
+  ],
+  "objectives": [
+    "Evaluate and transform trigonometric functions",
+    "Model periodic phenomena with trigonometric equations",
+    "Convert and graph polar and parametric equations",
+    "Apply trigonometric identities to solve equations",
+    "Use inverse trig to model physical scenarios"
+  ],
+  "standards": ["F.TF.5", "F.TF.8", "F.BF.3", "N.CN.4"],
+  "justice_theme": "Modeling Real-World Systems with Cycles (Climate, Signal Processing, Tides, Orbits)",
+  "estimated_time_minutes": 120,
+  "scaffolds": [
+    "Break it Down", "Name the Steps", "Use the Unit Circle", "Graph First", "Add a Real-World Parameter"
+  ]
+}

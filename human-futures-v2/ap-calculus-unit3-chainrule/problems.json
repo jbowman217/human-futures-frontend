@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Differentiate f(x) = (3x² + 2x – 1)⁴ using the chain rule. Explain what each part of your answer represents.",
+    "solution_text": "f '(x) = 4(3x² + 2x – 1)³ · (6x + 2). Outer derivative: 4u³; Inner derivative: 6x + 2. Chain rule applied.",
+    "tags": ["chain_rule", "composite", "derivative_structure"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Find dy/dx implicitly for the equation x² + y² = 25. Then evaluate at the point (3, 4).",
+    "solution_text": "2x + 2y(dy/dx) = 0 → dy/dx = –x/y → dy/dx = –3/4.",
+    "tags": ["implicit_diff", "curve_behavior", "circle_model"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "A function f(x) has an inverse. At x = 2, f(2) = 5 and f '(2) = 4. Estimate the derivative of f⁻¹(x) at x = 5.",
+    "solution_text": "The slope of the inverse is the reciprocal of the original: [f⁻¹]'(5) = 1/f '(2) = 1/4.",
+    "tags": ["inverse_derivative", "reciprocal_slope", "function_graphing"],
+    "difficulty_level": "hard"
+  },
+  {
+    "problem_text": "Sketch a function where y is defined implicitly (e.g., xy = 6). Describe what happens to dy/dx at key points.",
+    "solution_text": "dy/dx = –y/x. As x or y approach 0, slope steepens. Students should reflect on undefined points, symmetry.",
+    "tags": ["implicit_modeling", "differentiation", "slope_behavior"],
+    "difficulty_level": "medium"
+  }
+]

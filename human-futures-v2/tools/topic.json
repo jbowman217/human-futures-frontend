@@ -1,0 +1,16 @@
+{
+  "topic_id": "g4-m1-topicA",
+  "title": "Place Value of Multi-Digit Whole Numbers",
+  "lesson_ids": [
+    "g4-m1-l1",
+    "g4-m1-l2",
+    "g4-m1-l3",
+    "g4-m1-l4"
+  ],
+  "summary": "Students explore the place value system by comparing values, naming large numbers, and understanding how digits shift by powers of ten.",
+  "standards": [
+    "4.OA.1",
+    "4.NBT.1",
+    "4.NBT.2"
+  ]
+}

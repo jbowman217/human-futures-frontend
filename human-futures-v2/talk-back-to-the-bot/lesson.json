@@ -1,0 +1,32 @@
+{
+  "lesson_id": "talk-back-to-the-bot",
+  "grade_band": "6–12",
+  "title": "Talk Back to the Bot",
+  "topics": [
+    "AI",
+    "Natural Language Processing",
+    "Virtual Assistants",
+    "Conversational Agents",
+    "Human-AI Interaction"
+  ],
+  "objectives": [
+    "Understand how natural language processing enables chatbots to simulate conversation",
+    "Compare different types of AI chatbots (assistants vs. agents)",
+    "Analyze strengths, weaknesses, and risks of conversational AI",
+    "Design a chatbot that serves a real need and reflects ethical design"
+  ],
+  "justice_theme": "Ethics of Digital Communication and Voice Representation",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai",
+    "nlp",
+    "voice_tech",
+    "ethics",
+    "chatbot",
+    "conversation_design"
+  ],
+  "standards": [
+    "ISTE 2d, 5d, 6c",
+    "AI4K12: Perception, Natural Interaction, Societal Impact"
+  ]
+}

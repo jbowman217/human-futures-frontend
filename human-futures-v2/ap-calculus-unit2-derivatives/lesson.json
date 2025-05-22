@@ -1,0 +1,32 @@
+{
+  "lesson_id": "ap-calculus-unit2-derivatives",
+  "grade_band": "11–12",
+  "title": "What’s the Rate?",
+  "topics": [
+    "Average and Instantaneous Rate of Change",
+    "Derivatives as Limits",
+    "Graphical Interpretation",
+    "Derivative Rules (Power, Product, Quotient)"
+  ],
+  "objectives": [
+    "Estimate and calculate the derivative at a point using multiple representations",
+    "Apply differentiation rules to model change and velocity",
+    "Interpret the meaning of a derivative in real-world or dynamic contexts",
+    "Build the foundation for motion analysis and optimization"
+  ],
+  "justice_theme": "Velocity, Reaction, and How Fast Systems Respond",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "derivatives",
+    "rate_of_change",
+    "graph_analysis",
+    "motion",
+    "change_detection",
+    "calculus_fluency"
+  ],
+  "standards": [
+    "AP CALC LO: CHA-2.A to FUN-3.A",
+    "MP.2: Reason abstractly and quantitatively",
+    "MP.4: Model with mathematics"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Find the average rate of change of f(x) = x² between x = 2 and x = 5. Then estimate the instantaneous rate of change at x = 3.",
+    "solution_text": "Average rate: (25 - 4)/(5 - 2) = 7. Instantaneous rate ≈ derivative at x = 3 = 2·3 = 6.",
+    "tags": ["average_rate", "instantaneous", "estimation"],
+    "difficulty_level": "easy"
+  },
+  {
+    "problem_text": "Given a graph of a function, find where the derivative is: (a) zero, (b) positive, (c) negative. Explain each in your own words.",
+    "solution_text": "Zero where tangent is horizontal. Positive where function increases. Negative where it decreases. Student explanations required.",
+    "tags": ["derivative_signs", "graph_analysis", "slope_meaning"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Use the definition of a derivative (limit of a difference quotient) to find f '(x) for f(x) = 3x + 1.",
+    "solution_text": "f '(x) = lim(h→0) [(3(x+h) + 1 - (3x + 1))/h] = 3. The function has constant slope.",
+    "tags": ["definition_of_derivative", "limit", "proof"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "A temperature sensor detects that the rate of temperature change is rising sharply. What does the second derivative tell you?",
+    "solution_text": "The second derivative is positive — rate of change is increasing. Model may predict heat spike or failure point.",
+    "tags": ["second_derivative", "real_world_modeling", "interpretation"],
+    "difficulty_level": "hard"
+  }
+]

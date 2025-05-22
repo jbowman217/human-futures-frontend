@@ -1,0 +1,21 @@
+{
+  "lesson_id": "is-your-dataset-fair",
+  "grade_band": "K–5",
+  "title": "Is Your Dataset Fair?",
+  "topics": ["AI", "Bias", "Classification", "Training Data", "Ethics"],
+  "objectives": [
+    "Understand how training data influences AI predictions",
+    "Identify fairness, inclusion, and bias in data collection",
+    "Interpret how patterns in data can lead to helpful or harmful decisions",
+    "Use visuals (bar graphs, surveys) to explore representation and equity"
+  ],
+  "justice_theme": "Bias and Fairness in Algorithms",
+  "estimated_time_minutes": 180,
+  "tags": ["ai", "ethics", "bias", "training_data", "survey", "representation"],
+  "standards": [
+    "ISTE 2b, 3a–b, 5b",
+    "CCSS.MATH.CONTENT.1.MD.C.4",
+    "CCSS.ELA-LITERACY.RI.1.3",
+    "AI4K12: Learning, Societal Impact"
+  ]
+}

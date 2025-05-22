@@ -1,0 +1,32 @@
+{
+  "lesson_id": "your-job-vs-algorithm",
+  "grade_band": "7–12",
+  "title": "Your Job vs. the Algorithm",
+  "topics": [
+    "AI",
+    "Automation",
+    "Labor Rights",
+    "Hiring Algorithms",
+    "Worker Surveillance"
+  ],
+  "objectives": [
+    "Understand how AI is used in hiring, productivity, and job automation",
+    "Evaluate the ethical and economic impacts of AI on different types of workers",
+    "Identify systems of surveillance and algorithmic management in workplaces",
+    "Design alternatives that protect worker dignity, creativity, and autonomy"
+  ],
+  "justice_theme": "Labor, Surveillance, and Economic Justice",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai_labor",
+    "worker_rights",
+    "automation",
+    "hiring_bias",
+    "surveillance",
+    "gig_economy"
+  ],
+  "standards": [
+    "ISTE 2d, 3b, 5d, 7a",
+    "AI4K12: Societal Impact, Representation and Reasoning"
+  ]
+}

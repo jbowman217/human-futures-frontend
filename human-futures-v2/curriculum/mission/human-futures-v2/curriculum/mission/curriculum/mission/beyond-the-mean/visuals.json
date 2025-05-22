@@ -1,0 +1,6 @@
+{
+  "beyond-the-mean-task1": {
+    "component": "HospitalStayAnalyzer",
+    "description": "Explore outliers using hospital stay data and visualizations."
+  }
+}

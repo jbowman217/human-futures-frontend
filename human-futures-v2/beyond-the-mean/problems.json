@@ -1,0 +1,26 @@
+[
+  {
+    "problem_text": "Given a frequency table of hospital stays, construct a boxplot and identify the five-number summary.",
+    "solution_text": "Minimum = 5, Q1 = 6, Median = 7, Q3 = 8, Maximum = 21 (based on frequency counts).",
+    "tags": ["boxplot", "five_number_summary", "visualization"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Apply the 1.5 × IQR rule to the hospital stay data. Identify any outliers.",
+    "solution_text": "Calculate IQR = Q3 – Q1. Multiply by 1.5. Add/subtract from Q1/Q3 to determine thresholds. Flag 21 as an outlier.",
+    "tags": ["outliers", "iqr_method", "data_analysis"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "The same data has a mean of 7.42 and standard deviation of 2.37. Use the 2-standard deviation rule to identify outliers.",
+    "solution_text": "Determine bounds: 7.42 ± 2(2.37) ≈ [2.68, 12.16]. Flag any values outside this range.",
+    "tags": ["outliers", "standard_deviation", "comparison"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Explain why Method A (IQR) might detect more outliers than Method B (standard deviation) in skewed distributions.",
+    "solution_text": "IQR is not affected by extreme values. Standard deviation pulls toward the mean, under-identifying in right-skewed data.",
+    "tags": ["skew", "data_shape", "methodology"],
+    "difficulty_level": "hard"
+  }
+]

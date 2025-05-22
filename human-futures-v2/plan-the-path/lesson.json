@@ -1,0 +1,32 @@
+{
+  "lesson_id": "plan-the-path",
+  "grade_band": "7–12",
+  "title": "Plan the Path, Dodge the Trap",
+  "topics": [
+    "Robotics",
+    "Pathfinding",
+    "Optimization",
+    "AI Planning",
+    "Autonomous Agents"
+  ],
+  "objectives": [
+    "Design and simulate basic robotic motion planning using decision trees or grids",
+    "Understand how AI systems plan and adapt to obstacles",
+    "Evaluate ethical and safety concerns in real-world navigation systems",
+    "Propose designs for robots that support, rather than replace, human agency"
+  ],
+  "justice_theme": "Autonomy, Movement, and Power in AI Systems",
+  "estimated_time_minutes": 180,
+  "tags": [
+    "ai",
+    "robotics",
+    "pathfinding",
+    "autonomy",
+    "sensor_logic",
+    "human_in_loop"
+  ],
+  "standards": [
+    "ISTE 5b, 5d, 7b",
+    "AI4K12: Representation and Reasoning, Societal Impact"
+  ]
+}

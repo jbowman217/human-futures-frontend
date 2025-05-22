@@ -1,0 +1,12 @@
+{
+  "beyond-the-mean-task1": {
+    "type": "component",
+    "component": "HospitalStayAnalyzer",
+    "description": "Interactive box plot and outlier analysis for hospital stay data."
+  },
+  "line_plot_reading": {
+    "type": "image",
+    "src": "/assets/visuals/line_plot_reading.png",
+    "alt": "Line Plot showing data distribution"
+  }
+}

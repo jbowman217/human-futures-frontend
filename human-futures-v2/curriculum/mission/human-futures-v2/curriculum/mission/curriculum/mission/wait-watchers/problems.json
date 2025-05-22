@@ -1,0 +1,20 @@
+[
+  {
+    "problem_text": "Simulate 25 rounds of packing 5 boxes using times {4,5,5,6,7}. Record average completion time.",
+    "solution_text": "Use random samples with replacement. Record and analyze results across trials.",
+    "tags": ["simulation", "statistics", "random_sampling"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "A system flags workers who take over 27 minutes. What percent of trials exceed this threshold?",
+    "solution_text": "Count how many trials go over the limit. Students should interpret it as policy feedback.",
+    "tags": ["threshold_analysis", "decision_support"],
+    "difficulty_level": "medium"
+  },
+  {
+    "problem_text": "Propose a new benchmark that accounts for variability. Justify using your simulation results.",
+    "solution_text": "Use mean ± 1 SD, or a 75th percentile cutoff. Students must justify with math + fairness lens.",
+    "tags": ["statistical_benchmarking", "policy_modeling"],
+    "difficulty_level": "hard"
+  }
+]

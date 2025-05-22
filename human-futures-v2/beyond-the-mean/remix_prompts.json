@@ -1,0 +1,9 @@
+{
+  "remix_prompts": [
+    "Redesign a boxplot with annotation from the outlier’s perspective",
+    "Build a dataset where the outliers tell the most important story",
+    "Create a ‘discomfort histogram’ — where data about people is used unfairly",
+    "Turn a statistical summary into a spoken-word poem: 'I Am Not Your Mean'",
+    "Draw the same data three ways — once with median, once with mean, once with nothing removed"
+  ]
+}
